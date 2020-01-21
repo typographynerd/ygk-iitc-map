@@ -1492,6 +1492,12 @@
       "lat": 44.226159,
       "lng": -76.632558,
       "name": "Eastside Park Playground"
+    },
+    "09ec81f13e804a8f9cde07942a7d918e.16": {
+      "guid": "09ec81f13e804a8f9cde07942a7d918e.16",
+      "lat": 44.22871,
+      "lng": -76.577843,
+      "name": "Lakeshore Swimming Pool Association"
     }
   },
   "pokestops": {
@@ -2149,12 +2155,6 @@
       "lng": -76.483016,
       "name": "Old Kingston Post Office"
     },
-    "9e9167de449d40018275ab17ccac10fe.16": {
-      "guid": "9e9167de449d40018275ab17ccac10fe.16",
-      "lat": 44.229912,
-      "lng": -76.484657,
-      "name": "Greek Orthodox Church"
-    },
     "9cd66140f9ce49488c2e5bd768330d1c.16": {
       "guid": "9cd66140f9ce49488c2e5bd768330d1c.16",
       "lat": 44.230317,
@@ -2369,7 +2369,7 @@
       "guid": "caa8ddc1b9f441dbb8bb985388e4124b.16",
       "lat": 44.242095,
       "lng": -76.480678,
-      "name": "Woolen "
+      "name": "The Woolen Mill"
     },
     "60d5989960cb4a80a02c7eeb1dbf9d95.16": {
       "guid": "60d5989960cb4a80a02c7eeb1dbf9d95.16",
@@ -3540,12 +3540,6 @@
       "lat": 44.228051,
       "lng": -76.582845,
       "name": "Jim Beattie Park"
-    },
-    "09ec81f13e804a8f9cde07942a7d918e.16": {
-      "guid": "09ec81f13e804a8f9cde07942a7d918e.16",
-      "lat": 44.228679,
-      "lng": -76.578017,
-      "name": "Lakeshore Swimming Pool Association"
     },
     "757652707de04037a7e54b790b8969ae.16": {
       "guid": "757652707de04037a7e54b790b8969ae.16",
@@ -5717,7 +5711,7 @@
       "guid": "1c373f6208bd44b59b074ac52dc9b132.16",
       "lat": 44.244811,
       "lng": -76.494727,
-      "name": "Kingston babtist church"
+      "name": "Bible Baptist Church"
     },
     "1cb447525f2f435b844cab76642963ca.16": {
       "guid": "1cb447525f2f435b844cab76642963ca.16",
@@ -5880,6 +5874,36 @@
       "lat": 44.266298,
       "lng": -76.489236,
       "name": "Marker's Acres Basketball Court"
+    },
+    "9e9167de449d40018275ab17ccac10fe.16": {
+      "guid": "9e9167de449d40018275ab17ccac10fe.16",
+      "lat": 44.229981,
+      "lng": -76.484604,
+      "name": "Greek Orthodox Church"
+    },
+    "91c5715bcf6f49eeb571e4fd78659391.12": {
+      "guid": "91c5715bcf6f49eeb571e4fd78659391.12",
+      "lat": 44.229668,
+      "lng": -76.484786,
+      "name": "Kingston Frontenac Public Library"
+    },
+    "bb4875e9335d41b59ecd0bb6f4b3b009.16": {
+      "guid": "bb4875e9335d41b59ecd0bb6f4b3b009.16",
+      "lat": 44.26601,
+      "lng": -76.490246,
+      "name": "Marker's Acres Soccer Field"
+    },
+    "6d5526d98fbd4b10a81f0a4fe6c8b429.16": {
+      "guid": "6d5526d98fbd4b10a81f0a4fe6c8b429.16",
+      "lat": 44.228885,
+      "lng": -76.578426,
+      "name": "Kingston Township Tennis Court"
+    },
+    "ce84045759f3416fa24abb005dfb6c19.16": {
+      "guid": "ce84045759f3416fa24abb005dfb6c19.16",
+      "lat": 44.235616,
+      "lng": -76.487744,
+      "name": "McBurney Park"
     }
   },
   "notpogo": {
