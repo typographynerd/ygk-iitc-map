@@ -302,7 +302,7 @@
       "guid": "009323d069f84294adf01ac6cf16501b.12",
       "lat": 44.223205,
       "lng": -76.50429,
-      "name": "Bellevue House National History"
+      "name": "Bellevue House National Historic Site"
     },
     "0b83ebbf94c043838802f25bf97ba35c.16": {
       "guid": "0b83ebbf94c043838802f25bf97ba35c.16",
@@ -830,12 +830,6 @@
       "lat": 44.238707,
       "lng": -76.622014,
       "name": "Bayshore Park"
-    },
-    "34b826b83fcf4402981d13389f99aeb4.16": {
-      "guid": "34b826b83fcf4402981d13389f99aeb4.16",
-      "lat": 44.22606,
-      "lng": -76.632526,
-      "name": "Eastside Park Playground"
     },
     "053fee0619b641bba10dc340e8bdd94e.16": {
       "guid": "053fee0619b641bba10dc340e8bdd94e.16",
@@ -1492,6 +1486,12 @@
       "lat": 44.253097,
       "lng": -76.589192,
       "name": "New Apostolic Church"
+    },
+    "34b826b83fcf4402981d13389f99aeb4.16": {
+      "guid": "34b826b83fcf4402981d13389f99aeb4.16",
+      "lat": 44.226159,
+      "lng": -76.632558,
+      "name": "Eastside Park Playground"
     }
   },
   "pokestops": {
@@ -2579,7 +2579,7 @@
       "guid": "9da49ff149f54dae9544aabe2b301b17.16",
       "lat": 44.229164,
       "lng": -76.493616,
-      "name": "Tricolour Spirit Murl"
+      "name": "Tricolour Spirit Mural"
     },
     "3b79273473ea4c1681a43345ac06f10e.16": {
       "guid": "3b79273473ea4c1681a43345ac06f10e.16",
@@ -5874,6 +5874,12 @@
       "lat": 44.232653,
       "lng": -76.508643,
       "name": "Improvements to Churchill Park in 2013 Dedication Plaque"
+    },
+    "224da1d7446a4482a214571628aaeca9.16": {
+      "guid": "224da1d7446a4482a214571628aaeca9.16",
+      "lat": 44.266298,
+      "lng": -76.489236,
+      "name": "Marker's Acres Basketball Court"
     }
   },
   "notpogo": {
