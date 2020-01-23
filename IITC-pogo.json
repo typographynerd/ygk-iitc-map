@@ -1306,7 +1306,7 @@
       "guid": "7ba55b182e0147009bbf093585a4c06f.16",
       "lat": 44.238034,
       "lng": -76.494373,
-      "name": "Mural "
+      "name": "Mural at York and Division"
     },
     "b3c3283dc58c45bd982fa5adb4bcb60c.16": {
       "guid": "b3c3283dc58c45bd982fa5adb4bcb60c.16",
@@ -1498,6 +1498,18 @@
       "lat": 44.22871,
       "lng": -76.577843,
       "name": "Lakeshore Swimming Pool Association"
+    },
+    "22dd44658dc248ce9c70d1063679c8fe.16": {
+      "guid": "22dd44658dc248ce9c70d1063679c8fe.16",
+      "lat": 44.224572,
+      "lng": -76.510017,
+      "name": "Donald Gordon Center"
+    },
+    "3dd6e64dd8b249ce809afacb37201734.16": {
+      "guid": "3dd6e64dd8b249ce809afacb37201734.16",
+      "lat": 44.220156,
+      "lng": -76.56868,
+      "name": "Royal Kingston Curling Club"
     }
   },
   "pokestops": {
@@ -2767,12 +2779,6 @@
       "lng": -76.506283,
       "name": "Isabel Bader Centre"
     },
-    "22dd44658dc248ce9c70d1063679c8fe.16": {
-      "guid": "22dd44658dc248ce9c70d1063679c8fe.16",
-      "lat": 44.224572,
-      "lng": -76.510017,
-      "name": "Donald Gordon Center"
-    },
     "597d9d7604ff476b8418af910dc7449b.16": {
       "guid": "597d9d7604ff476b8418af910dc7449b.16",
       "lat": 44.232534,
@@ -3474,12 +3480,6 @@
       "lat": 44.220835,
       "lng": -76.53764,
       "name": "The Rideau Trail Plaque"
-    },
-    "3dd6e64dd8b249ce809afacb37201734.16": {
-      "guid": "3dd6e64dd8b249ce809afacb37201734.16",
-      "lat": 44.220156,
-      "lng": -76.56868,
-      "name": "Royal Kingston Curling Club"
     },
     "07eb4689169a45438946829531889da3.16": {
       "guid": "07eb4689169a45438946829531889da3.16",
@@ -5904,6 +5904,24 @@
       "lat": 44.235616,
       "lng": -76.487744,
       "name": "McBurney Park"
+    },
+    "b4d2f69e7e7347a58f9b4fc95377ebc6.16": {
+      "guid": "b4d2f69e7e7347a58f9b4fc95377ebc6.16",
+      "lat": 44.225395,
+      "lng": -76.509968,
+      "name": "Roselawn National Historic Site of Canada"
+    },
+    "58e449c6b19e42e996438b5e15f37733.16": {
+      "guid": "58e449c6b19e42e996438b5e15f37733.16",
+      "lat": 44.263164,
+      "lng": -76.488323,
+      "name": "Compton Street Play Structure"
+    },
+    "25ec9d47c6974beb92444018220eb63e.16": {
+      "guid": "25ec9d47c6974beb92444018220eb63e.16",
+      "lat": 44.220375,
+      "lng": -76.568698,
+      "name": "200 Years of Curling Sign"
     }
   },
   "notpogo": {
