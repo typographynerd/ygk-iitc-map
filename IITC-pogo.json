@@ -83,12 +83,6 @@
       "lng": -76.485532,
       "name": "Last Gas Lamp"
     },
-    "13c911779344438eb99c255717bc118d.12": {
-      "guid": "13c911779344438eb99c255717bc118d.12",
-      "lat": 44.224105,
-      "lng": -76.485284,
-      "name": "Pump House Steam Museum"
-    },
     "13e88d521af648abb118209981235fcd.16": {
       "guid": "13e88d521af648abb118209981235fcd.16",
       "lat": 44.225522,
@@ -1510,6 +1504,18 @@
       "lat": 44.220156,
       "lng": -76.56868,
       "name": "Royal Kingston Curling Club"
+    },
+    "5198e5c9e28a489bb4e4ae0a8bd271f0.16": {
+      "guid": "5198e5c9e28a489bb4e4ae0a8bd271f0.16",
+      "lat": 44.234587,
+      "lng": -76.586285,
+      "name": "Auden Park"
+    },
+    "13c911779344438eb99c255717bc118d.12": {
+      "guid": "13c911779344438eb99c255717bc118d.12",
+      "lat": 44.224158,
+      "lng": -76.484904,
+      "name": "Pump House Steam Museum"
     }
   },
   "pokestops": {
@@ -2039,7 +2045,7 @@
       "guid": "2735aa9dc82c4939bb0b43d8f4aa7eb1.16",
       "lat": 44.228293,
       "lng": -76.481451,
-      "name": "Frankie Pesto's Italian Eatery"
+      "name": "PJ Murphy’s Irish Gastro Pub"
     },
     "398c491dca374fc4974c55d4b77d3ce0.16": {
       "guid": "398c491dca374fc4974c55d4b77d3ce0.16",
@@ -4291,12 +4297,6 @@
       "lng": -76.575077,
       "name": "Wetland Conservation Project"
     },
-    "5198e5c9e28a489bb4e4ae0a8bd271f0.16": {
-      "guid": "5198e5c9e28a489bb4e4ae0a8bd271f0.16",
-      "lat": 44.234542,
-      "lng": -76.586277,
-      "name": "Auden Park"
-    },
     "b4ad8f4ac192447a88d2f787fee503f5.16": {
       "guid": "b4ad8f4ac192447a88d2f787fee503f5.16",
       "lat": 44.236841,
@@ -5922,6 +5922,18 @@
       "lat": 44.220375,
       "lng": -76.568698,
       "name": "200 Years of Curling Sign"
+    },
+    "440306eb92ab482f9b19bad82779e681.16": {
+      "guid": "440306eb92ab482f9b19bad82779e681.16",
+      "lat": 44.234578,
+      "lng": -76.586557,
+      "name": "Auden Park Small Play Structure"
+    },
+    "d1cbbebd10ce4fbb9f10c03a74400fc9.16": {
+      "guid": "d1cbbebd10ce4fbb9f10c03a74400fc9.16",
+      "lat": 44.220669,
+      "lng": -76.50749,
+      "name": "Red Cross Lodge"
     }
   },
   "notpogo": {
