@@ -5934,6 +5934,30 @@
       "lat": 44.220669,
       "lng": -76.50749,
       "name": "Red Cross Lodge"
+    },
+    "9a836468567d40d89a8f378ef55b8448.16": {
+      "guid": "9a836468567d40d89a8f378ef55b8448.16",
+      "lat": 44.223842,
+      "lng": -76.491747,
+      "name": "Louise D Acton Building"
+    },
+    "0d040d2a7b754d6c9282948539d52610.16": {
+      "guid": "0d040d2a7b754d6c9282948539d52610.16",
+      "lat": 44.225101,
+      "lng": -76.491442,
+      "name": "Mother and Baby Statue"
+    },
+    "7dfd1675b84e41f5bf311231e3a0de54.16": {
+      "guid": "7dfd1675b84e41f5bf311231e3a0de54.16",
+      "lat": 44.224614,
+      "lng": -76.498773,
+      "name": "Atom Model Donor Wall"
+    },
+    "0880811d69d44802969a972466df509f.16": {
+      "guid": "0880811d69d44802969a972466df509f.16",
+      "lat": 44.220924,
+      "lng": -76.508986,
+      "name": "Stone Gables"
     }
   },
   "notpogo": {
