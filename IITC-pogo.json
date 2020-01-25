@@ -989,12 +989,6 @@
       "lng": -76.61415,
       "name": "Lemoine Point Field Trail Map (1 & 5)"
     },
-    "741e4c5af4d64c30ae41d0041b1bb142.11": {
-      "guid": "741e4c5af4d64c30ae41d0041b1bb142.11",
-      "lat": 44.235118,
-      "lng": -76.608643,
-      "name": "Lemoine Point Conservation Are"
-    },
     "eba020a258064927b6d4f71b361c94ad.16": {
       "guid": "eba020a258064927b6d4f71b361c94ad.16",
       "lat": 44.237431,
@@ -1443,7 +1437,7 @@
       "guid": "b4f512a181144bafb8a3b3d15929e9ae.16",
       "lat": 44.235454,
       "lng": -76.566633,
-      "name": "Wonderland Escape Rooms & Board Game Cafe"
+      "name": "Wonderland Escape Rooms & Board Game Lounge"
     },
     "d4c32c2270f94662835a2b16842fff3c.16": {
       "guid": "d4c32c2270f94662835a2b16842fff3c.16",
@@ -1509,13 +1503,20 @@
       "guid": "5198e5c9e28a489bb4e4ae0a8bd271f0.16",
       "lat": 44.234587,
       "lng": -76.586285,
-      "name": "Auden Park"
+      "name": "Auden Park",
+      "isEx": true
     },
     "13c911779344438eb99c255717bc118d.12": {
       "guid": "13c911779344438eb99c255717bc118d.12",
       "lat": 44.224158,
       "lng": -76.484904,
       "name": "Pump House Steam Museum"
+    },
+    "741e4c5af4d64c30ae41d0041b1bb142.11": {
+      "guid": "741e4c5af4d64c30ae41d0041b1bb142.11",
+      "lat": 44.235096,
+      "lng": -76.608606,
+      "name": "Lemoine Point Conservation Are"
     }
   },
   "pokestops": {
