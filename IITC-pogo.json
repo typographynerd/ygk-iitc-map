@@ -1519,6 +1519,12 @@
       "lat": 44.235096,
       "lng": -76.608606,
       "name": "Lemoine Point Conservation Are"
+    },
+    "baa92bee5461428a8ac772280a052fcc.16": {
+      "guid": "baa92bee5461428a8ac772280a052fcc.16",
+      "lat": 44.257045,
+      "lng": -76.519656,
+      "name": "Abberfoyle Park"
     }
   },
   "pokestops": {
@@ -3267,12 +3273,6 @@
       "lat": 44.256608,
       "lng": -76.524904,
       "name": "Kingston Park"
-    },
-    "baa92bee5461428a8ac772280a052fcc.16": {
-      "guid": "baa92bee5461428a8ac772280a052fcc.16",
-      "lat": 44.257045,
-      "lng": -76.519656,
-      "name": "Abberfoyle Park"
     },
     "2f17d84bb95c4d8585a88d7f9bf1f8e3.16": {
       "guid": "2f17d84bb95c4d8585a88d7f9bf1f8e3.16",
@@ -5967,6 +5967,12 @@
       "lat": 44.22593,
       "lng": -76.632514,
       "name": "Eastside Park Swingset"
+    },
+    "9d9051720564442cac68f855ad178ecb.16": {
+      "guid": "9d9051720564442cac68f855ad178ecb.16",
+      "lat": 44.258714,
+      "lng": -76.521552,
+      "name": "Rosemund basketball court"
     }
   },
   "notpogo": {
