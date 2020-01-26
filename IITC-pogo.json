@@ -1275,7 +1275,8 @@
       "guid": "002cab1ecfb04ebb9882536684c6e294.16",
       "lat": 44.233733,
       "lng": -76.507973,
-      "name": "Churchill Park Pergola"
+      "name": "Churchill Park Pergola",
+      "isEx": true
     },
     "5807cffa555546c1a1004aacdbdcccb7.16": {
       "guid": "5807cffa555546c1a1004aacdbdcccb7.16",
@@ -1479,7 +1480,8 @@
       "guid": "34b826b83fcf4402981d13389f99aeb4.16",
       "lat": 44.226159,
       "lng": -76.632558,
-      "name": "Eastside Park Playground"
+      "name": "Eastside Park Playground",
+      "isEx": true
     },
     "09ec81f13e804a8f9cde07942a7d918e.16": {
       "guid": "09ec81f13e804a8f9cde07942a7d918e.16",
