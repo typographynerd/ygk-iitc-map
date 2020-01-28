@@ -1525,6 +1525,18 @@
       "lat": 44.257045,
       "lng": -76.519656,
       "name": "Abberfoyle Park"
+    },
+    "26cc125b28064979bd3df2d651c03b7d.16": {
+      "guid": "26cc125b28064979bd3df2d651c03b7d.16",
+      "lat": 44.225265,
+      "lng": -76.636021,
+      "name": "Joe Demers Memorial Plaque"
+    },
+    "d1cbbebd10ce4fbb9f10c03a74400fc9.16": {
+      "guid": "d1cbbebd10ce4fbb9f10c03a74400fc9.16",
+      "lat": 44.220669,
+      "lng": -76.50749,
+      "name": "Red Cross Lodge"
     }
   },
   "pokestops": {
@@ -5422,12 +5434,6 @@
       "lng": -76.459413,
       "name": "Grenadier Skatespot"
     },
-    "26cc125b28064979bd3df2d651c03b7d.16": {
-      "guid": "26cc125b28064979bd3df2d651c03b7d.16",
-      "lat": 44.225265,
-      "lng": -76.636021,
-      "name": "Joe Demers Memorial Plaque"
-    },
     "a6e1a079365e477788db8bb0b8a91c5e.16": {
       "guid": "a6e1a079365e477788db8bb0b8a91c5e.16",
       "lat": 44.223998,
@@ -5932,12 +5938,6 @@
       "lng": -76.586557,
       "name": "Auden Park Small Play Structure"
     },
-    "d1cbbebd10ce4fbb9f10c03a74400fc9.16": {
-      "guid": "d1cbbebd10ce4fbb9f10c03a74400fc9.16",
-      "lat": 44.220669,
-      "lng": -76.50749,
-      "name": "Red Cross Lodge"
-    },
     "9a836468567d40d89a8f378ef55b8448.16": {
       "guid": "9a836468567d40d89a8f378ef55b8448.16",
       "lat": 44.223842,
@@ -5973,6 +5973,30 @@
       "lat": 44.258714,
       "lng": -76.521552,
       "name": "Rosemund basketball court"
+    },
+    "409af1cc2c834ba6aab50ea3d52357c2.16": {
+      "guid": "409af1cc2c834ba6aab50ea3d52357c2.16",
+      "lat": 44.222769,
+      "lng": -76.634027,
+      "name": "Addington playstructure"
+    },
+    "bbb020bbe47949ac89fd958d01ce4d5d.16": {
+      "guid": "bbb020bbe47949ac89fd958d01ce4d5d.16",
+      "lat": 44.257345,
+      "lng": -76.577091,
+      "name": "Norwest Playstructure"
+    },
+    "711bd6cf5c5b4457a81880ea99d5cbc0.16": {
+      "guid": "711bd6cf5c5b4457a81880ea99d5cbc0.16",
+      "lat": 44.220978,
+      "lng": -76.506839,
+      "name": "Grant House"
+    },
+    "6890ffddbf9146d0b876a9f80ce9697f.16": {
+      "guid": "6890ffddbf9146d0b876a9f80ce9697f.16",
+      "lat": 44.223609,
+      "lng": -76.496625,
+      "name": "University Club"
     }
   },
   "notpogo": {
