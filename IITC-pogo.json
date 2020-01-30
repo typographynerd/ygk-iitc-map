@@ -1537,6 +1537,12 @@
       "lat": 44.220669,
       "lng": -76.50749,
       "name": "Red Cross Lodge"
+    },
+    "c79f398e6f5d4a89abc270ba8ffb7a02.16": {
+      "guid": "c79f398e6f5d4a89abc270ba8ffb7a02.16",
+      "lat": 44.271957,
+      "lng": -76.530082,
+      "name": "K&P Trail 8km Marker"
     }
   },
   "pokestops": {
@@ -3994,12 +4000,6 @@
       "lng": -76.602393,
       "name": "Woodbine Park Soccer Field 6 of 6"
     },
-    "0950a40bf85c46889a3eb91bba1b2544.16": {
-      "guid": "0950a40bf85c46889a3eb91bba1b2544.16",
-      "lat": 44.260158,
-      "lng": -76.601514,
-      "name": "Woodbine Park Soccer Field 4 of 6"
-    },
     "63923e0905f14ee08d22b309d0648d15.16": {
       "guid": "63923e0905f14ee08d22b309d0648d15.16",
       "lat": 44.263667,
@@ -6021,6 +6021,24 @@
       "lat": 44.223703,
       "lng": -76.497619,
       "name": "Leggett Hall"
+    },
+    "0950a40bf85c46889a3eb91bba1b2544.16": {
+      "guid": "0950a40bf85c46889a3eb91bba1b2544.16",
+      "lat": 44.260359,
+      "lng": -76.601483,
+      "name": "Woodbine Park Soccer Field 4 of 6"
+    },
+    "78e132fb370b4b649fbdecd3c35016b3.16": {
+      "guid": "78e132fb370b4b649fbdecd3c35016b3.16",
+      "lat": 44.259906,
+      "lng": -76.601416,
+      "name": "Woodbine Park Soccer Field 5 of 6"
+    },
+    "19f0812707c24f01915dfdf0571526d3.16": {
+      "guid": "19f0812707c24f01915dfdf0571526d3.16",
+      "lat": 44.273502,
+      "lng": -76.529559,
+      "name": "Binnington Court Bridge"
     }
   },
   "notpogo": {
