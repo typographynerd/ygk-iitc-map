@@ -3460,12 +3460,6 @@
       "lng": -76.529662,
       "name": "Imagine"
     },
-    "00d80c7bcaea4e63a2e465bf31aad754.16": {
-      "guid": "00d80c7bcaea4e63a2e465bf31aad754.16",
-      "lat": 44.216294,
-      "lng": -76.530631,
-      "name": "Lake Ontario Park Playground"
-    },
     "23975a36f5dd4d59b571920dbf86d653.16": {
       "guid": "23975a36f5dd4d59b571920dbf86d653.16",
       "lat": 44.218824,
@@ -6039,6 +6033,30 @@
       "lat": 44.273502,
       "lng": -76.529559,
       "name": "Binnington Court Bridge"
+    },
+    "19b63da2d0ab4e93af701436d3fbfe3e.16": {
+      "guid": "19b63da2d0ab4e93af701436d3fbfe3e.16",
+      "lat": 44.230192,
+      "lng": -76.481626,
+      "name": "Metal Pelican"
+    },
+    "5e57cc2bfd1c4417b35d3d36477e2a2e.16": {
+      "guid": "5e57cc2bfd1c4417b35d3d36477e2a2e.16",
+      "lat": 44.220739,
+      "lng": -76.507993,
+      "name": "St. Helen’s"
+    },
+    "6022138ea653420ea4d678a991d14bb7.16": {
+      "guid": "6022138ea653420ea4d678a991d14bb7.16",
+      "lat": 44.223605,
+      "lng": -76.518184,
+      "name": "Garrigan Park Playstructure"
+    },
+    "00d80c7bcaea4e63a2e465bf31aad754.16": {
+      "guid": "00d80c7bcaea4e63a2e465bf31aad754.16",
+      "lat": 44.216461,
+      "lng": -76.53087,
+      "name": "Lake Ontario Park Playground"
     }
   },
   "notpogo": {
