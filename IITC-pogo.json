@@ -38,7 +38,7 @@
       "guid": "48709899af0e48988fb7e25863c8d808.16",
       "lat": 44.224598,
       "lng": -76.497791,
-      "name": "Foucault Pendilum"
+      "name": "Foucault Pendulum"
     },
     "3d453796c5de4f5fb4aa835ffa144eed.11": {
       "guid": "3d453796c5de4f5fb4aa835ffa144eed.11",
@@ -1977,12 +1977,6 @@
       "lat": 44.223401,
       "lng": -76.486561,
       "name": "Memorial Benches"
-    },
-    "f192fcc10e114dbcac1f8c597ec15aa3.16": {
-      "guid": "f192fcc10e114dbcac1f8c597ec15aa3.16",
-      "lat": 44.223316,
-      "lng": -76.485722,
-      "name": "Molson Breweries Historical Site"
     },
     "3e68fe0227154a8490fa6bdd3357bd1b.16": {
       "guid": "3e68fe0227154a8490fa6bdd3357bd1b.16",
@@ -6081,6 +6075,12 @@
       "lat": 44.226277,
       "lng": -76.493715,
       "name": "Carruthers Hall"
+    },
+    "f192fcc10e114dbcac1f8c597ec15aa3.16": {
+      "guid": "f192fcc10e114dbcac1f8c597ec15aa3.16",
+      "lat": 44.223329,
+      "lng": -76.485556,
+      "name": "Molson Breweries Historical Site"
     }
   },
   "notpogo": {
