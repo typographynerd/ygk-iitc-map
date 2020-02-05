@@ -1936,12 +1936,6 @@
       "lng": -76.486849,
       "name": "Sir John A. McDonald Statue"
     },
-    "1bd3f03b44c54d49beac6b016dd37284.16": {
-      "guid": "1bd3f03b44c54d49beac6b016dd37284.16",
-      "lat": 44.225488,
-      "lng": -76.48773,
-      "name": "City Park"
-    },
     "bebc8d9621e14ed185fdf490ff8a95f7.16": {
       "guid": "bebc8d9621e14ed185fdf490ff8a95f7.16",
       "lat": 44.225726,
@@ -6081,6 +6075,18 @@
       "lat": 44.223329,
       "lng": -76.485556,
       "name": "Molson Breweries Historical Site"
+    },
+    "1bd3f03b44c54d49beac6b016dd37284.16": {
+      "guid": "1bd3f03b44c54d49beac6b016dd37284.16",
+      "lat": 44.225444,
+      "lng": -76.487683,
+      "name": "City Park Accessible Play Structure"
+    },
+    "20be769331e341b08a4122aabdd6280f.16": {
+      "guid": "20be769331e341b08a4122aabdd6280f.16",
+      "lat": 44.225728,
+      "lng": -76.488207,
+      "name": "City Park Playground"
     }
   },
   "notpogo": {
