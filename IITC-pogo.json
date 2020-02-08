@@ -1543,6 +1543,12 @@
       "lat": 44.271957,
       "lng": -76.530082,
       "name": "K&P Trail 8km Marker"
+    },
+    "7298a0cf46964d47a2dca739ef2bbc65.16": {
+      "guid": "7298a0cf46964d47a2dca739ef2bbc65.16",
+      "lat": 44.22783,
+      "lng": -76.514983,
+      "name": "Richardson Stadium Box Office"
     }
   },
   "pokestops": {
@@ -2901,12 +2907,6 @@
       "lat": 44.228961,
       "lng": -76.514518,
       "name": "Miklas- McCarney Field"
-    },
-    "7298a0cf46964d47a2dca739ef2bbc65.16": {
-      "guid": "7298a0cf46964d47a2dca739ef2bbc65.16",
-      "lat": 44.22783,
-      "lng": -76.514983,
-      "name": "Richardson Stadium Box Office"
     },
     "63e563e230514f85b8b1b20204b8711f.16": {
       "guid": "63e563e230514f85b8b1b20204b8711f.16",
@@ -6087,6 +6087,24 @@
       "lat": 44.225728,
       "lng": -76.488207,
       "name": "City Park Playground"
+    },
+    "dc3cd6fc2c1d404b88aebe28b89b9f05.16": {
+      "guid": "dc3cd6fc2c1d404b88aebe28b89b9f05.16",
+      "lat": 44.250403,
+      "lng": -76.570493,
+      "name": "Howard Maitland Sly plaque"
+    },
+    "91a4dd4bee5947679f6d9d54a8d46557.16": {
+      "guid": "91a4dd4bee5947679f6d9d54a8d46557.16",
+      "lat": 44.229758,
+      "lng": -76.517667,
+      "name": "Younge St Community Swingset"
+    },
+    "7116f520227d4cc0b39fdbc09b3e7695.16": {
+      "guid": "7116f520227d4cc0b39fdbc09b3e7695.16",
+      "lat": 44.223127,
+      "lng": -76.519531,
+      "name": "Garrigan Park Baseball Diamond"
     }
   },
   "notpogo": {
