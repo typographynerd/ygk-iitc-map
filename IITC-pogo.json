@@ -1549,6 +1549,12 @@
       "lat": 44.22783,
       "lng": -76.514983,
       "name": "Richardson Stadium Box Office"
+    },
+    "8184d7cfc6bc4ce0ba58e7b5bf16607a.16": {
+      "guid": "8184d7cfc6bc4ce0ba58e7b5bf16607a.16",
+      "lat": 44.2268,
+      "lng": -76.528872,
+      "name": "Nickle Avenue Park Playground"
     }
   },
   "pokestops": {
@@ -2289,12 +2295,6 @@
       "lat": 44.228814,
       "lng": -76.487945,
       "name": "Earl St House"
-    },
-    "ce23b7ff793c42e6a73a30011d068675.16": {
-      "guid": "ce23b7ff793c42e6a73a30011d068675.16",
-      "lat": 44.228245,
-      "lng": -76.4884,
-      "name": "McIntosh Castle"
     },
     "f32ea3cd96904872a4f42c7283f87c68.16": {
       "guid": "f32ea3cd96904872a4f42c7283f87c68.16",
@@ -6105,6 +6105,24 @@
       "lat": 44.223127,
       "lng": -76.519531,
       "name": "Garrigan Park Baseball Diamond"
+    },
+    "ce23b7ff793c42e6a73a30011d068675.16": {
+      "guid": "ce23b7ff793c42e6a73a30011d068675.16",
+      "lat": 44.228276,
+      "lng": -76.48867,
+      "name": "McIntosh Castle"
+    },
+    "ea673bf895544f0bb2b234fa4aa011a8.16": {
+      "guid": "ea673bf895544f0bb2b234fa4aa011a8.16",
+      "lat": 44.228462,
+      "lng": -76.488442,
+      "name": "Hochelaga Inn"
+    },
+    "ec1379933dec4c94bddf06b4316b1e96.16": {
+      "guid": "ec1379933dec4c94bddf06b4316b1e96.16",
+      "lat": 44.234838,
+      "lng": -76.535721,
+      "name": "Green Park Playground"
     }
   },
   "notpogo": {
