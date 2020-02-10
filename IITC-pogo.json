@@ -1555,6 +1555,12 @@
       "lat": 44.2268,
       "lng": -76.528872,
       "name": "Nickle Avenue Park Playground"
+    },
+    "ec1379933dec4c94bddf06b4316b1e96.16": {
+      "guid": "ec1379933dec4c94bddf06b4316b1e96.16",
+      "lat": 44.234838,
+      "lng": -76.535721,
+      "name": "Green Park Playground"
     }
   },
   "pokestops": {
@@ -6118,11 +6124,17 @@
       "lng": -76.488442,
       "name": "Hochelaga Inn"
     },
-    "ec1379933dec4c94bddf06b4316b1e96.16": {
-      "guid": "ec1379933dec4c94bddf06b4316b1e96.16",
-      "lat": 44.234838,
-      "lng": -76.535721,
-      "name": "Green Park Playground"
+    "970e2a0fcd5444858cf54c65fad1dbcf.16": {
+      "guid": "970e2a0fcd5444858cf54c65fad1dbcf.16",
+      "lat": 44.236002,
+      "lng": -76.470157,
+      "name": "HMCS Cataraqui"
+    },
+    "2b405cb9041841b1ac4cc300a0bf4ea6.16": {
+      "guid": "2b405cb9041841b1ac4cc300a0bf4ea6.16",
+      "lat": 44.235065,
+      "lng": -76.535695,
+      "name": "Green Park Basketball Court"
     }
   },
   "notpogo": {
