@@ -1561,6 +1561,12 @@
       "lat": 44.234838,
       "lng": -76.535721,
       "name": "Green Park Playground"
+    },
+    "77ff3998e08247ef97891d97ab2b42b0.16": {
+      "guid": "77ff3998e08247ef97891d97ab2b42b0.16",
+      "lat": 44.244814,
+      "lng": -76.540872,
+      "name": "Rivermeade Park"
     }
   },
   "pokestops": {
@@ -3610,12 +3616,6 @@
       "lat": 44.239171,
       "lng": -76.545256,
       "name": "Putt N' Blast"
-    },
-    "77ff3998e08247ef97891d97ab2b42b0.16": {
-      "guid": "77ff3998e08247ef97891d97ab2b42b0.16",
-      "lat": 44.244814,
-      "lng": -76.540872,
-      "name": "Rivermeade Park"
     },
     "21d18181354041e8be276268a8e8fa07.16": {
       "guid": "21d18181354041e8be276268a8e8fa07.16",
@@ -6153,6 +6153,24 @@
       "lat": 44.237708,
       "lng": -76.468788,
       "name": "M109 Howitzer"
+    },
+    "0e37bca8e35e47f1b2bac5c89bd273df.16": {
+      "guid": "0e37bca8e35e47f1b2bac5c89bd273df.16",
+      "lat": 44.222198,
+      "lng": -76.64157,
+      "name": "Mary and Jesus statue"
+    },
+    "ab26047f9bec4d99bf9818de802cd058.16": {
+      "guid": "ab26047f9bec4d99bf9818de802cd058.16",
+      "lat": 44.223063,
+      "lng": -76.49979,
+      "name": "William Morris Plaque"
+    },
+    "68bb8eb4bf62498c82bfa96a504f4d67.16": {
+      "guid": "68bb8eb4bf62498c82bfa96a504f4d67.16",
+      "lat": 44.24772,
+      "lng": -76.534193,
+      "name": "Grosvenor Playground"
     }
   },
   "notpogo": {
