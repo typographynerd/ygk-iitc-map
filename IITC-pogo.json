@@ -6171,6 +6171,24 @@
       "lat": 44.24772,
       "lng": -76.534193,
       "name": "Grosvenor Playground"
+    },
+    "31ffaba48e3842a28a4b35afc1bb9c8c.16": {
+      "guid": "31ffaba48e3842a28a4b35afc1bb9c8c.16",
+      "lat": 44.255483,
+      "lng": -76.481043,
+      "name": "Village Playground"
+    },
+    "adfc5fd014124072bc64907178c2290f.16": {
+      "guid": "adfc5fd014124072bc64907178c2290f.16",
+      "lat": 44.224089,
+      "lng": -76.496985,
+      "name": "Chown Hall"
+    },
+    "5f0ef308dea94e0c88b87b66390d5eb2.16": {
+      "guid": "5f0ef308dea94e0c88b87b66390d5eb2.16",
+      "lat": 44.24723,
+      "lng": -76.578375,
+      "name": "Bay Park Baptist Church playground"
     }
   },
   "notpogo": {
