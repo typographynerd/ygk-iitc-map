@@ -1567,6 +1567,12 @@
       "lat": 44.244814,
       "lng": -76.540872,
       "name": "Rivermeade Park"
+    },
+    "c870fbcc3d4f4b75b5ffbf029c30eadf.16": {
+      "guid": "c870fbcc3d4f4b75b5ffbf029c30eadf.16",
+      "lat": 44.266807,
+      "lng": -76.489233,
+      "name": "Marker's Acres Play Structure"
     }
   },
   "pokestops": {
@@ -6189,6 +6195,54 @@
       "lat": 44.24723,
       "lng": -76.578375,
       "name": "Bay Park Baptist Church playground"
+    },
+    "0ef851db7100473e9670e0b4283fd333.16": {
+      "guid": "0ef851db7100473e9670e0b4283fd333.16",
+      "lat": 44.253017,
+      "lng": -76.461093,
+      "name": "Canada Post Office Hwy 15"
+    },
+    "47da87fe926a46d08e43565a4b31d781.16": {
+      "guid": "47da87fe926a46d08e43565a4b31d781.16",
+      "lat": 44.264985,
+      "lng": -76.482906,
+      "name": "Rideau Heights Community Centre"
+    },
+    "81bdd64fda114633906a97069ec77959.16": {
+      "guid": "81bdd64fda114633906a97069ec77959.16",
+      "lat": 44.265312,
+      "lng": -76.483257,
+      "name": "Kingston Frontenac Public Library Rideau Heights Branch"
+    },
+    "241081a7a2ba4c66b23abb4cb519446e.16": {
+      "guid": "241081a7a2ba4c66b23abb4cb519446e.16",
+      "lat": 44.259407,
+      "lng": -76.448325,
+      "name": "ANAF Monument"
+    },
+    "77489bcb2480472da38363a554d484fb.16": {
+      "guid": "77489bcb2480472da38363a554d484fb.16",
+      "lat": 44.274146,
+      "lng": -76.452221,
+      "name": "Greenwood Park West Parkette"
+    },
+    "3fd857311a804540a2cfb82a2b280286.16": {
+      "guid": "3fd857311a804540a2cfb82a2b280286.16",
+      "lat": 44.237237,
+      "lng": -76.469755,
+      "name": "100 years of the Royal Military College"
+    },
+    "6787741e154b4063be4d28afcebe102a.16": {
+      "guid": "6787741e154b4063be4d28afcebe102a.16",
+      "lat": 44.244212,
+      "lng": -76.483693,
+      "name": "River Street Bridge Historical Sign"
+    },
+    "670b59c4e4eb43119f0ff53fd2836f28.16": {
+      "guid": "670b59c4e4eb43119f0ff53fd2836f28.16",
+      "lat": 44.222445,
+      "lng": -76.501142,
+      "name": "Waterfront/Rideau Trail Marker - Collingwood St"
     }
   },
   "notpogo": {
