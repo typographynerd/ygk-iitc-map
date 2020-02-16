@@ -17,7 +17,7 @@ Click on **Import Gyms & Pokestops** and import the IITC-pogo.json file from thi
 
 ![IITC Options](https://i.imgur.com/PPNvhpr.png)
 
-*If you have previously imported a JSON file and want to update your map with a newer one, it is best to click on **Reset PoGo portals** first to clear out all the old makers and then import the updated file.*
+*If you have previously imported a JSON file and want to update your map with a newer one, it is best to click on **Reset PoGo portals** first to clear out all the old markers and then import the updated file.*
 
 After importing the file, your map will look something like this:
 
