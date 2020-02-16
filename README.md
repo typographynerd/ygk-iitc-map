@@ -5,6 +5,7 @@ This respository contains a JSON file of the PokeStops and Gyms in the Kingston,
 
 ## How to Use This JSON File
 It is assumed that you have installed both IITC and the PoGO S2 Plug-in ([instructions here](https://gitlab.com/AlfonsoML/pogo-s2/#install)) and your map looks something like this:
+
 ![IITC Map with Grid and Portals](https://i.imgur.com/v91FtLC.png)
 
 ### To mark portals as PokeStops and Gyms
