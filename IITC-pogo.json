@@ -6243,6 +6243,24 @@
       "lat": 44.222445,
       "lng": -76.501142,
       "name": "Waterfront/Rideau Trail Marker - Collingwood St"
+    },
+    "27a45481e3b841b2bff9d97fd375b12d.16": {
+      "guid": "27a45481e3b841b2bff9d97fd375b12d.16",
+      "lat": 44.241929,
+      "lng": -76.479623,
+      "name": "Trow Associates Inc Plaque"
+    },
+    "81bc959656f040ad93e283161028bd7d.16": {
+      "guid": "81bc959656f040ad93e283161028bd7d.16",
+      "lat": 44.254982,
+      "lng": -76.572703,
+      "name": "Transit Hub - Cataraqui Centre Transfer Point"
+    },
+    "9ab132a7c31c4e668d6fe9a34a65d18d.16": {
+      "guid": "9ab132a7c31c4e668d6fe9a34a65d18d.16",
+      "lat": 44.264564,
+      "lng": -76.580879,
+      "name": "Cataraqui Woods Park play structure"
     }
   },
   "notpogo": {
