@@ -11,11 +11,11 @@ It is assumed that you have installed both IITC and the PoGO S2 Plug-in ([instru
 ### To mark portals as PokeStops and Gyms
 Click on **Pogo Actions**
 
-![IITC Options](https://i.imgur.com/RR6uRNx.png)
+![IITC Menu](https://i.imgur.com/RR6uRNx.png)
 
 Click on **Import Gyms & Pokestops** and import the IITC-pogo.json file from this respository.
 
-![IITC Options](https://i.imgur.com/PPNvhpr.png)
+![IITC Pogo Actions](https://i.imgur.com/PPNvhpr.png)
 
 *If you have previously imported a JSON file and want to update your map with a newer one, it is best to click on **Reset PoGo portals** first to clear out all the old markers and then import the updated file.*
 
