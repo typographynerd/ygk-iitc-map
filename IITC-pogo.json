@@ -2828,8 +2828,7 @@
       "guid": "597d9d7604ff476b8418af910dc7449b.16",
       "lat": 44.232534,
       "lng": -76.505737,
-      "name": "Kingston Chinese Alliance Church",
-      "votes": 1
+      "name": "Kingston Chinese Alliance Church"
     },
     "d91c5287a0ad48aababc7be63591ff6b.16": {
       "guid": "d91c5287a0ad48aababc7be63591ff6b.16",
@@ -4977,8 +4976,7 @@
       "guid": "913da22f68914f25a5c7b3405d6d32e2.16",
       "lat": 44.233188,
       "lng": -76.505298,
-      "name": "Sunnyside Community Garden",
-      "votes": 2
+      "name": "Sunnyside Community Garden"
     },
     "ae5cc883faf14494817cda73c1813021.16": {
       "guid": "ae5cc883faf14494817cda73c1813021.16",
@@ -5014,8 +5012,7 @@
       "guid": "9331678c14ac41cf88eb2b6bc4005dbf.16",
       "lat": 44.230368,
       "lng": -76.506808,
-      "name": "Kingston Lawn Bowling Club",
-      "votes": 1
+      "name": "Kingston Lawn Bowling Club"
     },
     "1b4a98a8d44842f39b003d4b777db502.16": {
       "guid": "1b4a98a8d44842f39b003d4b777db502.16",
@@ -5351,8 +5348,7 @@
       "guid": "20c63e2575c74fdb91d83108371f7b28.16",
       "lat": 44.233554,
       "lng": -76.50711,
-      "name": "In Memory of St Joseph/St Mary School",
-      "votes": 1
+      "name": "In Memory of St Joseph/St Mary School"
     },
     "9d9b6c3aeacf41c9900e9d214605fbe7.16": {
       "guid": "9d9b6c3aeacf41c9900e9d214605fbe7.16",
@@ -5406,8 +5402,7 @@
       "guid": "466464f40b174bb896807e7f2a4e88a1.16",
       "lat": 44.229206,
       "lng": -76.496818,
-      "name": "Heritage Canada Award",
-      "votes": 1
+      "name": "Heritage Canada Award"
     },
     "4656a0505cff4379832ff4ca1ed10402.16": {
       "guid": "4656a0505cff4379832ff4ca1ed10402.16",
@@ -5845,8 +5840,7 @@
       "guid": "ac28de710ab24643bec0712085b029bf.16",
       "lat": 44.232782,
       "lng": -76.508072,
-      "name": "Tercentenary",
-      "votes": 2
+      "name": "Tercentenary"
     },
     "da3000514dee485ea6946d1632310f0f.16": {
       "guid": "da3000514dee485ea6946d1632310f0f.16",
@@ -6261,6 +6255,12 @@
       "lat": 44.264564,
       "lng": -76.580879,
       "name": "Cataraqui Woods Park play structure"
+    },
+    "7fad0f579ee64a50925b4088a1572c29.16": {
+      "guid": "7fad0f579ee64a50925b4088a1572c29.16",
+      "lat": 44.224582,
+      "lng": -76.49905,
+      "name": "Chemistry Memorabilia"
     }
   },
   "notpogo": {
@@ -6289,6 +6289,8 @@
       "name": "Third Day Worship "
     }
   },
-  "ignoredCellsExtraGyms": {},
+  "ignoredCellsExtraGyms": {
+    "F2ij[5649,16363]@14": true
+  },
   "ignoredCellsMissingGyms": {}
 }
