@@ -8,8 +8,6 @@ It is assumed that you have installed both IITC and the PoGO S2 Plug-in ([instru
 
 ![IITC Map with Grid and Portals](https://i.imgur.com/v91FtLC.png)
 
-*If you haven't set up your own map and don't know where to start, take a look at the [Wiki page](https://github.com/typographynerd/ygk-iitc-map/wiki).*
-
 ### To mark portals as PokeStops and Gyms
 Click on **Pogo Actions**
 
