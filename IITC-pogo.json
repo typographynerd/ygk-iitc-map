@@ -1585,6 +1585,18 @@
       "lat": 44.295063,
       "lng": -76.510094,
       "name": "Little Cataraqui Creek - Sugar Shack"
+    },
+    "df15781f9fb44229b89d3b1219e26ce7.11": {
+      "guid": "df15781f9fb44229b89d3b1219e26ce7.11",
+      "lat": 44.23171,
+      "lng": -76.571766,
+      "name": "LaSalle Park"
+    },
+    "ff5d3b2f5e994983839845dc08e78cb8.16": {
+      "guid": "ff5d3b2f5e994983839845dc08e78cb8.16",
+      "lat": 44.222429,
+      "lng": -76.499535,
+      "name": "Breakwater Park"
     }
   },
   "pokestops": {
@@ -1689,12 +1701,6 @@
       "lat": 44.222197,
       "lng": -76.498732,
       "name": "Time"
-    },
-    "ff5d3b2f5e994983839845dc08e78cb8.16": {
-      "guid": "ff5d3b2f5e994983839845dc08e78cb8.16",
-      "lat": 44.222429,
-      "lng": -76.499535,
-      "name": "Breakwater Park"
     },
     "be676be1845343dfadf830decf7cdcfc.16": {
       "guid": "be676be1845343dfadf830decf7cdcfc.16",
@@ -3579,12 +3585,6 @@
       "lat": 44.228051,
       "lng": -76.582845,
       "name": "Jim Beattie Park"
-    },
-    "df15781f9fb44229b89d3b1219e26ce7.11": {
-      "guid": "df15781f9fb44229b89d3b1219e26ce7.11",
-      "lat": 44.23171,
-      "lng": -76.571766,
-      "name": "LaSalle Park"
     },
     "e9b0286d75f04e3ebd03454db8871539.16": {
       "guid": "e9b0286d75f04e3ebd03454db8871539.16",
