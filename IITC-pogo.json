@@ -3580,12 +3580,6 @@
       "lng": -76.582845,
       "name": "Jim Beattie Park"
     },
-    "757652707de04037a7e54b790b8969ae.16": {
-      "guid": "757652707de04037a7e54b790b8969ae.16",
-      "lat": 44.232178,
-      "lng": -76.571801,
-      "name": "LaSalle Park Baseball Diamond (2 of 3)"
-    },
     "df15781f9fb44229b89d3b1219e26ce7.11": {
       "guid": "df15781f9fb44229b89d3b1219e26ce7.11",
       "lat": 44.23171,
@@ -6285,6 +6279,12 @@
       "lat": 44.294295,
       "lng": -76.511709,
       "name": "Little Cataraqui Creek Rest Stop"
+    },
+    "757652707de04037a7e54b790b8969ae.16": {
+      "guid": "757652707de04037a7e54b790b8969ae.16",
+      "lat": 44.23225,
+      "lng": -76.571576,
+      "name": "LaSalle Park Baseball Diamond (2 of 3)"
     }
   },
   "notpogo": {
