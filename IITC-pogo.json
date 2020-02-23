@@ -1597,6 +1597,12 @@
       "lat": 44.222429,
       "lng": -76.499535,
       "name": "Breakwater Park"
+    },
+    "b1c5bbb3d2d94f7ca28ebbb4e2985f46.16": {
+      "guid": "b1c5bbb3d2d94f7ca28ebbb4e2985f46.16",
+      "lat": 44.236768,
+      "lng": -76.528933,
+      "name": "Mc Cullough Park Skatepark"
     }
   },
   "pokestops": {
@@ -3369,12 +3375,6 @@
       "lat": 44.234883,
       "lng": -76.527856,
       "name": "Polson Park Free Methodist Church"
-    },
-    "b1c5bbb3d2d94f7ca28ebbb4e2985f46.16": {
-      "guid": "b1c5bbb3d2d94f7ca28ebbb4e2985f46.16",
-      "lat": 44.236768,
-      "lng": -76.528933,
-      "name": "Mc Cullough Park Skatepark"
     },
     "0f87fd44b04e4b4fb333220dd2902c69.16": {
       "guid": "0f87fd44b04e4b4fb333220dd2902c69.16",
@@ -6297,6 +6297,24 @@
       "lat": 44.236295,
       "lng": -76.528971,
       "name": "McCollough Park Small Soccer Field (1 of 2)"
+    },
+    "fac37d92e0bc4c9b840a34453c254076.16": {
+      "guid": "fac37d92e0bc4c9b840a34453c254076.16",
+      "lat": 44.23601,
+      "lng": -76.528279,
+      "name": "McCollough Park Small Soccer Field (2 of 2)"
+    },
+    "64dc8a5a23654a9d9964c158b6508b31.16": {
+      "guid": "64dc8a5a23654a9d9964c158b6508b31.16",
+      "lat": 44.236915,
+      "lng": -76.530831,
+      "name": "McCollough Park Soccer Field (2 of 3)"
+    },
+    "2fb8d0620fbe48c1bfb50acb274cd28c.16": {
+      "guid": "2fb8d0620fbe48c1bfb50acb274cd28c.16",
+      "lat": 44.237419,
+      "lng": -76.532554,
+      "name": "Runnymede Park Swingset"
     }
   },
   "notpogo": {
