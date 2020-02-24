@@ -1603,6 +1603,24 @@
       "lat": 44.236768,
       "lng": -76.528933,
       "name": "Mc Cullough Park Skatepark"
+    },
+    "60bdca6d89c24f3fb91258130262bfeb.16": {
+      "guid": "60bdca6d89c24f3fb91258130262bfeb.16",
+      "lat": 44.319972,
+      "lng": -76.502416,
+      "name": "Antique Fire Hose Cart"
+    },
+    "9c4601f1d7d5490f89c4d98e8cbcfc95.16": {
+      "guid": "9c4601f1d7d5490f89c4d98e8cbcfc95.16",
+      "lat": 44.29831,
+      "lng": -76.5757,
+      "name": "K&P Trail - Cordukes And Burbrook Rd."
+    },
+    "08f3098f4847418db7335f24b42beb2b.16": {
+      "guid": "08f3098f4847418db7335f24b42beb2b.16",
+      "lat": 44.30137,
+      "lng": -76.575476,
+      "name": "KOA Kingston Camping"
     }
   },
   "pokestops": {
@@ -6315,6 +6333,66 @@
       "lat": 44.237419,
       "lng": -76.532554,
       "name": "Runnymede Park Swingset"
+    },
+    "ffedd4dfde884d26b400059f1b1fe7c0.16": {
+      "guid": "ffedd4dfde884d26b400059f1b1fe7c0.16",
+      "lat": 44.310441,
+      "lng": -76.521341,
+      "name": "Rosedale Park"
+    },
+    "a42b498bf8de42ae9a2bdedcde059fce.16": {
+      "guid": "a42b498bf8de42ae9a2bdedcde059fce.16",
+      "lat": 44.320748,
+      "lng": -76.502624,
+      "name": "Glenburnie Grocery"
+    },
+    "ca4441978c1c4bc8b70cc1010c2f58f9.16": {
+      "guid": "ca4441978c1c4bc8b70cc1010c2f58f9.16",
+      "lat": 44.324772,
+      "lng": -76.506826,
+      "name": "Garden of Memories Pergola"
+    },
+    "91aae559bc6740d98b2c99b0eac1d9af.16": {
+      "guid": "91aae559bc6740d98b2c99b0eac1d9af.16",
+      "lat": 44.318517,
+      "lng": -76.50148,
+      "name": "Shannon’s Corners Basketball Court"
+    },
+    "a927607c9c5e45e182309378b6228d08.16": {
+      "guid": "a927607c9c5e45e182309378b6228d08.16",
+      "lat": 44.315725,
+      "lng": -76.540748,
+      "name": "Elginburg Post office"
+    },
+    "88971f2ae69c43638372046baa8a6ccc.16": {
+      "guid": "88971f2ae69c43638372046baa8a6ccc.16",
+      "lat": 44.319108,
+      "lng": -76.544228,
+      "name": "Trinity United Church "
+    },
+    "5843ead2ba914fe1a5fcbea7e415043d.16": {
+      "guid": "5843ead2ba914fe1a5fcbea7e415043d.16",
+      "lat": 44.302068,
+      "lng": -76.55881,
+      "name": "Fascinating Geology"
+    },
+    "d54dea70839f4556ae63e27b8497662a.16": {
+      "guid": "d54dea70839f4556ae63e27b8497662a.16",
+      "lat": 44.301756,
+      "lng": -76.579788,
+      "name": "K&P 16km Trail Marker"
+    },
+    "09a2438544ce4d9f943714f235abb581.16": {
+      "guid": "09a2438544ce4d9f943714f235abb581.16",
+      "lat": 44.305845,
+      "lng": -76.581443,
+      "name": "K&P Trail 16.5km Marker"
+    },
+    "63d0295e95ee4b568e7eee632266225d.16": {
+      "guid": "63d0295e95ee4b568e7eee632266225d.16",
+      "lat": 44.27971,
+      "lng": -76.577641,
+      "name": "West Kingston Water Tower"
     }
   },
   "notpogo": {
