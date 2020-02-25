@@ -6393,6 +6393,30 @@
       "lat": 44.27971,
       "lng": -76.577641,
       "name": "West Kingston Water Tower"
+    },
+    "4d6422f7220d414398e0cddea7a0a989.16": {
+      "guid": "4d6422f7220d414398e0cddea7a0a989.16",
+      "lat": 44.298319,
+      "lng": -76.424373,
+      "name": "Holy Name of Jesus Church"
+    },
+    "beb7c50a68344885849f0029f40cde1e.16": {
+      "guid": "beb7c50a68344885849f0029f40cde1e.16",
+      "lat": 44.304981,
+      "lng": -76.421136,
+      "name": "Rideau Acres Campground"
+    },
+    "8e27c5ede04b45eba26cfad9a95b9fc0.16": {
+      "guid": "8e27c5ede04b45eba26cfad9a95b9fc0.16",
+      "lat": 44.317344,
+      "lng": -76.585999,
+      "name": "K&P Trail Unity Rd. South Entrance"
+    },
+    "caa23b789f664cdda06b08e5104d65d8.16": {
+      "guid": "caa23b789f664cdda06b08e5104d65d8.16",
+      "lat": 44.318021,
+      "lng": -76.586245,
+      "name": "K&P Trail Unity Road Entrance"
     }
   },
   "notpogo": {
