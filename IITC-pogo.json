@@ -6208,12 +6208,6 @@
       "lng": -76.496985,
       "name": "Chown Hall"
     },
-    "5f0ef308dea94e0c88b87b66390d5eb2.16": {
-      "guid": "5f0ef308dea94e0c88b87b66390d5eb2.16",
-      "lat": 44.24723,
-      "lng": -76.578375,
-      "name": "Bay Park Baptist Church playground"
-    },
     "0ef851db7100473e9670e0b4283fd333.16": {
       "guid": "0ef851db7100473e9670e0b4283fd333.16",
       "lat": 44.253017,
@@ -6449,6 +6443,12 @@
       "lat": 44.26452,
       "lng": -76.544896,
       "name": "Third Day Worship "
+    },
+    "5f0ef308dea94e0c88b87b66390d5eb2.16": {
+      "guid": "5f0ef308dea94e0c88b87b66390d5eb2.16",
+      "lat": 44.24723,
+      "lng": -76.578375,
+      "name": "Bay Park Baptist Church playground"
     }
   },
   "ignoredCellsExtraGyms": {},
