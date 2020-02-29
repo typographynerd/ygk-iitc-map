@@ -134,7 +134,7 @@
       "lng": -76.489665,
       "name": "Frontenac County Court House"
     },
-    "ab32Í087670304fde8a35475b4b6cde80.16": {
+    "ab32087670304fde8a35475b4b6cde80.16": {
       "guid": "ab32087670304fde8a35475b4b6cde80.16",
       "lat": 44.233677,
       "lng": -76.479201,
@@ -6423,6 +6423,12 @@
       "lat": 44.266019,
       "lng": -76.489357,
       "name": "Markers Arcres Park Sign"
+    },
+    "f217e372e6ba49279142bce046f39107.16": {
+      "guid": "f217e372e6ba49279142bce046f39107.16",
+      "lat": 44.233404,
+      "lng": -76.506054,
+      "name": "Sunnyside Community Swingset"
     }
   },
   "notpogo": {
