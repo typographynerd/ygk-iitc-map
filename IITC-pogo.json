@@ -1462,7 +1462,8 @@
       "guid": "69d8707d41bb457fad1b25424f9685f4.16",
       "lat": 44.226615,
       "lng": -76.48052,
-      "name": "Battery Park"
+      "name": "Battery Park",
+      "isEx": true
     },
     "82c630dc80634d89be51cb1fa57fc256.16": {
       "guid": "82c630dc80634d89be51cb1fa57fc256.16",
