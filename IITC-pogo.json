@@ -225,7 +225,8 @@
       "guid": "1e52c1a1907c45a29a446471c76c3300.16",
       "lat": 44.233489,
       "lng": -76.500183,
-      "name": "In Memory of Geneva"
+      "name": "In Memory of Geneva",
+      "isEx": true
     },
     "923d9506171743f0a0da7e9580e4685a.16": {
       "guid": "923d9506171743f0a0da7e9580e4685a.16",
