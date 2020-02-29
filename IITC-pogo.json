@@ -1390,7 +1390,8 @@
       "guid": "7f3e17a83c6b41d18ffc4730e9ef70b7.16",
       "lat": 44.234947,
       "lng": -76.510475,
-      "name": "Compton Park Tennis Courts"
+      "name": "Compton Park Tennis Courts",
+      "isEx": true
     },
     "e615ef065f794c8eb3a19d4c65ac24f7.16": {
       "guid": "e615ef065f794c8eb3a19d4c65ac24f7.16",
