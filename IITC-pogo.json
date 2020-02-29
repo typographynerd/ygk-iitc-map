@@ -6429,6 +6429,24 @@
       "lat": 44.233404,
       "lng": -76.506054,
       "name": "Sunnyside Community Swingset"
+    },
+    "8683bd8581fc4883a2d8b469d0fc7351.16": {
+      "guid": "8683bd8581fc4883a2d8b469d0fc7351.16",
+      "lat": 44.236226,
+      "lng": -76.530672,
+      "name": "McCollough Park Soccer Field (1 of 3)"
+    },
+    "aa9dae4e15794f1fa08e181b125238dd.16": {
+      "guid": "aa9dae4e15794f1fa08e181b125238dd.16",
+      "lat": 44.220589,
+      "lng": -76.521359,
+      "name": "Portsmouth Historic Village"
+    },
+    "0f20b7c571184d9696b814634a704f2a.16": {
+      "guid": "0f20b7c571184d9696b814634a704f2a.16",
+      "lat": 44.230964,
+      "lng": -76.482539,
+      "name": "The Kensington: A Shared History"
     }
   },
   "notpogo": {
