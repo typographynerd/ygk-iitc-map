@@ -134,7 +134,7 @@
       "lng": -76.489665,
       "name": "Frontenac County Court House"
     },
-    "ab32087670304fde8a35475b4b6cde80.16": {
+    "ab32Í087670304fde8a35475b4b6cde80.16": {
       "guid": "ab32087670304fde8a35475b4b6cde80.16",
       "lat": 44.233677,
       "lng": -76.479201,
@@ -1621,6 +1621,12 @@
       "lat": 44.30137,
       "lng": -76.575476,
       "name": "KOA Kingston Camping"
+    },
+    "bb4875e9335d41b59ecd0bb6f4b3b009.16": {
+      "guid": "bb4875e9335d41b59ecd0bb6f4b3b009.16",
+      "lat": 44.26601,
+      "lng": -76.490246,
+      "name": "Marker's Acres Soccer Field"
     }
   },
   "pokestops": {
@@ -5914,12 +5920,6 @@
       "lng": -76.484786,
       "name": "Kingston Frontenac Public Library"
     },
-    "bb4875e9335d41b59ecd0bb6f4b3b009.16": {
-      "guid": "bb4875e9335d41b59ecd0bb6f4b3b009.16",
-      "lat": 44.26601,
-      "lng": -76.490246,
-      "name": "Marker's Acres Soccer Field"
-    },
     "6d5526d98fbd4b10a81f0a4fe6c8b429.16": {
       "guid": "6d5526d98fbd4b10a81f0a4fe6c8b429.16",
       "lat": 44.228885,
@@ -6417,6 +6417,12 @@
       "lat": 44.236855,
       "lng": -76.531997,
       "name": "McCollough Park Soccer Field (3 of 3)"
+    },
+    "1b9d3fc3aa0a4a84b1e4e8314d0318fc.16": {
+      "guid": "1b9d3fc3aa0a4a84b1e4e8314d0318fc.16",
+      "lat": 44.266019,
+      "lng": -76.489357,
+      "name": "Markers Arcres Park Sign"
     }
   },
   "notpogo": {
