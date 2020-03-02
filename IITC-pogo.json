@@ -842,7 +842,7 @@
       "guid": "2d077a999939495886b5b1e8312159a7.16",
       "lat": 44.223265,
       "lng": -76.642212,
-      "name": "Blessed Sacrament Romance Catholic Church "
+      "name": "Blessed Sacrament Roman Catholic Church"
     },
     "46ce4fb11d0e434c998758975a70645e.16": {
       "guid": "46ce4fb11d0e434c998758975a70645e.16",
@@ -6456,6 +6456,12 @@
       "lat": 44.227692,
       "lng": -76.528597,
       "name": "Newcourt Fields South Soccer Field"
+    },
+    "3fe8589c10f94c148233cab125cb126c.16": {
+      "guid": "3fe8589c10f94c148233cab125cb126c.16",
+      "lat": 44.222972,
+      "lng": -76.640165,
+      "name": "McPherson Park Swingset"
     }
   },
   "notpogo": {
