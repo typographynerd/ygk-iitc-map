@@ -1975,12 +1975,6 @@
       "lng": -76.490486,
       "name": "The Cricket Field"
     },
-    "8858817f5a9f4c7488290f3d4928ff43.16": {
-      "guid": "8858817f5a9f4c7488290f3d4928ff43.16",
-      "lat": 44.225999,
-      "lng": -76.491672,
-      "name": "Native Garden"
-    },
     "5d39c1833572456dbdcb5f116efa0b37.16": {
       "guid": "5d39c1833572456dbdcb5f116efa0b37.16",
       "lat": 44.225766,
@@ -6474,6 +6468,18 @@
       "lat": 44.227391,
       "lng": -76.659485,
       "name": "Local basketball court"
+    },
+    "494dfb41def54717aee08adbad65f2dd.16": {
+      "guid": "494dfb41def54717aee08adbad65f2dd.16",
+      "lat": 44.227499,
+      "lng": -76.495837,
+      "name": "Dunning Hall"
+    },
+    "8858817f5a9f4c7488290f3d4928ff43.16": {
+      "guid": "8858817f5a9f4c7488290f3d4928ff43.16",
+      "lat": 44.226241,
+      "lng": -76.491652,
+      "name": "Native Garden"
     }
   },
   "notpogo": {
