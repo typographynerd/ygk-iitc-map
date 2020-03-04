@@ -2275,12 +2275,6 @@
       "lng": -76.485175,
       "name": "Family Medicine Plaque"
     },
-    "1c3ab295f6384f49868eab5da42799db.16": {
-      "guid": "1c3ab295f6384f49868eab5da42799db.16",
-      "lat": 44.231032,
-      "lng": -76.485766,
-      "name": "Hotel Dieu Hospital"
-    },
     "8d51f9f0f14a4e7a883e9fd08ec8b6f1.12": {
       "guid": "8d51f9f0f14a4e7a883e9fd08ec8b6f1.12",
       "lat": 44.230706,
@@ -6486,6 +6480,12 @@
       "lat": 44.236796,
       "lng": -76.467916,
       "name": "KMCSC - Kingston Military Community Sports Centre"
+    },
+    "1c3ab295f6384f49868eab5da42799db.16": {
+      "guid": "1c3ab295f6384f49868eab5da42799db.16",
+      "lat": 44.230982,
+      "lng": -76.486238,
+      "name": "Hotel Dieu Hospital"
     }
   },
   "notpogo": {
