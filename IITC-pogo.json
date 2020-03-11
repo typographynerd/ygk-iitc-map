@@ -1915,12 +1915,6 @@
       "lng": -76.495232,
       "name": "Ontario Hall"
     },
-    "5abc453b23c34101b380d709b5612041.11": {
-      "guid": "5abc453b23c34101b380d709b5612041.11",
-      "lat": 44.225705,
-      "lng": -76.495314,
-      "name": "Grant Hall, Queen's University"
-    },
     "9865371da63d4099adbf65a463643e3b.16": {
       "guid": "9865371da63d4099adbf65a463643e3b.16",
       "lat": 44.225063,
@@ -6522,6 +6516,18 @@
       "lat": 44.22197,
       "lng": -76.529933,
       "name": "St. Lawrence College Plumbing Shop"
+    },
+    "5abc453b23c34101b380d709b5612041.11": {
+      "guid": "5abc453b23c34101b380d709b5612041.11",
+      "lat": 44.225791,
+      "lng": -76.495191,
+      "name": "Grant Hall, Queen's University"
+    },
+    "862e8a8b226d495db594eb60470a1f5b.16": {
+      "guid": "862e8a8b226d495db594eb60470a1f5b.16",
+      "lat": 44.225853,
+      "lng": -76.495813,
+      "name": "Jeffery Hall"
     }
   },
   "notpogo": {
