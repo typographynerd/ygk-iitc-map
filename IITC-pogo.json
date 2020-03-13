@@ -4165,12 +4165,6 @@
       "lng": -76.653021,
       "name": "Fairfield Play Structure"
     },
-    "e9130e5f4fe645889e172aad728652ff.16": {
-      "guid": "e9130e5f4fe645889e172aad728652ff.16",
-      "lat": 44.216845,
-      "lng": -76.653801,
-      "name": "Historic Fairfield Homestead House"
-    },
     "82f17eb295574fc7a41c03d93e177eae.16": {
       "guid": "82f17eb295574fc7a41c03d93e177eae.16",
       "lat": 44.215697,
@@ -6528,6 +6522,30 @@
       "lat": 44.225853,
       "lng": -76.495813,
       "name": "Jeffery Hall"
+    },
+    "e9130e5f4fe645889e172aad728652ff.16": {
+      "guid": "e9130e5f4fe645889e172aad728652ff.16",
+      "lat": 44.216795,
+      "lng": -76.653688,
+      "name": "Historic Fairfield Homestead House"
+    },
+    "99abebcb0a754ef6b2bb0c628374b2fb.16": {
+      "guid": "99abebcb0a754ef6b2bb0c628374b2fb.16",
+      "lat": 44.21669,
+      "lng": -76.65459,
+      "name": "Loyalist Parkway Gate Plaque"
+    },
+    "6be8169c0f2a4478998a6e3ab6fdcec0.16": {
+      "guid": "6be8169c0f2a4478998a6e3ab6fdcec0.16",
+      "lat": 44.222175,
+      "lng": -76.526397,
+      "name": "St. Lawrence College volleyball courts"
+    },
+    "6a397800ff2246db9e9fd96b56f82da2.16": {
+      "guid": "6a397800ff2246db9e9fd96b56f82da2.16",
+      "lat": 44.222828,
+      "lng": -76.529649,
+      "name": "St. Lawrence College Open Solar Outdoor Test Field"
     }
   },
   "notpogo": {
