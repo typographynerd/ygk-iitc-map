@@ -1642,6 +1642,12 @@
       "lat": 44.220521,
       "lng": -76.608505,
       "name": "Assisted Migration Info Plaque"
+    },
+    "7deb619683e14639b68de9ca7adabcad.16": {
+      "guid": "7deb619683e14639b68de9ca7adabcad.16",
+      "lat": 44.219987,
+      "lng": -76.530331,
+      "name": "Lake Ontario Park"
     }
   },
   "pokestops": {
@@ -3516,12 +3522,6 @@
       "lat": 44.218981,
       "lng": -76.530571,
       "name": "Ontario Park Public Barbeque"
-    },
-    "7deb619683e14639b68de9ca7adabcad.16": {
-      "guid": "7deb619683e14639b68de9ca7adabcad.16",
-      "lat": 44.219987,
-      "lng": -76.530331,
-      "name": "Lake Ontario Park"
     },
     "5e9daccb65584d94a0709776f773890f.16": {
       "guid": "5e9daccb65584d94a0709776f773890f.16",
@@ -6552,6 +6552,24 @@
       "lat": 44.223868,
       "lng": -76.608454,
       "name": "Lemoine Point Trail 5 Marker"
+    },
+    "816f360c6fb44dc19e16135cf616a11c.16": {
+      "guid": "816f360c6fb44dc19e16135cf616a11c.16",
+      "lat": 44.223139,
+      "lng": -76.527186,
+      "name": "Birch Bark Canoes"
+    },
+    "2288c1f6ae1c40dc9d0e412c7f77f56c.16": {
+      "guid": "2288c1f6ae1c40dc9d0e412c7f77f56c.16",
+      "lat": 44.222282,
+      "lng": -76.528474,
+      "name": "Expanding Opportunities Wall Of Appreciation"
+    },
+    "91ed40c24dd14e9e8e7bc530177b8a9d.16": {
+      "guid": "91ed40c24dd14e9e8e7bc530177b8a9d.16",
+      "lat": 44.220404,
+      "lng": -76.52989,
+      "name": "St. Lawrence College South Entrance Sign"
     }
   },
   "notpogo": {
@@ -6586,8 +6604,6 @@
       "name": "Bay Park Baptist Church playground"
     }
   },
-  "ignoredCellsExtraGyms": {
-    "F2ij[5654,16378]@14": true
-  },
+  "ignoredCellsExtraGyms": {},
   "ignoredCellsMissingGyms": {}
 }
