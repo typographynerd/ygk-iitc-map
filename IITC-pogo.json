@@ -6570,6 +6570,12 @@
       "lat": 44.220404,
       "lng": -76.52989,
       "name": "St. Lawrence College South Entrance Sign"
+    },
+    "10d585dc27b248bda111b67a174e2811.16": {
+      "guid": "10d585dc27b248bda111b67a174e2811.16",
+      "lat": 44.243643,
+      "lng": -76.520177,
+      "name": "Church Amalgamation date stone"
     }
   },
   "notpogo": {
@@ -6604,6 +6610,8 @@
       "name": "Bay Park Baptist Church playground"
     }
   },
-  "ignoredCellsExtraGyms": {},
+  "ignoredCellsExtraGyms": {
+    "F2ij[5654,16378]@14": true
+  },
   "ignoredCellsMissingGyms": {}
 }
