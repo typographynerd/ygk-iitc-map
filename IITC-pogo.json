@@ -1599,7 +1599,8 @@
       "guid": "b1c5bbb3d2d94f7ca28ebbb4e2985f46.16",
       "lat": 44.236768,
       "lng": -76.528933,
-      "name": "Mc Cullough Park Skatepark"
+      "name": "Mc Cullough Park Skatepark",
+      "isEx": true
     },
     "60bdca6d89c24f3fb91258130262bfeb.16": {
       "guid": "60bdca6d89c24f3fb91258130262bfeb.16",
