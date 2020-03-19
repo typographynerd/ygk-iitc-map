@@ -6583,6 +6583,30 @@
       "lat": 44.219873,
       "lng": -76.537225,
       "name": "Waterfront/Rideau Trail - Richardson Wharf"
+    },
+    "3bff3cc3b46b48c8b1d71ecd7a7d5a2c.16": {
+      "guid": "3bff3cc3b46b48c8b1d71ecd7a7d5a2c.16",
+      "lat": 44.222998,
+      "lng": -76.487293,
+      "name": "Kingston Yacht Club Sign"
+    },
+    "e0618d522bde4a7eb060fbfaf07b7e9e.16": {
+      "guid": "e0618d522bde4a7eb060fbfaf07b7e9e.16",
+      "lat": 44.224324,
+      "lng": -76.495844,
+      "name": "Adelaide Hall"
+    },
+    "e939b039298e4cabb6df629f7bdaf910.16": {
+      "guid": "e939b039298e4cabb6df629f7bdaf910.16",
+      "lat": 44.223848,
+      "lng": -76.491488,
+      "name": "The School of Rehabilitation Therapy"
+    },
+    "2e4b0fe7fecb47cdab6775a1a5865d27.16": {
+      "guid": "2e4b0fe7fecb47cdab6775a1a5865d27.16",
+      "lat": 44.218745,
+      "lng": -76.538986,
+      "name": "Kingston Shoreline Route - Commodore’s Cove"
     }
   },
   "notpogo": {
@@ -6591,12 +6615,6 @@
       "lat": 44.229917,
       "lng": -76.48525,
       "name": "Bishop Alexander Macdonell 1762-1840 Plaque"
-    },
-    "eb6dda39b1e04dab994326ab459f202c.12": {
-      "guid": "eb6dda39b1e04dab994326ab459f202c.12",
-      "lat": 44.221312,
-      "lng": -76.510998,
-      "name": "Service correctionnel du Canad"
     },
     "b25db20e65454428b1a9ca39b5cbd5c9.16": {
       "guid": "b25db20e65454428b1a9ca39b5cbd5c9.16",
@@ -6615,6 +6633,12 @@
       "lat": 44.24723,
       "lng": -76.578375,
       "name": "Bay Park Baptist Church playground"
+    },
+    "eb6dda39b1e04dab994326ab459f202c.12": {
+      "guid": "eb6dda39b1e04dab994326ab459f202c.12",
+      "lat": 44.221312,
+      "lng": -76.510998,
+      "name": "Service correctionnel du Canad"
     }
   },
   "ignoredCellsExtraGyms": {},
