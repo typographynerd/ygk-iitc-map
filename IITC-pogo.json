@@ -6637,6 +6637,12 @@
       "lat": 44.222587,
       "lng": -76.642639,
       "name": "Jesus Statue"
+    },
+    "36aef061e9b440c88a722bc8f486908a.16": {
+      "guid": "36aef061e9b440c88a722bc8f486908a.16",
+      "lat": 44.223666,
+      "lng": -76.495357,
+      "name": "Grand Competition 1829"
     }
   },
   "notpogo": {
@@ -6671,8 +6677,6 @@
       "name": "Service correctionnel du Canad"
     }
   },
-  "ignoredCellsExtraGyms": {
-    "F2ij[5654,16378]@14": true
-  },
+  "ignoredCellsExtraGyms": {},
   "ignoredCellsMissingGyms": {}
 }
