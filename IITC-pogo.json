@@ -6631,6 +6631,12 @@
       "lat": 44.23752,
       "lng": -76.469244,
       "name": "Department of Applied Military Science"
+    },
+    "7a629f56ad0d4601bfb03299b1df3b99.16": {
+      "guid": "7a629f56ad0d4601bfb03299b1df3b99.16",
+      "lat": 44.222587,
+      "lng": -76.642639,
+      "name": "Jesus Statue"
     }
   },
   "notpogo": {
@@ -6665,6 +6671,8 @@
       "name": "Service correctionnel du Canad"
     }
   },
-  "ignoredCellsExtraGyms": {},
+  "ignoredCellsExtraGyms": {
+    "F2ij[5654,16378]@14": true
+  },
   "ignoredCellsMissingGyms": {}
 }
