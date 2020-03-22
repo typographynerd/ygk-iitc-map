@@ -1649,6 +1649,12 @@
       "lat": 44.219987,
       "lng": -76.530331,
       "name": "Lake Ontario Park"
+    },
+    "dec60caaa19e4d1690151ff32df892bd.16": {
+      "guid": "dec60caaa19e4d1690151ff32df892bd.16",
+      "lat": 44.214918,
+      "lng": -76.529662,
+      "name": "Imagine"
     }
   },
   "pokestops": {
@@ -3505,12 +3511,6 @@
       "lat": 44.216536,
       "lng": -76.522965,
       "name": "Ongwanada; Penrose Division Plaque"
-    },
-    "dec60caaa19e4d1690151ff32df892bd.16": {
-      "guid": "dec60caaa19e4d1690151ff32df892bd.16",
-      "lat": 44.214918,
-      "lng": -76.529662,
-      "name": "Imagine"
     },
     "23975a36f5dd4d59b571920dbf86d653.16": {
       "guid": "23975a36f5dd4d59b571920dbf86d653.16",
@@ -6643,6 +6643,24 @@
       "lat": 44.223666,
       "lng": -76.495357,
       "name": "Grand Competition 1829"
+    },
+    "96efd435c641434d80e90e67c8fb1682.16": {
+      "guid": "96efd435c641434d80e90e67c8fb1682.16",
+      "lat": 44.214502,
+      "lng": -76.52768,
+      "name": "Kingston Shoreline Route-Samson Point"
+    },
+    "164292aafa32434a8df856132ba08973.16": {
+      "guid": "164292aafa32434a8df856132ba08973.16",
+      "lat": 44.227668,
+      "lng": -76.529757,
+      "name": "Newcourt Climbing Gym"
+    },
+    "20cf244fc0e84ec993b70ba8e81caeda.16": {
+      "guid": "20cf244fc0e84ec993b70ba8e81caeda.16",
+      "lat": 44.243932,
+      "lng": -76.479897,
+      "name": "K&P Trail 2.0 KM Marker"
     }
   },
   "notpogo": {
