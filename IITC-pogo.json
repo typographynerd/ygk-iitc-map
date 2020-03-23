@@ -1655,6 +1655,12 @@
       "lat": 44.214918,
       "lng": -76.529662,
       "name": "Imagine"
+    },
+    "55e793b057694350899f1383c6282f2e.11": {
+      "guid": "55e793b057694350899f1383c6282f2e.11",
+      "lat": 44.232652,
+      "lng": -76.478629,
+      "name": "Wolfe Island Ferry Terminal"
     }
   },
   "pokestops": {
@@ -2377,12 +2383,6 @@
       "lat": 44.227433,
       "lng": -76.489977,
       "name": "Sir Oliver Mowat"
-    },
-    "55e793b057694350899f1383c6282f2e.11": {
-      "guid": "55e793b057694350899f1383c6282f2e.11",
-      "lat": 44.232652,
-      "lng": -76.478629,
-      "name": "Wolfe Island Ferry Terminal"
     },
     "e92197c96bc748fe941764f32f68a928.16": {
       "guid": "e92197c96bc748fe941764f32f68a928.16",
@@ -6673,6 +6673,12 @@
       "lat": 44.259162,
       "lng": -76.497474,
       "name": "Centro Cultural Português"
+    },
+    "8588f1c03f5a4f60a9873cf07cff7111.16": {
+      "guid": "8588f1c03f5a4f60a9873cf07cff7111.16",
+      "lat": 44.232937,
+      "lng": -76.478771,
+      "name": "K&P Trail Marker - Ontario Street/Tragically Hip Way"
     }
   },
   "notpogo": {
