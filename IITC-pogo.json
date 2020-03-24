@@ -1661,6 +1661,12 @@
       "lat": 44.232652,
       "lng": -76.478629,
       "name": "Wolfe Island Ferry Terminal"
+    },
+    "6f63aafcef2b475290d611704f6b0327.16": {
+      "guid": "6f63aafcef2b475290d611704f6b0327.16",
+      "lat": 44.253671,
+      "lng": -76.561318,
+      "name": "Bexleygate Park"
     }
   },
   "pokestops": {
@@ -5000,12 +5006,6 @@
       "lng": -76.470652,
       "name": "Flight of the Royal George"
     },
-    "6f63aafcef2b475290d611704f6b0327.16": {
-      "guid": "6f63aafcef2b475290d611704f6b0327.16",
-      "lat": 44.253671,
-      "lng": -76.561318,
-      "name": "Bexleygate Park"
-    },
     "bf50bb419cbc49b0a0827a20152cfd7c.16": {
       "guid": "bf50bb419cbc49b0a0827a20152cfd7c.16",
       "lat": 44.244626,
@@ -6679,6 +6679,12 @@
       "lat": 44.232937,
       "lng": -76.478771,
       "name": "K&P Trail Marker - Ontario Street/Tragically Hip Way"
+    },
+    "7def41cb694b4feea7cfd26fcccbf55f.16": {
+      "guid": "7def41cb694b4feea7cfd26fcccbf55f.16",
+      "lat": 44.253062,
+      "lng": -76.560506,
+      "name": "Bexleygate Park Soccer Field"
     }
   },
   "notpogo": {
