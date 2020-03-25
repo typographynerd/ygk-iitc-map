@@ -5036,12 +5036,6 @@
       "lng": -76.648468,
       "name": "Dinosaur Park (north entrance)"
     },
-    "a844556aa55c439c860b0b217bcb711c.16": {
-      "guid": "a844556aa55c439c860b0b217bcb711c.16",
-      "lat": 44.223403,
-      "lng": -76.649367,
-      "name": "Local Basketball Court"
-    },
     "b8d7fa63d0624da39c70e4686be2bc2e.16": {
       "guid": "b8d7fa63d0624da39c70e4686be2bc2e.16",
       "lat": 44.228665,
@@ -6709,6 +6703,12 @@
       "lat": 44.239327,
       "lng": -76.543587,
       "name": "Kingsway Christian Church"
+    },
+    "a844556aa55c439c860b0b217bcb711c.16": {
+      "guid": "a844556aa55c439c860b0b217bcb711c.16",
+      "lat": 44.223443,
+      "lng": -76.649499,
+      "name": "Local Basketball Court"
     }
   },
   "notpogo": {
