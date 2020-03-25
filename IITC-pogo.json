@@ -6685,6 +6685,30 @@
       "lat": 44.253062,
       "lng": -76.560506,
       "name": "Bexleygate Park Soccer Field"
+    },
+    "da990cb78c444942aae1eea166709317.16": {
+      "guid": "da990cb78c444942aae1eea166709317.16",
+      "lat": 44.231762,
+      "lng": -76.504488,
+      "name": "Johnson Street Playground"
+    },
+    "43950fed28d748739b87e94087e652d6.16": {
+      "guid": "43950fed28d748739b87e94087e652d6.16",
+      "lat": 44.271283,
+      "lng": -76.618745,
+      "name": "Soccer Field - Westbrook Park"
+    },
+    "e474d7010d4c4097af3d5d09c4a76827.16": {
+      "guid": "e474d7010d4c4097af3d5d09c4a76827.16",
+      "lat": 44.258159,
+      "lng": -76.577644,
+      "name": "Winchester Gazebo"
+    },
+    "0481595c452446db90e1ddcb0467a0e7.16": {
+      "guid": "0481595c452446db90e1ddcb0467a0e7.16",
+      "lat": 44.239327,
+      "lng": -76.543587,
+      "name": "Kingsway Christian Church"
     }
   },
   "notpogo": {
