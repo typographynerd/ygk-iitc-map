@@ -1667,6 +1667,12 @@
       "lat": 44.253671,
       "lng": -76.561318,
       "name": "Bexleygate Park"
+    },
+    "de59328764a14b2a8424b76afee7b46e.16": {
+      "guid": "de59328764a14b2a8424b76afee7b46e.16",
+      "lat": 44.222567,
+      "lng": -76.640725,
+      "name": "McPherson Park"
     }
   },
   "pokestops": {
@@ -4123,12 +4129,6 @@
       "lat": 44.22642,
       "lng": -76.641612,
       "name": "Amherstview Lions Hall"
-    },
-    "de59328764a14b2a8424b76afee7b46e.16": {
-      "guid": "de59328764a14b2a8424b76afee7b46e.16",
-      "lat": 44.222567,
-      "lng": -76.640725,
-      "name": "McPherson Park"
     },
     "94e674d1cb8c41bb934c2d2cb44c8b49.16": {
       "guid": "94e674d1cb8c41bb934c2d2cb44c8b49.16",
@@ -6709,6 +6709,24 @@
       "lat": 44.223443,
       "lng": -76.649499,
       "name": "Local Basketball Court"
+    },
+    "d3da01873a904325abf7e7d086738047.16": {
+      "guid": "d3da01873a904325abf7e7d086738047.16",
+      "lat": 44.221907,
+      "lng": -76.642267,
+      "name": "Windsor Gazebo"
+    },
+    "8dac3d061cc34dc898bdfa5528d1ac4f.16": {
+      "guid": "8dac3d061cc34dc898bdfa5528d1ac4f.16",
+      "lat": 44.231486,
+      "lng": -76.573115,
+      "name": "LaSalle Park Baseball Diamond (1 of 3)"
+    },
+    "084f9c26473d4c8a93d7dd393d67ac94.16": {
+      "guid": "084f9c26473d4c8a93d7dd393d67ac94.16",
+      "lat": 44.234184,
+      "lng": -76.511046,
+      "name": "Compton Park Baseball Field"
     }
   },
   "notpogo": {
@@ -6741,6 +6759,12 @@
       "lat": 44.221312,
       "lng": -76.510998,
       "name": "Service correctionnel du Canad"
+    },
+    "f59c560acb8f47c38565a2e9acc28310.16": {
+      "guid": "f59c560acb8f47c38565a2e9acc28310.16",
+      "lat": 44.282578,
+      "lng": -76.474683,
+      "name": "FRP Club "
     }
   },
   "ignoredCellsExtraGyms": {},
