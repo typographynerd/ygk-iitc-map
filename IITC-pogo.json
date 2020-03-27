@@ -6716,17 +6716,17 @@
       "lng": -76.642267,
       "name": "Windsor Gazebo"
     },
-    "8dac3d061cc34dc898bdfa5528d1ac4f.16": {
-      "guid": "8dac3d061cc34dc898bdfa5528d1ac4f.16",
-      "lat": 44.231486,
-      "lng": -76.573115,
-      "name": "LaSalle Park Baseball Diamond (1 of 3)"
-    },
     "084f9c26473d4c8a93d7dd393d67ac94.16": {
       "guid": "084f9c26473d4c8a93d7dd393d67ac94.16",
       "lat": 44.234184,
       "lng": -76.511046,
       "name": "Compton Park Baseball Field"
+    },
+    "4e7d6eafcf0e4abdbe172fd39b949efe.16": {
+      "guid": "4e7d6eafcf0e4abdbe172fd39b949efe.16",
+      "lat": 44.221058,
+      "lng": -76.529901,
+      "name": "Centre for Behavioral Studies"
     }
   },
   "notpogo": {
