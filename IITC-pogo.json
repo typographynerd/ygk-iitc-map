@@ -1673,6 +1673,18 @@
       "lat": 44.222567,
       "lng": -76.640725,
       "name": "McPherson Park"
+    },
+    "bb79ca9a3a3848fa8d2db73d7a4f8cf3.16": {
+      "guid": "bb79ca9a3a3848fa8d2db73d7a4f8cf3.16",
+      "lat": 44.252758,
+      "lng": -76.487098,
+      "name": "Kingston Sikh Cultural Association Gurudwara"
+    },
+    "2e4b0fe7fecb47cdab6775a1a5865d27.16": {
+      "guid": "2e4b0fe7fecb47cdab6775a1a5865d27.16",
+      "lat": 44.218745,
+      "lng": -76.538986,
+      "name": "Kingston Shoreline Route - Commodore’s Cove"
     }
   },
   "pokestops": {
@@ -6596,12 +6608,6 @@
       "lng": -76.491488,
       "name": "The School of Rehabilitation Therapy"
     },
-    "2e4b0fe7fecb47cdab6775a1a5865d27.16": {
-      "guid": "2e4b0fe7fecb47cdab6775a1a5865d27.16",
-      "lat": 44.218745,
-      "lng": -76.538986,
-      "name": "Kingston Shoreline Route - Commodore’s Cove"
-    },
     "d411fa332fa349349dc52616b2e90ba6.16": {
       "guid": "d411fa332fa349349dc52616b2e90ba6.16",
       "lat": 44.224386,
@@ -6751,6 +6757,18 @@
       "lat": 44.215415,
       "lng": -76.528157,
       "name": "Providence Care Basketball Court #1"
+    },
+    "c8f50205942c4474b7e350638ae1c95a.16": {
+      "guid": "c8f50205942c4474b7e350638ae1c95a.16",
+      "lat": 44.258945,
+      "lng": -76.479406,
+      "name": "Riverpark Community Playground"
+    },
+    "18975edfbdf04959861c733fa679fec1.16": {
+      "guid": "18975edfbdf04959861c733fa679fec1.16",
+      "lat": 44.218877,
+      "lng": -76.536566,
+      "name": "Kingston Shoreline Route-Richardson Wharf"
     }
   },
   "notpogo": {
@@ -6791,8 +6809,6 @@
       "name": "FRP Club "
     }
   },
-  "ignoredCellsExtraGyms": {
-    "F2ij[5654,16378]@14": true
-  },
+  "ignoredCellsExtraGyms": {},
   "ignoredCellsMissingGyms": {}
 }
