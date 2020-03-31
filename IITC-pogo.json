@@ -1958,12 +1958,6 @@
       "lng": -76.495257,
       "name": "McGibbon Walk"
     },
-    "e7f73c52c8294371811e00620c3a7d51.11": {
-      "guid": "e7f73c52c8294371811e00620c3a7d51.11",
-      "lat": 44.226543,
-      "lng": -76.495232,
-      "name": "Ontario Hall"
-    },
     "9865371da63d4099adbf65a463643e3b.16": {
       "guid": "9865371da63d4099adbf65a463643e3b.16",
       "lat": 44.225063,
@@ -2317,12 +2311,6 @@
       "lat": 44.230317,
       "lng": -76.485175,
       "name": "Family Medicine Plaque"
-    },
-    "8d51f9f0f14a4e7a883e9fd08ec8b6f1.12": {
-      "guid": "8d51f9f0f14a4e7a883e9fd08ec8b6f1.12",
-      "lat": 44.230706,
-      "lng": -76.484411,
-      "name": "Kingston Post Office"
     },
     "4b4bcbe30d2140d1b46378c0031ba9e6.16": {
       "guid": "4b4bcbe30d2140d1b46378c0031ba9e6.16",
@@ -6782,9 +6770,21 @@
       "lng": -76.567583,
       "name": "Neighbourhood Playground"
     },
+    "e7f73c52c8294371811e00620c3a7d51.11": {
+      "guid": "e7f73c52c8294371811e00620c3a7d51.11",
+      "lat": 44.226587,
+      "name": "Ontario Hall"
+      "lng": -76.495274,
+    },
+    "8d51f9f0f14a4e7a883e9fd08ec8b6f1.12": {
+      "guid": "8d51f9f0f14a4e7a883e9fd08ec8b6f1.12",
+      "lat": 44.230755,
+      "lng": -76.484466,
+      "name": "Kingston Post Office"
+    },
     "1b1363459751480a917b3ba33c46fd99.16": {
-      "guid": "1b1363459751480a917b3ba33c46fd99.16",
       "lat": 44.227971,
+      "guid": "1b1363459751480a917b3ba33c46fd99.16",
       "lng": -76.488917,
       "name": "City and County Registry Offices 1876"
     }
