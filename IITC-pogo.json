@@ -122,12 +122,6 @@
       "lng": -76.487289,
       "name": "Sir John A. MacDonald Mother's Residence"
     },
-    "430e0fd01fc94818925902a8bf784a3f.16": {
-      "guid": "430e0fd01fc94818925902a8bf784a3f.16",
-      "lat": 44.227669,
-      "lng": -76.489665,
-      "name": "Frontenac County Court House"
-    },
     "ab32087670304fde8a35475b4b6cde80.16": {
       "guid": "ab32087670304fde8a35475b4b6cde80.16",
       "lat": 44.233677,
@@ -1685,6 +1679,12 @@
       "lat": 44.218745,
       "lng": -76.538986,
       "name": "Kingston Shoreline Route - Commodore’s Cove"
+    },
+    "430e0fd01fc94818925902a8bf784a3f.16": {
+      "guid": "430e0fd01fc94818925902a8bf784a3f.16",
+      "lat": 44.22782,
+      "lng": -76.489679,
+      "name": "Frontenac County Court House"
     }
   },
   "pokestops": {
@@ -6781,6 +6781,12 @@
       "lat": 44.254597,
       "lng": -76.567583,
       "name": "Neighbourhood Playground"
+    },
+    "1b1363459751480a917b3ba33c46fd99.16": {
+      "guid": "1b1363459751480a917b3ba33c46fd99.16",
+      "lat": 44.227971,
+      "lng": -76.488917,
+      "name": "City and County Registry Offices 1876"
     }
   },
   "notpogo": {
