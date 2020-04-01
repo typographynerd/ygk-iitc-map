@@ -6770,12 +6770,6 @@
       "lng": -76.567583,
       "name": "Neighbourhood Playground"
     },
-    "e7f73c52c8294371811e00620c3a7d51.11": {
-      "guid": "e7f73c52c8294371811e00620c3a7d51.11",
-      "lat": 44.226587,
-      "name": "Ontario Hall"
-      "lng": -76.495274,
-    },
     "8d51f9f0f14a4e7a883e9fd08ec8b6f1.12": {
       "guid": "8d51f9f0f14a4e7a883e9fd08ec8b6f1.12",
       "lat": 44.230755,
@@ -6783,10 +6777,16 @@
       "name": "Kingston Post Office"
     },
     "1b1363459751480a917b3ba33c46fd99.16": {
-      "lat": 44.227971,
       "guid": "1b1363459751480a917b3ba33c46fd99.16",
+      "lat": 44.227971,
       "lng": -76.488917,
       "name": "City and County Registry Offices 1876"
+    },
+    "e7f73c52c8294371811e00620c3a7d51.11": {
+      "guid": "e7f73c52c8294371811e00620c3a7d51.11",
+      "lat": 44.226587,
+      "lng": -76.495274,
+      "name": "Ontario Hall"
     }
   },
   "notpogo": {
