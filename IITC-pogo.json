@@ -5466,7 +5466,7 @@
       "guid": "5ef48cd7cdf94bd6ab59b21293ab24c2.16",
       "lat": 44.219894,
       "lng": -76.537887,
-      "name": "Kingston East Waterfront Trail Map"
+      "name": "Kingston East Waterfront Trail Map - Commodores Cove"
     },
     "c89519c1d18e47d091d25428dc99f4f8.16": {
       "guid": "c89519c1d18e47d091d25428dc99f4f8.16",
@@ -6823,6 +6823,18 @@
       "lat": 44.237286,
       "lng": -76.531274,
       "name": "McCullough - Silas Stevens Footbridge"
+    },
+    "6ef2cde6883045e4ac6b4ce9393ddf0c.16": {
+      "guid": "6ef2cde6883045e4ac6b4ce9393ddf0c.16",
+      "lat": 44.223563,
+      "lng": -76.489261,
+      "name": "Sniper Memorial"
+    },
+    "1cea3ffcf62a445282d82826f0f7e336.16": {
+      "guid": "1cea3ffcf62a445282d82826f0f7e336.16",
+      "lat": 44.253277,
+      "lng": -76.570487,
+      "name": "Lions Civic Gardens Walking Bridge"
     }
   },
   "notpogo": {
