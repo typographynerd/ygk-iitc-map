@@ -6799,6 +6799,30 @@
       "lat": 44.230825,
       "lng": -76.484047,
       "name": "The Gore Fountain"
+    },
+    "0dbe8bd21a214394bd09a620069532d6.16": {
+      "guid": "0dbe8bd21a214394bd09a620069532d6.16",
+      "lat": 44.251936,
+      "lng": -76.483497,
+      "name": "John Finlay Elder Memorial Tennis Complex"
+    },
+    "fa4e1544368d4f7bbaa7327d3509d286.16": {
+      "guid": "fa4e1544368d4f7bbaa7327d3509d286.16",
+      "lat": 44.252281,
+      "lng": -76.483416,
+      "name": "Pickleball Kingston"
+    },
+    "b878e65fe98f4c2d877b9fec717197fe.16": {
+      "guid": "b878e65fe98f4c2d877b9fec717197fe.16",
+      "lat": 44.224917,
+      "lng": -76.512173,
+      "name": "Women’s Memorial Garden"
+    },
+    "5da3e8347426402cbd99425ea3035185.16": {
+      "guid": "5da3e8347426402cbd99425ea3035185.16",
+      "lat": 44.237286,
+      "lng": -76.531274,
+      "name": "McCullough - Silas Stevens Footbridge"
     }
   },
   "notpogo": {
@@ -6839,6 +6863,8 @@
       "name": "FRP Club "
     }
   },
-  "ignoredCellsExtraGyms": {},
+  "ignoredCellsExtraGyms": {
+    "F2ij[5654,16378]@14": true
+  },
   "ignoredCellsMissingGyms": {}
 }
