@@ -6837,10 +6837,58 @@
       "name": "Bruce Wing"
     },
     "e1264046b074474a83cdfe76d11299a2.16": {
-      "lat": 44.222611,
       "guid": "e1264046b074474a83cdfe76d11299a2.16",
+      "lat": 44.222611,
       "lng": -76.486869,
       "name": "Kingston Yacht Club"
+    },
+    "3fcc8974869243feb936ee7c6424e674.16": {
+      "guid": "3fcc8974869243feb936ee7c6424e674.16",
+      "lat": 44.235563,
+      "lng": -76.579156,
+      "name": "Canatara Tennis Court"
+    },
+    "64417da6864b423e98345a515a6f3eff.16": {
+      "guid": "64417da6864b423e98345a515a6f3eff.16",
+      "lat": 44.224844,
+      "lng": -76.515862,
+      "name": "Jean Royce Hall Phase 2"
+    },
+    "ecee6df270d84ff8a2fb6eacc0dc4f6a.16": {
+      "guid": "ecee6df270d84ff8a2fb6eacc0dc4f6a.16",
+      "lat": 44.214476,
+      "lng": -76.529222,
+      "name": "Kingston Shoreline Route-Lake Ontario Park East"
+    },
+    "520fb98766b4484cb0dc82114ca80d46.16": {
+      "guid": "520fb98766b4484cb0dc82114ca80d46.16",
+      "lat": 44.235316,
+      "lng": -76.569673,
+      "name": "Mary Statue"
+    },
+    "988285129f304a8090d858d29080f704.16": {
+      "guid": "988285129f304a8090d858d29080f704.16",
+      "lat": 44.225547,
+      "lng": -76.521974,
+      "name": "Portsmouth Soccer Field (1 of 2)"
+    },
+    "a341cad3977743ca80acee2412428c2f.16": {
+      "guid": "a341cad3977743ca80acee2412428c2f.16",
+      "lat": 44.216009,
+      "lng": -76.527223,
+      "name": "Providence Care Basketball Court #2"
+    },
+    "69aa10209a864fa99f82e4c4343b3e98.16": {
+      "guid": "69aa10209a864fa99f82e4c4343b3e98.16",
+      "lat": 44.237994,
+      "lng": -76.531306,
+      "name": "Silas Stevens Park"
+    },
+    "52c152bd69bd4950bf8e6f6730dcd464.16": {
+      "guid": "52c152bd69bd4950bf8e6f6730dcd464.16",
+      "lat": 44.226427,
+      "lng": -76.526735,
+      "name": "St. Lawrence North Sports Field"
     }
   },
   "notpogo": {
