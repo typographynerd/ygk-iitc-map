@@ -1685,6 +1685,18 @@
       "lat": 44.22782,
       "lng": -76.489679,
       "name": "Frontenac County Court House"
+    },
+    "5b14e0dbecd644bbbca30940dbc66cb8.16": {
+      "guid": "5b14e0dbecd644bbbca30940dbc66cb8.16",
+      "lat": 44.215374,
+      "lng": -76.530324,
+      "name": "Friends of Lake Ontario Park Tree Plaque"
+    },
+    "63e563e230514f85b8b1b20204b8711f.16": {
+      "guid": "63e563e230514f85b8b1b20204b8711f.16",
+      "lat": 44.225916,
+      "lng": -76.513714,
+      "name": "The Garden Of Education"
     }
   },
   "pokestops": {
@@ -2989,12 +3001,6 @@
       "lat": 44.228961,
       "lng": -76.514518,
       "name": "Miklas- McCarney Field"
-    },
-    "63e563e230514f85b8b1b20204b8711f.16": {
-      "guid": "63e563e230514f85b8b1b20204b8711f.16",
-      "lat": 44.225916,
-      "lng": -76.513714,
-      "name": "The Garden Of Education"
     },
     "1ef36cb79b0e4c829644bc9087c07889.16": {
       "guid": "1ef36cb79b0e4c829644bc9087c07889.16",
@@ -5479,12 +5485,6 @@
       "lat": 44.215401,
       "lng": -76.529179,
       "name": "Providence Care Gazebo"
-    },
-    "5b14e0dbecd644bbbca30940dbc66cb8.16": {
-      "guid": "5b14e0dbecd644bbbca30940dbc66cb8.16",
-      "lat": 44.215374,
-      "lng": -76.530324,
-      "name": "Friends of Lake Ontario Park Tree Plaque"
     },
     "2452634683244df19ccf3a95d6f78f23.16": {
       "guid": "2452634683244df19ccf3a95d6f78f23.16",
