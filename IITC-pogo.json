@@ -1697,6 +1697,24 @@
       "lat": 44.225928,
       "lng": -76.513797,
       "name": "The Garden Of Education"
+    },
+    "988285129f304a8090d858d29080f704.16": {
+      "guid": "988285129f304a8090d858d29080f704.16",
+      "lat": 44.225547,
+      "lng": -76.521974,
+      "name": "Portsmouth Soccer Field (1 of 2)"
+    },
+    "e078f49f90f4469691356ca36b867fc3.16": {
+      "guid": "e078f49f90f4469691356ca36b867fc3.16",
+      "lat": 44.236978,
+      "lng": -76.578885,
+      "name": "Canatara Pergola"
+    },
+    "07c5d20da77d4abc81f47b13d41065d9.16": {
+      "guid": "07c5d20da77d4abc81f47b13d41065d9.16",
+      "lat": 44.224253,
+      "lng": -76.52752,
+      "name": "Red Sculpture"
     }
   },
   "pokestops": {
@@ -3548,12 +3566,6 @@
       "lng": -76.522217,
       "name": "Good Thief Parish Hall"
     },
-    "07c5d20da77d4abc81f47b13d41065d9.16": {
-      "guid": "07c5d20da77d4abc81f47b13d41065d9.16",
-      "lat": 44.224253,
-      "lng": -76.52752,
-      "name": "Red Sculpture"
-    },
     "2b9c83457c094190803c0d4d70cd021c.16": {
       "guid": "2b9c83457c094190803c0d4d70cd021c.16",
       "lat": 44.220835,
@@ -5286,7 +5298,7 @@
       "guid": "8384989dfa694c27a972c920c48d06a7.16",
       "lat": 44.222656,
       "lng": -76.495921,
-      "name": "Kingston Shoreline Route"
+      "name": "Shoreline Route Marker - Breakwater Park"
     },
     "52f7e8dbd5be4f90a82ed979f21ee61a.16": {
       "guid": "52f7e8dbd5be4f90a82ed979f21ee61a.16",
@@ -6866,12 +6878,6 @@
       "lng": -76.569673,
       "name": "Mary Statue"
     },
-    "988285129f304a8090d858d29080f704.16": {
-      "guid": "988285129f304a8090d858d29080f704.16",
-      "lat": 44.225547,
-      "lng": -76.521974,
-      "name": "Portsmouth Soccer Field (1 of 2)"
-    },
     "a341cad3977743ca80acee2412428c2f.16": {
       "guid": "a341cad3977743ca80acee2412428c2f.16",
       "lat": 44.216009,
@@ -6895,6 +6901,60 @@
       "lat": 44.227364,
       "lng": -76.493136,
       "name": "Miller Museum of Geology"
+    },
+    "3025aa8403414e2db9df4e0ec296109d.16": {
+      "guid": "3025aa8403414e2db9df4e0ec296109d.16",
+      "lat": 44.225682,
+      "lng": -76.514276,
+      "name": "John Orr Tower"
+    },
+    "9d7e22ebcdb24c8a82e63ca2b1d0b4d1.16": {
+      "guid": "9d7e22ebcdb24c8a82e63ca2b1d0b4d1.16",
+      "lat": 44.227588,
+      "lng": -76.515299,
+      "name": "The Richardson Family Legacy"
+    },
+    "d2084d6ac19f4aff82b0242176494676.16": {
+      "guid": "d2084d6ac19f4aff82b0242176494676.16",
+      "lat": 44.223669,
+      "lng": -76.486178,
+      "name": "Simcoe Pergola"
+    },
+    "7880d31212f449b49290b83f1e78e7d3.16": {
+      "guid": "7880d31212f449b49290b83f1e78e7d3.16",
+      "lat": 44.226643,
+      "lng": -76.530605,
+      "name": "The Brad Street Playground"
+    },
+    "9f0de3aa85fe49a1a4681e919981277c.16": {
+      "guid": "9f0de3aa85fe49a1a4681e919981277c.16",
+      "lat": 44.227364,
+      "lng": -76.525082,
+      "name": "Joseph Dominik Sensory Garden"
+    },
+    "deb20b89d6174c63bd26436392f0c3a4.16": {
+      "guid": "deb20b89d6174c63bd26436392f0c3a4.16",
+      "lat": 44.223881,
+      "lng": -76.495269,
+      "name": "McLaughlin Bust"
+    },
+    "718caf28464246aba0e46a6e2892028f.16": {
+      "guid": "718caf28464246aba0e46a6e2892028f.16",
+      "lat": 44.226228,
+      "lng": -76.522578,
+      "name": "Woodlands Soccer Field #2"
+    },
+    "c59ab213edcb48a9974aa81be7468329.16": {
+      "guid": "c59ab213edcb48a9974aa81be7468329.16",
+      "lat": 44.253389,
+      "lng": -76.561771,
+      "name": "Bexleygate Park Baseball Diamond"
+    },
+    "b1c58cdcc5d74e80bd0830558b6e4a66.16": {
+      "guid": "b1c58cdcc5d74e80bd0830558b6e4a66.16",
+      "lat": 44.249845,
+      "lng": -76.590926,
+      "name": "Sexton basketball court"
     }
   },
   "notpogo": {
