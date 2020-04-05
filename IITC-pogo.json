@@ -5268,7 +5268,7 @@
       "guid": "3294aee116954f8db6e05f264c0e0b56.16",
       "lat": 44.222357,
       "lng": -76.488921,
-      "name": "MacDonald Park Rideau Trail Marker"
+      "name": "Waterfront/Rideau Trail Marker - MacDonald Park"
     },
     "bc595bca17eb48b39b217b75219dcc63.16": {
       "guid": "bc595bca17eb48b39b217b75219dcc63.16",
@@ -6973,6 +6973,12 @@
       "lat": 44.230503,
       "lng": -76.482101,
       "name": "Manifested Augenblick-Work at Metamorphasis"
+    },
+    "7063ad7e05624eb78538469eb43e7013.16": {
+      "guid": "7063ad7e05624eb78538469eb43e7013.16",
+      "lat": 44.226296,
+      "lng": -76.489867,
+      "name": "Cricket Field Baseball Diamond"
     }
   },
   "notpogo": {
