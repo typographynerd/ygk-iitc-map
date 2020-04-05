@@ -84,13 +84,6 @@
       "name": "The Fight of the Royal George",
       "isEx": true
     },
-    "63beb1f3f1e246f3b4e2a570273f503a.16": {
-      "guid": "63beb1f3f1e246f3b4e2a570273f503a.16",
-      "lat": 44.228916,
-      "lng": -76.4798,
-      "name": "Wooden Watchtower",
-      "isEx": true
-    },
     "9fcd1c036797471b969d4e12df64f680.16": {
       "guid": "9fcd1c036797471b969d4e12df64f680.16",
       "lat": 44.229255,
@@ -1715,6 +1708,13 @@
       "lat": 44.224253,
       "lng": -76.52752,
       "name": "Red Sculpture"
+    },
+    "63beb1f3f1e246f3b4e2a570273f503a.16": {
+      "guid": "63beb1f3f1e246f3b4e2a570273f503a.16",
+      "lat": 44.228956,
+      "lng": -76.479727,
+      "name": "Wooden Watchtower",
+      "isEx": true
     }
   },
   "pokestops": {
@@ -2341,12 +2341,6 @@
       "lat": 44.23082,
       "lng": -76.483316,
       "name": "Historical Mural 1682"
-    },
-    "acda024cf29d4f47ab938f90e44fdc1b.16": {
-      "guid": "acda024cf29d4f47ab938f90e44fdc1b.16",
-      "lat": 44.23053,
-      "lng": -76.482238,
-      "name": "Manifested Augenblick-Work at Metamorphasis"
     },
     "52f5c7d1fdda456092befa3cb4b05028.16": {
       "guid": "52f5c7d1fdda456092befa3cb4b05028.16",
@@ -6967,6 +6961,18 @@
       "lat": 44.227034,
       "lng": -76.527239,
       "name": "Curtis Crescent Playground"
+    },
+    "70e7d59040b443b99a4020c8e4b9351a.16": {
+      "guid": "70e7d59040b443b99a4020c8e4b9351a.16",
+      "lat": 44.239109,
+      "lng": -76.529692,
+      "name": "Local playground"
+    },
+    "acda024cf29d4f47ab938f90e44fdc1b.16": {
+      "guid": "acda024cf29d4f47ab938f90e44fdc1b.16",
+      "lat": 44.230503,
+      "lng": -76.482101,
+      "name": "Manifested Augenblick-Work at Metamorphasis"
     }
   },
   "notpogo": {
