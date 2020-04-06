@@ -2214,7 +2214,7 @@
       "guid": "210c264137f74915990f2e6dd69852f4.16",
       "lat": 44.228592,
       "lng": -76.479757,
-      "name": "Waterfront Trail/Rideau Trail Marker"
+      "name": "Waterfront/Rideau Trail Marker - Clarence St"
     },
     "4403dc0a0a8d41b6bc4708afc3471665.16": {
       "guid": "4403dc0a0a8d41b6bc4708afc3471665.16",
@@ -6979,6 +6979,18 @@
       "lat": 44.226296,
       "lng": -76.489867,
       "name": "Cricket Field Baseball Diamond"
+    },
+    "de339ee039a0427faaeb03aab68951f6.16": {
+      "guid": "de339ee039a0427faaeb03aab68951f6.16",
+      "lat": 44.230887,
+      "lng": -76.482791,
+      "name": "George Browne Architect"
+    },
+    "24309637abee4c2e8464b237e58fae7b.16": {
+      "guid": "24309637abee4c2e8464b237e58fae7b.16",
+      "lat": 44.23779,
+      "lng": -76.531307,
+      "name": "Silas Stevens Basketball Court"
     }
   },
   "notpogo": {
