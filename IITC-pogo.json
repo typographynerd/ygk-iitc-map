@@ -2318,12 +2318,6 @@
       "lng": -76.481018,
       "name": "Sir John's Office"
     },
-    "66f5104fc2664340841dc51653815f2e.16": {
-      "guid": "66f5104fc2664340841dc51653815f2e.16",
-      "lat": 44.229721,
-      "lng": -76.482721,
-      "name": "Boucher Park"
-    },
     "0504f18c87164f3195fb52e00b390579.16": {
       "guid": "0504f18c87164f3195fb52e00b390579.16",
       "lat": 44.2301,
@@ -6997,6 +6991,18 @@
       "lat": 44.226448,
       "lng": -76.522197,
       "name": "KSL Playground"
+    },
+    "66f5104fc2664340841dc51653815f2e.16": {
+      "guid": "66f5104fc2664340841dc51653815f2e.16",
+      "lat": 44.229859,
+      "lng": -76.482601,
+      "name": "Boucher Park"
+    },
+    "7aa517f73e074a5d9f0ba660956e9153.16": {
+      "guid": "7aa517f73e074a5d9f0ba660956e9153.16",
+      "lat": 44.245384,
+      "lng": -76.505604,
+      "name": "Third Avenue Baseball Diamond"
     }
   },
   "notpogo": {
