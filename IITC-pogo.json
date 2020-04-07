@@ -1335,7 +1335,7 @@
       "guid": "af6d6b6f439646ffbebc2384d3efe450.16",
       "lat": 44.215549,
       "lng": -76.530887,
-      "name": "Rideau Trail Marker",
+      "name": "Rideau/Waterfront Trail Marker - Lake Ontario Park Steps",
       "isEx": true
     },
     "adc40eff659a4a9caf132890df931ccb.12": {
@@ -6991,6 +6991,12 @@
       "lat": 44.23779,
       "lng": -76.531307,
       "name": "Silas Stevens Basketball Court"
+    },
+    "6e8852225f5c49478bfef4efe11d79fa.16": {
+      "guid": "6e8852225f5c49478bfef4efe11d79fa.16",
+      "lat": 44.226448,
+      "lng": -76.522197,
+      "name": "KSL Playground"
     }
   },
   "notpogo": {
