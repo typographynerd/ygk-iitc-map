@@ -2234,12 +2234,6 @@
       "lng": -76.479111,
       "name": "Louis de Buade Comte de Fronte"
     },
-    "dc5565db76b542ee8505ece5bbff2af6.16": {
-      "guid": "dc5565db76b542ee8505ece5bbff2af6.16",
-      "lat": 44.230024,
-      "lng": -76.47968,
-      "name": "Antique Ship Anchor"
-    },
     "9ca55520d4d744ea921dd173c8b006c4.16": {
       "guid": "9ca55520d4d744ea921dd173c8b006c4.16",
       "lat": 44.229613,
@@ -7009,6 +7003,12 @@
       "lat": 44.238262,
       "lng": -76.48139,
       "name": "Snow Angels"
+    },
+    "dc5565db76b542ee8505ece5bbff2af6.16": {
+      "guid": "dc5565db76b542ee8505ece5bbff2af6.16",
+      "lat": 44.229931,
+      "lng": -76.4796,
+      "name": "Antique Ship Anchor"
     }
   },
   "notpogo": {
