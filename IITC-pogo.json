@@ -6,13 +6,6 @@
       "lng": -76.492955,
       "name": "Kingston General Hospital Plaque "
     },
-    "13238dcfa0594811b92dc44b07cc9478.16": {
-      "guid": "13238dcfa0594811b92dc44b07cc9478.16",
-      "lat": 44.222375,
-      "lng": -76.489361,
-      "name": "Gaskin Lion",
-      "isEx": true
-    },
     "7e94ff67e83342f79ee9143e20a8604b.16": {
       "guid": "7e94ff67e83342f79ee9143e20a8604b.16",
       "lat": 44.222041,
@@ -1721,6 +1714,13 @@
       "lat": 44.245384,
       "lng": -76.505604,
       "name": "Third Avenue Baseball Diamond"
+    },
+    "13238dcfa0594811b92dc44b07cc9478.16": {
+      "guid": "13238dcfa0594811b92dc44b07cc9478.16",
+      "lat": 44.222284,
+      "lng": -76.489385,
+      "name": "Gaskin Lion",
+      "isEx": true
     }
   },
   "pokestops": {
