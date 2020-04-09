@@ -1492,12 +1492,6 @@
       "name": "Auden Park",
       "isEx": true
     },
-    "13c911779344438eb99c255717bc118d.12": {
-      "guid": "13c911779344438eb99c255717bc118d.12",
-      "lat": 44.224158,
-      "lng": -76.484904,
-      "name": "Pump House Steam Museum"
-    },
     "741e4c5af4d64c30ae41d0041b1bb142.11": {
       "guid": "741e4c5af4d64c30ae41d0041b1bb142.11",
       "lat": 44.235096,
@@ -1715,6 +1709,18 @@
       "lng": -76.479727,
       "name": "Wooden Watchtower",
       "isEx": true
+    },
+    "13c911779344438eb99c255717bc118d.12": {
+      "guid": "13c911779344438eb99c255717bc118d.12",
+      "lat": 44.22424,
+      "lng": -76.484856,
+      "name": "Pump House Steam Museum"
+    },
+    "7aa517f73e074a5d9f0ba660956e9153.16": {
+      "guid": "7aa517f73e074a5d9f0ba660956e9153.16",
+      "lat": 44.245384,
+      "lng": -76.505604,
+      "name": "Third Avenue Baseball Diamond"
     }
   },
   "pokestops": {
@@ -2208,7 +2214,7 @@
       "guid": "398c491dca374fc4974c55d4b77d3ce0.16",
       "lat": 44.227934,
       "lng": -76.480859,
-      "name": "Waterfront Trail / Rideau Trail Marker"
+      "name": "Waterfront/Rideau Trail Marker - Johnson St"
     },
     "210c264137f74915990f2e6dd69852f4.16": {
       "guid": "210c264137f74915990f2e6dd69852f4.16",
@@ -2221,12 +2227,6 @@
       "lat": 44.229315,
       "lng": -76.480789,
       "name": "Prince George Hotel"
-    },
-    "c3235174f33343f59d28c2635fb57fb6.16": {
-      "guid": "c3235174f33343f59d28c2635fb57fb6.16",
-      "lat": 44.229385,
-      "lng": -76.479427,
-      "name": "Kingston Fortifications Shoal Tower "
     },
     "5b0bebb1b13c42b5880b6b1fe582d60d.12": {
       "guid": "5b0bebb1b13c42b5880b6b1fe582d60d.12",
@@ -6998,11 +6998,17 @@
       "lng": -76.482601,
       "name": "Boucher Park"
     },
-    "7aa517f73e074a5d9f0ba660956e9153.16": {
-      "guid": "7aa517f73e074a5d9f0ba660956e9153.16",
-      "lat": 44.245384,
-      "lng": -76.505604,
-      "name": "Third Avenue Baseball Diamond"
+    "c3235174f33343f59d28c2635fb57fb6.16": {
+      "guid": "c3235174f33343f59d28c2635fb57fb6.16",
+      "lat": 44.229305,
+      "lng": -76.479446,
+      "name": "Kingston Fortifications Shoal Tower"
+    },
+    "aec88864615f49c88d5bdff78c2f0cf5.16": {
+      "guid": "aec88864615f49c88d5bdff78c2f0cf5.16",
+      "lat": 44.244871,
+      "lng": -76.504814,
+      "name": "Third Avenue Playground"
     }
   },
   "notpogo": {
