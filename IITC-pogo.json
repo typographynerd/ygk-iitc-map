@@ -2480,12 +2480,6 @@
       "lng": -76.480851,
       "name": "No One Is Watching - So Dance"
     },
-    "8594bc23c7984e858ee5a289a13fd88e.16": {
-      "guid": "8594bc23c7984e858ee5a289a13fd88e.16",
-      "lat": 44.239062,
-      "lng": -76.480798,
-      "name": "Snow Angels"
-    },
     "078830650baf4cb0be1d184b7b08d989.16": {
       "guid": "078830650baf4cb0be1d184b7b08d989.16",
       "lat": 44.239838,
@@ -7009,6 +7003,12 @@
       "lat": 44.244871,
       "lng": -76.504814,
       "name": "Third Avenue Playground"
+    },
+    "8594bc23c7984e858ee5a289a13fd88e.16": {
+      "guid": "8594bc23c7984e858ee5a289a13fd88e.16",
+      "lat": 44.238262,
+      "lng": -76.48139,
+      "name": "Snow Angels"
     }
   },
   "notpogo": {
