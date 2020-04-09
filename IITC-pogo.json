@@ -1721,6 +1721,12 @@
       "lng": -76.489385,
       "name": "Gaskin Lion",
       "isEx": true
+    },
+    "2735aa9dc82c4939bb0b43d8f4aa7eb1.16": {
+      "guid": "2735aa9dc82c4939bb0b43d8f4aa7eb1.16",
+      "lat": 44.228293,
+      "lng": -76.481451,
+      "name": "PJ Murphy’s Irish Gastro Pub"
     }
   },
   "pokestops": {
@@ -2203,12 +2209,6 @@
       "lat": 44.227731,
       "lng": -76.481769,
       "name": "Diocese Of Ontario"
-    },
-    "2735aa9dc82c4939bb0b43d8f4aa7eb1.16": {
-      "guid": "2735aa9dc82c4939bb0b43d8f4aa7eb1.16",
-      "lat": 44.228293,
-      "lng": -76.481451,
-      "name": "PJ Murphy’s Irish Gastro Pub"
     },
     "398c491dca374fc4974c55d4b77d3ce0.16": {
       "guid": "398c491dca374fc4974c55d4b77d3ce0.16",
@@ -7009,6 +7009,12 @@
       "lat": 44.229931,
       "lng": -76.4796,
       "name": "Antique Ship Anchor"
+    },
+    "e68ca567f6394e0ea0edeb3670dda50e.16": {
+      "guid": "e68ca567f6394e0ea0edeb3670dda50e.16",
+      "lat": 44.229772,
+      "lng": -76.479424,
+      "name": "Atlantis"
     }
   },
   "notpogo": {
