@@ -1509,12 +1509,6 @@
       "lng": -76.530082,
       "name": "K&P Trail 8km Marker"
     },
-    "7298a0cf46964d47a2dca739ef2bbc65.16": {
-      "guid": "7298a0cf46964d47a2dca739ef2bbc65.16",
-      "lat": 44.22783,
-      "lng": -76.514983,
-      "name": "Richardson Stadium Box Office"
-    },
     "8184d7cfc6bc4ce0ba58e7b5bf16607a.16": {
       "guid": "8184d7cfc6bc4ce0ba58e7b5bf16607a.16",
       "lat": 44.2268,
@@ -1727,6 +1721,12 @@
       "lat": 44.231698,
       "lng": -76.488834,
       "name": "Elizabeth Cottage"
+    },
+    "7298a0cf46964d47a2dca739ef2bbc65.16": {
+      "guid": "7298a0cf46964d47a2dca739ef2bbc65.16",
+      "lat": 44.227791,
+      "lng": -76.515698,
+      "name": "Richardson Memorial Stadium"
     }
   },
   "pokestops": {
