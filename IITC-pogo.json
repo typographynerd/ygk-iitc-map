@@ -1727,6 +1727,12 @@
       "lat": 44.227791,
       "lng": -76.515698,
       "name": "Richardson Memorial Stadium"
+    },
+    "ee006a96f3714aa191210dd6b2f8edc9.16": {
+      "guid": "ee006a96f3714aa191210dd6b2f8edc9.16",
+      "lat": 44.273899,
+      "lng": -76.432584,
+      "name": "John Machin East Soccer Field (2 of 2)"
     }
   },
   "pokestops": {
@@ -2467,12 +2473,6 @@
       "lat": 44.237344,
       "lng": -76.482816,
       "name": "Riverview Park"
-    },
-    "267684d6d2324729bc4d05fe119aa6c2.16": {
-      "guid": "267684d6d2324729bc4d05fe119aa6c2.16",
-      "lat": 44.238564,
-      "lng": -76.480851,
-      "name": "No One Is Watching - So Dance"
     },
     "078830650baf4cb0be1d184b7b08d989.16": {
       "guid": "078830650baf4cb0be1d184b7b08d989.16",
@@ -7021,6 +7021,48 @@
       "lat": 44.223755,
       "lng": -76.484727,
       "name": "Ahoy Rentals "
+    },
+    "b1dec7c495184e9bb7727981c44bd9c3.16": {
+      "guid": "b1dec7c495184e9bb7727981c44bd9c3.16",
+      "lat": 44.273832,
+      "lng": -76.433556,
+      "name": "John Machin East Soccer Field (1 of 2)"
+    },
+    "146d9c9322c24539bcf9b17f4ca3b9ef.16": {
+      "guid": "146d9c9322c24539bcf9b17f4ca3b9ef.16",
+      "lat": 44.273605,
+      "lng": -76.435483,
+      "name": "John Machin Main Soccer Field"
+    },
+    "2722beb785814f46bdeee3f0b53ca069.16": {
+      "guid": "2722beb785814f46bdeee3f0b53ca069.16",
+      "lat": 44.272547,
+      "lng": -76.434903,
+      "name": "Pittsburgh Community Benefit Fund Plaque"
+    },
+    "1f3711f32c5e42ddbee59379178e6b6d.16": {
+      "guid": "1f3711f32c5e42ddbee59379178e6b6d.16",
+      "lat": 44.258969,
+      "lng": -76.460114,
+      "name": "Kingston Shoreline Route Map-Pittsburgh Place Park"
+    },
+    "b5514bf2c07e44eb896f7a6188f4dc6d.16": {
+      "guid": "b5514bf2c07e44eb896f7a6188f4dc6d.16",
+      "lat": 44.238912,
+      "lng": -76.481216,
+      "name": "Trees Mural"
+    },
+    "267684d6d2324729bc4d05fe119aa6c2.16": {
+      "guid": "267684d6d2324729bc4d05fe119aa6c2.16",
+      "lat": 44.238666,
+      "lng": -76.481396,
+      "name": "No One Is Watching - So Dance"
+    },
+    "ecae5520422b496395c3c6bc1bcaee35.16": {
+      "guid": "ecae5520422b496395c3c6bc1bcaee35.16",
+      "lat": 44.227411,
+      "lng": -76.488582,
+      "name": "Cricket Field Ball Diamond"
     }
   },
   "notpogo": {
