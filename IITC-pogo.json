@@ -177,12 +177,6 @@
       "lng": -76.489325,
       "name": "St Andrew's"
     },
-    "c170dd19a1c8478ca4bd0933197824b9.16": {
-      "guid": "c170dd19a1c8478ca4bd0933197824b9.16",
-      "lat": 44.231682,
-      "lng": -76.488954,
-      "name": "Elizabeth Cottage"
-    },
     "7e0b1559d4864457bf1d8fecdf532826.16": {
       "guid": "7e0b1559d4864457bf1d8fecdf532826.16",
       "lat": 44.232771,
@@ -1727,6 +1721,12 @@
       "lat": 44.228293,
       "lng": -76.481451,
       "name": "PJ Murphy’s Irish Gastro Pub"
+    },
+    "c170dd19a1c8478ca4bd0933197824b9.16": {
+      "guid": "c170dd19a1c8478ca4bd0933197824b9.16",
+      "lat": 44.231698,
+      "lng": -76.488834,
+      "name": "Elizabeth Cottage"
     }
   },
   "pokestops": {
