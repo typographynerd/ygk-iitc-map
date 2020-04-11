@@ -1842,7 +1842,7 @@
       "guid": "be676be1845343dfadf830decf7cdcfc.16",
       "lat": 44.222229,
       "lng": -76.500692,
-      "name": "Waterfront Trail / Rideau Trail Marker"
+      "name": "Waterfront Trail / Rideau Trail Marker - Breakwater Park"
     },
     "6bec13ffc0b74fb2aac55ffeea0db089.16": {
       "guid": "6bec13ffc0b74fb2aac55ffeea0db089.16",
@@ -7063,6 +7063,12 @@
       "lat": 44.227411,
       "lng": -76.488582,
       "name": "Cricket Field Ball Diamond"
+    },
+    "52ef87f2273447f6ab35349cb577478d.16": {
+      "guid": "52ef87f2273447f6ab35349cb577478d.16",
+      "lat": 44.222947,
+      "lng": -76.489668,
+      "name": "1812"
     }
   },
   "notpogo": {
@@ -7103,6 +7109,8 @@
       "name": "FRP Club "
     }
   },
-  "ignoredCellsExtraGyms": {},
+  "ignoredCellsExtraGyms": {
+    "F2ij[5654,16378]@14": true
+  },
   "ignoredCellsMissingGyms": {}
 }
