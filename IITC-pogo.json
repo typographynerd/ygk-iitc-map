@@ -1727,6 +1727,12 @@
       "lat": 44.273899,
       "lng": -76.432584,
       "name": "John Machin East Soccer Field (2 of 2)"
+    },
+    "4b388b2ec6424650a0a9180d15bf54b3.16": {
+      "guid": "4b388b2ec6424650a0a9180d15bf54b3.16",
+      "lat": 44.257528,
+      "lng": -76.548409,
+      "name": "Kingston Gospel Temple"
     }
   },
   "pokestops": {
@@ -3438,7 +3444,7 @@
       "guid": "a025a153ec72427db73fbdd810d6bc0c.16",
       "lat": 44.22099,
       "lng": -76.517409,
-      "name": "Portsmouth Village  "
+      "name": "Portsmouth Village"
     },
     "9593f767a4ea4b8eae8286ab095f12ad.16": {
       "guid": "9593f767a4ea4b8eae8286ab095f12ad.16",
@@ -5660,12 +5666,6 @@
       "lng": -76.599581,
       "name": "Hillview Park Play Structure"
     },
-    "4b388b2ec6424650a0a9180d15bf54b3.16": {
-      "guid": "4b388b2ec6424650a0a9180d15bf54b3.16",
-      "lat": 44.257528,
-      "lng": -76.548409,
-      "name": "Kingston Gospel Temple"
-    },
     "7c1531f480d940509a69baa3675271ae.16": {
       "guid": "7c1531f480d940509a69baa3675271ae.16",
       "lat": 44.229445,
@@ -7063,6 +7063,30 @@
       "lat": 44.230789,
       "lng": -76.491703,
       "name": "Bethel Church"
+    },
+    "328e224e37eb4e519788848a9709e8c5.16": {
+      "guid": "328e224e37eb4e519788848a9709e8c5.16",
+      "lat": 44.231144,
+      "lng": -76.491426,
+      "name": "The Chapel on the Corner"
+    },
+    "d2f75aa6b38945ecbd87844d711dc66b.16": {
+      "guid": "d2f75aa6b38945ecbd87844d711dc66b.16",
+      "lat": 44.238354,
+      "lng": -76.480832,
+      "name": "Eron Dragon"
+    },
+    "edf62ea68b3e4a3f80bdf49843580ec6.16": {
+      "guid": "edf62ea68b3e4a3f80bdf49843580ec6.16",
+      "lat": 44.239564,
+      "lng": -76.481351,
+      "name": "Den Network"
+    },
+    "04eb9571befb45bc99215d10ab11c8bb.16": {
+      "guid": "04eb9571befb45bc99215d10ab11c8bb.16",
+      "lat": 44.25721,
+      "lng": -76.552174,
+      "name": "Seven Oaks Playstructure"
     }
   },
   "notpogo": {
