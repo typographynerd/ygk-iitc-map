@@ -1733,6 +1733,12 @@
       "lat": 44.257528,
       "lng": -76.548409,
       "name": "Kingston Gospel Temple"
+    },
+    "ed084da5c2ab4d59874f88e86d662b5d.16": {
+      "guid": "ed084da5c2ab4d59874f88e86d662b5d.16",
+      "lat": 44.233044,
+      "lng": -76.523006,
+      "name": "Cookes- Portsmouth United Church"
     }
   },
   "pokestops": {
@@ -3391,12 +3397,6 @@
       "lat": 44.239083,
       "lng": -76.523448,
       "name": "Lafleur Park Soccer Field"
-    },
-    "ed084da5c2ab4d59874f88e86d662b5d.16": {
-      "guid": "ed084da5c2ab4d59874f88e86d662b5d.16",
-      "lat": 44.233044,
-      "lng": -76.523006,
-      "name": "Cookes- Portsmouth United Church"
     },
     "81a4119e9d3947d0a700dc378f30d089.16": {
       "guid": "81a4119e9d3947d0a700dc378f30d089.16",
@@ -7081,6 +7081,24 @@
       "lat": 44.25721,
       "lng": -76.552174,
       "name": "Seven Oaks Playstructure"
+    },
+    "86974da87d7f4a6b8d46672292a29575.16": {
+      "guid": "86974da87d7f4a6b8d46672292a29575.16",
+      "lat": 44.233012,
+      "lng": -76.523599,
+      "name": "Calvin Park Community Garden"
+    },
+    "20bdc6ec7d5d4f209839036fce89ba61.16": {
+      "guid": "20bdc6ec7d5d4f209839036fce89ba61.16",
+      "lat": 44.232748,
+      "lng": -76.523026,
+      "name": "Original Cooke's Cornerstone"
+    },
+    "4a434ca89eec443cb392ea7b2acbf3f7.16": {
+      "guid": "4a434ca89eec443cb392ea7b2acbf3f7.16",
+      "lat": 44.235186,
+      "lng": -76.528875,
+      "name": "Polson Park Rink"
     }
   },
   "notpogo": {
