@@ -2654,12 +2654,6 @@
       "lng": -76.492621,
       "name": "Louise House"
     },
-    "c32f9c757aed4c8da06be011482ede67.16": {
-      "guid": "c32f9c757aed4c8da06be011482ede67.16",
-      "lat": 44.23236,
-      "lng": -76.492277,
-      "name": "The Spot Rose Martini Mural"
-    },
     "50f65426a059417bb70bc678e107c60b.16": {
       "guid": "50f65426a059417bb70bc678e107c60b.16",
       "lat": 44.233089,
@@ -7099,6 +7093,30 @@
       "lat": 44.235186,
       "lng": -76.528875,
       "name": "Polson Park Rink"
+    },
+    "9127eb3a6e994189a217d71498fed4ae.16": {
+      "guid": "9127eb3a6e994189a217d71498fed4ae.16",
+      "lat": 44.215053,
+      "lng": -76.521972,
+      "name": "Kingston Shoreline Route"
+    },
+    "c32f9c757aed4c8da06be011482ede67.16": {
+      "guid": "c32f9c757aed4c8da06be011482ede67.16",
+      "lat": 44.232483,
+      "lng": -76.492349,
+      "name": "The Spot Rose Martini Mural"
+    },
+    "d769fdad8d8c41a5a2c3a22927636bdb.16": {
+      "guid": "d769fdad8d8c41a5a2c3a22927636bdb.16",
+      "lat": 44.231418,
+      "lng": -76.534723,
+      "name": "Fairway Hill Park Trail Slope"
+    },
+    "379665d2b211446a99c0441bcc7dd875.16": {
+      "guid": "379665d2b211446a99c0441bcc7dd875.16",
+      "lat": 44.235933,
+      "lng": -76.529519,
+      "name": "McCullough Park Playground"
     }
   },
   "notpogo": {
