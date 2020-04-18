@@ -499,7 +499,8 @@
       "guid": "a8805f69a17d45aca7e1d4c5bef69e9a.16",
       "lat": 44.239369,
       "lng": -76.523786,
-      "name": "Lafleur Park Playground"
+      "name": "Lafleur Park Playground",
+      "isEx": true
     },
     "e657a97a928b4aa1ac8ac88da21c2702.16": {
       "guid": "e657a97a928b4aa1ac8ac88da21c2702.16",
