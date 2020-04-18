@@ -1746,6 +1746,12 @@
       "lat": 44.222947,
       "lng": -76.489668,
       "name": "1812"
+    },
+    "b9dd9c673a2b4549ac28bbd91480c363.16": {
+      "guid": "b9dd9c673a2b4549ac28bbd91480c363.16",
+      "lat": 44.258032,
+      "lng": -76.559526,
+      "name": "Guardsman Telephone Booth"
     }
   },
   "pokestops": {
@@ -5313,12 +5319,6 @@
       "lng": -76.510906,
       "name": "Oakridge Park Playground"
     },
-    "b9dd9c673a2b4549ac28bbd91480c363.16": {
-      "guid": "b9dd9c673a2b4549ac28bbd91480c363.16",
-      "lat": 44.258032,
-      "lng": -76.559526,
-      "name": "Guardsman Telephone Booth"
-    },
     "c1d684cec8b94e87a46b8e47e829336f.16": {
       "guid": "c1d684cec8b94e87a46b8e47e829336f.16",
       "lat": 44.232389,
@@ -7148,6 +7148,12 @@
       "lat": 44.221925,
       "lng": -76.490551,
       "name": "Kingston Shoreline Route - Murney Tower"
+    },
+    "40952f30673745029d536516c2afd5e7.16": {
+      "guid": "40952f30673745029d536516c2afd5e7.16",
+      "lat": 44.257953,
+      "lng": -76.562454,
+      "name": "Princess Street Gazebo"
     }
   },
   "notpogo": {
