@@ -1739,6 +1739,12 @@
       "lat": 44.233044,
       "lng": -76.523006,
       "name": "Cookes- Portsmouth United Church"
+    },
+    "52ef87f2273447f6ab35349cb577478d.16": {
+      "guid": "52ef87f2273447f6ab35349cb577478d.16",
+      "lat": 44.222947,
+      "lng": -76.489668,
+      "name": "1812"
     }
   },
   "pokestops": {
@@ -7034,12 +7040,6 @@
       "lng": -76.488582,
       "name": "Cricket Field Ball Diamond"
     },
-    "52ef87f2273447f6ab35349cb577478d.16": {
-      "guid": "52ef87f2273447f6ab35349cb577478d.16",
-      "lat": 44.222947,
-      "lng": -76.489668,
-      "name": "1812"
-    },
     "078830650baf4cb0be1d184b7b08d989.16": {
       "guid": "078830650baf4cb0be1d184b7b08d989.16",
       "lat": 44.239874,
@@ -7135,6 +7135,18 @@
       "lat": 44.222702,
       "lng": -76.486605,
       "name": "KYC Wood Carving"
+    },
+    "82edfbb2f935466b837b45a6ee7c4702.16": {
+      "guid": "82edfbb2f935466b837b45a6ee7c4702.16",
+      "lat": 44.222448,
+      "lng": -76.488374,
+      "name": "Waterfront Trail Marker - Emily Street Dead-End"
+    },
+    "b28bfb6d8db947daa11ae951b903219d.16": {
+      "guid": "b28bfb6d8db947daa11ae951b903219d.16",
+      "lat": 44.221925,
+      "lng": -76.490551,
+      "name": "Kingston Shoreline Route - Murney Tower"
     }
   },
   "notpogo": {
