@@ -493,7 +493,8 @@
       "guid": "8503965d4830499986b6b5c3c2716719.16",
       "lat": 44.24104,
       "lng": -76.531359,
-      "name": "Grenville Crescent Playground"
+      "name": "Grenville Crescent Playground",
+      "isEx": true
     },
     "a8805f69a17d45aca7e1d4c5bef69e9a.16": {
       "guid": "a8805f69a17d45aca7e1d4c5bef69e9a.16",
@@ -579,7 +580,8 @@
       "guid": "4adea4ef2546487c824c4bae20f22770.16",
       "lat": 44.213163,
       "lng": -76.567642,
-      "name": "Crerar Park Play Structures"
+      "name": "Crerar Park Play Structures",
+      "isEx": true
     },
     "834778b290e54e4095fc398e18480087.16": {
       "guid": "834778b290e54e4095fc398e18480087.16",
@@ -599,7 +601,8 @@
       "guid": "8dac3d061cc34dc898bdfa5528d1ac4f.16",
       "lat": 44.231486,
       "lng": -76.573115,
-      "name": "LaSalle Park Baseball Diamond (1 of 3)"
+      "name": "LaSalle Park Baseball Diamond (1 of 3)",
+      "isEx": true
     },
     "ea6bfa0631f5427bbbe00899625cdc49.16": {
       "guid": "ea6bfa0631f5427bbbe00899625cdc49.16",
@@ -811,7 +814,8 @@
       "guid": "46ce4fb11d0e434c998758975a70645e.16",
       "lat": 44.220749,
       "lng": -76.636378,
-      "name": "Island View Park"
+      "name": "Island View Park",
+      "isEx": true
     },
     "b2b88057a9994f17866c234868988e03.16": {
       "guid": "b2b88057a9994f17866c234868988e03.16",
@@ -1253,7 +1257,8 @@
       "guid": "81dfc4f7fba74059a795fb136a236a79.16",
       "lat": 44.224781,
       "lng": -76.637912,
-      "name": "Amherstview Centennial Park"
+      "name": "Amherstview Centennial Park",
+      "isEx": true
     },
     "7ba55b182e0147009bbf093585a4c06f.16": {
       "guid": "7ba55b182e0147009bbf093585a4c06f.16",
@@ -1367,7 +1372,8 @@
       "guid": "45a6073e89344c0e84fc9080be0610cb.16",
       "lat": 44.222941,
       "lng": -76.665234,
-      "name": "Amherstview Loyalist Park"
+      "name": "Amherstview Loyalist Park",
+      "isEx": true
     },
     "5b21b30e3cd042fb9860862023bb0963.12": {
       "guid": "5b21b30e3cd042fb9860862023bb0963.12",
@@ -1379,7 +1385,8 @@
       "guid": "a96ee24998a64c89a4bf72a96d2f7a1e.16",
       "lat": 44.219502,
       "lng": -76.651682,
-      "name": "Lakeview Park Playground"
+      "name": "Lakeview Park Playground",
+      "isEx": true
     },
     "4e857e261ef74fda91816168cec51bea.16": {
       "guid": "4e857e261ef74fda91816168cec51bea.16",
@@ -1391,13 +1398,15 @@
       "guid": "e67e674bad534fb9a40878554a24f53d.16",
       "lat": 44.24412,
       "lng": -76.61732,
-      "name": "Lawrence Park"
+      "name": "Lawrence Park",
+      "isEx": true
     },
     "b0833764897d4eab8164221acdbfc8d2.16": {
       "guid": "b0833764897d4eab8164221acdbfc8d2.16",
       "lat": 44.245892,
       "lng": -76.598731,
-      "name": "Hillview Park"
+      "name": "Hillview Park",
+      "isEx": true
     },
     "b4f512a181144bafb8a3b3d15929e9ae.16": {
       "guid": "b4f512a181144bafb8a3b3d15929e9ae.16",
@@ -1415,13 +1424,15 @@
       "guid": "4b9cbd94b26a4dcb84343a13ce5d0026.16",
       "lat": 44.23367,
       "lng": -76.626673,
-      "name": "McCullough Park"
+      "name": "McCullough Park",
+      "isEx": true
     },
     "15e8ffedbf4541da953a70d20848e874.16": {
       "guid": "15e8ffedbf4541da953a70d20848e874.16",
       "lat": 44.263873,
       "lng": -76.485646,
-      "name": "Shannon Park Soccer Field (1 of 2)"
+      "name": "Shannon Park Soccer Field (1 of 2)",
+      "isEx": true
     },
     "69d8707d41bb457fad1b25424f9685f4.16": {
       "guid": "69d8707d41bb457fad1b25424f9685f4.16",
@@ -1453,7 +1464,8 @@
       "guid": "09ec81f13e804a8f9cde07942a7d918e.16",
       "lat": 44.22871,
       "lng": -76.577843,
-      "name": "Lakeshore Swimming Pool Association"
+      "name": "Lakeshore Swimming Pool Association",
+      "isEx": true
     },
     "22dd44658dc248ce9c70d1063679c8fe.16": {
       "guid": "22dd44658dc248ce9c70d1063679c8fe.16",
@@ -1526,7 +1538,8 @@
       "guid": "c870fbcc3d4f4b75b5ffbf029c30eadf.16",
       "lat": 44.266807,
       "lng": -76.489233,
-      "name": "Marker's Acres Play Structure"
+      "name": "Marker's Acres Play Structure",
+      "isEx": true
     },
     "715015bbebb94f41ac447ebdeaf9a533.16": {
       "guid": "715015bbebb94f41ac447ebdeaf9a533.16",
@@ -1544,7 +1557,8 @@
       "guid": "df15781f9fb44229b89d3b1219e26ce7.11",
       "lat": 44.23171,
       "lng": -76.571766,
-      "name": "LaSalle Park"
+      "name": "LaSalle Park",
+      "isEx": true
     },
     "ff5d3b2f5e994983839845dc08e78cb8.16": {
       "guid": "ff5d3b2f5e994983839845dc08e78cb8.16",
@@ -1581,7 +1595,8 @@
       "guid": "bb4875e9335d41b59ecd0bb6f4b3b009.16",
       "lat": 44.26601,
       "lng": -76.490246,
-      "name": "Marker's Acres Soccer Field"
+      "name": "Marker's Acres Soccer Field",
+      "isEx": true
     },
     "98337866f8e647648b6245f2e2b404ed.16": {
       "guid": "98337866f8e647648b6245f2e2b404ed.16",
@@ -1625,7 +1640,8 @@
       "guid": "6f63aafcef2b475290d611704f6b0327.16",
       "lat": 44.253671,
       "lng": -76.561318,
-      "name": "Bexleygate Park"
+      "name": "Bexleygate Park",
+      "isEx": true
     },
     "de59328764a14b2a8424b76afee7b46e.16": {
       "guid": "de59328764a14b2a8424b76afee7b46e.16",
