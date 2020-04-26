@@ -25,4 +25,6 @@ After importing the file, your map will look something like this:
 
 ![IITC Map with PokeStops and Gyms](https://i.imgur.com/iBxUysJ.png)
 
+If you are looking to use this file with IITC-Moblie on an iOS device, check out the instructions on the [wiki page](https://github.com/typographynerd/ygk-iitc-map/wiki/1.1-Using-this-JSON-file-on-iOS-device).
+
 If you have questions or input, please feel free to join our [Discord server](https://ygkpogo.ca/discord) and ask in the #nomination-chat channel.
