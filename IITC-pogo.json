@@ -7233,6 +7233,12 @@
       "lat": 44.271067,
       "lng": -76.436767,
       "name": "Soldiers diary box"
+    },
+    "6e64b89cbb1b4dfd9240cc06c34e2999.16": {
+      "guid": "6e64b89cbb1b4dfd9240cc06c34e2999.16",
+      "lat": 44.233447,
+      "lng": -76.524134,
+      "name": "Calvin Park Baseball Field"
     }
   },
   "notpogo": {
@@ -7273,8 +7279,6 @@
       "name": "FRP Club "
     }
   },
-  "ignoredCellsExtraGyms": {
-    "F2ij[5654,16378]@14": true
-  },
+  "ignoredCellsExtraGyms": {},
   "ignoredCellsMissingGyms": {}
 }
