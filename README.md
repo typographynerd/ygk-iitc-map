@@ -26,7 +26,7 @@ After importing the file, your map will look something like this:
 ![IITC Map with PokeStops and Gyms](https://i.imgur.com/iBxUysJ.png)
 
 ### Using this file with iOS Devices
-If you are looking to use this file with IITC-Moblie on an iOS device, check out the instructions on the [wiki page](https://github.com/typographynerd/ygk-iitc-map/wiki/1.1-Using-this-JSON-file-on-iOS-device).
+If you are looking to use this file with IITC-Moblie on an iOS device, check out the instructions on the [wiki page](https://github.com/typographynerd/ygk-iitc-map/wiki/1.1-Using-this-JSON-file-on-iOS-devices).
 
 If you get the "You are using an old version of IITC" message, do the following steps:
 1. Tap on the **Settings** icon (upper right corner)
