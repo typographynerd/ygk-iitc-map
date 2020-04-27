@@ -1777,6 +1777,12 @@
       "lat": 44.220285,
       "lng": -76.592427,
       "name": "The Landings"
+    },
+    "75a36b8d7d484d5ca8b1d347227f4cd4.16": {
+      "guid": "75a36b8d7d484d5ca8b1d347227f4cd4.16",
+      "lat": 44.278639,
+      "lng": -76.58375,
+      "name": "New Life Church"
     }
   },
   "pokestops": {
@@ -5260,12 +5266,6 @@
       "lng": -76.484332,
       "name": "History of Belle Park Info Sign    "
     },
-    "75a36b8d7d484d5ca8b1d347227f4cd4.16": {
-      "guid": "75a36b8d7d484d5ca8b1d347227f4cd4.16",
-      "lat": 44.278639,
-      "lng": -76.58375,
-      "name": "New Life Church"
-    },
     "3294aee116954f8db6e05f264c0e0b56.16": {
       "guid": "3294aee116954f8db6e05f264c0e0b56.16",
       "lat": 44.222357,
@@ -7239,6 +7239,12 @@
       "lat": 44.233447,
       "lng": -76.524134,
       "name": "Calvin Park Baseball Field"
+    },
+    "7577e6a5344841bb874678f23fe501a5.16": {
+      "guid": "7577e6a5344841bb874678f23fe501a5.16",
+      "lat": 44.277582,
+      "lng": -76.581306,
+      "name": "Jade Avenue Park"
     }
   },
   "notpogo": {
