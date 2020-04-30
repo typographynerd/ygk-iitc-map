@@ -1784,6 +1784,12 @@
       "lat": 44.278639,
       "lng": -76.58375,
       "name": "New Life Church"
+    },
+    "623fdf596afc46cb91b1b05ea5759af7.16": {
+      "guid": "623fdf596afc46cb91b1b05ea5759af7.16",
+      "lat": 44.235739,
+      "lng": -76.488208,
+      "name": "Skeleton Park Plaque"
     }
   },
   "pokestops": {
@@ -2578,12 +2584,6 @@
       "lat": 44.236259,
       "lng": -76.48793,
       "name": "Skeleton Park Grave Marker"
-    },
-    "623fdf596afc46cb91b1b05ea5759af7.16": {
-      "guid": "623fdf596afc46cb91b1b05ea5759af7.16",
-      "lat": 44.235739,
-      "lng": -76.488208,
-      "name": "Skeleton Park Plaque"
     },
     "458f9aab12bc40339214e022e2f4e95f.16": {
       "guid": "458f9aab12bc40339214e022e2f4e95f.16",
@@ -7252,6 +7252,12 @@
       "lat": 44.230172,
       "lng": -76.48004,
       "name": "Kingston City Hall Construction Plaque"
+    },
+    "9114f078f15149ba94c386f7b38cd076.16": {
+      "guid": "9114f078f15149ba94c386f7b38cd076.16",
+      "lat": 44.233959,
+      "lng": -76.490358,
+      "name": "Seaweed Mural"
     }
   },
   "notpogo": {
