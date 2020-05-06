@@ -7282,6 +7282,24 @@
       "lat": 44.223705,
       "lng": -76.515366,
       "name": "Jean Royce Hall Phase 1"
+    },
+    "96da2791ee5d4cfbb72600db11f51ab2.16": {
+      "guid": "96da2791ee5d4cfbb72600db11f51ab2.16",
+      "lat": 44.272506,
+      "lng": -76.537803,
+      "name": "K&P Trail 9km Marker"
+    },
+    "c1e3f3adde144dd59f9f31c5648736f9.16": {
+      "guid": "c1e3f3adde144dd59f9f31c5648736f9.16",
+      "lat": 44.273387,
+      "lng": -76.531799,
+      "name": "K&P Trail 8.5km Marker"
+    },
+    "4bea5eaab158401abd0cf16f727763dc.16": {
+      "guid": "4bea5eaab158401abd0cf16f727763dc.16",
+      "lat": 44.230511,
+      "lng": -76.495501,
+      "name": "Building on the Past (1898)"
     }
   },
   "notpogo": {
