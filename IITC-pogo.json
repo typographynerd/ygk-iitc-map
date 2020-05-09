@@ -7345,17 +7345,17 @@
       "lng": -76.578375,
       "name": "Bay Park Baptist Church playground"
     },
-    "eb6dda39b1e04dab994326ab459f202c.12": {
-      "guid": "eb6dda39b1e04dab994326ab459f202c.12",
-      "lat": 44.221312,
-      "lng": -76.510998,
-      "name": "Service correctionnel du Canad"
-    },
     "f59c560acb8f47c38565a2e9acc28310.16": {
       "guid": "f59c560acb8f47c38565a2e9acc28310.16",
       "lat": 44.282578,
       "lng": -76.474683,
       "name": "FRP Club "
+    },
+    "eb6dda39b1e04dab994326ab459f202c.12": {
+      "guid": "eb6dda39b1e04dab994326ab459f202c.12",
+      "lat": 44.221662,
+      "lng": -76.513476,
+      "name": "Service correctionnel du Canad"
     }
   },
   "ignoredCellsExtraGyms": {},
