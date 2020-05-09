@@ -1790,6 +1790,12 @@
       "lat": 44.235739,
       "lng": -76.488208,
       "name": "Skeleton Park Plaque"
+    },
+    "81ed3dab91b9475d81153ae25779a355.16": {
+      "guid": "81ed3dab91b9475d81153ae25779a355.16",
+      "lat": 44.272636,
+      "lng": -76.539237,
+      "name": "K&P Trail -Brass St. Entrance"
     }
   },
   "pokestops": {
@@ -7306,6 +7312,12 @@
       "lat": 44.219964,
       "lng": -76.540776,
       "name": "Little Cataraqui Creek Map"
+    },
+    "740dc230206f4415a18f509fcafaaaf2.16": {
+      "guid": "740dc230206f4415a18f509fcafaaaf2.16",
+      "lat": 44.237542,
+      "lng": -76.480638,
+      "name": "K&P Railway Former Turntable"
     }
   },
   "notpogo": {
