@@ -748,7 +748,8 @@
       "guid": "632c2745ac8748c895dc5a798753347a.16",
       "lat": 44.254135,
       "lng": -76.60079,
-      "name": "Garden Walk Park Playstucture & Swings"
+      "name": "Garden Walk Park Playstucture & Swings",
+      "isEx": true
     },
     "764a1a4ac7df4ec09982bef602e35e5e.16": {
       "guid": "764a1a4ac7df4ec09982bef602e35e5e.16",
