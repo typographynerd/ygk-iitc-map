@@ -1673,7 +1673,8 @@
       "guid": "5b14e0dbecd644bbbca30940dbc66cb8.16",
       "lat": 44.215374,
       "lng": -76.530324,
-      "name": "Friends of Lake Ontario Park Tree Plaque"
+      "name": "Friends of Lake Ontario Park Tree Plaque",
+      "isEx": true
     },
     "63e563e230514f85b8b1b20204b8711f.16": {
       "guid": "63e563e230514f85b8b1b20204b8711f.16",
