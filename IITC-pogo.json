@@ -1798,6 +1798,12 @@
       "lat": 44.272636,
       "lng": -76.539237,
       "name": "K&P Trail -Brass St. Entrance"
+    },
+    "8c6437b768b94afa926ac00bbc7881ac.16": {
+      "guid": "8c6437b768b94afa926ac00bbc7881ac.16",
+      "lat": 44.245701,
+      "lng": -76.500377,
+      "name": "Robert Lavalle Memorial Kiwanis Park"
     }
   },
   "pokestops": {
@@ -3096,12 +3102,6 @@
       "lat": 44.248342,
       "lng": -76.494816,
       "name": "Tugwood Park Playground "
-    },
-    "8c6437b768b94afa926ac00bbc7881ac.16": {
-      "guid": "8c6437b768b94afa926ac00bbc7881ac.16",
-      "lat": 44.245701,
-      "lng": -76.500377,
-      "name": "Robert Lavalle Memorial Kiwanis Park"
     },
     "312d1a627b1f4b9da11860718be620bd.16": {
       "guid": "312d1a627b1f4b9da11860718be620bd.16",
@@ -7380,6 +7380,30 @@
       "lat": 44.218859,
       "lng": -76.642201,
       "name": "Great Lakes Waterfront Trail - Bath Road and Sherwood"
+    },
+    "93b0785bc5e14d4a8ed91cb8d9ffbc43.16": {
+      "guid": "93b0785bc5e14d4a8ed91cb8d9ffbc43.16",
+      "lat": 44.239747,
+      "lng": -76.4981,
+      "name": "Kingston Outdoor Aqua Park"
+    },
+    "e51e3cddc93946338ae21486a376191d.16": {
+      "guid": "e51e3cddc93946338ae21486a376191d.16",
+      "lat": 44.245705,
+      "lng": -76.500966,
+      "name": "Ronald Lavalle Tennis Court"
+    },
+    "72d8b50fedef453487d6b24010d30167.16": {
+      "guid": "72d8b50fedef453487d6b24010d30167.16",
+      "lat": 44.251369,
+      "lng": -76.502955,
+      "name": "Max Jackson Memorial Park Playground"
+    },
+    "9ee8a1c671c24128adb5736ef9d4431e.16": {
+      "guid": "9ee8a1c671c24128adb5736ef9d4431e.16",
+      "lat": 44.268333,
+      "lng": -76.541756,
+      "name": "Queens Medical Donation Monument"
     }
   },
   "notpogo": {
