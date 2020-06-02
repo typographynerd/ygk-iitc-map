@@ -1804,6 +1804,12 @@
       "lat": 44.245701,
       "lng": -76.500377,
       "name": "Robert Lavalle Memorial Kiwanis Park"
+    },
+    "bbc95b1033f54148ba49140252612ef2.16": {
+      "guid": "bbc95b1033f54148ba49140252612ef2.16",
+      "lat": 44.250375,
+      "lng": -76.501669,
+      "name": "Kings court Free Methodist Church"
     }
   },
   "pokestops": {
@@ -3114,12 +3120,6 @@
       "lat": 44.249991,
       "lng": -76.502758,
       "name": "Max Jackson Memorial Park"
-    },
-    "bbc95b1033f54148ba49140252612ef2.16": {
-      "guid": "bbc95b1033f54148ba49140252612ef2.16",
-      "lat": 44.250375,
-      "lng": -76.501669,
-      "name": "Kings court Free Methodist Church"
     },
     "803ddc8e21524054a234920417cda29f.16": {
       "guid": "803ddc8e21524054a234920417cda29f.16",
