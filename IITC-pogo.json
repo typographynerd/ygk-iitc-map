@@ -1816,6 +1816,12 @@
       "lat": 44.249991,
       "lng": -76.502758,
       "name": "Max Jackson Memorial Park"
+    },
+    "c12263c134d2453fb4a27318882833d5.16": {
+      "guid": "c12263c134d2453fb4a27318882833d5.16",
+      "lat": 44.231571,
+      "lng": -76.534369,
+      "name": "Fairway Hill Park Playground"
     }
   },
   "pokestops": {
@@ -7458,6 +7464,24 @@
       "lat": 44.250492,
       "lng": -76.573124,
       "name": "Lions Civic Gardens"
+    },
+    "7749df3d84c245c5999e7eb9ee679cfe.16": {
+      "guid": "7749df3d84c245c5999e7eb9ee679cfe.16",
+      "lat": 44.220641,
+      "lng": -76.526161,
+      "name": "St. Lawrence College Digital Message Board"
+    },
+    "c72fac6262124d7a969805e25bc6bcf7.16": {
+      "guid": "c72fac6262124d7a969805e25bc6bcf7.16",
+      "lat": 44.22659,
+      "lng": -76.493231,
+      "name": "Jackson Hall"
+    },
+    "ee8d847910264304acad824592b55667.16": {
+      "guid": "ee8d847910264304acad824592b55667.16",
+      "lat": 44.214554,
+      "lng": -76.52545,
+      "name": "Baseball Field - Providence Care"
     }
   },
   "notpogo": {
@@ -7498,8 +7522,6 @@
       "name": "Service correctionnel du Canad"
     }
   },
-  "ignoredCellsExtraGyms": {
-    "F2ij[5654,16378]@14": true
-  },
+  "ignoredCellsExtraGyms": {},
   "ignoredCellsMissingGyms": {}
 }
