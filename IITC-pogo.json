@@ -1822,6 +1822,30 @@
       "lat": 44.231571,
       "lng": -76.534369,
       "name": "Fairway Hill Park Playground"
+    },
+    "f5c676c433ae441596dd8a96c17b63e9.16": {
+      "guid": "f5c676c433ae441596dd8a96c17b63e9.16",
+      "lat": 44.192687,
+      "lng": -76.444392,
+      "name": "St Margaret’s Hall"
+    },
+    "f474fb1df452492d9344a6dca79b337f.16": {
+      "guid": "f474fb1df452492d9344a6dca79b337f.16",
+      "lat": 44.191102,
+      "lng": -76.442894,
+      "name": "Sacred Heart Church"
+    },
+    "079413c61b274c7bae8580407879b7ad.16": {
+      "guid": "079413c61b274c7bae8580407879b7ad.16",
+      "lat": 44.193287,
+      "lng": -76.440649,
+      "name": "Wolfe Island - Grant Allen Mural"
+    },
+    "5c7584ba1c0f473f98fcfdac324d4653.16": {
+      "guid": "5c7584ba1c0f473f98fcfdac324d4653.16",
+      "lat": 44.191131,
+      "lng": -76.437371,
+      "name": "Wolfe Island Community Hockey Rink"
     }
   },
   "pokestops": {
@@ -7494,6 +7518,84 @@
       "lat": 44.225652,
       "lng": -76.492952,
       "name": "The First Five Principals of Queen’s"
+    },
+    "2dd718b1e6484f80a3da2cc743784ea6.16": {
+      "guid": "2dd718b1e6484f80a3da2cc743784ea6.16",
+      "lat": 44.191798,
+      "lng": -76.437147,
+      "name": "WI Baseball Diamond 1 "
+    },
+    "a9fcaea1e4c64ea68c551e62f084361b.16": {
+      "guid": "a9fcaea1e4c64ea68c551e62f084361b.16",
+      "lat": 44.192214,
+      "lng": -76.43778,
+      "name": "Wolfe Island Community Centre Entrance"
+    },
+    "da51f06e089848868707bff844ea1d3b.16": {
+      "guid": "da51f06e089848868707bff844ea1d3b.16",
+      "lat": 44.192613,
+      "lng": -76.437945,
+      "name": "Wolfe Island United Church"
+    },
+    "87d07d1b556e46968f7074eddce0835a.16": {
+      "guid": "87d07d1b556e46968f7074eddce0835a.16",
+      "lat": 44.194345,
+      "lng": -76.438751,
+      "name": "General Wolfe Mural"
+    },
+    "cdf52cac1ad5406c9af97f30706d2d43.16": {
+      "guid": "cdf52cac1ad5406c9af97f30706d2d43.16",
+      "lat": 44.194396,
+      "lng": -76.43991,
+      "name": "The Old House Museum"
+    },
+    "439a6151d1ce48e1a6f0b4d5c2a4ecb4.16": {
+      "guid": "439a6151d1ce48e1a6f0b4d5c2a4ecb4.16",
+      "lat": 44.193824,
+      "lng": -76.439901,
+      "name": "Wolfe Island Post Office"
+    },
+    "0bbe50c00e8c4e25a7fa9fc6b31fe749.16": {
+      "guid": "0bbe50c00e8c4e25a7fa9fc6b31fe749.16",
+      "lat": 44.194322,
+      "lng": -76.440644,
+      "name": "Where's Waldo?"
+    },
+    "15e8516810974eebb1de56ba3b583b07.16": {
+      "guid": "15e8516810974eebb1de56ba3b583b07.16",
+      "lat": 44.194542,
+      "lng": -76.440779,
+      "name": "Wolfe Island Ferry Terminal"
+    },
+    "0957a54f7d644712bad0badb24f2ba35.16": {
+      "guid": "0957a54f7d644712bad0badb24f2ba35.16",
+      "lat": 44.19301,
+      "lng": -76.440883,
+      "name": "Wolfe Island Underwater Bubble System Mural"
+    },
+    "267faace5705444987fc777d6460cc1e.16": {
+      "guid": "267faace5705444987fc777d6460cc1e.16",
+      "lat": 44.192648,
+      "lng": -76.442157,
+      "name": "General James Wolfe Plaque"
+    },
+    "3261e5ee4dff4c62965b6cb1c5a5a54d.16": {
+      "guid": "3261e5ee4dff4c62965b6cb1c5a5a54d.16",
+      "lat": 44.191806,
+      "lng": -76.443115,
+      "name": "Christ The King Memorial Cross"
+    },
+    "de63452208ab40438f2730a471c553cc.16": {
+      "guid": "de63452208ab40438f2730a471c553cc.16",
+      "lat": 44.191504,
+      "lng": -76.443784,
+      "name": "Sacred Heart of Mary parish Gratitude Shrine"
+    },
+    "dcbd062710f8423a959656b8fc0535c9.16": {
+      "guid": "dcbd062710f8423a959656b8fc0535c9.16",
+      "lat": 44.192306,
+      "lng": -76.444544,
+      "name": "Trinity Anglican Church"
     }
   },
   "notpogo": {
