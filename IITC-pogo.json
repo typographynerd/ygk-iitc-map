@@ -363,7 +363,8 @@
       "guid": "3050ea5331774e4bbfc8b93c68978d32.16",
       "lat": 44.253876,
       "lng": -76.498643,
-      "name": "James Nelson Park"
+      "name": "James Nelson Park",
+      "isEx": true
     },
     "0bf640af671648a2a12381f506575638.16": {
       "guid": "0bf640af671648a2a12381f506575638.16",
@@ -475,7 +476,8 @@
       "guid": "18188210333a4b7d9795393ba41fe99d.16",
       "lat": 44.251224,
       "lng": -76.527254,
-      "name": "Strathcona Park Playground"
+      "name": "Strathcona Park Playground",
+      "isEx": true
     },
     "c0e7fcfa742f49289a410df641e72ded.16": {
       "guid": "c0e7fcfa742f49289a410df641e72ded.16",
@@ -620,7 +622,8 @@
       "guid": "1998d6050ab14c648b4977d09df83144.16",
       "lat": 44.246776,
       "lng": -76.544153,
-      "name": "Meadowbrook Off-Leash Dog Park"
+      "name": "Meadowbrook Off-Leash Dog Park",
+      "isEx": true
     },
     "5910a19d3ebc4e6cb4dcba20f4e09b77.16": {
       "guid": "5910a19d3ebc4e6cb4dcba20f4e09b77.16",
@@ -1687,7 +1690,8 @@
       "guid": "988285129f304a8090d858d29080f704.16",
       "lat": 44.225547,
       "lng": -76.521974,
-      "name": "Portsmouth Soccer Field (1 of 2)"
+      "name": "Portsmouth Soccer Field (1 of 2)",
+      "isEx": true
     },
     "e078f49f90f4469691356ca36b867fc3.16": {
       "guid": "e078f49f90f4469691356ca36b867fc3.16",
@@ -1749,7 +1753,8 @@
       "guid": "ee006a96f3714aa191210dd6b2f8edc9.16",
       "lat": 44.273899,
       "lng": -76.432584,
-      "name": "John Machin East Soccer Field (2 of 2)"
+      "name": "John Machin East Soccer Field (2 of 2)",
+      "isEx": true
     },
     "4b388b2ec6424650a0a9180d15bf54b3.16": {
       "guid": "4b388b2ec6424650a0a9180d15bf54b3.16",
@@ -1791,7 +1796,8 @@
       "guid": "623fdf596afc46cb91b1b05ea5759af7.16",
       "lat": 44.235739,
       "lng": -76.488208,
-      "name": "Skeleton Park Plaque"
+      "name": "Skeleton Park Plaque",
+      "isEx": true
     },
     "81ed3dab91b9475d81153ae25779a355.16": {
       "guid": "81ed3dab91b9475d81153ae25779a355.16",
