@@ -7602,6 +7602,30 @@
       "lat": 44.192306,
       "lng": -76.444544,
       "name": "Trinity Anglican Church"
+    },
+    "af25409698b74b44b7375997c227c4ba.16": {
+      "guid": "af25409698b74b44b7375997c227c4ba.16",
+      "lat": 44.264918,
+      "lng": -76.490471,
+      "name": "Compton Square Playground"
+    },
+    "01528ad2faf64a2b99568f2a3d1d3f04.16": {
+      "guid": "01528ad2faf64a2b99568f2a3d1d3f04.16",
+      "lat": 44.26229,
+      "lng": -76.492314,
+      "name": "Inner Harbour Community Garden"
+    },
+    "0c242ec88a0e48828590a474b7a0ed52.16": {
+      "guid": "0c242ec88a0e48828590a474b7a0ed52.16",
+      "lat": 44.267317,
+      "lng": -76.512585,
+      "name": "K&P Trail Marker-Cattail & St. Remy"
+    },
+    "636746961f864a77a98efad1a4931837.16": {
+      "guid": "636746961f864a77a98efad1a4931837.16",
+      "lat": 44.268653,
+      "lng": -76.519439,
+      "name": "K&P Trail Map-Dalton Ave"
     }
   },
   "notpogo": {
