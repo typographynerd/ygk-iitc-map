@@ -7632,6 +7632,36 @@
       "lat": 44.268653,
       "lng": -76.519439,
       "name": "K&P Trail Map-Dalton Ave"
+    },
+    "bbc2524958cf4ae799cfbee4f210784b.16": {
+      "guid": "bbc2524958cf4ae799cfbee4f210784b.16",
+      "lat": 44.232681,
+      "lng": -76.507194,
+      "name": "Churchill Park"
+    },
+    "93b262eff3494e1e929a1ba4d9de9ac8.16": {
+      "guid": "93b262eff3494e1e929a1ba4d9de9ac8.16",
+      "lat": 44.225892,
+      "lng": -76.513518,
+      "name": "Former Penitentiary Water Tower"
+    },
+    "c1835a58d5b84b97a75ab763dd317bac.16": {
+      "guid": "c1835a58d5b84b97a75ab763dd317bac.16",
+      "lat": 44.26896,
+      "lng": -76.517526,
+      "name": "K&P Trail Marker-Dalton Ave"
+    },
+    "b1f43f7f8a8e4ba99682da3b232b7c2e.16": {
+      "guid": "b1f43f7f8a8e4ba99682da3b232b7c2e.16",
+      "lat": 44.269448,
+      "lng": -76.523695,
+      "name": "K&P Trail Marker-Grant Timmins"
+    },
+    "adffefdca7f74d73840a7b65fea684d6.16": {
+      "guid": "adffefdca7f74d73840a7b65fea684d6.16",
+      "lat": 44.268733,
+      "lng": -76.520183,
+      "name": "K&P Trail 7km Marker"
     }
   },
   "notpogo": {
