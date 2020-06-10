@@ -1864,6 +1864,12 @@
       "lat": 44.268825,
       "lng": -76.512817,
       "name": "K&P Trail Map-Dalton & Cattail"
+    },
+    "636746961f864a77a98efad1a4931837.16": {
+      "guid": "636746961f864a77a98efad1a4931837.16",
+      "lat": 44.268653,
+      "lng": -76.519439,
+      "name": "K&P Trail Map-Dalton Ave"
     }
   },
   "pokestops": {
@@ -7620,12 +7626,6 @@
       "lat": 44.267317,
       "lng": -76.512585,
       "name": "K&P Trail Marker-Cattail & St. Remy"
-    },
-    "636746961f864a77a98efad1a4931837.16": {
-      "guid": "636746961f864a77a98efad1a4931837.16",
-      "lat": 44.268653,
-      "lng": -76.519439,
-      "name": "K&P Trail Map-Dalton Ave"
     },
     "bbc2524958cf4ae799cfbee4f210784b.16": {
       "guid": "bbc2524958cf4ae799cfbee4f210784b.16",
