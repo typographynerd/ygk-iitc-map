@@ -4189,12 +4189,6 @@
       "lng": -76.639966,
       "name": "Willie Pratt Sports Field Playground"
     },
-    "230e898755f048019a2ef8055cc42074.16": {
-      "guid": "230e898755f048019a2ef8055cc42074.16",
-      "lat": 44.226416,
-      "lng": -76.640648,
-      "name": "Willie Pratt Soccer Field (1 of 2)"
-    },
     "6121f9c53a434b96a887f834f5d065c9.16": {
       "guid": "6121f9c53a434b96a887f834f5d065c9.16",
       "lat": 44.22642,
@@ -7662,6 +7656,18 @@
       "lat": 44.268733,
       "lng": -76.520183,
       "name": "K&P Trail 7km Marker"
+    },
+    "230e898755f048019a2ef8055cc42074.16": {
+      "guid": "230e898755f048019a2ef8055cc42074.16",
+      "lat": 44.22636,
+      "lng": -76.641061,
+      "name": "Willie Pratt Soccer Field (1 of 2)"
+    },
+    "37ec3b7254864f759d68c12b47aaabde.16": {
+      "guid": "37ec3b7254864f759d68c12b47aaabde.16",
+      "lat": 44.225517,
+      "lng": -76.629055,
+      "name": "Kingston Shoreline Route - Bath Road and Coronation Blvd"
     }
   },
   "notpogo": {
