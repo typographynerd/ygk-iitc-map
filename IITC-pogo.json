@@ -7668,6 +7668,24 @@
       "lat": 44.225517,
       "lng": -76.629055,
       "name": "Kingston Shoreline Route - Bath Road and Coronation Blvd"
+    },
+    "33bbf2aad79c4cffb32c230c0e4aa3d0.16": {
+      "guid": "33bbf2aad79c4cffb32c230c0e4aa3d0.16",
+      "lat": 44.232478,
+      "lng": -76.518498,
+      "name": "Rodden Park"
+    },
+    "dd4b23b9ada64c4faadc0511f420a868.16": {
+      "guid": "dd4b23b9ada64c4faadc0511f420a868.16",
+      "lat": 44.229414,
+      "lng": -76.516244,
+      "name": "Richardson Sports Field"
+    },
+    "ff65fd3ad71b43fe94401cc1a1dc161b.16": {
+      "guid": "ff65fd3ad71b43fe94401cc1a1dc161b.16",
+      "lat": 44.227248,
+      "lng": -76.524811,
+      "name": "Butterfly Garden"
     }
   },
   "notpogo": {
