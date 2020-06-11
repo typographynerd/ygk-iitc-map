@@ -1876,6 +1876,12 @@
       "lat": 44.270131,
       "lng": -76.528626,
       "name": "K&P Trail Marker-Binnington Court"
+    },
+    "a6e1a079365e477788db8bb0b8a91c5e.16": {
+      "guid": "a6e1a079365e477788db8bb0b8a91c5e.16",
+      "lat": 44.223998,
+      "lng": -76.495494,
+      "name": "McLaughlin Hall"
     }
   },
   "pokestops": {
@@ -5497,12 +5503,6 @@
       "lng": -76.459413,
       "name": "Grenadier Skatespot"
     },
-    "a6e1a079365e477788db8bb0b8a91c5e.16": {
-      "guid": "a6e1a079365e477788db8bb0b8a91c5e.16",
-      "lat": 44.223998,
-      "lng": -76.495494,
-      "name": "McLaughlin Hall"
-    },
     "16e6f070b293430da5d4a022163382fc.16": {
       "guid": "16e6f070b293430da5d4a022163382fc.16",
       "lat": 44.222589,
@@ -7692,6 +7692,12 @@
       "lat": 44.227248,
       "lng": -76.524811,
       "name": "Butterfly Garden"
+    },
+    "905c3e1904144850bd5dc29040f0930d.16": {
+      "guid": "905c3e1904144850bd5dc29040f0930d.16",
+      "lat": 44.222535,
+      "lng": -76.495682,
+      "name": "Breakwater Park Map & Information"
     }
   },
   "notpogo": {
