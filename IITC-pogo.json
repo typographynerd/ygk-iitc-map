@@ -7704,6 +7704,18 @@
       "lat": 44.227468,
       "lng": -76.512687,
       "name": "Oakridge Park"
+    },
+    "21c29775cf7e49bc95f09aa4c42a5d11.16": {
+      "guid": "21c29775cf7e49bc95f09aa4c42a5d11.16",
+      "lat": 44.228217,
+      "lng": -76.513752,
+      "name": "Queen’s Community Garden"
+    },
+    "0841728f78b148258dc93c2b77d11dc7.16": {
+      "guid": "0841728f78b148258dc93c2b77d11dc7.16",
+      "lat": 44.227126,
+      "lng": -76.525072,
+      "name": "Sensory Garden Zen Table"
     }
   },
   "notpogo": {
