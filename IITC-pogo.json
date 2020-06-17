@@ -5491,12 +5491,6 @@
       "lng": -76.511123,
       "name": "Compton Park Swing Set"
     },
-    "f754f50032c741afb6c97a4e8f658890.16": {
-      "guid": "f754f50032c741afb6c97a4e8f658890.16",
-      "lat": 44.272279,
-      "lng": -76.43655,
-      "name": "John Machin south fields"
-    },
     "42b7d20704714b53be5f3292617ef886.16": {
       "guid": "42b7d20704714b53be5f3292617ef886.16",
       "lat": 44.254298,
@@ -7716,6 +7710,30 @@
       "lat": 44.227126,
       "lng": -76.525072,
       "name": "Sensory Garden Zen Table"
+    },
+    "661e76fd33f64269a3cc13da88c739a9.16": {
+      "guid": "661e76fd33f64269a3cc13da88c739a9.16",
+      "lat": 44.217243,
+      "lng": -76.534257,
+      "name": "Elevator Bay Park Shelter"
+    },
+    "bde8b6ed579b417ea550dfc0db19107a.16": {
+      "guid": "bde8b6ed579b417ea550dfc0db19107a.16",
+      "lat": 44.220666,
+      "lng": -76.525388,
+      "name": "SLC Entrance Walking Path"
+    },
+    "78fed96cd52f4879a3bf91b351bbd99f.16": {
+      "guid": "78fed96cd52f4879a3bf91b351bbd99f.16",
+      "lat": 44.217817,
+      "lng": -76.518462,
+      "name": "Rideau/Waterfront Trail/Shoreline Route - Yonge Street"
+    },
+    "f754f50032c741afb6c97a4e8f658890.16": {
+      "guid": "f754f50032c741afb6c97a4e8f658890.16",
+      "lat": 44.271957,
+      "lng": -76.436807,
+      "name": "John Machin South Soccer Field (1 of 3)"
     }
   },
   "notpogo": {
@@ -7756,6 +7774,8 @@
       "name": "Service correctionnel du Canad"
     }
   },
-  "ignoredCellsExtraGyms": {},
+  "ignoredCellsExtraGyms": {
+    "F2ij[5654,16378]@14": true
+  },
   "ignoredCellsMissingGyms": {}
 }
