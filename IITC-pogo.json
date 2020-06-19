@@ -7734,6 +7734,24 @@
       "lat": 44.271957,
       "lng": -76.436807,
       "name": "John Machin South Soccer Field (1 of 3)"
+    },
+    "655b580e7f55416580b7dc369199c5bc.16": {
+      "guid": "655b580e7f55416580b7dc369199c5bc.16",
+      "lat": 44.21711,
+      "lng": -76.595309,
+      "name": "Kingston Shoreline Route"
+    },
+    "83eb930c113342bd83b1b35a8fc5a4bc.16": {
+      "guid": "83eb930c113342bd83b1b35a8fc5a4bc.16",
+      "lat": 44.243681,
+      "lng": -76.534787,
+      "name": "HIKECRCA"
+    },
+    "d01ec485ccd04b608fee164e0064a6f7.16": {
+      "guid": "d01ec485ccd04b608fee164e0064a6f7.16",
+      "lat": 44.216189,
+      "lng": -76.530677,
+      "name": "Lake Ontario Park Splash Pad"
     }
   },
   "notpogo": {
@@ -7774,8 +7792,6 @@
       "name": "Service correctionnel du Canad"
     }
   },
-  "ignoredCellsExtraGyms": {
-    "F2ij[5654,16378]@14": true
-  },
+  "ignoredCellsExtraGyms": {},
   "ignoredCellsMissingGyms": {}
 }
