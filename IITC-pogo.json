@@ -7752,6 +7752,18 @@
       "lat": 44.216189,
       "lng": -76.530677,
       "name": "Lake Ontario Park Splash Pad"
+    },
+    "5f46d130ec104fd3b87e463b8d59ea3b.16": {
+      "guid": "5f46d130ec104fd3b87e463b8d59ea3b.16",
+      "lat": 44.241214,
+      "lng": -76.610601,
+      "name": "Great Lakes Waterfront Trail - Bath Road and Collin's Bay"
+    },
+    "621f9a7f069b4e9f85656fdd802625b1.16": {
+      "guid": "621f9a7f069b4e9f85656fdd802625b1.16",
+      "lat": 44.253864,
+      "lng": -76.583554,
+      "name": "Old Colony Park Swingset"
     }
   },
   "notpogo": {
