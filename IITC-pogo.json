@@ -7770,6 +7770,18 @@
       "lat": 44.232558,
       "lng": -76.573597,
       "name": "La Salle Park - West Entrance"
+    },
+    "db80eb3e87074748bf52391e6295495d.16": {
+      "guid": "db80eb3e87074748bf52391e6295495d.16",
+      "lat": 44.240248,
+      "lng": -76.516182,
+      "name": "Ongwanada Community Gardens"
+    },
+    "aa89297a7fcb4983a6efdc87399d7b44.16": {
+      "guid": "aa89297a7fcb4983a6efdc87399d7b44.16",
+      "lat": 44.238546,
+      "lng": -76.534903,
+      "name": "Westwinds Playground"
     }
   },
   "notpogo": {
