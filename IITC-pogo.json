@@ -1882,6 +1882,18 @@
       "lat": 44.223998,
       "lng": -76.495494,
       "name": "McLaughlin Hall"
+    },
+    "20bdc6ec7d5d4f209839036fce89ba61.16": {
+      "guid": "20bdc6ec7d5d4f209839036fce89ba61.16",
+      "lat": 44.232748,
+      "lng": -76.523026,
+      "name": "Original Cooke's Cornerstone"
+    },
+    "6e8852225f5c49478bfef4efe11d79fa.16": {
+      "guid": "6e8852225f5c49478bfef4efe11d79fa.16",
+      "lat": 44.226448,
+      "lng": -76.522197,
+      "name": "KSL Playground"
     }
   },
   "pokestops": {
@@ -7021,12 +7033,6 @@
       "lng": -76.531307,
       "name": "Silas Stevens Basketball Court"
     },
-    "6e8852225f5c49478bfef4efe11d79fa.16": {
-      "guid": "6e8852225f5c49478bfef4efe11d79fa.16",
-      "lat": 44.226448,
-      "lng": -76.522197,
-      "name": "KSL Playground"
-    },
     "66f5104fc2664340841dc51653815f2e.16": {
       "guid": "66f5104fc2664340841dc51653815f2e.16",
       "lat": 44.229859,
@@ -7152,12 +7158,6 @@
       "lat": 44.233012,
       "lng": -76.523599,
       "name": "Calvin Park Community Garden"
-    },
-    "20bdc6ec7d5d4f209839036fce89ba61.16": {
-      "guid": "20bdc6ec7d5d4f209839036fce89ba61.16",
-      "lat": 44.232748,
-      "lng": -76.523026,
-      "name": "Original Cooke's Cornerstone"
     },
     "4a434ca89eec443cb392ea7b2acbf3f7.16": {
       "guid": "4a434ca89eec443cb392ea7b2acbf3f7.16",
@@ -7794,6 +7794,12 @@
       "lat": 44.228842,
       "lng": -76.528668,
       "name": "Newcourt Fields North Soccer Field"
+    },
+    "3e9cf51aae904245abfd20eb0678545c.16": {
+      "guid": "3e9cf51aae904245abfd20eb0678545c.16",
+      "lat": 44.225229,
+      "lng": -76.522779,
+      "name": "Woodlands Park Backstop"
     }
   },
   "notpogo": {
