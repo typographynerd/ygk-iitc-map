@@ -7782,6 +7782,18 @@
       "lat": 44.238546,
       "lng": -76.534903,
       "name": "Westwinds Playground"
+    },
+    "97bde0958b714303823c37d5e0832043.16": {
+      "guid": "97bde0958b714303823c37d5e0832043.16",
+      "lat": 44.221697,
+      "lng": -76.527615,
+      "name": "Solar e-Bike Charging Station - St. Lawrence College"
+    },
+    "49504ac74f074040b73377d0eeedf252.16": {
+      "guid": "49504ac74f074040b73377d0eeedf252.16",
+      "lat": 44.228842,
+      "lng": -76.528668,
+      "name": "Newcourt Fields North Soccer Field"
     }
   },
   "notpogo": {
