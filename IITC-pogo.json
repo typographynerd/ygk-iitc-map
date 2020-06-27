@@ -2029,12 +2029,6 @@
       "lng": -76.494875,
       "name": "Kingston Hall"
     },
-    "00b657c7e2e94353b23661a87fca1c3f.11": {
-      "guid": "00b657c7e2e94353b23661a87fca1c3f.11",
-      "lat": 44.225088,
-      "lng": -76.494901,
-      "name": "Nixon Field"
-    },
     "8033906df7dc4629b2603cf021c52760.16": {
       "guid": "8033906df7dc4629b2603cf021c52760.16",
       "lat": 44.22523,
@@ -7800,6 +7794,30 @@
       "lat": 44.225229,
       "lng": -76.522779,
       "name": "Woodlands Park Backstop"
+    },
+    "00b657c7e2e94353b23661a87fca1c3f.11": {
+      "guid": "00b657c7e2e94353b23661a87fca1c3f.11",
+      "lat": 44.225034,
+      "lng": -76.494142,
+      "name": "Nixon Field"
+    },
+    "09a890231706486880d7a5b755a43b91.16": {
+      "guid": "09a890231706486880d7a5b755a43b91.16",
+      "lat": 44.225305,
+      "lng": -76.495431,
+      "name": "Professors’ Walk"
+    },
+    "d6260456af044e21b3f9b55adbdc297f.16": {
+      "guid": "d6260456af044e21b3f9b55adbdc297f.16",
+      "lat": 44.239608,
+      "lng": -76.516267,
+      "name": "Ongwanada Crescent Centre"
+    },
+    "b09c186992ca476086789a19c23ee6c6.16": {
+      "guid": "b09c186992ca476086789a19c23ee6c6.16",
+      "lat": 44.220736,
+      "lng": -76.522776,
+      "name": "Super Monster Games Mural"
     }
   },
   "notpogo": {
