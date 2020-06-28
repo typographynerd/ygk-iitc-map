@@ -1894,6 +1894,12 @@
       "lat": 44.226448,
       "lng": -76.522197,
       "name": "KSL Playground"
+    },
+    "cc9c8c25fd664ce5bfe1aa8330eca2f9.12": {
+      "guid": "cc9c8c25fd664ce5bfe1aa8330eca2f9.12",
+      "lat": 44.238772,
+      "lng": -76.517559,
+      "name": "Kingston Frontenac Public Library"
     }
   },
   "pokestops": {
@@ -3072,12 +3078,6 @@
       "lat": 44.240266,
       "lng": -76.517089,
       "name": "Ymca  "
-    },
-    "cc9c8c25fd664ce5bfe1aa8330eca2f9.12": {
-      "guid": "cc9c8c25fd664ce5bfe1aa8330eca2f9.12",
-      "lat": 44.238772,
-      "lng": -76.517559,
-      "name": "Kingston Frontenac Public Library"
     },
     "59644f7de0ac4cc5917fbf7263aed22d.16": {
       "guid": "59644f7de0ac4cc5917fbf7263aed22d.16",
