@@ -4267,12 +4267,6 @@
       "lng": -76.653021,
       "name": "Fairfield Play Structure"
     },
-    "82f17eb295574fc7a41c03d93e177eae.16": {
-      "guid": "82f17eb295574fc7a41c03d93e177eae.16",
-      "lat": 44.215697,
-      "lng": -76.655692,
-      "name": "Bay Of Quite Waterfront Trail"
-    },
     "69230cf6b84946cd8ea42f6cfa717368.16": {
       "guid": "69230cf6b84946cd8ea42f6cfa717368.16",
       "lat": 44.216581,
@@ -7818,6 +7812,18 @@
       "lat": 44.220736,
       "lng": -76.522776,
       "name": "Super Monster Games Mural"
+    },
+    "632a78099b3a4ddab5f94f3efd2ccf10.16": {
+      "guid": "632a78099b3a4ddab5f94f3efd2ccf10.16",
+      "lat": 44.218574,
+      "lng": -76.522265,
+      "name": "Beechgrove Complex Map"
+    },
+    "82f17eb295574fc7a41c03d93e177eae.16": {
+      "guid": "82f17eb295574fc7a41c03d93e177eae.16",
+      "lat": 44.21565,
+      "lng": -76.655788,
+      "name": "Bay Of Quite Waterfront Trail"
     }
   },
   "notpogo": {
