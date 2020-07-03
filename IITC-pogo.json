@@ -1900,6 +1900,12 @@
       "lat": 44.238772,
       "lng": -76.517559,
       "name": "Kingston Frontenac Public Library"
+    },
+    "191f2845ad1940b8b038300db2b7213d.16": {
+      "guid": "191f2845ad1940b8b038300db2b7213d.16",
+      "lat": 44.25393,
+      "lng": -76.583303,
+      "name": "Old Colony Park Playground"
     }
   },
   "pokestops": {
@@ -3924,12 +3930,6 @@
       "lat": 44.254753,
       "lng": -76.584181,
       "name": "Old Colony Park North"
-    },
-    "191f2845ad1940b8b038300db2b7213d.16": {
-      "guid": "191f2845ad1940b8b038300db2b7213d.16",
-      "lat": 44.25393,
-      "lng": -76.583303,
-      "name": "Old Colony Park Playground"
     },
     "21e5c4e533c0436e90fd7dbb08ee6093.16": {
       "guid": "21e5c4e533c0436e90fd7dbb08ee6093.16",
@@ -7848,6 +7848,12 @@
       "lat": 44.231444,
       "lng": -76.49327,
       "name": "A Way of Life"
+    },
+    "41f64bd3858e43a9a56455babc02de02.16": {
+      "guid": "41f64bd3858e43a9a56455babc02de02.16",
+      "lat": 44.251101,
+      "lng": -76.584561,
+      "name": "Pembridge Pergola"
     }
   },
   "notpogo": {
