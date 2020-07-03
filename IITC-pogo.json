@@ -7824,6 +7824,30 @@
       "lat": 44.21565,
       "lng": -76.655788,
       "name": "Bay Of Quite Waterfront Trail"
+    },
+    "73c86db4ce5b4f679e360f9a1015ae4d.16": {
+      "guid": "73c86db4ce5b4f679e360f9a1015ae4d.16",
+      "lat": 44.215922,
+      "lng": -76.522854,
+      "name": "Rockwood Asylum (Now Closed)"
+    },
+    "91d87f48996c47f2bb692d5aae9c1283.16": {
+      "guid": "91d87f48996c47f2bb692d5aae9c1283.16",
+      "lat": 44.216206,
+      "lng": -76.524584,
+      "name": "Beechgrove Cottage"
+    },
+    "329bdb382cf64063be3a37f941e60583.16": {
+      "guid": "329bdb382cf64063be3a37f941e60583.16",
+      "lat": 44.234766,
+      "lng": -76.596285,
+      "name": "West Park Playground 2"
+    },
+    "bd1381942ed040d7bb5bc2d7aabefdba.16": {
+      "guid": "bd1381942ed040d7bb5bc2d7aabefdba.16",
+      "lat": 44.231444,
+      "lng": -76.49327,
+      "name": "A Way of Life"
     }
   },
   "notpogo": {
