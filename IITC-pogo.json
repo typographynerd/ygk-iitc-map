@@ -1906,6 +1906,12 @@
       "lat": 44.25393,
       "lng": -76.583303,
       "name": "Old Colony Park Playground"
+    },
+    "9ee8a1c671c24128adb5736ef9d4431e.16": {
+      "guid": "9ee8a1c671c24128adb5736ef9d4431e.16",
+      "lat": 44.268333,
+      "lng": -76.541756,
+      "name": "Queens Medical Donation Monument"
     }
   },
   "pokestops": {
@@ -7429,12 +7435,6 @@
       "lng": -76.502955,
       "name": "Max Jackson Memorial Park Playground"
     },
-    "9ee8a1c671c24128adb5736ef9d4431e.16": {
-      "guid": "9ee8a1c671c24128adb5736ef9d4431e.16",
-      "lat": 44.268333,
-      "lng": -76.541756,
-      "name": "Queens Medical Donation Monument"
-    },
     "2cfded3563124b76ba45034c01017ead.16": {
       "guid": "2cfded3563124b76ba45034c01017ead.16",
       "lat": 44.262136,
@@ -7854,6 +7854,12 @@
       "lat": 44.251101,
       "lng": -76.584561,
       "name": "Pembridge Pergola"
+    },
+    "a0506246c56b4cbfb1522692b14ce743.16": {
+      "guid": "a0506246c56b4cbfb1522692b14ce743.16",
+      "lat": 44.268584,
+      "lng": -76.539458,
+      "name": "Poem Plaque"
     }
   },
   "notpogo": {
