@@ -1,6 +1,8 @@
 # PokeStops and Gyms for Kingston ON (YGK)
 This respository contains a JSON file of the PokeStops and Gyms in the Kingston, Ontario area, to be used to set up your own IITC Map (using various tools as described [here](https://gitlab.com/AlfonsoML/pogo-s2/-/wikis/How-to-add-new-PoI-to-your-city)). By importing this JSON file, it saves you from having to mark individual portals as PokeStops or Gyms. The resulting map can be very useful in helping you to plan your wayspot nominations in Wayfarer.
 
+If you are just looking for a map of PokeStop and Gym locations in Kingston, you can find one [here](https://www.google.com/maps/d/viewer?mid=1QQ47gRDuECchB5qQ7Mkpogz02KPFi8Zd&ll=44.23766223999999%2C-76.585312245&z=13).
+
 **Note: this file only contains PokeStop and Gym information for the Kingston, Ontario area.** It has been crowd sourced from the [YGK Pogo Community](https://ygkpogo.ca).
 
 ## How to Use This JSON File
