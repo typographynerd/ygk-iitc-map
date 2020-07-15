@@ -1918,6 +1918,12 @@
       "lat": 44.233932,
       "lng": -76.461274,
       "name": "Fort Henry Main Entrance"
+    },
+    "7b6ba42e215b4422861162e7fbf73f16.16": {
+      "guid": "7b6ba42e215b4422861162e7fbf73f16.16",
+      "lat": 44.222975,
+      "lng": -76.696173,
+      "name": "Parrots Bay Conservation Area"
     }
   },
   "pokestops": {
@@ -4356,12 +4362,6 @@
       "lat": 44.222331,
       "lng": -76.69715,
       "name": "Parrot's Bay Trail Map Entrance"
-    },
-    "7b6ba42e215b4422861162e7fbf73f16.16": {
-      "guid": "7b6ba42e215b4422861162e7fbf73f16.16",
-      "lat": 44.222975,
-      "lng": -76.696173,
-      "name": "Parrots Bay Conservation Area"
     },
     "e737ea00950e4ae0ae335db95ad997d2.16": {
       "guid": "e737ea00950e4ae0ae335db95ad997d2.16",
@@ -7878,6 +7878,12 @@
       "lat": 44.237812,
       "lng": -76.46366,
       "name": "Kingston Shoreline Route-Main St"
+    },
+    "5af1e614353649728ee2fcd2690df2e8.16": {
+      "guid": "5af1e614353649728ee2fcd2690df2e8.16",
+      "lat": 44.222451,
+      "lng": -76.695772,
+      "name": "Parrot Bay Footbridge Dedication Plaque"
     }
   },
   "notpogo": {
