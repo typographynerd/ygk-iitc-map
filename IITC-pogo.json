@@ -1924,6 +1924,12 @@
       "lat": 44.222975,
       "lng": -76.696173,
       "name": "Parrots Bay Conservation Area"
+    },
+    "6f96bb6331204efe80e46154ab7dba9c.16": {
+      "guid": "6f96bb6331204efe80e46154ab7dba9c.16",
+      "lat": 44.236761,
+      "lng": -76.464776,
+      "name": "Pro Patria"
     }
   },
   "pokestops": {
@@ -4927,12 +4933,6 @@
       "lng": -76.468517,
       "name": "RMC Walkway"
     },
-    "6f96bb6331204efe80e46154ab7dba9c.16": {
-      "guid": "6f96bb6331204efe80e46154ab7dba9c.16",
-      "lat": 44.236761,
-      "lng": -76.464776,
-      "name": "Pro Patria"
-    },
     "2e3c7c7e574a4a9ab542f2d960e35fdb.16": {
       "guid": "2e3c7c7e574a4a9ab542f2d960e35fdb.16",
       "lat": 44.230314,
@@ -7890,6 +7890,24 @@
       "lat": 44.23705,
       "lng": -76.464943,
       "name": "Kingston Fortifications: Fort Henry"
+    },
+    "3923294229ff47438ce721043221fda0.16": {
+      "guid": "3923294229ff47438ce721043221fda0.16",
+      "lat": 44.236051,
+      "lng": -76.451364,
+      "name": "Queenston Heights Outdoor Rink"
+    },
+    "ee6d39fc812248da81ef4533d4c25a5b.16": {
+      "guid": "ee6d39fc812248da81ef4533d4c25a5b.16",
+      "lat": 44.274029,
+      "lng": -76.56768,
+      "name": "Invista Centre Soccer Field"
+    },
+    "cb51f71b6c214dc88ab7a65b3ad750a1.16": {
+      "guid": "cb51f71b6c214dc88ab7a65b3ad750a1.16",
+      "lat": 44.23804,
+      "lng": -76.46345,
+      "name": "The Bill Robb Barriefield Rock Garden"
     }
   },
   "notpogo": {
