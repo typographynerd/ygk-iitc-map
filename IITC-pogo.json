@@ -1930,6 +1930,12 @@
       "lat": 44.236761,
       "lng": -76.464776,
       "name": "Pro Patria"
+    },
+    "fc783fbada684439b8b64a6e881140c1.16": {
+      "guid": "fc783fbada684439b8b64a6e881140c1.16",
+      "lat": 44.27426,
+      "lng": -76.58038,
+      "name": "Midland Park Playstructure"
     }
   },
   "pokestops": {
@@ -5713,12 +5719,6 @@
       "lng": -76.666603,
       "name": "Loyalist Park West Entrance"
     },
-    "fc783fbada684439b8b64a6e881140c1.16": {
-      "guid": "fc783fbada684439b8b64a6e881140c1.16",
-      "lat": 44.27426,
-      "lng": -76.58038,
-      "name": "Midland Park Playstructure"
-    },
     "b683930f8cd84dc3b93490ab5627d117.16": {
       "guid": "b683930f8cd84dc3b93490ab5627d117.16",
       "lat": 44.219776,
@@ -7908,6 +7908,18 @@
       "lat": 44.23804,
       "lng": -76.46345,
       "name": "The Bill Robb Barriefield Rock Garden"
+    },
+    "47ce02b674c34aa7a0fe84f2d7315e3a.16": {
+      "guid": "47ce02b674c34aa7a0fe84f2d7315e3a.16",
+      "lat": 44.23658,
+      "lng": -76.596283,
+      "name": "West Park"
+    },
+    "a0debcd9dd22424388576718be4f2c0f.16": {
+      "guid": "a0debcd9dd22424388576718be4f2c0f.16",
+      "lat": 44.2742,
+      "lng": -76.579573,
+      "name": "Midland Park Pearl Road"
     }
   },
   "notpogo": {
