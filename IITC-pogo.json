@@ -1936,6 +1936,12 @@
       "lat": 44.27426,
       "lng": -76.58038,
       "name": "Midland Park Playstructure"
+    },
+    "3923294229ff47438ce721043221fda0.16": {
+      "guid": "3923294229ff47438ce721043221fda0.16",
+      "lat": 44.236051,
+      "lng": -76.451364,
+      "name": "Queenston Heights Outdoor Rink"
     }
   },
   "pokestops": {
@@ -2009,7 +2015,7 @@
       "guid": "aa01556cd46d438bb93963b3ed099d42.16",
       "lat": 44.223428,
       "lng": -76.488871,
-      "name": "Water Trail / Rideau Trail Marker"
+      "name": "Waterfront/Rideau Trail Marker - Emily St"
     },
     "ce35dc679da04b6a8e1ce6945437755a.16": {
       "guid": "ce35dc679da04b6a8e1ce6945437755a.16",
@@ -2033,7 +2039,7 @@
       "guid": "867d5f92adf841d0a66371545c7968f4.16",
       "lat": 44.222257,
       "lng": -76.494987,
-      "name": "Rideau Trail Marker"
+      "name": "Waterfront/Rideau Trail Marker - Breakwater Park East"
     },
     "a0894a85f5f84fa69d7e3e21a6c57bc3.11": {
       "guid": "a0894a85f5f84fa69d7e3e21a6c57bc3.11",
@@ -2351,7 +2357,7 @@
       "guid": "903633e6c78548748876226674ef57e6.16",
       "lat": 44.22489,
       "lng": -76.483392,
-      "name": "Waterfront/Rideau Trail/Shoreline Route Marker"
+      "name": "Waterfront/Rideau/Shoreline Trails - Lower Union St"
     },
     "7614356f406b4741824748b12376706b.16": {
       "guid": "7614356f406b4741824748b12376706b.16",
@@ -2484,12 +2490,6 @@
       "lat": 44.230145,
       "lng": -76.477868,
       "name": "St. Lawrence Cruise Lines"
-    },
-    "72c051cce29c4cedb9184548ad747621.16": {
-      "guid": "72c051cce29c4cedb9184548ad747621.16",
-      "lat": 44.23043,
-      "lng": -76.478374,
-      "name": "Crawford Wharf"
     },
     "6045573465cb4b4cbc6b691fa05ed59d.16": {
       "guid": "6045573465cb4b4cbc6b691fa05ed59d.16",
@@ -7891,12 +7891,6 @@
       "lng": -76.464943,
       "name": "Kingston Fortifications: Fort Henry"
     },
-    "3923294229ff47438ce721043221fda0.16": {
-      "guid": "3923294229ff47438ce721043221fda0.16",
-      "lat": 44.236051,
-      "lng": -76.451364,
-      "name": "Queenston Heights Outdoor Rink"
-    },
     "ee6d39fc812248da81ef4533d4c25a5b.16": {
       "guid": "ee6d39fc812248da81ef4533d4c25a5b.16",
       "lat": 44.274029,
@@ -7926,6 +7920,18 @@
       "lat": 44.218291,
       "lng": -76.53487,
       "name": "Kingston Shoreline Route - Elevator Bay Park"
+    },
+    "72c051cce29c4cedb9184548ad747621.16": {
+      "guid": "72c051cce29c4cedb9184548ad747621.16",
+      "lat": 44.230291,
+      "lng": -76.478454,
+      "name": "Crawford Wharf"
+    },
+    "ee2a1ebd078d4eebabd73b59042310c6.16": {
+      "guid": "ee2a1ebd078d4eebabd73b59042310c6.16",
+      "lat": 44.236307,
+      "lng": -76.451032,
+      "name": "Queenston Heights Basketball Court"
     }
   },
   "notpogo": {
