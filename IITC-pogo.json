@@ -1905,7 +1905,8 @@
       "guid": "191f2845ad1940b8b038300db2b7213d.16",
       "lat": 44.25393,
       "lng": -76.583303,
-      "name": "Old Colony Park Playground"
+      "name": "Old Colony Park Playground",
+      "isEx": true
     },
     "9ee8a1c671c24128adb5736ef9d4431e.16": {
       "guid": "9ee8a1c671c24128adb5736ef9d4431e.16",
@@ -2927,7 +2928,7 @@
       "guid": "8de773d19d414feb935710eb8a0c9e60.16",
       "lat": 44.235612,
       "lng": -76.498633,
-      "name": "Harbour Light Centre, Kingston Ontario"
+      "name": "Harbour Light Centre"
     },
     "9f5d7db3a0f8419d8b4363c7f489c6ef.16": {
       "guid": "9f5d7db3a0f8419d8b4363c7f489c6ef.16",
@@ -3461,7 +3462,7 @@
       "guid": "8973eb7d65204223a4a140077251cc4a.16",
       "lat": 44.260038,
       "lng": -76.543378,
-      "name": "Cataraqui Woods Cemetery above Ground Burial"
+      "name": "Cataraqui Woods Cemetery Columbarium"
     },
     "334c54bb1fd24980a1e3eaa15b073d31.16": {
       "guid": "334c54bb1fd24980a1e3eaa15b073d31.16",
@@ -6443,7 +6444,7 @@
       "guid": "f9bdc2559595463d9753a1e479bab586.16",
       "lat": 44.236855,
       "lng": -76.531997,
-      "name": "McCollough Park Soccer Field (3 of 3)"
+      "name": "McCullough Park Soccer Field (3 of 3)"
     },
     "1b9d3fc3aa0a4a84b1e4e8314d0318fc.16": {
       "guid": "1b9d3fc3aa0a4a84b1e4e8314d0318fc.16",
