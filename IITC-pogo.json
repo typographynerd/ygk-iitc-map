@@ -1893,7 +1893,8 @@
       "guid": "6e8852225f5c49478bfef4efe11d79fa.16",
       "lat": 44.226448,
       "lng": -76.522197,
-      "name": "KSL Playground"
+      "name": "KSL Playground",
+      "isEx": true
     },
     "cc9c8c25fd664ce5bfe1aa8330eca2f9.12": {
       "guid": "cc9c8c25fd664ce5bfe1aa8330eca2f9.12",
@@ -3192,7 +3193,7 @@
       "guid": "1c1c3109db3b44ae9b5cbe7a956eb0e9.16",
       "lat": 44.220943,
       "lng": -76.513714,
-      "name": "Kingston Penitentiary ( Now Closed) "
+      "name": "Kingston Penitentiary"
     },
     "0c736331271547ccaef83cfe67f490b6.16": {
       "guid": "0c736331271547ccaef83cfe67f490b6.16",
@@ -3457,12 +3458,6 @@
       "lat": 44.260365,
       "lng": -76.542177,
       "name": "Cemetery Gazebo and Maseoleum"
-    },
-    "8973eb7d65204223a4a140077251cc4a.16": {
-      "guid": "8973eb7d65204223a4a140077251cc4a.16",
-      "lat": 44.260038,
-      "lng": -76.543378,
-      "name": "Cataraqui Woods Cemetery Columbarium"
     },
     "334c54bb1fd24980a1e3eaa15b073d31.16": {
       "guid": "334c54bb1fd24980a1e3eaa15b073d31.16",
@@ -7933,6 +7928,24 @@
       "lat": 44.236307,
       "lng": -76.451032,
       "name": "Queenston Heights Basketball Court"
+    },
+    "8973eb7d65204223a4a140077251cc4a.16": {
+      "guid": "8973eb7d65204223a4a140077251cc4a.16",
+      "lat": 44.260038,
+      "lng": -76.543378,
+      "name": "Cataraqui Woods Cemetery Columbarium"
+    },
+    "0171358d7afa4ad4ba8d085dc6047ae7.16": {
+      "guid": "0171358d7afa4ad4ba8d085dc6047ae7.16",
+      "lat": 44.257641,
+      "lng": -76.56546,
+      "name": "Royale Place Gazebo"
+    },
+    "f97e35c01c844f4e9eaf5ea8ff2eeee8.16": {
+      "guid": "f97e35c01c844f4e9eaf5ea8ff2eeee8.16",
+      "lat": 44.232942,
+      "lng": -76.4985,
+      "name": "Victoria Park"
     }
   },
   "notpogo": {
