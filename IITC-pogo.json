@@ -1950,6 +1950,12 @@
       "lat": 44.262518,
       "lng": -76.498523,
       "name": "K&P Trail"
+    },
+    "4c5cbc28ad594236950fb4db3413747c.16": {
+      "guid": "4c5cbc28ad594236950fb4db3413747c.16",
+      "lat": 44.251642,
+      "lng": -76.48581,
+      "name": "L5 105mm Gun Memorial"
     }
   },
   "pokestops": {
@@ -3266,12 +3272,6 @@
       "lat": 44.251905,
       "lng": -76.488885,
       "name": "Veteran's Field"
-    },
-    "4c5cbc28ad594236950fb4db3413747c.16": {
-      "guid": "4c5cbc28ad594236950fb4db3413747c.16",
-      "lat": 44.251642,
-      "lng": -76.48581,
-      "name": "L5 105mm Gun Memorial"
     },
     "36609fcbf3804cb09346249cd8622a60.16": {
       "guid": "36609fcbf3804cb09346249cd8622a60.16",
@@ -7976,6 +7976,30 @@
       "lat": 44.262679,
       "lng": -76.559637,
       "name": "Emerald Park"
+    },
+    "cc2ab622060048f2ad05e1b8522f034a.16": {
+      "guid": "cc2ab622060048f2ad05e1b8522f034a.16",
+      "lat": 44.256916,
+      "lng": -76.499754,
+      "name": "Ken Matthews Park Play Structure"
+    },
+    "1a550ccc55f343fa8858945dfed1eb6b.16": {
+      "guid": "1a550ccc55f343fa8858945dfed1eb6b.16",
+      "lat": 44.216768,
+      "lng": -76.532189,
+      "name": "Kingston Shoreline Route - Lake Ontario Park West"
+    },
+    "ae827561e65b4e9499ceeb1f45b03425.16": {
+      "guid": "ae827561e65b4e9499ceeb1f45b03425.16",
+      "lat": 44.248522,
+      "lng": -76.486995,
+      "name": "K&P Trail Map - Montreal/Railway"
+    },
+    "304664b959854630b8857092c2567b0f.16": {
+      "guid": "304664b959854630b8857092c2567b0f.16",
+      "lat": 44.249692,
+      "lng": -76.488134,
+      "name": "K&P 3.0 KM Trail Marker"
     }
   },
   "notpogo": {
