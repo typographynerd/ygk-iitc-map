@@ -1944,6 +1944,12 @@
       "lat": 44.236051,
       "lng": -76.451364,
       "name": "Queenston Heights Outdoor Rink"
+    },
+    "5cc8aa818916458f81fb2583a726c7e0.16": {
+      "guid": "5cc8aa818916458f81fb2583a726c7e0.16",
+      "lat": 44.262518,
+      "lng": -76.498523,
+      "name": "K&P Trail"
     }
   },
   "pokestops": {
@@ -3278,12 +3284,6 @@
       "lat": 44.24733,
       "lng": -76.469193,
       "name": "Lighthouse Near Bells Island"
-    },
-    "5cc8aa818916458f81fb2583a726c7e0.16": {
-      "guid": "5cc8aa818916458f81fb2583a726c7e0.16",
-      "lat": 44.262518,
-      "lng": -76.498523,
-      "name": "K&P Trail"
     },
     "4402af8c81d8410f88c171f168851915.16": {
       "guid": "4402af8c81d8410f88c171f168851915.16",
@@ -7958,6 +7958,24 @@
       "lat": 44.235475,
       "lng": -76.451764,
       "name": "Queenston Heights Backstop"
+    },
+    "40c795b1ac6644bea7f7a7f6ef514977.16": {
+      "guid": "40c795b1ac6644bea7f7a7f6ef514977.16",
+      "lat": 44.231519,
+      "lng": -76.460389,
+      "name": "Fort Henry Reverse Fire Chambers"
+    },
+    "5647e4077fdc4b42ae116cafd9d805b9.16": {
+      "guid": "5647e4077fdc4b42ae116cafd9d805b9.16",
+      "lat": 44.262304,
+      "lng": -76.50108,
+      "name": "K&P Trail - 5km Marker"
+    },
+    "a31246fd2c114b1fb8c35bee5dcc1685.16": {
+      "guid": "a31246fd2c114b1fb8c35bee5dcc1685.16",
+      "lat": 44.262679,
+      "lng": -76.559637,
+      "name": "Emerald Park"
     }
   },
   "notpogo": {
