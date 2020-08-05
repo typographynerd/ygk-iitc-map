@@ -1956,6 +1956,12 @@
       "lat": 44.251642,
       "lng": -76.48581,
       "name": "L5 105mm Gun Memorial"
+    },
+    "375eafbc9cf947f99ebc79f534cebe4f.16": {
+      "guid": "375eafbc9cf947f99ebc79f534cebe4f.16",
+      "lat": 44.259162,
+      "lng": -76.497474,
+      "name": "Centro Cultural Português"
     }
   },
   "pokestops": {
@@ -6693,12 +6699,6 @@
       "lng": -76.497145,
       "name": "Encounter Church"
     },
-    "375eafbc9cf947f99ebc79f534cebe4f.16": {
-      "guid": "375eafbc9cf947f99ebc79f534cebe4f.16",
-      "lat": 44.259162,
-      "lng": -76.497474,
-      "name": "Centro Cultural Português"
-    },
     "8588f1c03f5a4f60a9873cf07cff7111.16": {
       "guid": "8588f1c03f5a4f60a9873cf07cff7111.16",
       "lat": 44.232937,
@@ -8000,6 +8000,12 @@
       "lat": 44.249692,
       "lng": -76.488134,
       "name": "K&P 3.0 KM Trail Marker"
+    },
+    "d15d8aed585d49f08d36d06bea9dcc9f.16": {
+      "guid": "d15d8aed585d49f08d36d06bea9dcc9f.16",
+      "lat": 44.257533,
+      "lng": -76.492957,
+      "name": "K&P 4.0 KM Trail Marker"
     }
   },
   "notpogo": {
