@@ -1722,7 +1722,8 @@
       "guid": "7aa517f73e074a5d9f0ba660956e9153.16",
       "lat": 44.245384,
       "lng": -76.505604,
-      "name": "Third Avenue Baseball Diamond"
+      "name": "Third Avenue Baseball Diamond",
+      "isEx": true
     },
     "13238dcfa0594811b92dc44b07cc9478.16": {
       "guid": "13238dcfa0594811b92dc44b07cc9478.16",
@@ -1809,7 +1810,8 @@
       "guid": "8c6437b768b94afa926ac00bbc7881ac.16",
       "lat": 44.245701,
       "lng": -76.500377,
-      "name": "Robert Lavalle Memorial Kiwanis Park"
+      "name": "Robert Lavalle Memorial Kiwanis Park",
+      "isEx": true
     },
     "bbc95b1033f54148ba49140252612ef2.16": {
       "guid": "bbc95b1033f54148ba49140252612ef2.16",
@@ -1857,7 +1859,8 @@
       "guid": "6be8169c0f2a4478998a6e3ab6fdcec0.16",
       "lat": 44.222175,
       "lng": -76.526397,
-      "name": "St. Lawrence College volleyball courts"
+      "name": "St. Lawrence College volleyball courts",
+      "isEx": true
     },
     "78dad07196fd4db8a2f08d9178e71024.16": {
       "guid": "78dad07196fd4db8a2f08d9178e71024.16",
