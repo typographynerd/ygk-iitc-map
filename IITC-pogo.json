@@ -1971,6 +1971,12 @@
       "lat": 44.170066,
       "lng": -76.700938,
       "name": "Amherst Island General Store And Post Office"
+    },
+    "504d85c0dc6d466f988d35374cb0c460.16": {
+      "guid": "504d85c0dc6d466f988d35374cb0c460.16",
+      "lat": 44.172702,
+      "lng": -76.693596,
+      "name": "St Albans Anglican Church"
     }
   },
   "pokestops": {
@@ -5608,7 +5614,7 @@
       "guid": "d6446ae8b81c4e04a880debe8c4fd2b4.16",
       "lat": 44.226469,
       "lng": -76.639904,
-      "name": "Willie Pratt baselball diamond (1 of 2)"
+      "name": "Willie Pratt baseball diamond (1 of 2)"
     },
     "cc1483bf9f1e4dae81feb9564b23abad.16": {
       "guid": "cc1483bf9f1e4dae81feb9564b23abad.16",
@@ -8027,6 +8033,60 @@
       "lat": 44.252186,
       "lng": -76.483006,
       "name": "Belle Park Driving Range"
+    },
+    "c0daa9b9a30b401da7ae41d53c141d07.16": {
+      "guid": "c0daa9b9a30b401da7ae41d53c141d07.16",
+      "lat": 44.169321,
+      "lng": -76.704089,
+      "name": "Dry Stone Structure Legacy Site"
+    },
+    "91539d0b68ac4ad0818d2d87bfdcf544.16": {
+      "guid": "91539d0b68ac4ad0818d2d87bfdcf544.16",
+      "lat": 44.170397,
+      "lng": -76.700356,
+      "name": "The Back Kitchen"
+    },
+    "667968600cd741ea8291f6d01c9b5bfc.16": {
+      "guid": "667968600cd741ea8291f6d01c9b5bfc.16",
+      "lat": 44.170881,
+      "lng": -76.697918,
+      "name": "Centennial Park"
+    },
+    "6ac471b283a14b3f81510e903f936456.16": {
+      "guid": "6ac471b283a14b3f81510e903f936456.16",
+      "lat": 44.171762,
+      "lng": -76.695635,
+      "name": "Weasel & Easel - Amherst Island Museum"
+    },
+    "f5a82b5a084749e4a1e1f073fbad2504.16": {
+      "guid": "f5a82b5a084749e4a1e1f073fbad2504.16",
+      "lat": 44.222849,
+      "lng": -76.642782,
+      "name": "Historic Church Bell"
+    },
+    "994197d33de445c58e919e54ddc4beaa.16": {
+      "guid": "994197d33de445c58e919e54ddc4beaa.16",
+      "lat": 44.237053,
+      "lng": -76.448632,
+      "name": "KMFRC Playground"
+    },
+    "17b34dc11fff4d39a9dc37d9a21e7edd.16": {
+      "guid": "17b34dc11fff4d39a9dc37d9a21e7edd.16",
+      "lat": 44.233044,
+      "lng": -76.479528,
+      "name": "Tragically Hip Mural"
+    },
+    "c9379a8e71a145b9b523b556adb9bb0f.16": {
+      "guid": "c9379a8e71a145b9b523b556adb9bb0f.16",
+      "lat": 44.223828,
+      "lng": -76.490188,
+      "name": "International Day of Peace"
+    },
+    "2360896974eb4260a2e795700416362f.16": {
+      "guid": "2360896974eb4260a2e795700416362f.16",
+      "lat": 44.264638,
+      "lng": -76.505481,
+      "name": "K&P Trail - 5.5km Marker"
     }
   },
   "notpogo": {
