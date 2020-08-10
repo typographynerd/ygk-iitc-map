@@ -2664,12 +2664,6 @@
       "lng": -76.481981,
       "name": "The Meagher House"
     },
-    "11bbe5433f49478791a9db3a171b33e9.16": {
-      "guid": "11bbe5433f49478791a9db3a171b33e9.16",
-      "lat": 44.233035,
-      "lng": -76.484945,
-      "name": "St. Paul's Church"
-    },
     "7eb2015fe0304d769b4a9f1a798a67cf.16": {
       "guid": "7eb2015fe0304d769b4a9f1a798a67cf.16",
       "lat": 44.233946,
@@ -8087,6 +8081,12 @@
       "lat": 44.264638,
       "lng": -76.505481,
       "name": "K&P Trail - 5.5km Marker"
+    },
+    "11bbe5433f49478791a9db3a171b33e9.16": {
+      "guid": "11bbe5433f49478791a9db3a171b33e9.16",
+      "lat": 44.233052,
+      "lng": -76.484794,
+      "name": "St. Paul's Church"
     }
   },
   "notpogo": {
