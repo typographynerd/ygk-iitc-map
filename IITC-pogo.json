@@ -8093,6 +8093,24 @@
       "lat": 44.2333,
       "lng": -76.484993,
       "name": "Lower Burial Ground"
+    },
+    "6820fe29a4064d15b2bd875bd25b08e2.16": {
+      "guid": "6820fe29a4064d15b2bd875bd25b08e2.16",
+      "lat": 44.230676,
+      "lng": -76.45884,
+      "name": "RBL 7-Inch Armstrong Gun"
+    },
+    "8c0db55cd7e64638824a9f682dbafc39.16": {
+      "guid": "8c0db55cd7e64638824a9f682dbafc39.16",
+      "lat": 44.25368,
+      "lng": -76.460806,
+      "name": "Kingston Shoreline Route/Trail Slope-100 Foot Park"
+    },
+    "ae67c239ff7f44f5b4c383ab1b830ac0.16": {
+      "guid": "ae67c239ff7f44f5b4c383ab1b830ac0.16",
+      "lat": 44.259536,
+      "lng": -76.49751,
+      "name": "K&P Trail Map - Division/John Counter"
     }
   },
   "notpogo": {
