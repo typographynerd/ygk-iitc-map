@@ -8111,6 +8111,18 @@
       "lat": 44.259536,
       "lng": -76.49751,
       "name": "K&P Trail Map - Division/John Counter"
+    },
+    "593592852def42d19c3070ad6621482f.16": {
+      "guid": "593592852def42d19c3070ad6621482f.16",
+      "lat": 44.254591,
+      "lng": -76.457532,
+      "name": "Grenadier Park Basketball Court"
+    },
+    "7beec17987ab4b2fb76636b49c7d93aa.16": {
+      "guid": "7beec17987ab4b2fb76636b49c7d93aa.16",
+      "lat": 44.254656,
+      "lng": -76.455169,
+      "name": "Grenadier Park Soccer Field (1 of 3)"
     }
   },
   "notpogo": {
