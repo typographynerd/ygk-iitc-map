@@ -1977,6 +1977,12 @@
       "lat": 44.172702,
       "lng": -76.693596,
       "name": "St Albans Anglican Church"
+    },
+    "8ea273b122fe406496518cb2af9918ee.16": {
+      "guid": "8ea273b122fe406496518cb2af9918ee.16",
+      "lat": 44.235475,
+      "lng": -76.451764,
+      "name": "Queenston Heights Backstop"
     }
   },
   "pokestops": {
@@ -7961,12 +7967,6 @@
       "lat": 44.237634,
       "lng": -76.447764,
       "name": "Batoche Community Centre"
-    },
-    "8ea273b122fe406496518cb2af9918ee.16": {
-      "guid": "8ea273b122fe406496518cb2af9918ee.16",
-      "lat": 44.235475,
-      "lng": -76.451764,
-      "name": "Queenston Heights Backstop"
     },
     "40c795b1ac6644bea7f7a7f6ef514977.16": {
       "guid": "40c795b1ac6644bea7f7a7f6ef514977.16",
