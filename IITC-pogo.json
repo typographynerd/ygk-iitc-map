@@ -1946,7 +1946,8 @@
       "guid": "3923294229ff47438ce721043221fda0.16",
       "lat": 44.236051,
       "lng": -76.451364,
-      "name": "Queenston Heights Outdoor Rink"
+      "name": "Queenston Heights Outdoor Rink",
+      "isEx": true
     },
     "5cc8aa818916458f81fb2583a726c7e0.16": {
       "guid": "5cc8aa818916458f81fb2583a726c7e0.16",
