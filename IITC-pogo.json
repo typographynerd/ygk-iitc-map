@@ -1990,6 +1990,12 @@
       "lat": 44.255459,
       "lng": -76.455208,
       "name": "Grenadier Park Playground"
+    },
+    "a11034fa544843b2a4d90a2b8ad14fc0.16": {
+      "guid": "a11034fa544843b2a4d90a2b8ad14fc0.16",
+      "lat": 44.241545,
+      "lng": -76.494696,
+      "name": "Kingston house of prayer"
     }
   },
   "pokestops": {
@@ -3240,12 +3246,6 @@
       "lat": 44.241455,
       "lng": -76.492167,
       "name": "Anglican Church of the Good Sheperd"
-    },
-    "a11034fa544843b2a4d90a2b8ad14fc0.16": {
-      "guid": "a11034fa544843b2a4d90a2b8ad14fc0.16",
-      "lat": 44.241545,
-      "lng": -76.494696,
-      "name": "Kingston house of prayer"
     },
     "0aa5a8c7c350471caf2f0226b3f02f78.16": {
       "guid": "0aa5a8c7c350471caf2f0226b3f02f78.16",
