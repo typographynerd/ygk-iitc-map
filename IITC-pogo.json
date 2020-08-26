@@ -505,12 +505,6 @@
       "name": "Lafleur Park Playground",
       "isEx": true
     },
-    "e657a97a928b4aa1ac8ac88da21c2702.16": {
-      "guid": "e657a97a928b4aa1ac8ac88da21c2702.16",
-      "lat": 44.236675,
-      "lng": -76.528199,
-      "name": "Mc Cullough Park"
-    },
     "fe11b6b9544843fdae4602301136dd1c.16": {
       "guid": "fe11b6b9544843fdae4602301136dd1c.16",
       "lat": 44.224356,
@@ -1996,6 +1990,12 @@
       "lat": 44.241545,
       "lng": -76.494696,
       "name": "Kingston house of prayer"
+    },
+    "e657a97a928b4aa1ac8ac88da21c2702.16": {
+      "guid": "e657a97a928b4aa1ac8ac88da21c2702.16",
+      "lat": 44.236586,
+      "lng": -76.528091,
+      "name": "McCullough Park"
     }
   },
   "pokestops": {
@@ -8172,6 +8172,12 @@
       "lat": 44.24401,
       "lng": -76.524082,
       "name": "Providence Gazebo"
+    },
+    "0ef2e8d1dcc847c1826a4b3c0f42a7c2.16": {
+      "guid": "0ef2e8d1dcc847c1826a4b3c0f42a7c2.16",
+      "lat": 44.235975,
+      "lng": -76.589739,
+      "name": "Conservatory Pond Park"
     }
   },
   "notpogo": {
