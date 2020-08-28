@@ -4207,12 +4207,6 @@
       "lng": -76.612533,
       "name": "Beach Volleyball (1) At Kingston Expert Tees"
     },
-    "78b9daaccb5b44d4a1b98087b9ede625.16": {
-      "guid": "78b9daaccb5b44d4a1b98087b9ede625.16",
-      "lat": 44.258443,
-      "lng": -76.592976,
-      "name": "Westside Fellowship Church"
-    },
     "9d93ebbb615f425fa42ce8ce895d5a7e.16": {
       "guid": "9d93ebbb615f425fa42ce8ce895d5a7e.16",
       "lat": 44.250591,
@@ -7097,7 +7091,7 @@
       "guid": "2162650ba1714849a0fe540ea1601399.16",
       "lat": 44.223755,
       "lng": -76.484727,
-      "name": "Ahoy Rentals "
+      "name": "Ahoy Rentals"
     },
     "b1dec7c495184e9bb7727981c44bd9c3.16": {
       "guid": "b1dec7c495184e9bb7727981c44bd9c3.16",
@@ -8184,6 +8178,24 @@
       "lat": 44.235975,
       "lng": -76.589739,
       "name": "Conservatory Pond Park"
+    },
+    "45f97973f99649498b1d20120c695ad4.16": {
+      "guid": "45f97973f99649498b1d20120c695ad4.16",
+      "lat": 44.254574,
+      "lng": -76.455825,
+      "name": "Grenadier Park Soccer Field (2 of 3)"
+    },
+    "69918aee413c4484a8fdffdd9368f635.16": {
+      "guid": "69918aee413c4484a8fdffdd9368f635.16",
+      "lat": 44.213877,
+      "lng": -76.568007,
+      "name": "Crerar Park Sign"
+    },
+    "78b9daaccb5b44d4a1b98087b9ede625.16": {
+      "guid": "78b9daaccb5b44d4a1b98087b9ede625.16",
+      "lat": 44.258395,
+      "lng": -76.592855,
+      "name": "Westside Fellowship Church"
     }
   },
   "notpogo": {
