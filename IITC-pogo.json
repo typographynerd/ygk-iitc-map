@@ -5573,7 +5573,7 @@
       "guid": "4c961499461f4f9ea202ef3c1748ad6d.16",
       "lat": 44.229044,
       "lng": -76.517661,
-      "name": "jungle gym"
+      "name": "Yonge Street Jungle Gym"
     },
     "1fa2e2e222b3409ba805546117566d8a.16": {
       "guid": "1fa2e2e222b3409ba805546117566d8a.16",
@@ -8202,6 +8202,18 @@
       "lat": 44.240476,
       "lng": -76.500921,
       "name": "Memorial Centre Cricket Field"
+    },
+    "47b0ee961fd648abb5fdff646ea83680.16": {
+      "guid": "47b0ee961fd648abb5fdff646ea83680.16",
+      "lat": 44.237051,
+      "lng": -76.479339,
+      "name": "Grimshaw Memorial"
+    },
+    "21b13172d1ac42c4a1bac83a830edbfe.16": {
+      "guid": "21b13172d1ac42c4a1bac83a830edbfe.16",
+      "lat": 44.235259,
+      "lng": -76.481219,
+      "name": "Kingston Shoreline Route - Bay St"
     }
   },
   "notpogo": {
