@@ -138,13 +138,6 @@
       "lng": -76.485959,
       "name": "Providence Manor Cathedral"
     },
-    "a31557d83f504fd891a736152ea9e2eb.16": {
-      "guid": "a31557d83f504fd891a736152ea9e2eb.16",
-      "lat": 44.237742,
-      "lng": -76.481,
-      "name": "Douglas Fluhrer Park",
-      "isEx": true
-    },
     "1d7ea936a362427d80aa7444710ef0eb.16": {
       "guid": "1d7ea936a362427d80aa7444710ef0eb.16",
       "lat": 44.238204,
@@ -2002,6 +1995,13 @@
       "lat": 44.246896,
       "lng": -76.528502,
       "name": "Kingston Co-Op Playground"
+    },
+    "a31557d83f504fd891a736152ea9e2eb.16": {
+      "guid": "a31557d83f504fd891a736152ea9e2eb.16",
+      "lat": 44.237779,
+      "lng": -76.481032,
+      "name": "Douglas Fluhrer Park",
+      "isEx": true
     }
   },
   "pokestops": {
@@ -3215,7 +3215,7 @@
       "guid": "e5431db4288d43e9be0b34d7e1808fa8.16",
       "lat": 44.228961,
       "lng": -76.514518,
-      "name": "Miklas- McCarney Field"
+      "name": "Miklas-McCarney Field"
     },
     "1ef36cb79b0e4c829644bc9087c07889.16": {
       "guid": "1ef36cb79b0e4c829644bc9087c07889.16",
@@ -8250,6 +8250,12 @@
       "lat": 44.245546,
       "lng": -76.491016,
       "name": "The Salvation Army-Kingston Citadel Community and Family Services"
+    },
+    "de84dfc20b6043e78214a187d565e3a7.16": {
+      "guid": "de84dfc20b6043e78214a187d565e3a7.16",
+      "lat": 44.230457,
+      "lng": -76.459316,
+      "name": "Vickers Gun"
     }
   },
   "notpogo": {
