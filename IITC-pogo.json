@@ -2002,6 +2002,12 @@
       "lng": -76.481032,
       "name": "Douglas Fluhrer Park",
       "isEx": true
+    },
+    "dccb62466b3d424b85f052a36d9e5bb3.16": {
+      "guid": "dccb62466b3d424b85f052a36d9e5bb3.16",
+      "lat": 44.238123,
+      "lng": -76.455506,
+      "name": "Fort Henry Heights "
     }
   },
   "pokestops": {
@@ -5010,12 +5016,6 @@
       "lat": 44.239411,
       "lng": -76.460238,
       "name": "Barriefield Rock Garden"
-    },
-    "dccb62466b3d424b85f052a36d9e5bb3.16": {
-      "guid": "dccb62466b3d424b85f052a36d9e5bb3.16",
-      "lat": 44.238123,
-      "lng": -76.455506,
-      "name": "Fort Henry Heights "
     },
     "82d1d1b59d214d12ac3aebcd8ec881df.16": {
       "guid": "82d1d1b59d214d12ac3aebcd8ec881df.16",
@@ -8304,6 +8304,12 @@
       "lat": 44.254366,
       "lng": -76.454466,
       "name": "Grenadier Park Multi-Use Field (2 of 2)"
+    },
+    "564609de86f049a2b303efbf8f29e5a0.16": {
+      "guid": "564609de86f049a2b303efbf8f29e5a0.16",
+      "lat": 44.23617,
+      "lng": -76.453822,
+      "name": "Fort Henry Heights Backstop (1 of 3)"
     }
   },
   "notpogo": {
