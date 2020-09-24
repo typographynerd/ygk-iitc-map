@@ -2008,6 +2008,12 @@
       "lat": 44.238123,
       "lng": -76.455506,
       "name": "Fort Henry Heights "
+    },
+    "45f97973f99649498b1d20120c695ad4.16": {
+      "guid": "45f97973f99649498b1d20120c695ad4.16",
+      "lat": 44.254574,
+      "lng": -76.455825,
+      "name": "Grenadier Park Soccer Field (2 of 3)"
     }
   },
   "pokestops": {
@@ -8179,12 +8185,6 @@
       "lng": -76.589739,
       "name": "Conservatory Pond Park"
     },
-    "45f97973f99649498b1d20120c695ad4.16": {
-      "guid": "45f97973f99649498b1d20120c695ad4.16",
-      "lat": 44.254574,
-      "lng": -76.455825,
-      "name": "Grenadier Park Soccer Field (2 of 3)"
-    },
     "69918aee413c4484a8fdffdd9368f635.16": {
       "guid": "69918aee413c4484a8fdffdd9368f635.16",
       "lat": 44.213877,
@@ -8310,6 +8310,24 @@
       "lat": 44.23617,
       "lng": -76.453822,
       "name": "Fort Henry Heights Backstop (1 of 3)"
+    },
+    "63b67159dba04f2baf286bd6b7b2297d.16": {
+      "guid": "63b67159dba04f2baf286bd6b7b2297d.16",
+      "lat": 44.254497,
+      "lng": -76.453531,
+      "name": "Grenadier Park Soccer Field (3 of 3)"
+    },
+    "538dac8b3dce47e1909b0ef030f00034.16": {
+      "guid": "538dac8b3dce47e1909b0ef030f00034.16",
+      "lat": 44.254113,
+      "lng": -76.455086,
+      "name": "Grenadier Park Multi-Use Field (1 of 2)"
+    },
+    "c49c8a4c99f74df88ca5628447e28696.16": {
+      "guid": "c49c8a4c99f74df88ca5628447e28696.16",
+      "lat": 44.231145,
+      "lng": -76.460828,
+      "name": "Fort Henry Swing Footbridge"
     }
   },
   "notpogo": {
