@@ -2020,6 +2020,12 @@
       "lat": 44.251529,
       "lng": -76.596543,
       "name": "St. Paul Church Map"
+    },
+    "cb751b30b94840d4aee8b8db620c9966.16": {
+      "guid": "cb751b30b94840d4aee8b8db620c9966.16",
+      "lat": 44.24838,
+      "lng": -76.483581,
+      "name": "Trees Get to the Root of the Matter"
     }
   },
   "pokestops": {
@@ -2291,7 +2297,7 @@
       "guid": "9865371da63d4099adbf65a463643e3b.16",
       "lat": 44.225063,
       "lng": -76.493119,
-      "name": "Big White Frame Sculpture"
+      "name": "Ground Outline"
     },
     "ebcb4cfd0a534527ab8f770d52701ae0.16": {
       "guid": "ebcb4cfd0a534527ab8f770d52701ae0.16",
@@ -8346,6 +8352,30 @@
       "lat": 44.236525,
       "lng": -76.514361,
       "name": "St. Joseph's Church Monolith"
+    },
+    "3059e87d9c9d4841a53eebe937a1733e.16": {
+      "guid": "3059e87d9c9d4841a53eebe937a1733e.16",
+      "lat": 44.237174,
+      "lng": -76.454246,
+      "name": "Fort Henry Heights Backstop (2 of 3)"
+    },
+    "62e68e68f06448639b483ac91461d108.16": {
+      "guid": "62e68e68f06448639b483ac91461d108.16",
+      "lat": 44.245918,
+      "lng": -76.48439,
+      "name": "K&P 2.5 KM Trail Marker"
+    },
+    "711dfc8ba0cb4c4ba53bf000bf297151.16": {
+      "guid": "711dfc8ba0cb4c4ba53bf000bf297151.16",
+      "lat": 44.243872,
+      "lng": -76.483068,
+      "name": "K&P Trail Sign - River St"
+    },
+    "e001b0348e824e90900c7400cfd54547.16": {
+      "guid": "e001b0348e824e90900c7400cfd54547.16",
+      "lat": 44.248951,
+      "lng": -76.480041,
+      "name": "Well on Our Way to Recovery"
     }
   },
   "notpogo": {
