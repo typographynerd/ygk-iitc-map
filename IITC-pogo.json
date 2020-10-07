@@ -2026,6 +2026,24 @@
       "lat": 44.24838,
       "lng": -76.483581,
       "name": "Trees Get to the Root of the Matter"
+    },
+    "7d5db5ee7b3e444ab4644dd9ee6d511b.16": {
+      "guid": "7d5db5ee7b3e444ab4644dd9ee6d511b.16",
+      "lat": 44.260437,
+      "lng": -76.455543,
+      "name": "MacLean Park Community Garden"
+    },
+    "17bc753d7c8049729516717359f734dc.16": {
+      "guid": "17bc753d7c8049729516717359f734dc.16",
+      "lat": 44.254658,
+      "lng": -76.46236,
+      "name": "Point St. Mark Park"
+    },
+    "a3ad31b099c74ac49fccbe92af426179.16": {
+      "guid": "a3ad31b099c74ac49fccbe92af426179.16",
+      "lat": 44.255165,
+      "lng": -76.462714,
+      "name": "Point St. Mark Playstructure"
     }
   },
   "pokestops": {
@@ -8364,6 +8382,24 @@
       "lat": 44.248951,
       "lng": -76.480041,
       "name": "Well on Our Way to Recovery"
+    },
+    "75d8f766d3d54cc1ad3c754d7c347dbd.16": {
+      "guid": "75d8f766d3d54cc1ad3c754d7c347dbd.16",
+      "lat": 44.255119,
+      "lng": -76.456653,
+      "name": "Grenadier Park Softball Diamond"
+    },
+    "eedfaef206ed4456befec67b458099f4.16": {
+      "guid": "eedfaef206ed4456befec67b458099f4.16",
+      "lat": 44.238024,
+      "lng": -76.454437,
+      "name": "Fort Henry Heights Backstop (3 of 3)"
+    },
+    "5ae4c9a7bacf4236b81afacf2f924ec3.16": {
+      "guid": "5ae4c9a7bacf4236b81afacf2f924ec3.16",
+      "lat": 44.239229,
+      "lng": -76.458312,
+      "name": "Fort Henry Heights Playground"
     }
   },
   "notpogo": {
