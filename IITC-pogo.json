@@ -2050,6 +2050,24 @@
       "lat": 44.280596,
       "lng": -76.724935,
       "name": "Ernestown Centennial Park"
+    },
+    "d804b4ceee524eecad90fbccc19f151a.16": {
+      "guid": "d804b4ceee524eecad90fbccc19f151a.16",
+      "lat": 44.277705,
+      "lng": -76.5241,
+      "name": "Little Cataraqui Creek Dam Bridge"
+    },
+    "a1ccaa5ce1474797b28b806897662e84.16": {
+      "guid": "a1ccaa5ce1474797b28b806897662e84.16",
+      "lat": 44.280473,
+      "lng": -76.511697,
+      "name": "Little Cataraqui Creek Reservoir Trail (4) Entrance"
+    },
+    "8ebdb28b0a2342f09f45e752700fcad8.16": {
+      "guid": "8ebdb28b0a2342f09f45e752700fcad8.16",
+      "lat": 44.29007,
+      "lng": -76.507544,
+      "name": "CRCA - Snapping Turtle Info Sign"
     }
   },
   "pokestops": {
@@ -3403,12 +3421,6 @@
       "lng": -76.509149,
       "name": "Little Cataraqui Creek Warm Up Area"
     },
-    "a1ccaa5ce1474797b28b806897662e84.16": {
-      "guid": "a1ccaa5ce1474797b28b806897662e84.16",
-      "lat": 44.280473,
-      "lng": -76.511697,
-      "name": "Little Cataraqui Creek Reservoir Trail (4) Entrance"
-    },
     "3d68821ae47a4f25a0b23c4d1388d71a.16": {
       "guid": "3d68821ae47a4f25a0b23c4d1388d71a.16",
       "lat": 44.28451,
@@ -3432,12 +3444,6 @@
       "lat": 44.287199,
       "lng": -76.508243,
       "name": "Little Cataraqui Creek Trail 1 Junction"
-    },
-    "8ebdb28b0a2342f09f45e752700fcad8.16": {
-      "guid": "8ebdb28b0a2342f09f45e752700fcad8.16",
-      "lat": 44.29007,
-      "lng": -76.507544,
-      "name": "CRCA - Snapping Turtle Info Sign"
     },
     "bbadf70bf2ff4cceb27a602dc0db62b8.16": {
       "guid": "bbadf70bf2ff4cceb27a602dc0db62b8.16",
@@ -8442,6 +8448,36 @@
       "lat": 44.280987,
       "lng": -76.724959,
       "name": "Centennial Park Ball Diamond"
+    },
+    "66e9aa64c4c8447b85b868fabba77c42.16": {
+      "guid": "66e9aa64c4c8447b85b868fabba77c42.16",
+      "lat": 44.275261,
+      "lng": -76.528047,
+      "name": "Little Cataraqui Creek Trail 4 Bridge"
+    },
+    "1a64d3e495fc4c009757452c2cea7077.16": {
+      "guid": "1a64d3e495fc4c009757452c2cea7077.16",
+      "lat": 44.277454,
+      "lng": -76.523168,
+      "name": "Little Cataraqui Creek Trail Map"
+    },
+    "856440d1ad1b4ad78e88254f2d500a5c.16": {
+      "guid": "856440d1ad1b4ad78e88254f2d500a5c.16",
+      "lat": 44.277544,
+      "lng": -76.523602,
+      "name": "Little Cataraqui Creek Dam"
+    },
+    "0de7234be2c74472a8b8907500949f18.16": {
+      "guid": "0de7234be2c74472a8b8907500949f18.16",
+      "lat": 44.282218,
+      "lng": -76.50914,
+      "name": "Little Cataraqui Creek - Reservoir info map"
+    },
+    "b0cc12821e614a9689f548f24e9e882f.16": {
+      "guid": "b0cc12821e614a9689f548f24e9e882f.16",
+      "lat": 44.28841,
+      "lng": -76.510447,
+      "name": "Little Cataraqui Creek Viewing Platform"
     }
   },
   "notpogo": {
