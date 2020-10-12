@@ -2044,6 +2044,12 @@
       "lat": 44.255165,
       "lng": -76.462714,
       "name": "Point St. Mark Playstructure"
+    },
+    "b6782449fd1d47858a6bad95fbae8416.16": {
+      "guid": "b6782449fd1d47858a6bad95fbae8416.16",
+      "lat": 44.280596,
+      "lng": -76.724935,
+      "name": "Ernestown Centennial Park"
     }
   },
   "pokestops": {
@@ -8412,6 +8418,30 @@
       "lat": 44.18822,
       "lng": -76.761331,
       "name": "Briscoe Park"
+    },
+    "83f56dcf0b5840c4b33203a33b62066c.16": {
+      "guid": "83f56dcf0b5840c4b33203a33b62066c.16",
+      "lat": 44.217157,
+      "lng": -76.754804,
+      "name": "Ernestown Railway Station"
+    },
+    "b3a3ff39d9c94283b25c8566637a0d12.16": {
+      "guid": "b3a3ff39d9c94283b25c8566637a0d12.16",
+      "lat": 44.220552,
+      "lng": -76.769521,
+      "name": "Historic Lutheran Union Cemetery"
+    },
+    "505e83c524574a2d96cbe475998f7b59.16": {
+      "guid": "505e83c524574a2d96cbe475998f7b59.16",
+      "lat": 44.242788,
+      "lng": -76.735786,
+      "name": "Asselstine Woollen Mill"
+    },
+    "5a15edca426a48489c25f943e3593480.16": {
+      "guid": "5a15edca426a48489c25f943e3593480.16",
+      "lat": 44.280987,
+      "lng": -76.724959,
+      "name": "Centennial Park Ball Diamond"
     }
   },
   "notpogo": {
