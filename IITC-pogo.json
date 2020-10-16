@@ -2068,6 +2068,24 @@
       "lat": 44.29007,
       "lng": -76.507544,
       "name": "CRCA - Snapping Turtle Info Sign"
+    },
+    "ygksponsored.1": {
+      "guid": "ygksponsored.1",
+      "lat": 44.2402362,
+      "lng": -76.5987936,
+      "name": "Chinese Palace Restaurant [SPONSORED GYM]"
+    },
+    "ygksponsored.2": {
+      "guid": "ygksponsored.2",
+      "lat": 44.2322755,
+      "lng": -76.4840561,
+      "name": "Improbable Escapes HQ [SPONSORED GYM]"
+    },
+    "ygksponsored.3": {
+      "guid": "ygksponsored.3",
+      "lat": 44.235418,
+      "lng": -76.566762,
+      "name": "Improbable Escapes: Wonderland [SPONSORED GYM]"
     }
   },
   "pokestops": {
