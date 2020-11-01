@@ -8508,6 +8508,24 @@
       "lat": 44.22834,
       "lng": -76.578645,
       "name": "Henderson Park"
+    },
+    "1034d5f2b1434bde836a3f2551cd7469.16": {
+      "guid": "1034d5f2b1434bde836a3f2551cd7469.16",
+      "lat": 44.232518,
+      "lng": -76.571907,
+      "name": "LaSalle Park Footbridge"
+    },
+    "0181b8c0af2140699332f7d011576283.16": {
+      "guid": "0181b8c0af2140699332f7d011576283.16",
+      "lat": 44.228306,
+      "lng": -76.5835,
+      "name": "Jim Beattie Soccer Field (1 of 3)"
+    },
+    "719b85da7bcc41a5b159af5baaa0a86b.16": {
+      "guid": "719b85da7bcc41a5b159af5baaa0a86b.16",
+      "lat": 44.226832,
+      "lng": -76.642346,
+      "name": "Amherst Playstructure"
     }
   },
   "notpogo": {
