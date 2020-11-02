@@ -2371,12 +2371,6 @@
       "lng": -76.492502,
       "name": "Summerhill"
     },
-    "8e4e08c1d7094c7d9129dabddeba6555.16": {
-      "guid": "8e4e08c1d7094c7d9129dabddeba6555.16",
-      "lat": 44.226326,
-      "lng": -76.492533,
-      "name": "The Medical Quadrangle"
-    },
     "4c366d9ba1394035aba716fe50aa0f43.16": {
       "guid": "4c366d9ba1394035aba716fe50aa0f43.16",
       "lat": 44.226749,
@@ -5615,7 +5609,7 @@
       "guid": "c89519c1d18e47d091d25428dc99f4f8.16",
       "lat": 44.228254,
       "lng": -76.517576,
-      "name": "playground slide"
+      "name": "Yonge Street Playground"
     },
     "4c961499461f4f9ea202ef3c1748ad6d.16": {
       "guid": "4c961499461f4f9ea202ef3c1748ad6d.16",
@@ -8526,6 +8520,12 @@
       "lat": 44.226832,
       "lng": -76.642346,
       "name": "Amherst Playstructure"
+    },
+    "8e4e08c1d7094c7d9129dabddeba6555.16": {
+      "guid": "8e4e08c1d7094c7d9129dabddeba6555.16",
+      "lat": 44.226335,
+      "lng": -76.492515,
+      "name": "The Medical Quadrangle"
     }
   },
   "notpogo": {
