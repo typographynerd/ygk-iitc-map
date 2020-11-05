@@ -1527,13 +1527,6 @@
       "lng": -76.540872,
       "name": "Rivermeade Park"
     },
-    "c870fbcc3d4f4b75b5ffbf029c30eadf.16": {
-      "guid": "c870fbcc3d4f4b75b5ffbf029c30eadf.16",
-      "lat": 44.266807,
-      "lng": -76.489233,
-      "name": "Marker's Acres Play Structure",
-      "isEx": true
-    },
     "715015bbebb94f41ac447ebdeaf9a533.16": {
       "guid": "715015bbebb94f41ac447ebdeaf9a533.16",
       "lat": 44.237623,
@@ -2092,6 +2085,13 @@
       "lat": 44.2475104,
       "lng": -76.5693969,
       "name": "Achieve Nutrition [SPONSORED GYM]"
+    },
+    "c870fbcc3d4f4b75b5ffbf029c30eadf.16": {
+      "guid": "c870fbcc3d4f4b75b5ffbf029c30eadf.16",
+      "lat": 44.266661,
+      "lng": -76.489511,
+      "name": "Marker's Acres Play Structure",
+      "isEx": true
     }
   },
   "pokestops": {
@@ -6407,7 +6407,7 @@
       "guid": "fac37d92e0bc4c9b840a34453c254076.16",
       "lat": 44.23601,
       "lng": -76.528279,
-      "name": "McCollough Park Small Soccer Field (2 of 2)"
+      "name": "McCullough Park Small Soccer Field (2 of 2)"
     },
     "64dc8a5a23654a9d9964c158b6508b31.16": {
       "guid": "64dc8a5a23654a9d9964c158b6508b31.16",
