@@ -264,7 +264,7 @@
       "guid": "0b83ebbf94c043838802f25bf97ba35c.16",
       "lat": 44.220356,
       "lng": -76.505561,
-      "name": "Waterfront Trail"
+      "name": "Waterfront Trail - Tett Centre"
     },
     "1ac582b7c8054d27a5a75248411bab7e.16": {
       "guid": "1ac582b7c8054d27a5a75248411bab7e.16",
@@ -2429,7 +2429,7 @@
       "guid": "2f7457cfe8e64f57a31a2b588019efd6.16",
       "lat": 44.224275,
       "lng": -76.487284,
-      "name": "Rideau Trail Marker @ Simcoe & King"
+      "name": "Waterfront/Rideau Trail Marker - Simcoe Street"
     },
     "7bf44c0a180242d192bb26df52822342.16": {
       "guid": "7bf44c0a180242d192bb26df52822342.16",
@@ -8538,6 +8538,12 @@
       "lat": 44.249926,
       "lng": -76.497599,
       "name": "Porto-Village Play Ground"
+    },
+    "4e6329cd41274f2681f1d34608c20488.16": {
+      "guid": "4e6329cd41274f2681f1d34608c20488.16",
+      "lat": 44.225587,
+      "lng": -76.482959,
+      "name": "Ship’s Wheel"
     }
   },
   "notpogo": {
