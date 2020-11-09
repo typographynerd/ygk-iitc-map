@@ -2092,6 +2092,18 @@
       "lng": -76.489511,
       "name": "Marker's Acres Play Structure",
       "isEx": true
+    },
+    "33cfc9cdb1a14f75905f48585647b730.16": {
+      "guid": "33cfc9cdb1a14f75905f48585647b730.16",
+      "lat": 44.310584,
+      "lng": -76.583308,
+      "name": "K&P Trail - 17km Marker"
+    },
+    "caa23b789f664cdda06b08e5104d65d8.16": {
+      "guid": "caa23b789f664cdda06b08e5104d65d8.16",
+      "lat": 44.318021,
+      "lng": -76.586245,
+      "name": "K&P Trail Unity Road Entrance"
     }
   },
   "pokestops": {
@@ -4769,7 +4781,7 @@
       "guid": "f050f92c165144adb36ee824eafdd3e8.16",
       "lat": 44.272405,
       "lng": -76.718951,
-      "name": "Babcock Mill"
+      "name": "Historic Babcock Mill"
     },
     "7435dfe8a94e4a0894255ed801f7cb68.16": {
       "guid": "7435dfe8a94e4a0894255ed801f7cb68.16",
@@ -6498,12 +6510,6 @@
       "lat": 44.317344,
       "lng": -76.585999,
       "name": "K&P Trail Unity Rd. South Entrance"
-    },
-    "caa23b789f664cdda06b08e5104d65d8.16": {
-      "guid": "caa23b789f664cdda06b08e5104d65d8.16",
-      "lat": 44.318021,
-      "lng": -76.586245,
-      "name": "K&P Trail Unity Road Entrance"
     },
     "f9bdc2559595463d9753a1e479bab586.16": {
       "guid": "f9bdc2559595463d9753a1e479bab586.16",
@@ -8544,6 +8550,24 @@
       "lat": 44.225587,
       "lng": -76.482959,
       "name": "Ship’s Wheel"
+    },
+    "8e2255a5a69a446ca0917b68e38fa970.16": {
+      "guid": "8e2255a5a69a446ca0917b68e38fa970.16",
+      "lat": 44.314874,
+      "lng": -76.584984,
+      "name": "K&P Trail - 17.5km Marker"
+    },
+    "d2ff609bde4d44689d080aa084793783.16": {
+      "guid": "d2ff609bde4d44689d080aa084793783.16",
+      "lat": 44.317593,
+      "lng": -76.586178,
+      "name": "K&P Trail Map - Glenvale Station"
+    },
+    "5581e578c2b54b47a93db873b2e8b5c5.16": {
+      "guid": "5581e578c2b54b47a93db873b2e8b5c5.16",
+      "lat": 44.283446,
+      "lng": -76.657317,
+      "name": "Onroute Odessa"
     }
   },
   "notpogo": {
