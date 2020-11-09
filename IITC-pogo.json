@@ -2104,6 +2104,12 @@
       "lat": 44.318021,
       "lng": -76.586245,
       "name": "K&P Trail Unity Road Entrance"
+    },
+    "9392269be1f34e049c6f2b5a49eaad5d.16": {
+      "guid": "9392269be1f34e049c6f2b5a49eaad5d.16",
+      "lat": 44.299443,
+      "lng": -76.559624,
+      "name": "K&P Trail - 13.5km Marker"
     }
   },
   "pokestops": {
@@ -8568,6 +8574,30 @@
       "lat": 44.283446,
       "lng": -76.657317,
       "name": "Onroute Odessa"
+    },
+    "c3414772650e43ba9ab28a548d9f246c.16": {
+      "guid": "c3414772650e43ba9ab28a548d9f246c.16",
+      "lat": 44.232557,
+      "lng": -76.572921,
+      "name": "LaSalle Park Baseball Diamond (3 of 3)"
+    },
+    "5b2791fd07ae432ba9ec7fbe54d612cb.16": {
+      "guid": "5b2791fd07ae432ba9ec7fbe54d612cb.16",
+      "lat": 44.313907,
+      "lng": -76.613081,
+      "name": "Kingston Christian Fellowship"
+    },
+    "edbd2fba496b49b3a84eb94b27bcdd6c.16": {
+      "guid": "edbd2fba496b49b3a84eb94b27bcdd6c.16",
+      "lat": 44.300523,
+      "lng": -76.5699,
+      "name": "K&P Trail - 15km Marker"
+    },
+    "123ceb4a2ab441a7956af8167b4175e1.16": {
+      "guid": "123ceb4a2ab441a7956af8167b4175e1.16",
+      "lat": 44.303612,
+      "lng": -76.560288,
+      "name": "K&P Trail - 14km Marker"
     }
   },
   "notpogo": {
