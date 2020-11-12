@@ -2110,6 +2110,12 @@
       "lat": 44.299443,
       "lng": -76.559624,
       "name": "K&P Trail - 13.5km Marker"
+    },
+    "2722beb785814f46bdeee3f0b53ca069.16": {
+      "guid": "2722beb785814f46bdeee3f0b53ca069.16",
+      "lat": 44.272547,
+      "lng": -76.434903,
+      "name": "Pittsburgh Community Benefit Fund Plaque"
     }
   },
   "pokestops": {
@@ -7159,12 +7165,6 @@
       "lng": -76.435483,
       "name": "John Machin Main Soccer Field"
     },
-    "2722beb785814f46bdeee3f0b53ca069.16": {
-      "guid": "2722beb785814f46bdeee3f0b53ca069.16",
-      "lat": 44.272547,
-      "lng": -76.434903,
-      "name": "Pittsburgh Community Benefit Fund Plaque"
-    },
     "1f3711f32c5e42ddbee59379178e6b6d.16": {
       "guid": "1f3711f32c5e42ddbee59379178e6b6d.16",
       "lat": 44.258969,
@@ -7794,12 +7794,6 @@
       "lat": 44.217817,
       "lng": -76.518462,
       "name": "Rideau/Waterfront Trail/Shoreline Route - Yonge Street"
-    },
-    "f754f50032c741afb6c97a4e8f658890.16": {
-      "guid": "f754f50032c741afb6c97a4e8f658890.16",
-      "lat": 44.271957,
-      "lng": -76.436807,
-      "name": "John Machin South Soccer Field (1 of 3)"
     },
     "655b580e7f55416580b7dc369199c5bc.16": {
       "guid": "655b580e7f55416580b7dc369199c5bc.16",
@@ -8598,6 +8592,24 @@
       "lat": 44.303612,
       "lng": -76.560288,
       "name": "K&P Trail - 14km Marker"
+    },
+    "80d24fadb4a948f8b7bc22f10628d54e.16": {
+      "guid": "80d24fadb4a948f8b7bc22f10628d54e.16",
+      "lat": 44.272842,
+      "lng": -76.437088,
+      "name": "John Machin West Soccer Field (1 of 4)"
+    },
+    "416aad1293024698a43ac08f9b5c6562.16": {
+      "guid": "416aad1293024698a43ac08f9b5c6562.16",
+      "lat": 44.272047,
+      "lng": -76.436033,
+      "name": "John Machin South Soccer Field (2 of 3)"
+    },
+    "f754f50032c741afb6c97a4e8f658890.16": {
+      "guid": "f754f50032c741afb6c97a4e8f658890.16",
+      "lat": 44.271957,
+      "lng": -76.436807,
+      "name": "John Machin South Soccer Field (1 of 3)"
     }
   },
   "notpogo": {
