@@ -1786,13 +1786,6 @@
       "lng": -76.539237,
       "name": "K&P Trail -Brass St. Entrance"
     },
-    "8c6437b768b94afa926ac00bbc7881ac.16": {
-      "guid": "8c6437b768b94afa926ac00bbc7881ac.16",
-      "lat": 44.245701,
-      "lng": -76.500377,
-      "name": "Robert Lavalle Memorial Kiwanis Park",
-      "isEx": true
-    },
     "bbc95b1033f54148ba49140252612ef2.16": {
       "guid": "bbc95b1033f54148ba49140252612ef2.16",
       "lat": 44.250375,
@@ -2116,6 +2109,13 @@
       "lat": 44.272547,
       "lng": -76.434903,
       "name": "Pittsburgh Community Benefit Fund Plaque"
+    },
+    "8c6437b768b94afa926ac00bbc7881ac.16": {
+      "guid": "8c6437b768b94afa926ac00bbc7881ac.16",
+      "lat": 44.245485,
+      "lng": -76.500425,
+      "name": "Ronald Lavallee Memorial Kiwanis Park",
+      "isEx": true
     }
   },
   "pokestops": {
@@ -6437,7 +6437,7 @@
       "guid": "64dc8a5a23654a9d9964c158b6508b31.16",
       "lat": 44.236915,
       "lng": -76.530831,
-      "name": "McCollough Park Soccer Field (2 of 3)"
+      "name": "McCullough Park Soccer Field (2 of 3)"
     },
     "2fb8d0620fbe48c1bfb50acb274cd28c.16": {
       "guid": "2fb8d0620fbe48c1bfb50acb274cd28c.16",
