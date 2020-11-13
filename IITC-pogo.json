@@ -2116,6 +2116,12 @@
       "lng": -76.500425,
       "name": "Ronald Lavallee Memorial Kiwanis Park",
       "isEx": true
+    },
+    "b06a8f7d37be477bad93a56922d4ad3e.16": {
+      "guid": "b06a8f7d37be477bad93a56922d4ad3e.16",
+      "lat": 44.273564,
+      "lng": -76.544282,
+      "name": "Sydemham Road Crossing"
     }
   },
   "pokestops": {
@@ -5431,12 +5437,6 @@
       "lng": -76.601492,
       "name": "Mini Soccer Field"
     },
-    "b06a8f7d37be477bad93a56922d4ad3e.16": {
-      "guid": "b06a8f7d37be477bad93a56922d4ad3e.16",
-      "lat": 44.273564,
-      "lng": -76.544282,
-      "name": "Sydemham Road Crossing"
-    },
     "1bdbe8626e594c07ae9b6fd72e925674.16": {
       "guid": "1bdbe8626e594c07ae9b6fd72e925674.16",
       "lat": 44.251218,
@@ -8622,6 +8622,18 @@
       "lat": 44.243652,
       "lng": -76.57514,
       "name": "Rock God Mural"
+    },
+    "cc4f95d3c12c4c6e8704356fc24e4162.16": {
+      "guid": "cc4f95d3c12c4c6e8704356fc24e4162.16",
+      "lat": 44.27378,
+      "lng": -76.434273,
+      "name": "John Machin Fields Park Map"
+    },
+    "42c232c346d5450da3ed11f11914ee2c.16": {
+      "guid": "42c232c346d5450da3ed11f11914ee2c.16",
+      "lat": 44.273342,
+      "lng": -76.543907,
+      "name": "K&P Trail - 9.5km Marker"
     }
   },
   "notpogo": {
