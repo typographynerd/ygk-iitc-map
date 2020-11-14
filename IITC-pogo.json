@@ -2647,12 +2647,6 @@
       "lng": -76.481278,
       "name": "The Tragically Hip Commemoration Stone"
     },
-    "c696fa133d0a4138a64a4772c3b1ba34.16": {
-      "guid": "c696fa133d0a4138a64a4772c3b1ba34.16",
-      "lat": 44.230087,
-      "lng": -76.480497,
-      "name": "Bell Northern Pioneer Carillon"
-    },
     "38e80f2b70ce437a98df7fc8dd478a50.11": {
       "guid": "38e80f2b70ce437a98df7fc8dd478a50.11",
       "lat": 44.229839,
@@ -8634,6 +8628,12 @@
       "lat": 44.273342,
       "lng": -76.543907,
       "name": "K&P Trail - 9.5km Marker"
+    },
+    "c696fa133d0a4138a64a4772c3b1ba34.16": {
+      "guid": "c696fa133d0a4138a64a4772c3b1ba34.16",
+      "lat": 44.229695,
+      "lng": -76.480024,
+      "name": "Bell Northern Pioneer Carillon"
     }
   },
   "notpogo": {
