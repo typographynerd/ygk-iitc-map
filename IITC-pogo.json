@@ -2122,6 +2122,12 @@
       "lat": 44.273564,
       "lng": -76.544282,
       "name": "Sydemham Road Crossing"
+    },
+    "30a7bcf5af23465bb44142ccb5ea728d.16": {
+      "guid": "30a7bcf5af23465bb44142ccb5ea728d.16",
+      "lat": 44.305969,
+      "lng": -76.461294,
+      "name": "Hemlock Downs Park"
     }
   },
   "pokestops": {
@@ -8646,6 +8652,18 @@
       "lat": 44.318196,
       "lng": -76.501701,
       "name": "Shannons Corner Playground"
+    },
+    "40dda86456f147eb9fd9d17afc451797.16": {
+      "guid": "40dda86456f147eb9fd9d17afc451797.16",
+      "lat": 44.291888,
+      "lng": -76.442557,
+      "name": "Workers On The Rideau Plaque"
+    },
+    "b275bdede4794308bc22483433e3080f.16": {
+      "guid": "b275bdede4794308bc22483433e3080f.16",
+      "lat": 44.307129,
+      "lng": -76.461539,
+      "name": "Hemlock Downs Baseball Diamond"
     }
   },
   "notpogo": {
