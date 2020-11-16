@@ -2128,6 +2128,20 @@
       "lat": 44.305969,
       "lng": -76.461294,
       "name": "Hemlock Downs Park"
+    },
+    "48898597b77a4f5780262196925fa418.16": {
+      "guid": "48898597b77a4f5780262196925fa418.16",
+      "lat": 44.294796,
+      "lng": -76.312995,
+      "name": "Grass Creek Park",
+      "isEx": true
+    },
+    "4cf0e1bf86b64ad29669ed62eed415c0.16": {
+      "guid": "4cf0e1bf86b64ad29669ed62eed415c0.16",
+      "lat": 44.302162,
+      "lng": -76.329882,
+      "name": "Centennial Of Confederation Illuminated Recreational Park ",
+      "isEx": true
     }
   },
   "pokestops": {
@@ -8664,6 +8678,78 @@
       "lat": 44.307129,
       "lng": -76.461539,
       "name": "Hemlock Downs Baseball Diamond"
+    },
+    "eb49693c16a64417b49b3fb9497ba24c.16": {
+      "guid": "eb49693c16a64417b49b3fb9497ba24c.16",
+      "lat": 44.337649,
+      "lng": -76.391787,
+      "name": "Fruition Berry Farm"
+    },
+    "ccde861b1444450497ed9024889184e7.16": {
+      "guid": "ccde861b1444450497ed9024889184e7.16",
+      "lat": 44.257413,
+      "lng": -76.388566,
+      "name": "Milton Park "
+    },
+    "7dee10f51a0a4bebb07e597c678a35b8.16": {
+      "guid": "7dee10f51a0a4bebb07e597c678a35b8.16",
+      "lat": 44.25606,
+      "lng": -76.382593,
+      "name": "Milton Park Lookout Pier"
+    },
+    "024fcf8f4893414e9335a4e3b7d6ba1c.16": {
+      "guid": "024fcf8f4893414e9335a4e3b7d6ba1c.16",
+      "lat": 44.277485,
+      "lng": -76.327216,
+      "name": "Howe Island Ferry "
+    },
+    "9cd0e177740d413fbeeba815dca8b6ed.16": {
+      "guid": "9cd0e177740d413fbeeba815dca8b6ed.16",
+      "lat": 44.273626,
+      "lng": -76.326283,
+      "name": "Howe Island Ferry"
+    },
+    "b069986fec084eb181d67afaae77d264.16": {
+      "guid": "b069986fec084eb181d67afaae77d264.16",
+      "lat": 44.292349,
+      "lng": -76.309614,
+      "name": "Park Shelter"
+    },
+    "6758e3356d6e43eeb7617333e6239167.16": {
+      "guid": "6758e3356d6e43eeb7617333e6239167.16",
+      "lat": 44.291907,
+      "lng": -76.310768,
+      "name": "Grass Creek Park"
+    },
+    "27244deea0214edc9746e4d67544ca7a.16": {
+      "guid": "27244deea0214edc9746e4d67544ca7a.16",
+      "lat": 44.291454,
+      "lng": -76.311721,
+      "name": "Ontario Border Collie Club Memorial"
+    },
+    "efbea97645d74c3097a5498d940b8193.16": {
+      "guid": "efbea97645d74c3097a5498d940b8193.16",
+      "lat": 44.291984,
+      "lng": -76.31179,
+      "name": "Grass Creek Dog Park"
+    },
+    "ebde05f97d3f4840a88d201ec6214636.12": {
+      "guid": "ebde05f97d3f4840a88d201ec6214636.12",
+      "lat": 44.296403,
+      "lng": -76.313943,
+      "name": "MacLachlan Woodworking Museum"
+    },
+    "9bdcaf28df404d17adadfa60ed13b861.16": {
+      "guid": "9bdcaf28df404d17adadfa60ed13b861.16",
+      "lat": 44.302568,
+      "lng": -76.329797,
+      "name": "Pierson Park"
+    },
+    "13c6be2e965840e89c154c5720a45084.16": {
+      "guid": "13c6be2e965840e89c154c5720a45084.16",
+      "lat": 44.304843,
+      "lng": -76.336176,
+      "name": "St. John's Presbyterian Church"
     }
   },
   "notpogo": {
