@@ -2355,12 +2355,6 @@
       "lng": -76.495269,
       "name": "Hoods of Queen's Fabric Mural"
     },
-    "5331286b8ba94876bbe12e8782b7ad53.16": {
-      "guid": "5331286b8ba94876bbe12e8782b7ad53.16",
-      "lat": 44.228047,
-      "lng": -76.494966,
-      "name": "Orphans Home"
-    },
     "00e429e6c8194ce7aeab1914fcfa539b.16": {
       "guid": "00e429e6c8194ce7aeab1914fcfa539b.16",
       "lat": 44.22808,
@@ -8756,6 +8750,12 @@
       "lat": 44.303666,
       "lng": -76.564222,
       "name": "K&P Trail - 14.5km Marker"
+    },
+    "dac4047365c44bd4b7285fe101901835.16": {
+      "guid": "dac4047365c44bd4b7285fe101901835.16",
+      "lat": 44.228057,
+      "lng": -76.495413,
+      "name": "Queen’s University Monument"
     }
   },
   "notpogo": {
