@@ -254,12 +254,6 @@
       "lng": -76.506053,
       "name": "Hillcroft"
     },
-    "009323d069f84294adf01ac6cf16501b.12": {
-      "guid": "009323d069f84294adf01ac6cf16501b.12",
-      "lat": 44.223205,
-      "lng": -76.50429,
-      "name": "Bellevue House National Historic Site"
-    },
     "0b83ebbf94c043838802f25bf97ba35c.16": {
       "guid": "0b83ebbf94c043838802f25bf97ba35c.16",
       "lat": 44.220356,
@@ -2142,6 +2136,12 @@
       "lng": -76.329882,
       "name": "Centennial Of Confederation Illuminated Recreational Park ",
       "isEx": true
+    },
+    "009323d069f84294adf01ac6cf16501b.12": {
+      "guid": "009323d069f84294adf01ac6cf16501b.12",
+      "lat": 44.223075,
+      "lng": -76.504146,
+      "name": "Bellevue House National Historic Site"
     }
   },
   "pokestops": {
@@ -8774,6 +8774,18 @@
       "lat": 44.238062,
       "lng": -76.595959,
       "name": "Waterfront Trail/Shoreline Route-Coverdale"
+    },
+    "3374d01fe38641958e6081207ea63dd7.16": {
+      "guid": "3374d01fe38641958e6081207ea63dd7.16",
+      "lat": 44.242413,
+      "lng": -76.507317,
+      "name": "Swing set"
+    },
+    "ed833a4357bf41e8b54c514c84f1714d.16": {
+      "guid": "ed833a4357bf41e8b54c514c84f1714d.16",
+      "lat": 44.223267,
+      "lng": -76.504837,
+      "name": "Bellevue House National Historic Site Plaque"
     }
   },
   "notpogo": {
