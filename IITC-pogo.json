@@ -1747,7 +1747,7 @@
       "guid": "ed084da5c2ab4d59874f88e86d662b5d.16",
       "lat": 44.233044,
       "lng": -76.523006,
-      "name": "Cookes- Portsmouth United Church"
+      "name": "Cookes-Portsmouth United Church"
     },
     "52ef87f2273447f6ab35349cb577478d.16": {
       "guid": "52ef87f2273447f6ab35349cb577478d.16",
@@ -6433,7 +6433,7 @@
       "guid": "5d69a9a50f2040129339c3fd4801b546.16",
       "lat": 44.236295,
       "lng": -76.528971,
-      "name": "McCollough Park Small Soccer Field (1 of 2)"
+      "name": "McCullough Park Small Soccer Field (1 of 2)"
     },
     "fac37d92e0bc4c9b840a34453c254076.16": {
       "guid": "fac37d92e0bc4c9b840a34453c254076.16",
@@ -8768,6 +8768,12 @@
       "lat": 44.272884,
       "lng": -76.436222,
       "name": "Johnn Machin West Soccer Field (4 of 4)"
+    },
+    "687b4029339f40d18871aeb4ea0594f1.16": {
+      "guid": "687b4029339f40d18871aeb4ea0594f1.16",
+      "lat": 44.238062,
+      "lng": -76.595959,
+      "name": "Waterfront Trail/Shoreline Route-Coverdale"
     }
   },
   "notpogo": {
