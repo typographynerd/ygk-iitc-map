@@ -2142,6 +2142,12 @@
       "lat": 44.223075,
       "lng": -76.504146,
       "name": "Bellevue House National Historic Site"
+    },
+    "065b688e41714f5188d78ec36d688696.16": {
+      "guid": "065b688e41714f5188d78ec36d688696.16",
+      "lat": 44.237142,
+      "lng": -76.570774,
+      "name": "Reid’s Dairy Sign"
     }
   },
   "pokestops": {
@@ -5252,12 +5258,6 @@
       "lat": 44.241897,
       "lng": -76.542861,
       "name": "Tree to Celebrate Canada's 125th Anniversary"
-    },
-    "065b688e41714f5188d78ec36d688696.16": {
-      "guid": "065b688e41714f5188d78ec36d688696.16",
-      "lat": 44.237142,
-      "lng": -76.570774,
-      "name": "Reid’s Dairy Sign"
     },
     "00bbabea43e3498cba8cd4364b527fcb.16": {
       "guid": "00bbabea43e3498cba8cd4364b527fcb.16",
@@ -8786,6 +8786,12 @@
       "lat": 44.223267,
       "lng": -76.504837,
       "name": "Bellevue House National Historic Site Plaque"
+    },
+    "df378ac198bd44d0bd2880e84edb7405.16": {
+      "guid": "df378ac198bd44d0bd2880e84edb7405.16",
+      "lat": 44.236353,
+      "lng": -76.573356,
+      "name": "West End Village Playground"
     }
   },
   "notpogo": {
