@@ -887,7 +887,7 @@
       "guid": "1dfccd69283f421bab2e0bdeec7c6db9.11",
       "lat": 44.220473,
       "lng": -76.606829,
-      "name": "Lemoine Point Conservation are"
+      "name": "Lemoine Point Conservation Area Information Board"
     },
     "1c1fc946a7ca4046982f4c4048a57a6b.16": {
       "guid": "1c1fc946a7ca4046982f4c4048a57a6b.16",
@@ -2148,6 +2148,12 @@
       "lat": 44.237142,
       "lng": -76.570774,
       "name": "Reid’s Dairy Sign"
+    },
+    "406a0d3329b84a459c55faa844a64525.16": {
+      "guid": "406a0d3329b84a459c55faa844a64525.16",
+      "lat": 44.257331,
+      "lng": -76.529617,
+      "name": "Bill Hackett Park Sign"
     }
   },
   "pokestops": {
