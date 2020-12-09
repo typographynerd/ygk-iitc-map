@@ -2961,12 +2961,6 @@
       "lng": -76.489199,
       "name": "Shannon's Cannon"
     },
-    "bc698d4cfcf24221975887dacd8581c1.16": {
-      "guid": "bc698d4cfcf24221975887dacd8581c1.16",
-      "lat": 44.232655,
-      "lng": -76.490103,
-      "name": "Jac's One of a Kind Painted Doorway"
-    },
     "6f5165ce46704f65bcf49c0741956941.16": {
       "guid": "6f5165ce46704f65bcf49c0741956941.16",
       "lat": 44.231417,
@@ -3283,7 +3277,7 @@
       "guid": "167e32eb5de9456a8ec95cb0114289de.16",
       "lat": 44.240266,
       "lng": -76.517089,
-      "name": "Ymca  "
+      "name": "YMCA-Kingston Centre"
     },
     "59644f7de0ac4cc5917fbf7263aed22d.16": {
       "guid": "59644f7de0ac4cc5917fbf7263aed22d.16",
@@ -8798,6 +8792,12 @@
       "lat": 44.236353,
       "lng": -76.573356,
       "name": "West End Village Playground"
+    },
+    "73cae1fabe6b42bd973dc96d1e367161.16": {
+      "guid": "73cae1fabe6b42bd973dc96d1e367161.16",
+      "lat": 44.232821,
+      "lng": -76.489821,
+      "name": "Hope Church Presbyterian"
     }
   },
   "notpogo": {
