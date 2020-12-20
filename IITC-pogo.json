@@ -6565,7 +6565,7 @@
       "guid": "8683bd8581fc4883a2d8b469d0fc7351.16",
       "lat": 44.236226,
       "lng": -76.530672,
-      "name": "McCollough Park Soccer Field (1 of 3)"
+      "name": "McCullough Park Soccer Field (1 of 3)"
     },
     "aa9dae4e15794f1fa08e181b125238dd.16": {
       "guid": "aa9dae4e15794f1fa08e181b125238dd.16",
@@ -8828,6 +8828,12 @@
       "lat": 44.26408,
       "lng": -76.490379,
       "name": "Compton Community Playground (2 of 2)"
+    },
+    "f9c5cfdbc8794464960d25ee87a47858.16": {
+      "guid": "f9c5cfdbc8794464960d25ee87a47858.16",
+      "lat": 44.219203,
+      "lng": -76.521233,
+      "name": "Marvin’s Garden"
     }
   },
   "notpogo": {
