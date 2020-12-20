@@ -2160,6 +2160,12 @@
       "lat": 44.256487,
       "lng": -76.62981,
       "name": "Kingston West Free Methodist Church - Baseball Field"
+    },
+    "01528ad2faf64a2b99568f2a3d1d3f04.16": {
+      "guid": "01528ad2faf64a2b99568f2a3d1d3f04.16",
+      "lat": 44.26229,
+      "lng": -76.492314,
+      "name": "Inner Harbour Community Garden"
     }
   },
   "pokestops": {
@@ -7695,12 +7701,6 @@
       "lng": -76.490471,
       "name": "Compton Square Playground"
     },
-    "01528ad2faf64a2b99568f2a3d1d3f04.16": {
-      "guid": "01528ad2faf64a2b99568f2a3d1d3f04.16",
-      "lat": 44.26229,
-      "lng": -76.492314,
-      "name": "Inner Harbour Community Garden"
-    },
     "0c242ec88a0e48828590a474b7a0ed52.16": {
       "guid": "0c242ec88a0e48828590a474b7a0ed52.16",
       "lat": 44.267317,
@@ -8810,6 +8810,24 @@
       "lat": 44.264157,
       "lng": -76.479976,
       "name": "Montreal Street Playground"
+    },
+    "154ffb4ba4c749a0957ca21d538f7413.16": {
+      "guid": "154ffb4ba4c749a0957ca21d538f7413.16",
+      "lat": 44.263991,
+      "lng": -76.492211,
+      "name": "Skyline Apartments Playground"
+    },
+    "c9f29b5d9d304898bc8066bf4d88882b.16": {
+      "guid": "c9f29b5d9d304898bc8066bf4d88882b.16",
+      "lat": 44.263579,
+      "lng": -76.489958,
+      "name": "Compton Community Playground (1 of 2)"
+    },
+    "70438a4bffc843efbd2774c5a75da003.16": {
+      "guid": "70438a4bffc843efbd2774c5a75da003.16",
+      "lat": 44.26408,
+      "lng": -76.490379,
+      "name": "Compton Community Playground (2 of 2)"
     }
   },
   "notpogo": {
