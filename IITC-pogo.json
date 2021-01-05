@@ -2751,12 +2751,6 @@
       "lng": -76.48289,
       "name": "Golden Rooster"
     },
-    "44dc9b29a5e043f9b1cfa6e6ce2a27a8.16": {
-      "guid": "44dc9b29a5e043f9b1cfa6e6ce2a27a8.16",
-      "lat": 44.231731,
-      "lng": -76.483812,
-      "name": "Canada Post"
-    },
     "d8697f06dff54bde9561108ac26920fd.16": {
       "guid": "d8697f06dff54bde9561108ac26920fd.16",
       "lat": 44.231898,
@@ -3656,12 +3650,6 @@
       "lat": 44.250309,
       "lng": -76.53198,
       "name": "Kingsway Christian Church"
-    },
-    "5830d18dd5b2480695f40e9faae8fdfb.16": {
-      "guid": "5830d18dd5b2480695f40e9faae8fdfb.16",
-      "lat": 44.251058,
-      "lng": -76.525579,
-      "name": "City of Kingston Park"
     },
     "e9eca944a9ce4712b122f03c5a38fe43.16": {
       "guid": "e9eca944a9ce4712b122f03c5a38fe43.16",
@@ -8834,6 +8822,18 @@
       "lat": 44.230917,
       "lng": -76.480997,
       "name": "Sir John's Office"
+    },
+    "44dc9b29a5e043f9b1cfa6e6ce2a27a8.16": {
+      "guid": "44dc9b29a5e043f9b1cfa6e6ce2a27a8.16",
+      "lat": 44.231731,
+      "lng": -76.483812,
+      "name": "Canada Post - Princess and Bagot Street"
+    },
+    "5830d18dd5b2480695f40e9faae8fdfb.16": {
+      "guid": "5830d18dd5b2480695f40e9faae8fdfb.16",
+      "lat": 44.251058,
+      "lng": -76.525579,
+      "name": "City of Kingston Park (McMichael Street)"
     }
   },
   "notpogo": {
