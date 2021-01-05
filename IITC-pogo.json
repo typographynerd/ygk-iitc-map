@@ -2529,12 +2529,6 @@
       "lng": -76.488424,
       "name": "Militia Garrison"
     },
-    "cf41ba035eb240a682e32214558e36dd.16": {
-      "guid": "cf41ba035eb240a682e32214558e36dd.16",
-      "lat": 44.226285,
-      "lng": -76.487961,
-      "name": "Leap Frog"
-    },
     "fb787c8e0bac46bf981c05fc1001e676.16": {
       "guid": "fb787c8e0bac46bf981c05fc1001e676.16",
       "lat": 44.225167,
@@ -8834,6 +8828,18 @@
       "lat": 44.251058,
       "lng": -76.525579,
       "name": "City of Kingston Park (McMichael Street)"
+    },
+    "6f28a56854af4ed9b7be088cfcd381ec.16": {
+      "guid": "6f28a56854af4ed9b7be088cfcd381ec.16",
+      "lat": 44.226764,
+      "lng": -76.487795,
+      "name": "Rene Robert Cavelier Monument"
+    },
+    "cf41ba035eb240a682e32214558e36dd.16": {
+      "guid": "cf41ba035eb240a682e32214558e36dd.16",
+      "lat": 44.226586,
+      "lng": -76.487982,
+      "name": "Leap Frog"
     }
   },
   "notpogo": {
