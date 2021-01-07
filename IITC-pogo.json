@@ -2169,12 +2169,6 @@
     }
   },
   "pokestops": {
-    "b6fcb0a0539a4b9e9b08caf8e0476c74.16": {
-      "guid": "b6fcb0a0539a4b9e9b08caf8e0476c74.16",
-      "lat": 44.224454,
-      "lng": -76.493644,
-      "name": "Richardson Laboratory"
-    },
     "df4be141f00744c39a8d230294c3c3a0.16": {
       "guid": "df4be141f00744c39a8d230294c3c3a0.16",
       "lat": 44.224645,
@@ -8840,6 +8834,18 @@
       "lat": 44.226586,
       "lng": -76.487982,
       "name": "Leap Frog"
+    },
+    "b6fcb0a0539a4b9e9b08caf8e0476c74.16": {
+      "guid": "b6fcb0a0539a4b9e9b08caf8e0476c74.16",
+      "lat": 44.224432,
+      "lng": -76.493511,
+      "name": "Richardson Laboratory"
+    },
+    "dfef37930d0c494a82240d3d431330c1.16": {
+      "guid": "dfef37930d0c494a82240d3d431330c1.16",
+      "lat": 44.224348,
+      "lng": -76.494297,
+      "name": "Kingston General Hospital Types Epidemic Plaque "
     }
   },
   "notpogo": {
