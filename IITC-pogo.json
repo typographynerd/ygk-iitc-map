@@ -1201,12 +1201,6 @@
       "name": "Jim Beattie Park Playground",
       "isEx": true
     },
-    "20bab12689ea4fbd873465aedcc23877.16": {
-      "guid": "20bab12689ea4fbd873465aedcc23877.16",
-      "lat": 44.242866,
-      "lng": -76.487706,
-      "name": "Megaffin Ball Park"
-    },
     "2b982885a2ca4602b01e619b260cee74.16": {
       "guid": "2b982885a2ca4602b01e619b260cee74.16",
       "lat": 44.24426,
@@ -2166,6 +2160,12 @@
       "lat": 44.26229,
       "lng": -76.492314,
       "name": "Inner Harbour Community Garden"
+    },
+    "e36780bcc4064ef28672b365d1d72584.16": {
+      "guid": "e36780bcc4064ef28672b365d1d72584.16",
+      "lat": 44.246413,
+      "lng": -76.490652,
+      "name": "Fraser Street Basketball Court"
     }
   },
   "pokestops": {
@@ -5474,12 +5474,6 @@
       "lat": 44.237213,
       "lng": -76.491361,
       "name": "Friendship Park Basketball Court"
-    },
-    "e36780bcc4064ef28672b365d1d72584.16": {
-      "guid": "e36780bcc4064ef28672b365d1d72584.16",
-      "lat": 44.246413,
-      "lng": -76.490652,
-      "name": "Fraser Street Basketball Court"
     },
     "bc7d2aee7744460784f9afe2e85f5cac.16": {
       "guid": "bc7d2aee7744460784f9afe2e85f5cac.16",
@@ -8846,6 +8840,12 @@
       "lat": 44.224348,
       "lng": -76.494297,
       "name": "Kingston General Hospital Types Epidemic Plaque "
+    },
+    "27124415697d4506b07eaa00f3624561.16": {
+      "guid": "27124415697d4506b07eaa00f3624561.16",
+      "lat": 44.24274,
+      "lng": -76.487476,
+      "name": "Megaffin Park"
     }
   },
   "notpogo": {
@@ -8884,6 +8884,12 @@
       "lat": 44.221662,
       "lng": -76.513476,
       "name": "Service correctionnel du Canad"
+    },
+    "20bab12689ea4fbd873465aedcc23877.16": {
+      "guid": "20bab12689ea4fbd873465aedcc23877.16",
+      "lat": 44.242956,
+      "lng": -76.486507,
+      "name": "Megaffin Ball Park"
     }
   },
   "ignoredCellsExtraGyms": {},
