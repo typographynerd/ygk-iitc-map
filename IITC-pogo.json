@@ -2166,6 +2166,12 @@
       "lat": 44.246413,
       "lng": -76.490652,
       "name": "Fraser Street Basketball Court"
+    },
+    "f56af6d192ec489cb538ef29de447562.16": {
+      "guid": "f56af6d192ec489cb538ef29de447562.16",
+      "lat": 44.286806,
+      "lng": -76.56098,
+      "name": "K&P Trail - McIvor Rd."
     }
   },
   "pokestops": {
@@ -4526,12 +4532,6 @@
       "lat": 44.272255,
       "lng": -76.627389,
       "name": "Westbrook Meadows Park Pergola "
-    },
-    "f56af6d192ec489cb538ef29de447562.16": {
-      "guid": "f56af6d192ec489cb538ef29de447562.16",
-      "lat": 44.286806,
-      "lng": -76.56098,
-      "name": "K&P Trail - McIvor Rd."
     },
     "80414548bbc24d2190c6c7f1a152ddc1.16": {
       "guid": "80414548bbc24d2190c6c7f1a152ddc1.16",
@@ -8846,6 +8846,24 @@
       "lat": 44.24274,
       "lng": -76.487476,
       "name": "Megaffin Park"
+    },
+    "b41b528349f44203a37b0728561b94df.16": {
+      "guid": "b41b528349f44203a37b0728561b94df.16",
+      "lat": 44.286413,
+      "lng": -76.561488,
+      "name": "K&P Trail Entrance - McIvor Rd"
+    },
+    "04d5d33837db49c499ebab238192befa.16": {
+      "guid": "04d5d33837db49c499ebab238192befa.16",
+      "lat": 44.282529,
+      "lng": -76.563995,
+      "name": "K&P Trail - 11.5km Marker"
+    },
+    "f4fad2e894834c7e89c64aa150a9c64e.16": {
+      "guid": "f4fad2e894834c7e89c64aa150a9c64e.16",
+      "lat": 44.278327,
+      "lng": -76.553726,
+      "name": "K&P Trail - 10.5km Marker"
     }
   },
   "notpogo": {
