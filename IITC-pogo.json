@@ -8858,6 +8858,12 @@
       "lat": 44.278327,
       "lng": -76.553726,
       "name": "K&P Trail - 10.5km Marker"
+    },
+    "20bab12689ea4fbd873465aedcc23877.16": {
+      "guid": "20bab12689ea4fbd873465aedcc23877.16",
+      "lat": 44.242956,
+      "lng": -76.486507,
+      "name": "Megaffin Ball Park"
     }
   },
   "notpogo": {
@@ -8896,12 +8902,6 @@
       "lat": 44.221662,
       "lng": -76.513476,
       "name": "Service correctionnel du Canad"
-    },
-    "20bab12689ea4fbd873465aedcc23877.16": {
-      "guid": "20bab12689ea4fbd873465aedcc23877.16",
-      "lat": 44.242956,
-      "lng": -76.486507,
-      "name": "Megaffin Ball Park"
     }
   },
   "ignoredCellsExtraGyms": {},
