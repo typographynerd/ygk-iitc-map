@@ -13,13 +13,6 @@
       "name": "Frances E. Willard",
       "isEx": true
     },
-    "6eb754985da14560914a0c08b2b8f98e.16": {
-      "guid": "6eb754985da14560914a0c08b2b8f98e.16",
-      "lat": 44.22251,
-      "lng": -76.490687,
-      "name": "1867-1967 Centennial Emblem",
-      "isEx": true
-    },
     "6cd4371e1c2041cf8646c91c947bf981.16": {
       "guid": "6cd4371e1c2041cf8646c91c947bf981.16",
       "lat": 44.222493,
@@ -1394,12 +1387,6 @@
       "lng": -76.566633,
       "name": "Wonderland Escape Rooms & Board Game Lounge"
     },
-    "d4c32c2270f94662835a2b16842fff3c.16": {
-      "guid": "d4c32c2270f94662835a2b16842fff3c.16",
-      "lat": 44.262798,
-      "lng": -76.481493,
-      "name": "St Matthew's United Church"
-    },
     "4b9cbd94b26a4dcb84343a13ce5d0026.16": {
       "guid": "4b9cbd94b26a4dcb84343a13ce5d0026.16",
       "lat": 44.23367,
@@ -2172,6 +2159,31 @@
       "lat": 44.286806,
       "lng": -76.56098,
       "name": "K&P Trail - McIvor Rd."
+    },
+    "72b76b59e35a48d9b0578cf06413a0c4.16": {
+      "guid": "72b76b59e35a48d9b0578cf06413a0c4.16",
+      "lat": 44.264157,
+      "lng": -76.479976,
+      "name": "Montreal Street Playground"
+    },
+    "187acc82f756490991ac4ce46bf4b531.16": {
+      "guid": "187acc82f756490991ac4ce46bf4b531.16",
+      "lat": 44.273042,
+      "lng": -76.48096,
+      "name": "Snider Park Sign"
+    },
+    "6eb754985da14560914a0c08b2b8f98e.16": {
+      "guid": "6eb754985da14560914a0c08b2b8f98e.16",
+      "lat": 44.222471,
+      "lng": -76.490625,
+      "name": "1867-1967 Centennial Emblem",
+      "isEx": true
+    },
+    "dec219cc37d84ed9b471bfad1cff6894.11": {
+      "guid": "dec219cc37d84ed9b471bfad1cff6894.11",
+      "lat": 44.222075,
+      "lng": -76.492577,
+      "name": "Pollution"
     }
   },
   "pokestops": {
@@ -2253,12 +2265,6 @@
       "lng": -76.490494,
       "name": "Murney Tower Museum"
     },
-    "dec219cc37d84ed9b471bfad1cff6894.11": {
-      "guid": "dec219cc37d84ed9b471bfad1cff6894.11",
-      "lat": 44.222075,
-      "lng": -76.492577,
-      "name": "Pollution"
-    },
     "867d5f92adf841d0a66371545c7968f4.16": {
       "guid": "867d5f92adf841d0a66371545c7968f4.16",
       "lat": 44.222257,
@@ -2305,7 +2311,7 @@
       "guid": "8033906df7dc4629b2603cf021c52760.16",
       "lat": 44.22523,
       "lng": -76.495835,
-      "name": "Squiggly Stones Sculpture"
+      "name": "The Three Observed"
     },
     "608551b5962943fba6ee57d65370a4ca.16": {
       "guid": "608551b5962943fba6ee57d65370a4ca.16",
@@ -3434,12 +3440,6 @@
       "lat": 44.265678,
       "lng": -76.500062,
       "name": "Toto And Tinman"
-    },
-    "42ceecc9f95a4ff5806562f5ffd16dde.16": {
-      "guid": "42ceecc9f95a4ff5806562f5ffd16dde.16",
-      "lat": 44.273222,
-      "lng": -76.481562,
-      "name": "Snider Park"
     },
     "1ffbd877f6bd40e58bc3d2b5160c0bf3.16": {
       "guid": "1ffbd877f6bd40e58bc3d2b5160c0bf3.16",
@@ -8763,12 +8763,6 @@
       "lng": -76.489821,
       "name": "Hope Church Presbyterian"
     },
-    "72b76b59e35a48d9b0578cf06413a0c4.16": {
-      "guid": "72b76b59e35a48d9b0578cf06413a0c4.16",
-      "lat": 44.264157,
-      "lng": -76.479976,
-      "name": "Montreal Street Playground"
-    },
     "154ffb4ba4c749a0957ca21d538f7413.16": {
       "guid": "154ffb4ba4c749a0957ca21d538f7413.16",
       "lat": 44.263991,
@@ -8870,6 +8864,30 @@
       "lat": 44.240261,
       "lng": -76.440251,
       "name": "Canada Post office building CFB Kingston"
+    },
+    "f0c7ad8cdefd4e32b8ccad40a558b362.16": {
+      "guid": "f0c7ad8cdefd4e32b8ccad40a558b362.16",
+      "lat": 44.237619,
+      "lng": -76.48017,
+      "name": "Douglas Fluhrer Memorial-Dad"
+    },
+    "ea23a33551d34f8886afb06410de85ac.16": {
+      "guid": "ea23a33551d34f8886afb06410de85ac.16",
+      "lat": 44.268837,
+      "lng": -76.477712,
+      "name": "Sutherland Park Swingsets"
+    },
+    "42ceecc9f95a4ff5806562f5ffd16dde.16": {
+      "guid": "42ceecc9f95a4ff5806562f5ffd16dde.16",
+      "lat": 44.273168,
+      "lng": -76.481635,
+      "name": "Snider Park Playground"
+    },
+    "a4b2de4e3b334353926c12d70f1446be.16": {
+      "guid": "a4b2de4e3b334353926c12d70f1446be.16",
+      "lat": 44.222384,
+      "lng": -76.491368,
+      "name": "Great War Memorial "
     }
   },
   "notpogo": {
