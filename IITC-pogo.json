@@ -1658,7 +1658,7 @@
       "guid": "07c5d20da77d4abc81f47b13d41065d9.16",
       "lat": 44.224253,
       "lng": -76.52752,
-      "name": "Red Sculpture"
+      "name": "SLC Steel Sculpture"
     },
     "63beb1f3f1e246f3b4e2a570273f503a.16": {
       "guid": "63beb1f3f1e246f3b4e2a570273f503a.16",
@@ -8888,6 +8888,18 @@
       "lat": 44.222384,
       "lng": -76.491368,
       "name": "Great War Memorial "
+    },
+    "a656b27d68b44e789a69d12b818ff58d.16": {
+      "guid": "a656b27d68b44e789a69d12b818ff58d.16",
+      "lat": 44.220586,
+      "lng": -76.519954,
+      "name": "Portsmouth Village Pizza Slice"
+    },
+    "26d1b787f8cc4fbd93e8c26c980d1387.16": {
+      "guid": "26d1b787f8cc4fbd93e8c26c980d1387.16",
+      "lat": 44.262888,
+      "lng": -76.481253,
+      "name": "St.Matthews United Church"
     }
   },
   "notpogo": {
