@@ -6,13 +6,6 @@
       "lng": -76.492955,
       "name": "Kingston General Hospital Plaque "
     },
-    "7e94ff67e83342f79ee9143e20a8604b.16": {
-      "guid": "7e94ff67e83342f79ee9143e20a8604b.16",
-      "lat": 44.222041,
-      "lng": -76.48965,
-      "name": "Frances E. Willard",
-      "isEx": true
-    },
     "6cd4371e1c2041cf8646c91c947bf981.16": {
       "guid": "6cd4371e1c2041cf8646c91c947bf981.16",
       "lat": 44.222493,
@@ -1055,13 +1048,6 @@
       "name": "Fort Henry Cannon",
       "isEx": true
     },
-    "710999a7fd48497c93ec25e5fe38dc03.16": {
-      "guid": "710999a7fd48497c93ec25e5fe38dc03.16",
-      "lat": 44.230498,
-      "lng": -76.46065,
-      "name": "Fort Henry Plaque",
-      "isEx": true
-    },
     "51e20a8f4dfd4d32a4a98e328a8376e2.16": {
       "guid": "51e20a8f4dfd4d32a4a98e328a8376e2.16",
       "lat": 44.238969,
@@ -1457,7 +1443,7 @@
       "guid": "741e4c5af4d64c30ae41d0041b1bb142.11",
       "lat": 44.235096,
       "lng": -76.608606,
-      "name": "Lemoine Point Conservation Area"
+      "name": "Lemoine Point Conservation Area—North Entrance"
     },
     "baa92bee5461428a8ac772280a052fcc.16": {
       "guid": "baa92bee5461428a8ac772280a052fcc.16",
@@ -2184,6 +2170,20 @@
       "lat": 44.222075,
       "lng": -76.492577,
       "name": "Pollution"
+    },
+    "7e94ff67e83342f79ee9143e20a8604b.16": {
+      "guid": "7e94ff67e83342f79ee9143e20a8604b.16",
+      "lat": 44.22199,
+      "lng": -76.489411,
+      "name": "Frances E. Willard",
+      "isEx": true
+    },
+    "710999a7fd48497c93ec25e5fe38dc03.16": {
+      "guid": "710999a7fd48497c93ec25e5fe38dc03.16",
+      "lat": 44.230586,
+      "lng": -76.460602,
+      "name": "Fort Henry Plaque",
+      "isEx": true
     }
   },
   "pokestops": {
@@ -8900,6 +8900,12 @@
       "lat": 44.262888,
       "lng": -76.481253,
       "name": "St.Matthews United Church"
+    },
+    "a50fd5d6bc4e493f828baeae0ea6ca8c.16": {
+      "guid": "a50fd5d6bc4e493f828baeae0ea6ca8c.16",
+      "lat": 44.237428,
+      "lng": -76.558906,
+      "name": "Bread & Butter"
     }
   },
   "notpogo": {
@@ -8908,12 +8914,6 @@
       "lat": 44.229917,
       "lng": -76.48525,
       "name": "Bishop Alexander Macdonell 1762-1840 Plaque"
-    },
-    "b25db20e65454428b1a9ca39b5cbd5c9.16": {
-      "guid": "b25db20e65454428b1a9ca39b5cbd5c9.16",
-      "lat": 44.248079,
-      "lng": -76.577274,
-      "name": "Creekside Park Playground"
     },
     "43c753179b824792849ee8a78554ef22.16": {
       "guid": "43c753179b824792849ee8a78554ef22.16",
@@ -8938,6 +8938,12 @@
       "lat": 44.221662,
       "lng": -76.513476,
       "name": "Service correctionnel du Canad"
+    },
+    "b25db20e65454428b1a9ca39b5cbd5c9.16": {
+      "guid": "b25db20e65454428b1a9ca39b5cbd5c9.16",
+      "lat": 44.248079,
+      "lng": -76.577274,
+      "name": "Creekside Park Playground"
     }
   },
   "ignoredCellsExtraGyms": {},
