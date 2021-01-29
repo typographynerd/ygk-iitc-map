@@ -353,13 +353,6 @@
       "name": "Belle Park Totem Pole ",
       "isEx": true
     },
-    "7b7ed6a83daa4d6890e30a3b8ed6a0cd.16": {
-      "guid": "7b7ed6a83daa4d6890e30a3b8ed6a0cd.16",
-      "lat": 44.258319,
-      "lng": -76.48889,
-      "name": "Neil McArthur Park",
-      "isEx": true
-    },
     "3ed509cd28f246db894e5f7fc3e465e6.16": {
       "guid": "3ed509cd28f246db894e5f7fc3e465e6.16",
       "lat": 44.26511,
@@ -2183,6 +2176,13 @@
       "lat": 44.230586,
       "lng": -76.460602,
       "name": "Fort Henry Plaque",
+      "isEx": true
+    },
+    "7b7ed6a83daa4d6890e30a3b8ed6a0cd.16": {
+      "guid": "7b7ed6a83daa4d6890e30a3b8ed6a0cd.16",
+      "lat": 44.258269,
+      "lng": -76.488814,
+      "name": "Neil McArthur Park South Entrance",
       "isEx": true
     }
   },
