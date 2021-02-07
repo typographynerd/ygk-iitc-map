@@ -154,7 +154,7 @@
       "guid": "cb26b60a25d64aa5b3cf70c7970ee42f.16",
       "lat": 44.232767,
       "lng": -76.489325,
-      "name": "St Andrew's"
+      "name": "St. Andrew's Presbyterian Church"
     },
     "7e0b1559d4864457bf1d8fecdf532826.16": {
       "guid": "7e0b1559d4864457bf1d8fecdf532826.16",
@@ -2151,13 +2151,6 @@
       "lng": -76.48096,
       "name": "Snider Park Sign"
     },
-    "6eb754985da14560914a0c08b2b8f98e.16": {
-      "guid": "6eb754985da14560914a0c08b2b8f98e.16",
-      "lat": 44.222471,
-      "lng": -76.490625,
-      "name": "1867-1967 Centennial Emblem",
-      "isEx": true
-    },
     "dec219cc37d84ed9b471bfad1cff6894.11": {
       "guid": "dec219cc37d84ed9b471bfad1cff6894.11",
       "lat": 44.222075,
@@ -2190,6 +2183,12 @@
       "lat": 44.263706,
       "lng": -76.453251,
       "name": "Greenwood park play structures"
+    },
+    "4ed850e071b741f2a92514bcdc29035d.16": {
+      "guid": "4ed850e071b741f2a92514bcdc29035d.16",
+      "lat": 44.259368,
+      "lng": -76.449962,
+      "name": "Buckingham Park Play Structure"
     }
   },
   "pokestops": {
@@ -2683,7 +2682,7 @@
       "guid": "ef7a62a41aad44648be83d465e833fed.16",
       "lat": 44.229972,
       "lng": -76.481462,
-      "name": "Market Square Fountain"
+      "name": "The Douglas A. McNevin Memorial Fountain"
     },
     "5032fb900b224b088dc6cc4923e7fd5d.16": {
       "guid": "5032fb900b224b088dc6cc4923e7fd5d.16",
@@ -5654,12 +5653,6 @@
       "lat": 44.259576,
       "lng": -76.461706,
       "name": "McLean Trail Off-Leash dog park"
-    },
-    "4ed850e071b741f2a92514bcdc29035d.16": {
-      "guid": "4ed850e071b741f2a92514bcdc29035d.16",
-      "lat": 44.259368,
-      "lng": -76.449962,
-      "name": "Buckingham Park Play Structure"
     },
     "885d9f52385c44bdaba9655f9d76e22b.16": {
       "guid": "885d9f52385c44bdaba9655f9d76e22b.16",
@@ -8924,6 +8917,12 @@
       "lat": 44.258205,
       "lng": -76.455069,
       "name": "Richdale park"
+    },
+    "6eb754985da14560914a0c08b2b8f98e.16": {
+      "guid": "6eb754985da14560914a0c08b2b8f98e.16",
+      "lat": 44.222471,
+      "lng": -76.490625,
+      "name": "1867-1967 Centennial Emblem"
     }
   },
   "notpogo": {
