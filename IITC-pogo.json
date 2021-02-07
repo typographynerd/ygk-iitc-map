@@ -2184,6 +2184,12 @@
       "lng": -76.488814,
       "name": "Neil McArthur Park South Entrance",
       "isEx": true
+    },
+    "b29976d971c6414a8dbf96dbd2b7e225.16": {
+      "guid": "b29976d971c6414a8dbf96dbd2b7e225.16",
+      "lat": 44.263706,
+      "lng": -76.453251,
+      "name": "Greenwood park play structures"
     }
   },
   "pokestops": {
@@ -5156,12 +5162,6 @@
       "lat": 44.261744,
       "lng": -76.449741,
       "name": "The Spider Web"
-    },
-    "b29976d971c6414a8dbf96dbd2b7e225.16": {
-      "guid": "b29976d971c6414a8dbf96dbd2b7e225.16",
-      "lat": 44.263706,
-      "lng": -76.453251,
-      "name": "Greenwood park play structures"
     },
     "4dd22e5c67a44e19a630b5a400b61840.16": {
       "guid": "4dd22e5c67a44e19a630b5a400b61840.16",
@@ -8912,6 +8912,18 @@
       "lat": 44.230516,
       "lng": -76.460244,
       "name": "Fort Henry"
+    },
+    "b2c9192c91c14549aabbdadbd1538fcd.16": {
+      "guid": "b2c9192c91c14549aabbdadbd1538fcd.16",
+      "lat": 44.263526,
+      "lng": -76.45333,
+      "name": "Greenwood Park Sign"
+    },
+    "e4f8d6e001214c6598dfffacca1d8a08.16": {
+      "guid": "e4f8d6e001214c6598dfffacca1d8a08.16",
+      "lat": 44.258205,
+      "lng": -76.455069,
+      "name": "Richdale park"
     }
   },
   "notpogo": {
