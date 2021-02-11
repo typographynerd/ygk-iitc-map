@@ -3780,7 +3780,7 @@
       "guid": "23975a36f5dd4d59b571920dbf86d653.16",
       "lat": 44.218824,
       "lng": -76.533265,
-      "name": "Rideau Trail Marker"
+      "name": "Rideau/Waterfront Trail Marker - Lake Ontario Park West"
     },
     "2a8254de8c4945d78e5de0efe85a9e44.16": {
       "guid": "2a8254de8c4945d78e5de0efe85a9e44.16",
@@ -8923,6 +8923,18 @@
       "lat": 44.222471,
       "lng": -76.490625,
       "name": "1867-1967 Centennial Emblem"
+    },
+    "e5487a10043f4783986b7d9ddf6e2514.16": {
+      "guid": "e5487a10043f4783986b7d9ddf6e2514.16",
+      "lat": 44.239583,
+      "lng": -76.51684,
+      "name": "YMCA dedication stone"
+    },
+    "775fbc24831f492a8511b602c59db42b.16": {
+      "guid": "775fbc24831f492a8511b602c59db42b.16",
+      "lat": 44.217291,
+      "lng": -76.514621,
+      "name": "Anne Milina Outlook"
     }
   },
   "notpogo": {
