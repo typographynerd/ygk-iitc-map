@@ -2189,6 +2189,12 @@
       "lat": 44.259368,
       "lng": -76.449962,
       "name": "Buckingham Park Play Structure"
+    },
+    "146d9c9322c24539bcf9b17f4ca3b9ef.16": {
+      "guid": "146d9c9322c24539bcf9b17f4ca3b9ef.16",
+      "lat": 44.273605,
+      "lng": -76.435483,
+      "name": "John Machin Main Soccer Field"
     }
   },
   "pokestops": {
@@ -7129,12 +7135,6 @@
       "lat": 44.273832,
       "lng": -76.433556,
       "name": "John Machin East Soccer Field (1 of 2)"
-    },
-    "146d9c9322c24539bcf9b17f4ca3b9ef.16": {
-      "guid": "146d9c9322c24539bcf9b17f4ca3b9ef.16",
-      "lat": 44.273605,
-      "lng": -76.435483,
-      "name": "John Machin Main Soccer Field"
     },
     "1f3711f32c5e42ddbee59379178e6b6d.16": {
       "guid": "1f3711f32c5e42ddbee59379178e6b6d.16",
