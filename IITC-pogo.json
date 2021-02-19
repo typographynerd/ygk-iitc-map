@@ -293,7 +293,7 @@
       "guid": "f5f378ccbfe44171a524bdf0c2b04c6d.16",
       "lat": 44.230623,
       "lng": -76.516624,
-      "name": "Richardson Stadium"
+      "name": "Richardson Stadium North Entrance"
     },
     "c73f9384cdea4d03b5db44319eff9407.11": {
       "guid": "c73f9384cdea4d03b5db44319eff9407.11",
@@ -8935,6 +8935,18 @@
       "lat": 44.217291,
       "lng": -76.514621,
       "name": "Anne Milina Outlook"
+    },
+    "36d0187d295b4dcfa2e9e3927394fcea.16": {
+      "guid": "36d0187d295b4dcfa2e9e3927394fcea.16",
+      "lat": 44.26664,
+      "lng": -76.557338,
+      "name": "Halifax Park Playground"
+    },
+    "fd96b01d82054a2983003bfc3423b7a1.16": {
+      "guid": "fd96b01d82054a2983003bfc3423b7a1.16",
+      "lat": 44.234004,
+      "lng": -76.491309,
+      "name": "Former Church"
     }
   },
   "notpogo": {
