@@ -1060,12 +1060,6 @@
       "lng": -76.44921,
       "name": "Family Catholic Chapel"
     },
-    "51e608c7eae547b3bc186b06396a6b65.16": {
-      "guid": "51e608c7eae547b3bc186b06396a6b65.16",
-      "lat": 44.243297,
-      "lng": -76.461452,
-      "name": "St Marks Anglican Church"
-    },
     "342e2f97a9824201bd212921042ce33a.16": {
       "guid": "342e2f97a9824201bd212921042ce33a.16",
       "lat": 44.243651,
@@ -2195,6 +2189,30 @@
       "lat": 44.273605,
       "lng": -76.435483,
       "name": "John Machin Main Soccer Field"
+    },
+    "51e608c7eae547b3bc186b06396a6b65.16": {
+      "guid": "51e608c7eae547b3bc186b06396a6b65.16",
+      "lat": 44.243297,
+      "lng": -76.461452,
+      "name": "St Marks Anglican Church"
+    },
+    "6cb39652cafb4c2fa32c296a88540f45.16": {
+      "guid": "6cb39652cafb4c2fa32c296a88540f45.16",
+      "lat": 44.246132,
+      "lng": -76.461861,
+      "name": "Matheson gate"
+    },
+    "8eb3e20ebb0e400f9a4b81e15d46ca0f.16": {
+      "guid": "8eb3e20ebb0e400f9a4b81e15d46ca0f.16",
+      "lat": 44.239411,
+      "lng": -76.460238,
+      "name": "Barriefield Rock Garden"
+    },
+    "36d0187d295b4dcfa2e9e3927394fcea.16": {
+      "guid": "36d0187d295b4dcfa2e9e3927394fcea.16",
+      "lat": 44.26664,
+      "lng": -76.557338,
+      "name": "Halifax Park Playground"
     }
   },
   "pokestops": {
@@ -5090,12 +5108,6 @@
       "lng": -76.461935,
       "name": "Frontenac County School Museum"
     },
-    "8eb3e20ebb0e400f9a4b81e15d46ca0f.16": {
-      "guid": "8eb3e20ebb0e400f9a4b81e15d46ca0f.16",
-      "lat": 44.239411,
-      "lng": -76.460238,
-      "name": "Barriefield Rock Garden"
-    },
     "82d1d1b59d214d12ac3aebcd8ec881df.16": {
       "guid": "82d1d1b59d214d12ac3aebcd8ec881df.16",
       "lat": 44.240214,
@@ -5107,12 +5119,6 @@
       "lat": 44.238103,
       "lng": -76.448432,
       "name": "Family Tree Project"
-    },
-    "6cb39652cafb4c2fa32c296a88540f45.16": {
-      "guid": "6cb39652cafb4c2fa32c296a88540f45.16",
-      "lat": 44.246132,
-      "lng": -76.461861,
-      "name": "Matheson gate"
     },
     "402a00f6de2c4e13a937fb901741314d.16": {
       "guid": "402a00f6de2c4e13a937fb901741314d.16",
@@ -8936,17 +8942,41 @@
       "lng": -76.514621,
       "name": "Anne Milina Outlook"
     },
-    "36d0187d295b4dcfa2e9e3927394fcea.16": {
-      "guid": "36d0187d295b4dcfa2e9e3927394fcea.16",
-      "lat": 44.26664,
-      "lng": -76.557338,
-      "name": "Halifax Park Playground"
-    },
     "fd96b01d82054a2983003bfc3423b7a1.16": {
       "guid": "fd96b01d82054a2983003bfc3423b7a1.16",
       "lat": 44.234004,
       "lng": -76.491309,
       "name": "Former Church"
+    },
+    "5ab2308f2a144707bac515b5b7cf992a.16": {
+      "guid": "5ab2308f2a144707bac515b5b7cf992a.16",
+      "lat": 44.243313,
+      "lng": -76.461739,
+      "name": "History of St. Mark’s Church"
+    },
+    "c1669d9cf3f947a78e6719b92806e60e.16": {
+      "guid": "c1669d9cf3f947a78e6719b92806e60e.16",
+      "lat": 44.24315,
+      "lng": -76.462485,
+      "name": "St. Mark’s Church 1843"
+    },
+    "f708ade4ab744f7fa435173a626bc32c.16": {
+      "guid": "f708ade4ab744f7fa435173a626bc32c.16",
+      "lat": 44.244934,
+      "lng": -76.462611,
+      "name": "Kingston Shoreline Route Map-Barriefield"
+    },
+    "517d75897936480f9bd94ea609be974c.16": {
+      "guid": "517d75897936480f9bd94ea609be974c.16",
+      "lat": 44.264016,
+      "lng": -76.552551,
+      "name": "Bert Meunier Common Sign"
+    },
+    "1e1c4b2a930144fe9cc1d3196cd1d97a.16": {
+      "guid": "1e1c4b2a930144fe9cc1d3196cd1d97a.16",
+      "lat": 44.26663,
+      "lng": -76.558151,
+      "name": "Halifax Park"
     }
   },
   "notpogo": {
