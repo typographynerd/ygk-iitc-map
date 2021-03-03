@@ -2213,6 +2213,12 @@
       "lat": 44.26664,
       "lng": -76.557338,
       "name": "Halifax Park Playground"
+    },
+    "0ef851db7100473e9670e0b4283fd333.16": {
+      "guid": "0ef851db7100473e9670e0b4283fd333.16",
+      "lat": 44.253017,
+      "lng": -76.461093,
+      "name": "Canada Post Office Hwy 15"
     }
   },
   "pokestops": {
@@ -6313,12 +6319,6 @@
       "lat": 44.224089,
       "lng": -76.496985,
       "name": "Chown Hall"
-    },
-    "0ef851db7100473e9670e0b4283fd333.16": {
-      "guid": "0ef851db7100473e9670e0b4283fd333.16",
-      "lat": 44.253017,
-      "lng": -76.461093,
-      "name": "Canada Post Office Hwy 15"
     },
     "47da87fe926a46d08e43565a4b31d781.16": {
       "guid": "47da87fe926a46d08e43565a4b31d781.16",
