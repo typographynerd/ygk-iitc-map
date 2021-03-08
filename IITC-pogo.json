@@ -8983,6 +8983,24 @@
       "lat": 44.24966,
       "lng": -76.460826,
       "name": "Kingston Shoreline Route-Barrett Court"
+    },
+    "c6cda060450e4f50be0c7308dd750487.16": {
+      "guid": "c6cda060450e4f50be0c7308dd750487.16",
+      "lat": 44.244991,
+      "lng": -76.617369,
+      "name": "ball dimond in park"
+    },
+    "f63f20b3bcc5437dbebf4c286b599afe.16": {
+      "guid": "f63f20b3bcc5437dbebf4c286b599afe.16",
+      "lat": 44.235512,
+      "lng": -76.593524,
+      "name": "Waterfront Trail-Acadia"
+    },
+    "f5cada90a2c04532a23779ed1f024511.16": {
+      "guid": "f5cada90a2c04532a23779ed1f024511.16",
+      "lat": 44.237548,
+      "lng": -76.594381,
+      "name": "Waterfront Trail-Bayridge & Coverdale"
     }
   },
   "notpogo": {
