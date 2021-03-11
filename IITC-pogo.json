@@ -3612,7 +3612,7 @@
       "guid": "c0a68237a2a74c3ab1417719801fc316.16",
       "lat": 44.260365,
       "lng": -76.542177,
-      "name": "Cemetery Gazebo and Maseoleum"
+      "name": "Cemetery Gazebo and Columbarium"
     },
     "334c54bb1fd24980a1e3eaa15b073d31.16": {
       "guid": "334c54bb1fd24980a1e3eaa15b073d31.16",
@@ -5436,7 +5436,7 @@
       "guid": "7d1860c25668499b8686081718bb9505.16",
       "lat": 44.231006,
       "lng": -76.487434,
-      "name": "Hotel Dieu Hospital"
+      "name": "Hotel Dieu Hospital—Sydenham Entrance"
     },
     "ff053c2ffd07482eac37c31886c20ea5.16": {
       "guid": "ff053c2ffd07482eac37c31886c20ea5.16",
@@ -9001,6 +9001,12 @@
       "lat": 44.237548,
       "lng": -76.594381,
       "name": "Waterfront Trail-Bayridge & Coverdale"
+    },
+    "be2f2e253c3e40eda99235373a4f7488.16": {
+      "guid": "be2f2e253c3e40eda99235373a4f7488.16",
+      "lat": 44.253958,
+      "lng": -76.5688,
+      "name": "The Westen - East Pergola"
     }
   },
   "notpogo": {
