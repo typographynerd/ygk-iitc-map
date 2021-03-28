@@ -3890,12 +3890,6 @@
       "lng": -76.571551,
       "name": "St. Thomas Anglican Church"
     },
-    "7cde8ccc96aa411f8faa1b7a0093388f.16": {
-      "guid": "7cde8ccc96aa411f8faa1b7a0093388f.16",
-      "lat": 44.228051,
-      "lng": -76.582845,
-      "name": "Jim Beattie Park"
-    },
     "e9b0286d75f04e3ebd03454db8871539.16": {
       "guid": "e9b0286d75f04e3ebd03454db8871539.16",
       "lat": 44.235706,
@@ -4020,7 +4014,7 @@
       "guid": "04fbfca633b6436b8510d7029769c468.16",
       "lat": 44.255529,
       "lng": -76.571229,
-      "name": "Cataraqui Mall Post Office"
+      "name": "Cataraqui Centre Post Office"
     },
     "8d214b5de77f47cd986132c43f495b5f.11": {
       "guid": "8d214b5de77f47cd986132c43f495b5f.11",
@@ -9019,6 +9013,18 @@
       "lat": 44.224234,
       "lng": -76.52059,
       "name": "Plymouth Brethren church"
+    },
+    "fe03c60c7ef34b08bdf93f8333ddc861.16": {
+      "guid": "fe03c60c7ef34b08bdf93f8333ddc861.16",
+      "lat": 44.219419,
+      "lng": -76.592818,
+      "name": "RCAF Roundel"
+    },
+    "db18dbf9b0a94c50893f49bea66a1519.16": {
+      "guid": "db18dbf9b0a94c50893f49bea66a1519.16",
+      "lat": 44.218963,
+      "lng": -76.59699,
+      "name": "YGK Airport Sign"
     }
   },
   "notpogo": {
@@ -9057,6 +9063,12 @@
       "lat": 44.248079,
       "lng": -76.577274,
       "name": "Creekside Park Playground"
+    },
+    "7cde8ccc96aa411f8faa1b7a0093388f.16": {
+      "guid": "7cde8ccc96aa411f8faa1b7a0093388f.16",
+      "lat": 44.227912,
+      "lng": -76.582746,
+      "name": "Jim Beattie Park"
     }
   },
   "ignoredCellsExtraGyms": {},
