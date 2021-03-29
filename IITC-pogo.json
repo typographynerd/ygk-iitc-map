@@ -162,12 +162,6 @@
       "lng": -76.49277,
       "name": "Mr. Donair Mural"
     },
-    "5618137b37e04872b8a89b5b731de79e.16": {
-      "guid": "5618137b37e04872b8a89b5b731de79e.16",
-      "lat": 44.234748,
-      "lng": -76.496089,
-      "name": "Izumo Sushi Mural"
-    },
     "1e52c1a1907c45a29a446471c76c3300.16": {
       "guid": "1e52c1a1907c45a29a446471c76c3300.16",
       "lat": 44.233489,
@@ -2219,6 +2213,12 @@
       "lat": 44.253017,
       "lng": -76.461093,
       "name": "Canada Post Office Hwy 15"
+    },
+    "13c8fa9008e444dda421c17ea107e5dc.16": {
+      "guid": "13c8fa9008e444dda421c17ea107e5dc.16",
+      "lat": 44.237376,
+      "lng": -76.490874,
+      "name": "Friendship Park Playground"
     }
   },
   "pokestops": {
@@ -5473,12 +5473,6 @@
       "lat": 44.228652,
       "lng": -76.583938,
       "name": "Jim Lauder Plaque"
-    },
-    "13c8fa9008e444dda421c17ea107e5dc.16": {
-      "guid": "13c8fa9008e444dda421c17ea107e5dc.16",
-      "lat": 44.237376,
-      "lng": -76.490874,
-      "name": "Friendship Park Playground"
     },
     "23a650ed629c496f97e2ffda216657d2.16": {
       "guid": "23a650ed629c496f97e2ffda216657d2.16",
