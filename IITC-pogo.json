@@ -2219,6 +2219,12 @@
       "lat": 44.237376,
       "lng": -76.490874,
       "name": "Friendship Park Playground"
+    },
+    "a341d18f51094af1a6ed7f6d2eef1c2f.16": {
+      "guid": "a341d18f51094af1a6ed7f6d2eef1c2f.16",
+      "lat": 44.256139,
+      "lng": -76.48405,
+      "name": "Cassidy Basketball Court"
     }
   },
   "pokestops": {
@@ -9019,6 +9025,12 @@
       "lat": 44.218963,
       "lng": -76.59699,
       "name": "YGK Airport Sign"
+    },
+    "66d0c97de644415290f9bcfe4d13447b.16": {
+      "guid": "66d0c97de644415290f9bcfe4d13447b.16",
+      "lat": 44.259353,
+      "lng": -76.482067,
+      "name": "Kingston Shoreline Route-Briceland St"
     }
   },
   "notpogo": {
