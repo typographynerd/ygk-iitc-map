@@ -2001,25 +2001,29 @@
       "guid": "ygksponsored.1",
       "lat": 44.2402362,
       "lng": -76.5987936,
-      "name": "Chinese Palace Restaurant [SPONSORED GYM]"
+      "name": "Chinese Palace Restaurant [SPONSORED GYM]",
+      "isEx": true
     },
     "ygksponsored.2": {
       "guid": "ygksponsored.2",
       "lat": 44.2322755,
       "lng": -76.4840561,
-      "name": "Improbable Escapes HQ [SPONSORED GYM]"
+      "name": "Improbable Escapes HQ [SPONSORED GYM]",
+      "isEx": true
     },
     "ygksponsored.3": {
       "guid": "ygksponsored.3",
       "lat": 44.235418,
       "lng": -76.566762,
-      "name": "Improbable Escapes: Wonderland [SPONSORED GYM]"
+      "name": "Improbable Escapes: Wonderland [SPONSORED GYM]",
+      "isEx": true
     },
     "ygksponsored.4": {
       "guid": "ygksponsored.4",
       "lat": 44.2475104,
       "lng": -76.5693969,
-      "name": "Achieve Nutrition [SPONSORED GYM]"
+      "name": "Achieve Nutrition [SPONSORED GYM]",
+      "isEx": true
     },
     "c870fbcc3d4f4b75b5ffbf029c30eadf.16": {
       "guid": "c870fbcc3d4f4b75b5ffbf029c30eadf.16",
