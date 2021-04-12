@@ -3196,7 +3196,7 @@
       "guid": "f2fd2314ae7146c0a64a573940ebddc1.16",
       "lat": 44.238885,
       "lng": -76.501229,
-      "name": "Kingston Mural Project"
+      "name": "E. E. Bennet Barn Mural"
     },
     "7625765b5a6841f189584ebf5d709df1.16": {
       "guid": "7625765b5a6841f189584ebf5d709df1.16",
@@ -9041,6 +9041,12 @@
       "lat": 44.241119,
       "lng": -76.480636,
       "name": "Kingston Shoreline Route - Boiler Room Trail"
+    },
+    "d948afebf23f43ddb846e716f3cc9be7.16": {
+      "guid": "d948afebf23f43ddb846e716f3cc9be7.16",
+      "lat": 44.238992,
+      "lng": -76.614842,
+      "name": "Kingston Shoreline Route - Bath Rd in Collins Bay"
     }
   },
   "notpogo": {
