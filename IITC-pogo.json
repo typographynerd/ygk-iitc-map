@@ -2229,6 +2229,12 @@
       "lat": 44.256139,
       "lng": -76.48405,
       "name": "Cassidy Basketball Court"
+    },
+    "f633a1779e7e4569960020077172a665.16": {
+      "guid": "f633a1779e7e4569960020077172a665.16",
+      "lat": 44.235434,
+      "lng": -76.470319,
+      "name": "Waterfront Trail-Navy Way"
     }
   },
   "pokestops": {
@@ -6786,12 +6792,6 @@
       "lng": -76.504488,
       "name": "Johnson Street Playground"
     },
-    "43950fed28d748739b87e94087e652d6.16": {
-      "guid": "43950fed28d748739b87e94087e652d6.16",
-      "lat": 44.271283,
-      "lng": -76.618745,
-      "name": "Soccer Field - Westbrook Park"
-    },
     "e474d7010d4c4097af3d5d09c4a76827.16": {
       "guid": "e474d7010d4c4097af3d5d09c4a76827.16",
       "lat": 44.258159,
@@ -9065,6 +9065,18 @@
       "lat": 44.248196,
       "lng": -76.487568,
       "name": "Inner Harbour Community Garden-Town Homes"
+    },
+    "d292c77b467242e7a174f99126cf16b2.16": {
+      "guid": "d292c77b467242e7a174f99126cf16b2.16",
+      "lat": 44.236903,
+      "lng": -76.465415,
+      "name": "Fort Henry Sign"
+    },
+    "43950fed28d748739b87e94087e652d6.16": {
+      "guid": "43950fed28d748739b87e94087e652d6.16",
+      "lat": 44.271379,
+      "lng": -76.618745,
+      "name": "Soccer Field - Westbrook Park"
     }
   },
   "notpogo": {
