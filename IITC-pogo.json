@@ -493,7 +493,7 @@
       "guid": "2e3d098b756c40b692c9b01350207eed.16",
       "lat": 44.217517,
       "lng": -76.518731,
-      "name": "Full Circle  Memorial Bench"
+      "name": "Full Circle Memorial Bench"
     },
     "abaddbe0aa264a8d93ffb380d287b3d4.16": {
       "guid": "abaddbe0aa264a8d93ffb380d287b3d4.16",
@@ -1089,12 +1089,6 @@
       "lat": 44.241684,
       "lng": -76.548569,
       "name": "Mark Bunting"
-    },
-    "6336046d327d485a984e8c102cc597c6.16": {
-      "guid": "6336046d327d485a984e8c102cc597c6.16",
-      "lat": 44.229125,
-      "lng": -76.506502,
-      "name": "Kingston Tennis Club "
     },
     "e5580b84d9544a95b2cd63da59611668.16": {
       "guid": "e5580b84d9544a95b2cd63da59611668.16",
@@ -1811,7 +1805,7 @@
       "guid": "6e8852225f5c49478bfef4efe11d79fa.16",
       "lat": 44.226448,
       "lng": -76.522197,
-      "name": "KSL Playground",
+      "name": "Woodlands Park Playground",
       "isEx": true
     },
     "cc9c8c25fd664ce5bfe1aa8330eca2f9.12": {
@@ -2241,6 +2235,12 @@
       "lat": 44.238908,
       "lng": -76.558553,
       "name": "Revera Arbour Heights Gazebo #1"
+    },
+    "6336046d327d485a984e8c102cc597c6.16": {
+      "guid": "6336046d327d485a984e8c102cc597c6.16",
+      "lat": 44.229086,
+      "lng": -76.506303,
+      "name": "Kingston Tennis Club"
     }
   },
   "pokestops": {
@@ -2861,12 +2861,6 @@
       "lat": 44.233202,
       "lng": -76.480292,
       "name": "KRock Centre"
-    },
-    "97028ccc9d56473eb42bfc0ded6f0d6e.16": {
-      "guid": "97028ccc9d56473eb42bfc0ded6f0d6e.16",
-      "lat": 44.233386,
-      "lng": -76.480939,
-      "name": "Strange House Plaque"
     },
     "7ee52783ba6d4cfc86338c627841c988.16": {
       "guid": "7ee52783ba6d4cfc86338c627841c988.16",
@@ -5819,12 +5813,6 @@
       "lat": 44.219776,
       "lng": -76.651637,
       "name": "Lakeview Park Basketball Court"
-    },
-    "b25182fbf27f4527b9cad023d010060d.16": {
-      "guid": "b25182fbf27f4527b9cad023d010060d.16",
-      "lat": 44.238748,
-      "lng": -76.506324,
-      "name": "Daft Mural"
     },
     "cf9fdb2be4844899a692eb5b9addf234.16": {
       "guid": "cf9fdb2be4844899a692eb5b9addf234.16",
@@ -8824,7 +8812,7 @@
       "guid": "dfef37930d0c494a82240d3d431330c1.16",
       "lat": 44.224348,
       "lng": -76.494297,
-      "name": "Kingston General Hospital Types Epidemic Plaque "
+      "name": "Kingston General Hospital Types Epidemic Plaque"
     },
     "27124415697d4506b07eaa00f3624561.16": {
       "guid": "27124415697d4506b07eaa00f3624561.16",
@@ -9095,6 +9083,24 @@
       "lat": 44.23222,
       "lng": -76.485621,
       "name": "Four Squares By JAWK"
+    },
+    "2c67a6af1e9132d8871616e3a8b79aef.16": {
+      "guid": "2c67a6af1e9132d8871616e3a8b79aef.16",
+      "lat": 44.234158,
+      "lng": -76.483927,
+      "name": "Artillery Park Front Entrance"
+    },
+    "b25182fbf27f4527b9cad023d010060d.16": {
+      "guid": "b25182fbf27f4527b9cad023d010060d.16",
+      "lat": 44.238662,
+      "lng": -76.506159,
+      "name": "Daft Mural"
+    },
+    "97028ccc9d56473eb42bfc0ded6f0d6e.16": {
+      "guid": "97028ccc9d56473eb42bfc0ded6f0d6e.16",
+      "lat": 44.233382,
+      "lng": -76.480842,
+      "name": "Strange House Plaque"
     }
   },
   "notpogo": {
