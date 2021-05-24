@@ -2247,6 +2247,12 @@
       "lat": 44.272079,
       "lng": -76.570511,
       "name": "Half basketball court"
+    },
+    "ce14955e36e444da9cf5a3a4b0eaaf42.16": {
+      "guid": "ce14955e36e444da9cf5a3a4b0eaaf42.16",
+      "lat": 44.235073,
+      "lng": -76.622237,
+      "name": "Waterfront Trail Marker - Bath Rd at Sycamore St"
     }
   },
   "pokestops": {
@@ -3682,7 +3688,7 @@
       "guid": "a24a5f607b0242f9bf77c5c83fa1d275.16",
       "lat": 44.256608,
       "lng": -76.524904,
-      "name": "Kingston Park"
+      "name": "O’Connor Park Playground"
     },
     "2f17d84bb95c4d8585a88d7f9bf1f8e3.16": {
       "guid": "2f17d84bb95c4d8585a88d7f9bf1f8e3.16",
@@ -9066,12 +9072,6 @@
       "lng": -76.618745,
       "name": "Soccer Field - Westbrook Park"
     },
-    "ce14955e36e444da9cf5a3a4b0eaaf42.16": {
-      "guid": "ce14955e36e444da9cf5a3a4b0eaaf42.16",
-      "lat": 44.235073,
-      "lng": -76.622237,
-      "name": "Waterfront Trail Marker - Bath Rd at Sycamore St"
-    },
     "c698a6b3b1f64ff9a9bbebaa53b6af18.16": {
       "guid": "c698a6b3b1f64ff9a9bbebaa53b6af18.16",
       "lat": 44.248186,
@@ -9101,6 +9101,18 @@
       "lat": 44.233382,
       "lng": -76.480842,
       "name": "Strange House Plaque"
+    },
+    "ff509a4ec03844ecaa1c7d49bbad5a13.16": {
+      "guid": "ff509a4ec03844ecaa1c7d49bbad5a13.16",
+      "lat": 44.231813,
+      "lng": -76.625222,
+      "name": "Kingston Shoreline Route - Bath Rd and Homeward"
+    },
+    "910ae60f609c369ea9b472b46160c473.16": {
+      "guid": "910ae60f609c369ea9b472b46160c473.16",
+      "lat": 44.223808,
+      "lng": -76.670463,
+      "name": "The Ponds Park"
     }
   },
   "notpogo": {
