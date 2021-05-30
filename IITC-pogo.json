@@ -9113,6 +9113,18 @@
       "lat": 44.239829,
       "lng": -76.658015,
       "name": "McKeown Tract"
+    },
+    "0759d8cf38d23638b0e5a42e6bfe5cc0.16": {
+      "guid": "0759d8cf38d23638b0e5a42e6bfe5cc0.16",
+      "lat": 44.222467,
+      "lng": -76.527742,
+      "name": "YMCA-St. Lawrence College"
+    },
+    "76a46e0e2d9f350a9b5354fc6e3a6b84.16": {
+      "guid": "76a46e0e2d9f350a9b5354fc6e3a6b84.16",
+      "lat": 44.224455,
+      "lng": -76.522177,
+      "name": "Seniors Centre Kingston"
     }
   },
   "notpogo": {
