@@ -614,7 +614,7 @@
       "guid": "ceec82f298ba4fb39b3b7cd1b3d73fb7.11",
       "lat": 44.255473,
       "lng": -76.571915,
-      "name": "Cataraqui Mall"
+      "name": "Cataraqui Centre - Back Entrance"
     },
     "f0ced2d08428489b94e1ce864abe60c1.16": {
       "guid": "f0ced2d08428489b94e1ce864abe60c1.16",
@@ -2668,7 +2668,7 @@
       "guid": "3d470d76a2cb4d6c846489278ae68cf7.16",
       "lat": 44.22669,
       "lng": -76.482939,
-      "name": "Phill Quattrocchi Memorial "
+      "name": "Phill Quattrocchi Memorial"
     },
     "6d1ad35a98fb43469cbc07f42938890d.16": {
       "guid": "6d1ad35a98fb43469cbc07f42938890d.16",
@@ -3604,7 +3604,7 @@
       "guid": "e3e56dd2db4944d889ee37fc0abf530a.16",
       "lat": 44.27023,
       "lng": -76.529456,
-      "name": "K&P Trail Binnington Crt"
+      "name": "K&P Trail Map Binnington Crt"
     },
     "eeea71d2f3334baca7babd3d58b3903a.16": {
       "guid": "eeea71d2f3334baca7babd3d58b3903a.16",
@@ -9125,6 +9125,12 @@
       "lat": 44.224455,
       "lng": -76.522177,
       "name": "Seniors Centre Kingston"
+    },
+    "b4cff7f0326a31a697eed69d44b07335.16": {
+      "guid": "b4cff7f0326a31a697eed69d44b07335.16",
+      "lat": 44.257245,
+      "lng": -76.551388,
+      "name": "Seven Oakes Basketball Court"
     }
   },
   "notpogo": {
