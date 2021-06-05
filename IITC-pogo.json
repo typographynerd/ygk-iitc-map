@@ -2259,6 +2259,12 @@
       "lat": 44.24401,
       "lng": -76.524082,
       "name": "Providence Gazebo"
+    },
+    "5047382980144e1fbdc9cf58f27a1559.16": {
+      "guid": "5047382980144e1fbdc9cf58f27a1559.16",
+      "lat": 44.296844,
+      "lng": -76.559501,
+      "name": "Bur Creek Millrace at Jackson Mill"
     }
   },
   "pokestops": {
@@ -3204,12 +3210,6 @@
       "lng": -76.496172,
       "name": "Pine Street Park"
     },
-    "8c23dcb6192f438abbdb404b5f73bfea.16": {
-      "guid": "8c23dcb6192f438abbdb404b5f73bfea.16",
-      "lat": 44.237373,
-      "lng": -76.502817,
-      "name": "Nightlight"
-    },
     "c671924cd2da4781a4c1bb650939d6df.16": {
       "guid": "c671924cd2da4781a4c1bb650939d6df.16",
       "lat": 44.238279,
@@ -3755,12 +3755,6 @@
       "lat": 44.222458,
       "lng": -76.51917,
       "name": "Harold Harvey Centre"
-    },
-    "98a87ec05ae3498bada1c288a5c13118.16": {
-      "guid": "98a87ec05ae3498bada1c288a5c13118.16",
-      "lat": 44.220884,
-      "lng": -76.5159,
-      "name": "Portsmouth Olympic Harbour Park"
     },
     "ef68310334414d708b74f2211c3a4244.16": {
       "guid": "ef68310334414d708b74f2211c3a4244.16",
@@ -4374,12 +4368,6 @@
       "lng": -76.60945,
       "name": "Country Cabin Chip Hut"
     },
-    "4642fb451bff42409d72bab15595e5a0.16": {
-      "guid": "4642fb451bff42409d72bab15595e5a0.16",
-      "lat": 44.239968,
-      "lng": -76.612323,
-      "name": "Edith Rankin Memorial Church"
-    },
     "c540d5fafb2c46899cd28ad8545fd834.16": {
       "guid": "c540d5fafb2c46899cd28ad8545fd834.16",
       "lat": 44.238167,
@@ -4811,12 +4799,6 @@
       "lat": 44.237769,
       "lng": -76.606509,
       "name": "Terry's Trails"
-    },
-    "fe51d31c1fa049fa852fdaf2f781dc46.16": {
-      "guid": "fe51d31c1fa049fa852fdaf2f781dc46.16",
-      "lat": 44.238094,
-      "lng": -76.606264,
-      "name": "Lemoine Point Outdoor barbecue"
     },
     "297439228938442e8a23747b14be9874.16": {
       "guid": "297439228938442e8a23747b14be9874.16",
@@ -9161,6 +9143,48 @@
       "lat": 44.268806,
       "lng": -76.451272,
       "name": "Kingston Shoreline Route-Rose Abbey North"
+    },
+    "fe51d31c1fa049fa852fdaf2f781dc46.16": {
+      "guid": "fe51d31c1fa049fa852fdaf2f781dc46.16",
+      "lat": 44.238124,
+      "lng": -76.606148,
+      "name": "Lemoine Point Outdoor barbecue"
+    },
+    "4642fb451bff42409d72bab15595e5a0.16": {
+      "guid": "4642fb451bff42409d72bab15595e5a0.16",
+      "lat": 44.239829,
+      "lng": -76.612601,
+      "name": "Edith Rankin Memorial Church"
+    },
+    "71439d23e1c94030ade427b17ee06b7c.16": {
+      "guid": "71439d23e1c94030ade427b17ee06b7c.16",
+      "lat": 44.237896,
+      "lng": -76.605782,
+      "name": "Rotary Park Playground structure"
+    },
+    "78a6f81389aa46519f4f4f4773668106.16": {
+      "guid": "78a6f81389aa46519f4f4f4773668106.16",
+      "lat": 44.295215,
+      "lng": -76.558914,
+      "name": "KP Trail Marker 13.0km"
+    },
+    "7cde8ccc96aa411f8faa1b7a0093388f.16": {
+      "guid": "7cde8ccc96aa411f8faa1b7a0093388f.16",
+      "lat": 44.227912,
+      "lng": -76.582746,
+      "name": "Jim Beattie Park"
+    },
+    "98a87ec05ae3498bada1c288a5c13118.16": {
+      "guid": "98a87ec05ae3498bada1c288a5c13118.16",
+      "lat": 44.220786,
+      "lng": -76.515888,
+      "name": "Portsmouth Olympic Harbour Park"
+    },
+    "8c23dcb6192f438abbdb404b5f73bfea.16": {
+      "guid": "8c23dcb6192f438abbdb404b5f73bfea.16",
+      "lat": 44.237796,
+      "lng": -76.502259,
+      "name": "Nightlight"
     }
   },
   "notpogo": {
@@ -9199,12 +9223,6 @@
       "lat": 44.248079,
       "lng": -76.577274,
       "name": "Creekside Park Playground"
-    },
-    "7cde8ccc96aa411f8faa1b7a0093388f.16": {
-      "guid": "7cde8ccc96aa411f8faa1b7a0093388f.16",
-      "lat": 44.227912,
-      "lng": -76.582746,
-      "name": "Jim Beattie Park"
     }
   },
   "ignoredCellsExtraGyms": {},
