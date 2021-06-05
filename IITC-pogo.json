@@ -1052,7 +1052,7 @@
       "guid": "5bff36cb6ec24b448410ef39410940f3.16",
       "lat": 44.238063,
       "lng": -76.44921,
-      "name": "Family Catholic Chapel"
+      "name": "Holy Family Catholic Chapel"
     },
     "342e2f97a9824201bd212921042ce33a.16": {
       "guid": "342e2f97a9824201bd212921042ce33a.16",
@@ -1159,7 +1159,7 @@
       "guid": "2b982885a2ca4602b01e619b260cee74.16",
       "lat": 44.24426,
       "lng": -76.479981,
-      "name": "K & P Trail Map"
+      "name": "K&P Trail Map-Emma Martin Park"
     },
     "f51461e03f80439c955e3540fa6b01e8.16": {
       "guid": "f51461e03f80439c955e3540fa6b01e8.16",
@@ -2253,6 +2253,12 @@
       "lat": 44.235073,
       "lng": -76.622237,
       "name": "Waterfront Trail Marker - Bath Rd at Sycamore St"
+    },
+    "fb5f78f7b2b741f0b12b54bbc4c00348.16": {
+      "guid": "fb5f78f7b2b741f0b12b54bbc4c00348.16",
+      "lat": 44.24401,
+      "lng": -76.524082,
+      "name": "Providence Gazebo"
     }
   },
   "pokestops": {
@@ -4061,12 +4067,6 @@
       "lat": 44.256952,
       "lng": -76.575576,
       "name": "Clocktower Plaza"
-    },
-    "234b44e21e4d4eb598b4ed32c3f87522.16": {
-      "guid": "234b44e21e4d4eb598b4ed32c3f87522.16",
-      "lat": 44.261954,
-      "lng": -76.559264,
-      "name": "Emerald park play structures"
     },
     "2e2858863a8a47258f3cc7340bcf71d4.16": {
       "guid": "2e2858863a8a47258f3cc7340bcf71d4.16",
@@ -8172,12 +8172,6 @@
       "lng": -76.522436,
       "name": "Heathfield Plaque"
     },
-    "fb5f78f7b2b741f0b12b54bbc4c00348.16": {
-      "guid": "fb5f78f7b2b741f0b12b54bbc4c00348.16",
-      "lat": 44.24401,
-      "lng": -76.524082,
-      "name": "Providence Gazebo"
-    },
     "0ef2e8d1dcc847c1826a4b3c0f42a7c2.16": {
       "guid": "0ef2e8d1dcc847c1826a4b3c0f42a7c2.16",
       "lat": 44.235975,
@@ -9137,6 +9131,36 @@
       "lat": 44.236145,
       "lng": -76.662437,
       "name": "Ridge Runners Trail Map"
+    },
+    "234b44e21e4d4eb598b4ed32c3f87522.16": {
+      "guid": "234b44e21e4d4eb598b4ed32c3f87522.16",
+      "lat": 44.262218,
+      "lng": -76.559714,
+      "name": "Emerald park play structures"
+    },
+    "5ca3400cbace36b1945da21c7866da69.16": {
+      "guid": "5ca3400cbace36b1945da21c7866da69.16",
+      "lat": 44.246607,
+      "lng": -76.52286,
+      "name": "Waterfall Fountain"
+    },
+    "e8518accfb863a2f91a1e927f92ba967.16": {
+      "guid": "e8518accfb863a2f91a1e927f92ba967.16",
+      "lat": 44.261791,
+      "lng": -76.459,
+      "name": "Kingston Shoreline Route-Greenwood Park South"
+    },
+    "c9e0a5163d523916976a5d562c304204.16": {
+      "guid": "c9e0a5163d523916976a5d562c304204.16",
+      "lat": 44.265542,
+      "lng": -76.454849,
+      "name": "Kingston Shoreline Route-Greenwood Park North"
+    },
+    "b9d7be7c38ac3f18ac7f22bab7986bf0.16": {
+      "guid": "b9d7be7c38ac3f18ac7f22bab7986bf0.16",
+      "lat": 44.268806,
+      "lng": -76.451272,
+      "name": "Kingston Shoreline Route-Rose Abbey North"
     }
   },
   "notpogo": {
