@@ -9197,6 +9197,24 @@
       "lat": 44.224546,
       "lng": -76.657257,
       "name": "Henderson Soccer pitch"
+    },
+    "8b38dd3fcd8131fea5bd49dcfcc2fead.16": {
+      "guid": "8b38dd3fcd8131fea5bd49dcfcc2fead.16",
+      "lat": 44.24141,
+      "lng": -76.609747,
+      "name": "Waterfront Trail-Collins Bay"
+    },
+    "fed691bb3dfe3ce49e16b1499d934fff.16": {
+      "guid": "fed691bb3dfe3ce49e16b1499d934fff.16",
+      "lat": 44.302107,
+      "lng": -76.576987,
+      "name": "Stone Decorative Inukshuk"
+    },
+    "a485c35e8e523a82bafc4ac6c30da1a3.16": {
+      "guid": "a485c35e8e523a82bafc4ac6c30da1a3.16",
+      "lat": 44.248003,
+      "lng": -76.606676,
+      "name": "Highgate Park Backstop"
     }
   },
   "notpogo": {
