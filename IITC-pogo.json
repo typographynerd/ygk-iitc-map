@@ -2265,6 +2265,18 @@
       "lat": 44.296844,
       "lng": -76.559501,
       "name": "Bur Creek Millrace at Jackson Mill"
+    },
+    "add22317715d4911b6c483280b05a053.16": {
+      "guid": "add22317715d4911b6c483280b05a053.16",
+      "lat": 44.241511,
+      "lng": -76.609302,
+      "name": "Lest We Forget Mural"
+    },
+    "dbdf9663250f4c03a3571f0599516b74.16": {
+      "guid": "dbdf9663250f4c03a3571f0599516b74.16",
+      "lat": 44.248354,
+      "lng": -76.606522,
+      "name": "Highgate Park East Entrance"
     }
   },
   "pokestops": {
@@ -2466,12 +2478,6 @@
       "lng": -76.495269,
       "name": "Hoods of Queen's Fabric Mural"
     },
-    "00e429e6c8194ce7aeab1914fcfa539b.16": {
-      "guid": "00e429e6c8194ce7aeab1914fcfa539b.16",
-      "lat": 44.22808,
-      "lng": -76.494681,
-      "name": "Sesquicentenial Court"
-    },
     "a06e5d2abe584c8f8250755be59a397d.16": {
       "guid": "a06e5d2abe584c8f8250755be59a397d.16",
       "lat": 44.227588,
@@ -2555,12 +2561,6 @@
       "lat": 44.225609,
       "lng": -76.490486,
       "name": "The Cricket Field"
-    },
-    "5d39c1833572456dbdcb5f116efa0b37.16": {
-      "guid": "5d39c1833572456dbdcb5f116efa0b37.16",
-      "lat": 44.225766,
-      "lng": -76.491274,
-      "name": "Deacon Walk"
     },
     "7b57082d2ad1448b8fb17c5b7e2398ae.16": {
       "guid": "7b57082d2ad1448b8fb17c5b7e2398ae.16",
@@ -4343,12 +4343,6 @@
       "lat": 44.250591,
       "lng": -76.61385,
       "name": "Ridgewood Park Playground "
-    },
-    "dbdf9663250f4c03a3571f0599516b74.16": {
-      "guid": "dbdf9663250f4c03a3571f0599516b74.16",
-      "lat": 44.248354,
-      "lng": -76.606522,
-      "name": "Highgate Park East Entrance"
     },
     "af924d2ac5bb49aaac2407538c9f61ca.16": {
       "guid": "af924d2ac5bb49aaac2407538c9f61ca.16",
@@ -7284,12 +7278,6 @@
       "lng": -76.594154,
       "name": "Red Oak Memorial"
     },
-    "add22317715d4911b6c483280b05a053.16": {
-      "guid": "add22317715d4911b6c483280b05a053.16",
-      "lat": 44.241511,
-      "lng": -76.609302,
-      "name": "Lest We Forget Mural"
-    },
     "3cda8df5f19c42d8af4666de935b6c1d.16": {
       "guid": "3cda8df5f19c42d8af4666de935b6c1d.16",
       "lat": 44.276539,
@@ -9215,6 +9203,12 @@
       "lat": 44.248003,
       "lng": -76.606676,
       "name": "Highgate Park Backstop"
+    },
+    "e026502683e03ef093ec193f9375d7e8.16": {
+      "guid": "e026502683e03ef093ec193f9375d7e8.16",
+      "lat": 44.242119,
+      "lng": -76.604976,
+      "name": "Kingston Shoreline Route-Collins Bay North"
     }
   },
   "notpogo": {
@@ -9253,6 +9247,12 @@
       "lat": 44.248079,
       "lng": -76.577274,
       "name": "Creekside Park Playground"
+    },
+    "5d39c1833572456dbdcb5f116efa0b37.16": {
+      "guid": "5d39c1833572456dbdcb5f116efa0b37.16",
+      "lat": 44.225833,
+      "lng": -76.491484,
+      "name": "Deacon Walk"
     }
   },
   "ignoredCellsExtraGyms": {},
