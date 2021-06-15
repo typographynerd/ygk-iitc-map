@@ -9209,6 +9209,36 @@
       "lat": 44.242119,
       "lng": -76.604976,
       "name": "Kingston Shoreline Route-Collins Bay North"
+    },
+    "e9654420c05d3106b66ae4b2589ab814.16": {
+      "guid": "e9654420c05d3106b66ae4b2589ab814.16",
+      "lat": 44.239587,
+      "lng": -76.59596,
+      "name": "Kingston Shoreline Route-Collins Bay East"
+    },
+    "34d5836aea163d50a527b9d607df01b8.16": {
+      "guid": "34d5836aea163d50a527b9d607df01b8.16",
+      "lat": 44.241341,
+      "lng": -76.601792,
+      "name": "Kingston Shoreline Route-Collins Bay Marina North"
+    },
+    "0777f3aa129c3ea9b1385def51188354.16": {
+      "guid": "0777f3aa129c3ea9b1385def51188354.16",
+      "lat": 44.245174,
+      "lng": -76.57977,
+      "name": "Ashton Park Baseball Diamond"
+    },
+    "0b594202b3a6333bba74806a2a5905b6.16": {
+      "guid": "0b594202b3a6333bba74806a2a5905b6.16",
+      "lat": 44.251665,
+      "lng": -76.485331,
+      "name": "Kingston Shoreline Route - Belle Park"
+    },
+    "adbfaf329e863e61a5d6dd7ad6a36b79.16": {
+      "guid": "adbfaf329e863e61a5d6dd7ad6a36b79.16",
+      "lat": 44.224851,
+      "lng": -76.522267,
+      "name": "The Estate of Dr. Stuart M. Polson 2001"
     }
   },
   "notpogo": {
