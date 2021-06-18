@@ -2277,6 +2277,12 @@
       "lat": 44.248354,
       "lng": -76.606522,
       "name": "Highgate Park East Entrance"
+    },
+    "1ffbd877f6bd40e58bc3d2b5160c0bf3.16": {
+      "guid": "1ffbd877f6bd40e58bc3d2b5160c0bf3.16",
+      "lat": 44.275226,
+      "lng": -76.477646,
+      "name": "Kingdom Hall Of Jehovah's Witnesses"
     }
   },
   "pokestops": {
@@ -3503,12 +3509,6 @@
       "lat": 44.265678,
       "lng": -76.500062,
       "name": "Toto And Tinman"
-    },
-    "1ffbd877f6bd40e58bc3d2b5160c0bf3.16": {
-      "guid": "1ffbd877f6bd40e58bc3d2b5160c0bf3.16",
-      "lat": 44.275226,
-      "lng": -76.477646,
-      "name": "Kingdom Hall Of Jehovah's Witnesses"
     },
     "4f4b0e5b208845189c94ea6cf0fcdf7a.16": {
       "guid": "4f4b0e5b208845189c94ea6cf0fcdf7a.16",
@@ -9233,6 +9233,30 @@
       "lat": 44.224851,
       "lng": -76.522267,
       "name": "The Estate of Dr. Stuart M. Polson 2001"
+    },
+    "aea3e4f5dd483f4aab1070d783aaff40.16": {
+      "guid": "aea3e4f5dd483f4aab1070d783aaff40.16",
+      "lat": 44.276578,
+      "lng": -76.481711,
+      "name": "Italian Club Fountain"
+    },
+    "4a5798394d053f31b19e7fea8d6386ef.16": {
+      "guid": "4a5798394d053f31b19e7fea8d6386ef.16",
+      "lat": 44.27087,
+      "lng": -76.439302,
+      "name": "Direction Signpost"
+    },
+    "addbc7b3dfe431cbb63ed4603c2f4b2e.16": {
+      "guid": "addbc7b3dfe431cbb63ed4603c2f4b2e.16",
+      "lat": 44.268312,
+      "lng": -76.451566,
+      "name": "Entrance to Greenwood Park community"
+    },
+    "4373f3c59cff39628ad45de3877759c6.16": {
+      "guid": "4373f3c59cff39628ad45de3877759c6.16",
+      "lat": 44.228824,
+      "lng": -76.487387,
+      "name": "History of Annandale"
     }
   },
   "notpogo": {
