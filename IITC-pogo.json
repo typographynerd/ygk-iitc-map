@@ -2283,6 +2283,12 @@
       "lat": 44.275226,
       "lng": -76.477646,
       "name": "Kingdom Hall Of Jehovah's Witnesses"
+    },
+    "b9d7be7c38ac3f18ac7f22bab7986bf0.16": {
+      "guid": "b9d7be7c38ac3f18ac7f22bab7986bf0.16",
+      "lat": 44.268806,
+      "lng": -76.451272,
+      "name": "Kingston Shoreline Route-Rose Abbey North"
     }
   },
   "pokestops": {
@@ -9120,12 +9126,6 @@
       "lng": -76.454849,
       "name": "Kingston Shoreline Route-Greenwood Park North"
     },
-    "b9d7be7c38ac3f18ac7f22bab7986bf0.16": {
-      "guid": "b9d7be7c38ac3f18ac7f22bab7986bf0.16",
-      "lat": 44.268806,
-      "lng": -76.451272,
-      "name": "Kingston Shoreline Route-Rose Abbey North"
-    },
     "fe51d31c1fa049fa852fdaf2f781dc46.16": {
       "guid": "fe51d31c1fa049fa852fdaf2f781dc46.16",
       "lat": 44.238124,
@@ -9257,6 +9257,12 @@
       "lat": 44.228824,
       "lng": -76.487387,
       "name": "History of Annandale"
+    },
+    "c7a7aebd1f803dd39d845e0b0b032fce.16": {
+      "guid": "c7a7aebd1f803dd39d845e0b0b032fce.16",
+      "lat": 44.272844,
+      "lng": -76.44485,
+      "name": "In Memory Of Those Who Have Gone Before Us"
     }
   },
   "notpogo": {
