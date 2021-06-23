@@ -2289,6 +2289,12 @@
       "lat": 44.268806,
       "lng": -76.451272,
       "name": "Kingston Shoreline Route-Rose Abbey North"
+    },
+    "74a6fedc28e842fb81e16c8afc872034.16": {
+      "guid": "74a6fedc28e842fb81e16c8afc872034.16",
+      "lat": 44.257327,
+      "lng": -76.536929,
+      "name": "VIA Rail - Kingston Train Station"
     }
   },
   "pokestops": {
@@ -4967,12 +4973,6 @@
       "lat": 44.169898,
       "lng": -76.790714,
       "name": "Early Latter-day Saints In Upper Canada"
-    },
-    "74a6fedc28e842fb81e16c8afc872034.16": {
-      "guid": "74a6fedc28e842fb81e16c8afc872034.16",
-      "lat": 44.257327,
-      "lng": -76.536929,
-      "name": "VIA Rail - Kingston Train Station"
     },
     "ed4229bd9bbe49e99353dcaf4cfa73e6.16": {
       "guid": "ed4229bd9bbe49e99353dcaf4cfa73e6.16",
@@ -9012,12 +9012,6 @@
       "lng": -76.481292,
       "name": "Service Above Self"
     },
-    "949acb5bf07c40ca9ec5ea5ecd4fd1a7.16": {
-      "guid": "949acb5bf07c40ca9ec5ea5ecd4fd1a7.16",
-      "lat": 44.228551,
-      "lng": -76.576904,
-      "name": "Henderson Fitness Trail station"
-    },
     "c3272808e55b407caefa49d404a2613e.16": {
       "guid": "c3272808e55b407caefa49d404a2613e.16",
       "lat": 44.248196,
@@ -9317,6 +9311,12 @@
       "lat": 44.27654,
       "lng": -76.481257,
       "name": "Italo Canadian Club Entrance"
+    },
+    "0725c6ea20c4369994f95a91c87c69b6.16": {
+      "guid": "0725c6ea20c4369994f95a91c87c69b6.16",
+      "lat": 44.233558,
+      "lng": -76.517837,
+      "name": "The Upper Farm"
     }
   },
   "notpogo": {
