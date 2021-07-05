@@ -1689,7 +1689,8 @@
       "guid": "52ef87f2273447f6ab35349cb577478d.16",
       "lat": 44.222947,
       "lng": -76.489668,
-      "name": "1812"
+      "name": "1812",
+      "isEx": true
     },
     "b9dd9c673a2b4549ac28bbd91480c363.16": {
       "guid": "b9dd9c673a2b4549ac28bbd91480c363.16",
@@ -1732,13 +1733,15 @@
       "guid": "b7f51e2b133842e483417d8dcf221bba.16",
       "lat": 44.249991,
       "lng": -76.502758,
-      "name": "Max Jackson Memorial Park"
+      "name": "Max Jackson Memorial Park",
+      "isEx": true
     },
     "c12263c134d2453fb4a27318882833d5.16": {
       "guid": "c12263c134d2453fb4a27318882833d5.16",
       "lat": 44.231571,
       "lng": -76.534369,
-      "name": "Fairway Hill Park Playground"
+      "name": "Fairway Hill Park Playground",
+      "isEx": true
     },
     "f5c676c433ae441596dd8a96c17b63e9.16": {
       "guid": "f5c676c433ae441596dd8a96c17b63e9.16",
@@ -1892,13 +1895,15 @@
       "guid": "8ea273b122fe406496518cb2af9918ee.16",
       "lat": 44.235475,
       "lng": -76.451764,
-      "name": "Queenston Heights Backstop"
+      "name": "Queenston Heights Backstop",
+      "isEx": true
     },
     "b26b60d9019f486881a6729120540439.16": {
       "guid": "b26b60d9019f486881a6729120540439.16",
       "lat": 44.255459,
       "lng": -76.455208,
-      "name": "Grenadier Park Playground"
+      "name": "Grenadier Park Playground",
+      "isEx": true
     },
     "a11034fa544843b2a4d90a2b8ad14fc0.16": {
       "guid": "a11034fa544843b2a4d90a2b8ad14fc0.16",
@@ -1910,7 +1915,8 @@
       "guid": "e657a97a928b4aa1ac8ac88da21c2702.16",
       "lat": 44.236586,
       "lng": -76.528091,
-      "name": "McCullough Park"
+      "name": "McCullough Park",
+      "isEx": true
     },
     "a90d974cc9cf4139a21c834bc4ca42d6.16": {
       "guid": "a90d974cc9cf4139a21c834bc4ca42d6.16",
@@ -1935,7 +1941,8 @@
       "guid": "45f97973f99649498b1d20120c695ad4.16",
       "lat": 44.254574,
       "lng": -76.455825,
-      "name": "Grenadier Park Soccer Field (2 of 3)"
+      "name": "Grenadier Park Soccer Field (2 of 3)",
+      "isEx": true
     },
     "f51f4ca2e7e045718843db84ece712e6.16": {
       "guid": "f51f4ca2e7e045718843db84ece712e6.16",
@@ -1953,19 +1960,22 @@
       "guid": "7d5db5ee7b3e444ab4644dd9ee6d511b.16",
       "lat": 44.260437,
       "lng": -76.455543,
-      "name": "MacLean Park Community Garden"
+      "name": "MacLean Park Community Garden",
+      "isEx": true
     },
     "17bc753d7c8049729516717359f734dc.16": {
       "guid": "17bc753d7c8049729516717359f734dc.16",
       "lat": 44.254658,
       "lng": -76.46236,
-      "name": "Point St. Mark Park"
+      "name": "Point St. Mark Park",
+      "isEx": true
     },
     "a3ad31b099c74ac49fccbe92af426179.16": {
       "guid": "a3ad31b099c74ac49fccbe92af426179.16",
       "lat": 44.255165,
       "lng": -76.462714,
-      "name": "Point St. Mark Playstructure"
+      "name": "Point St. Mark Playstructure",
+      "isEx": true
     },
     "b6782449fd1d47858a6bad95fbae8416.16": {
       "guid": "b6782449fd1d47858a6bad95fbae8416.16",
@@ -2048,7 +2058,8 @@
       "guid": "2722beb785814f46bdeee3f0b53ca069.16",
       "lat": 44.272547,
       "lng": -76.434903,
-      "name": "Pittsburgh Community Benefit Fund Plaque"
+      "name": "Pittsburgh Community Benefit Fund Plaque",
+      "isEx": true
     },
     "8c6437b768b94afa926ac00bbc7881ac.16": {
       "guid": "8c6437b768b94afa926ac00bbc7881ac.16",
@@ -2099,7 +2110,8 @@
       "guid": "406a0d3329b84a459c55faa844a64525.16",
       "lat": 44.257331,
       "lng": -76.529617,
-      "name": "Bill Hackett Park Sign"
+      "name": "Bill Hackett Park Sign",
+      "isEx": true
     },
     "5c2b1c03174f424ea78d68c720fd75e0.16": {
       "guid": "5c2b1c03174f424ea78d68c720fd75e0.16",
@@ -2135,13 +2147,15 @@
       "guid": "187acc82f756490991ac4ce46bf4b531.16",
       "lat": 44.273042,
       "lng": -76.48096,
-      "name": "Snider Park Sign"
+      "name": "Snider Park Sign",
+      "isEx": true
     },
     "dec219cc37d84ed9b471bfad1cff6894.11": {
       "guid": "dec219cc37d84ed9b471bfad1cff6894.11",
       "lat": 44.222075,
       "lng": -76.492577,
-      "name": "Pollution"
+      "name": "Pollution",
+      "isEx": true
     },
     "7e94ff67e83342f79ee9143e20a8604b.16": {
       "guid": "7e94ff67e83342f79ee9143e20a8604b.16",
@@ -2168,19 +2182,22 @@
       "guid": "b29976d971c6414a8dbf96dbd2b7e225.16",
       "lat": 44.263706,
       "lng": -76.453251,
-      "name": "Greenwood park play structures"
+      "name": "Greenwood park play structures",
+      "isEx": true
     },
     "4ed850e071b741f2a92514bcdc29035d.16": {
       "guid": "4ed850e071b741f2a92514bcdc29035d.16",
       "lat": 44.259368,
       "lng": -76.449962,
-      "name": "Buckingham Park Play Structure"
+      "name": "Buckingham Park Play Structure",
+      "isEx": true
     },
     "146d9c9322c24539bcf9b17f4ca3b9ef.16": {
       "guid": "146d9c9322c24539bcf9b17f4ca3b9ef.16",
       "lat": 44.273605,
       "lng": -76.435483,
-      "name": "John Machin Main Soccer Field"
+      "name": "John Machin Main Soccer Field",
+      "isEx": true
     },
     "51e608c7eae547b3bc186b06396a6b65.16": {
       "guid": "51e608c7eae547b3bc186b06396a6b65.16",
@@ -2198,7 +2215,8 @@
       "guid": "8eb3e20ebb0e400f9a4b81e15d46ca0f.16",
       "lat": 44.239411,
       "lng": -76.460238,
-      "name": "Barriefield Rock Garden"
+      "name": "Barriefield Rock Garden",
+      "isEx": true
     },
     "36d0187d295b4dcfa2e9e3927394fcea.16": {
       "guid": "36d0187d295b4dcfa2e9e3927394fcea.16",
@@ -2216,7 +2234,8 @@
       "guid": "13c8fa9008e444dda421c17ea107e5dc.16",
       "lat": 44.237376,
       "lng": -76.490874,
-      "name": "Friendship Park Playground"
+      "name": "Friendship Park Playground",
+      "isEx": true
     },
     "a341d18f51094af1a6ed7f6d2eef1c2f.16": {
       "guid": "a341d18f51094af1a6ed7f6d2eef1c2f.16",
@@ -2240,7 +2259,8 @@
       "guid": "6336046d327d485a984e8c102cc597c6.16",
       "lat": 44.229086,
       "lng": -76.506303,
-      "name": "Kingston Tennis Club"
+      "name": "Kingston Tennis Club",
+      "isEx": true
     },
     "977b04f7873537d79dbeda2db29c44d0.16": {
       "guid": "977b04f7873537d79dbeda2db29c44d0.16",
@@ -2295,6 +2315,13 @@
       "lat": 44.257327,
       "lng": -76.536929,
       "name": "VIA Rail - Kingston Train Station"
+    },
+    "1bd11fcb7ba33518a62bcc5a7f30a5b7.16": {
+      "guid": "1bd11fcb7ba33518a62bcc5a7f30a5b7.16",
+      "lat": 44.300335,
+      "lng": -76.422468,
+      "name": "Meadowcrest Park",
+      "isEx": true
     }
   },
   "pokestops": {
@@ -9323,6 +9350,24 @@
       "lat": 44.277178,
       "lng": -76.483125,
       "name": "Italo Canadian Club’s Soccer Field"
+    },
+    "9408684f17223b0693bb0fcd1874e267.16": {
+      "guid": "9408684f17223b0693bb0fcd1874e267.16",
+      "lat": 44.228687,
+      "lng": -76.450325,
+      "name": "Cedar island info sign"
+    },
+    "c3af9b8336e93488bc3ba279728fdbb2.16": {
+      "guid": "c3af9b8336e93488bc3ba279728fdbb2.16",
+      "lat": 44.300702,
+      "lng": -76.422004,
+      "name": "Meadowcrest Swingset"
+    },
+    "4db47d81ff62305bbd819bcf16285d3d.16": {
+      "guid": "4db47d81ff62305bbd819bcf16285d3d.16",
+      "lat": 44.300794,
+      "lng": -76.42258,
+      "name": "Meadowcrest Sports Field"
     }
   },
   "notpogo": {
