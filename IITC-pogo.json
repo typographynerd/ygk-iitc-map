@@ -1852,7 +1852,8 @@
       "guid": "fc783fbada684439b8b64a6e881140c1.16",
       "lat": 44.27426,
       "lng": -76.58038,
-      "name": "Midland Park Playstructure"
+      "name": "Midland Park Playstructure",
+      "isEx": true
     },
     "3923294229ff47438ce721043221fda0.16": {
       "guid": "3923294229ff47438ce721043221fda0.16",
@@ -2222,7 +2223,8 @@
       "guid": "36d0187d295b4dcfa2e9e3927394fcea.16",
       "lat": 44.26664,
       "lng": -76.557338,
-      "name": "Halifax Park Playground"
+      "name": "Halifax Park Playground",
+      "isEx": true
     },
     "0ef851db7100473e9670e0b4283fd333.16": {
       "guid": "0ef851db7100473e9670e0b4283fd333.16",
@@ -2296,7 +2298,8 @@
       "guid": "dbdf9663250f4c03a3571f0599516b74.16",
       "lat": 44.248354,
       "lng": -76.606522,
-      "name": "Highgate Park East Entrance"
+      "name": "Highgate Park East Entrance",
+      "isEx": true
     },
     "1ffbd877f6bd40e58bc3d2b5160c0bf3.16": {
       "guid": "1ffbd877f6bd40e58bc3d2b5160c0bf3.16",
@@ -9368,6 +9371,18 @@
       "lat": 44.300794,
       "lng": -76.42258,
       "name": "Meadowcrest Sports Field"
+    },
+    "e7202b94569635c88609ba57c6ad5983.16": {
+      "guid": "e7202b94569635c88609ba57c6ad5983.16",
+      "lat": 44.279076,
+      "lng": -76.550576,
+      "name": "Cloverdale Park Baseball Diamond (2 of 4)"
+    },
+    "f0838fb070c63882bda0441dc26a81ef.16": {
+      "guid": "f0838fb070c63882bda0441dc26a81ef.16",
+      "lat": 44.278604,
+      "lng": -76.549153,
+      "name": "Cloverdale Park Baseball Diamond (3 of 4)"
     }
   },
   "notpogo": {
