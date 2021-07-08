@@ -3174,12 +3174,6 @@
       "lng": -76.494986,
       "name": "32 Bader Lane Mural"
     },
-    "e44c453cb29b40748badd27bacc385aa.16": {
-      "guid": "e44c453cb29b40748badd27bacc385aa.16",
-      "lat": 44.234286,
-      "lng": -76.494797,
-      "name": "Cycle Path Murals"
-    },
     "ba7dbc74af584160807ee705ba3fb416.16": {
       "guid": "ba7dbc74af584160807ee705ba3fb416.16",
       "lat": 44.233522,
@@ -9389,6 +9383,12 @@
       "lat": 44.237715,
       "lng": -76.490864,
       "name": "Friendship Park Community Garden"
+    },
+    "969509b0fcca3a01bef9a8913cd547df.16": {
+      "guid": "969509b0fcca3a01bef9a8913cd547df.16",
+      "lat": 44.2427,
+      "lng": -76.520065,
+      "name": "Elmwood St Basketball Court"
     }
   },
   "notpogo": {
