@@ -7516,7 +7516,7 @@
       "guid": "ec0a71764c64497a97dc2f51b29bf2b9.16",
       "lat": 44.245971,
       "lng": -76.500856,
-      "name": "Ronald Lavalle Softball Diamond"
+      "name": "Ronald Lavallee Softball Diamond"
     },
     "d827f675772f42a3889c7e2c1dab3be9.16": {
       "guid": "d827f675772f42a3889c7e2c1dab3be9.16",
@@ -8800,7 +8800,7 @@
       "guid": "dfef37930d0c494a82240d3d431330c1.16",
       "lat": 44.224348,
       "lng": -76.494297,
-      "name": "Kingston General Hospital Types Epidemic Plaque"
+      "name": "Kingston General Hospital Typhus Epidemic Plaque"
     },
     "27124415697d4506b07eaa00f3624561.16": {
       "guid": "27124415697d4506b07eaa00f3624561.16",
@@ -9407,6 +9407,12 @@
       "lat": 44.220864,
       "lng": -76.515047,
       "name": "Kingston Shoreline Route-Portsmouth Olympic Harbour"
+    },
+    "f8b1485227a43ea3a303923d6538ec4c.16": {
+      "guid": "f8b1485227a43ea3a303923d6538ec4c.16",
+      "lat": 44.241999,
+      "lng": -76.481422,
+      "name": "Dave Broadfoot Memorial Parking Lot"
     }
   },
   "notpogo": {
