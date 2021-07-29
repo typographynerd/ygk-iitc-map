@@ -8260,7 +8260,7 @@
       "guid": "666130c3bedc474a9d9cf3305c0084b7.16",
       "lat": 44.260054,
       "lng": -76.460801,
-      "name": "McLeab Trail Community Garden Marker"
+      "name": "McLean Trail Community Garden"
     },
     "7000494f37964a048e1c173b33a84354.16": {
       "guid": "7000494f37964a048e1c173b33a84354.16",
@@ -9467,6 +9467,18 @@
       "lat": 44.229243,
       "lng": -76.498245,
       "name": "Kingston Collegiate and Vocational Institute Plaque"
+    },
+    "ef92d3ab4fe036199018e7a5cedc588d.16": {
+      "guid": "ef92d3ab4fe036199018e7a5cedc588d.16",
+      "lat": 44.251145,
+      "lng": -76.488688,
+      "name": "K&P Trail Marker (Veteran’s Field)"
+    },
+    "a47a0a8917c03af68ac3c27e0226a70a.16": {
+      "guid": "a47a0a8917c03af68ac3c27e0226a70a.16",
+      "lat": 44.254369,
+      "lng": -76.490394,
+      "name": "K&P Trail Marker (Hagerman)"
     }
   },
   "notpogo": {
