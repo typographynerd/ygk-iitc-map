@@ -2325,6 +2325,12 @@
       "lng": -76.422468,
       "name": "Meadowcrest Park",
       "isEx": true
+    },
+    "083dfac6f064339e8668e12ae7a0358d.16": {
+      "guid": "083dfac6f064339e8668e12ae7a0358d.16",
+      "lat": 44.274685,
+      "lng": -76.451081,
+      "name": "Kingston Shoreline Route Sign"
     }
   },
   "pokestops": {
@@ -9413,6 +9419,42 @@
       "lat": 44.241999,
       "lng": -76.481422,
       "name": "Dave Broadfoot Memorial Parking Lot"
+    },
+    "c437b84727a73b91ab72f5e6e4e3ef80.16": {
+      "guid": "c437b84727a73b91ab72f5e6e4e3ef80.16",
+      "lat": 44.225032,
+      "lng": -76.486602,
+      "name": "Crimean War Trophy Guns"
+    },
+    "3c1e067449ca3e42a65a84cad592fd5c.16": {
+      "guid": "3c1e067449ca3e42a65a84cad592fd5c.16",
+      "lat": 44.240292,
+      "lng": -76.612559,
+      "name": "Kingston Shoreline Route - Bath Rd in Collins Bay"
+    },
+    "91ccdcb46d043d9b81d79bbb7e601862.16": {
+      "guid": "91ccdcb46d043d9b81d79bbb7e601862.16",
+      "lat": 44.278419,
+      "lng": -76.548504,
+      "name": "Cloverdale Park Baseball Diamond (4 of 4)"
+    },
+    "000fdfddfca037098d278a30edb95068.16": {
+      "guid": "000fdfddfca037098d278a30edb95068.16",
+      "lat": 44.21826,
+      "lng": -76.532046,
+      "name": "Manidoo Ogitigan Spirit Garden Plaque"
+    },
+    "3754ac29bb7a3704ac6b8db8a29d17d9.16": {
+      "guid": "3754ac29bb7a3704ac6b8db8a29d17d9.16",
+      "lat": 44.239358,
+      "lng": -76.460739,
+      "name": "St. Mark’s Anglican Birdhouse"
+    },
+    "b6670ba4649d3344a642326cb45b4092.16": {
+      "guid": "b6670ba4649d3344a642326cb45b4092.16",
+      "lat": 44.264354,
+      "lng": -76.491877,
+      "name": "Skyline Apartments Community Garden"
     }
   },
   "notpogo": {
