@@ -2331,6 +2331,18 @@
       "lat": 44.274685,
       "lng": -76.451081,
       "name": "Kingston Shoreline Route Sign"
+    },
+    "20a2f75a82184dbf914496e0004bacbd.16": {
+      "guid": "20a2f75a82184dbf914496e0004bacbd.16",
+      "lat": 44.256623,
+      "lng": -76.492143,
+      "name": "K&P Trail Map - Elliot Ave."
+    },
+    "d9f2731f74544eb9ab54f2909961f99b.16": {
+      "guid": "d9f2731f74544eb9ab54f2909961f99b.16",
+      "lat": 44.279032,
+      "lng": -76.547394,
+      "name": "Cloverdale Park Playstructures"
     }
   },
   "pokestops": {
@@ -3504,12 +3516,6 @@
       "lng": -76.498859,
       "name": "Kingston Korean Church"
     },
-    "20a2f75a82184dbf914496e0004bacbd.16": {
-      "guid": "20a2f75a82184dbf914496e0004bacbd.16",
-      "lat": 44.256623,
-      "lng": -76.492143,
-      "name": "K&P Trail Map - Elliot Ave."
-    },
     "2eee05b1260f446583d6c35295623866.16": {
       "guid": "2eee05b1260f446583d6c35295623866.16",
       "lat": 44.251905,
@@ -3611,12 +3617,6 @@
       "lat": 44.284479,
       "lng": -76.541857,
       "name": "Islamic Center of Kingston"
-    },
-    "d9f2731f74544eb9ab54f2909961f99b.16": {
-      "guid": "d9f2731f74544eb9ab54f2909961f99b.16",
-      "lat": 44.279032,
-      "lng": -76.547394,
-      "name": "Cloverdale Park Playstructures"
     },
     "7f2821a5e3344186834e4a0fc391dfb4.16": {
       "guid": "7f2821a5e3344186834e4a0fc391dfb4.16",
@@ -4816,7 +4816,7 @@
       "guid": "0699496d3d14478e8d092e7ae837d7c0.16",
       "lat": 44.236937,
       "lng": -76.60586,
-      "name": "Kingston Shoreline Route"
+      "name": "Kingston Shoreline Route-Rotary Park Off-Leash Dog Park"
     },
     "023c1cfeda4d4ba18a072c7f667b00b0.16": {
       "guid": "023c1cfeda4d4ba18a072c7f667b00b0.16",
@@ -9479,6 +9479,30 @@
       "lat": 44.254369,
       "lng": -76.490394,
       "name": "K&P Trail Marker (Hagerman)"
+    },
+    "629c32e3d1b83b408769cc0d0819306a.16": {
+      "guid": "629c32e3d1b83b408769cc0d0819306a.16",
+      "lat": 44.259298,
+      "lng": -76.526053,
+      "name": "Original Kingston Construction Association sign"
+    },
+    "af7309f4e0423ae087fc12819d0fa8ac.16": {
+      "guid": "af7309f4e0423ae087fc12819d0fa8ac.16",
+      "lat": 44.275528,
+      "lng": -76.565821,
+      "name": "CaraCo Long Jump"
+    },
+    "be30d4db4f733b8b9b41ef3acfc78552.16": {
+      "guid": "be30d4db4f733b8b9b41ef3acfc78552.16",
+      "lat": 44.27968,
+      "lng": -76.548483,
+      "name": "Cloverdale Park Baseball Diamond (1 of 4)"
+    },
+    "dd5762246fea3a65876eda11cc458565.16": {
+      "guid": "dd5762246fea3a65876eda11cc458565.16",
+      "lat": 44.240593,
+      "lng": -76.509662,
+      "name": "Reflection"
     }
   },
   "notpogo": {
