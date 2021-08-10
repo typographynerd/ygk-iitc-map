@@ -6880,7 +6880,7 @@
       "guid": "8d51f9f0f14a4e7a883e9fd08ec8b6f1.12",
       "lat": 44.230755,
       "lng": -76.484466,
-      "name": "Kingston Post Office"
+      "name": "Downtown Kingston Post Office - Brock St."
     },
     "1b1363459751480a917b3ba33c46fd99.16": {
       "guid": "1b1363459751480a917b3ba33c46fd99.16",
@@ -9503,6 +9503,12 @@
       "lat": 44.240593,
       "lng": -76.509662,
       "name": "Reflection"
+    },
+    "3a80a296d7c03c24854b3c3931298989.16": {
+      "guid": "3a80a296d7c03c24854b3c3931298989.16",
+      "lat": 44.264243,
+      "lng": -76.542901,
+      "name": "Christ Church Playground"
     }
   },
   "notpogo": {
