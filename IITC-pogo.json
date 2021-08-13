@@ -2550,12 +2550,6 @@
       "lng": -76.494523,
       "name": "Gordon  Hall"
     },
-    "8f90a48ca6144651bb64d1243304dd2c.16": {
-      "guid": "8f90a48ca6144651bb64d1243304dd2c.16",
-      "lat": 44.22755,
-      "lng": -76.493847,
-      "name": "Nicol Hall"
-    },
     "25ec739a523b4ef180299d20050781ce.16": {
       "guid": "25ec739a523b4ef180299d20050781ce.16",
       "lat": 44.227092,
@@ -8802,12 +8796,6 @@
       "lng": -76.493511,
       "name": "Richardson Laboratory"
     },
-    "dfef37930d0c494a82240d3d431330c1.16": {
-      "guid": "dfef37930d0c494a82240d3d431330c1.16",
-      "lat": 44.224348,
-      "lng": -76.494297,
-      "name": "Kingston General Hospital Typhus Epidemic Plaque"
-    },
     "27124415697d4506b07eaa00f3624561.16": {
       "guid": "27124415697d4506b07eaa00f3624561.16",
       "lat": 44.24274,
@@ -9509,6 +9497,18 @@
       "lat": 44.264243,
       "lng": -76.542901,
       "name": "Christ Church Playground"
+    },
+    "8f90a48ca6144651bb64d1243304dd2c.16": {
+      "guid": "8f90a48ca6144651bb64d1243304dd2c.16",
+      "lat": 44.227579,
+      "lng": -76.493791,
+      "name": "Nicol Hall"
+    },
+    "dfef37930d0c494a82240d3d431330c1.16": {
+      "guid": "dfef37930d0c494a82240d3d431330c1.16",
+      "lat": 44.224324,
+      "lng": -76.494286,
+      "name": "Kingston General Hospital Typhus Epidemic Plaque"
     }
   },
   "notpogo": {
