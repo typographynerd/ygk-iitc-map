@@ -275,7 +275,7 @@
       "guid": "08ff11ce4e9747629f8d40e7742c60b8.16",
       "lat": 44.241867,
       "lng": -76.516806,
-      "name": "Kingston Center Transit"
+      "name": "Kingston Center Bus Terminal"
     },
     "e336a35e528f477bbc2152206227ad77.16": {
       "guid": "e336a35e528f477bbc2152206227ad77.16",
@@ -9521,6 +9521,12 @@
       "lat": 44.225185,
       "lng": -76.525798,
       "name": "St. Lawrence College East Entrance Message Board"
+    },
+    "f9f3820f2a3e3d5b88538fc4ba5a45c5.16": {
+      "guid": "f9f3820f2a3e3d5b88538fc4ba5a45c5.16",
+      "lat": 44.235905,
+      "lng": -76.529799,
+      "name": "Polson Park Gazebo"
     }
   },
   "notpogo": {
