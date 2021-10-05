@@ -344,7 +344,7 @@
       "guid": "d3fa3edb677442fa82b81f431b1f3ad5.16",
       "lat": 44.251321,
       "lng": -76.484534,
-      "name": "Belle Park Totem Pole ",
+      "name": "Belle Park Totem Pole",
       "isEx": true
     },
     "3ed509cd28f246db894e5f7fc3e465e6.16": {
@@ -1727,7 +1727,7 @@
       "guid": "bbc95b1033f54148ba49140252612ef2.16",
       "lat": 44.250375,
       "lng": -76.501669,
-      "name": "Kings court Free Methodist Church"
+      "name": "Kingscourt Free Methodist Church"
     },
     "b7f51e2b133842e483417d8dcf221bba.16": {
       "guid": "b7f51e2b133842e483417d8dcf221bba.16",
@@ -3316,7 +3316,7 @@
       "guid": "750cb2c12d4b46a4a9f9d0278024e01e.16",
       "lat": 44.225425,
       "lng": -76.505038,
-      "name": "Beth Isreal Congregation"
+      "name": "Beth Israel Congregation"
     },
     "2dd6911c907340ffae3aff95214ad7f2.16": {
       "guid": "2dd6911c907340ffae3aff95214ad7f2.16",
@@ -3520,7 +3520,7 @@
       "guid": "36609fcbf3804cb09346249cd8622a60.16",
       "lat": 44.251371,
       "lng": -76.486284,
-      "name": "Memorial Edrum Retinebimus "
+      "name": "Memorial Edrum Retinebimus"
     },
     "28935f11b27941ceb02d1605902420c0.16": {
       "guid": "28935f11b27941ceb02d1605902420c0.16",
@@ -5464,7 +5464,7 @@
       "guid": "1bdbe8626e594c07ae9b6fd72e925674.16",
       "lat": 44.251218,
       "lng": -76.484332,
-      "name": "History of Belle Park Info Sign    "
+      "name": "History of Belle Park Info Sign"
     },
     "3294aee116954f8db6e05f264c0e0b56.16": {
       "guid": "3294aee116954f8db6e05f264c0e0b56.16",
@@ -7018,7 +7018,7 @@
       "guid": "7880d31212f449b49290b83f1e78e7d3.16",
       "lat": 44.226643,
       "lng": -76.530605,
-      "name": "The Brad Street Playground"
+      "name": "Curtis Cresent Playground #2"
     },
     "9f0de3aa85fe49a1a4681e919981277c.16": {
       "guid": "9f0de3aa85fe49a1a4681e919981277c.16",
@@ -9527,6 +9527,36 @@
       "lat": 44.235905,
       "lng": -76.529799,
       "name": "Polson Park Gazebo"
+    },
+    "8bdfb752a94134f6b825768872476f60.16": {
+      "guid": "8bdfb752a94134f6b825768872476f60.16",
+      "lat": 44.238605,
+      "lng": -76.523694,
+      "name": "Lafleur Park Entrance"
+    },
+    "9a2b4d4f7c7533a194d530cbd525e5db.16": {
+      "guid": "9a2b4d4f7c7533a194d530cbd525e5db.16",
+      "lat": 44.246599,
+      "lng": -76.499996,
+      "name": "Ronald Lavallee Baseball Diamond - North"
+    },
+    "59a9ffe250ae3359873441b26d9a7524.16": {
+      "guid": "59a9ffe250ae3359873441b26d9a7524.16",
+      "lat": 44.245691,
+      "lng": -76.500126,
+      "name": "Ronald Lavallee Memorial Kiwanis Park Playground"
+    },
+    "9ac5d316082d399d80393ed04ce78e2c.16": {
+      "guid": "9ac5d316082d399d80393ed04ce78e2c.16",
+      "lat": 44.233355,
+      "lng": -76.52421,
+      "name": "Calvin park baseball field"
+    },
+    "3ef2fe7db5db3514966c26a987442ce7.16": {
+      "guid": "3ef2fe7db5db3514966c26a987442ce7.16",
+      "lat": 44.230381,
+      "lng": -76.480252,
+      "name": "Paved Paradise"
     }
   },
   "notpogo": {
