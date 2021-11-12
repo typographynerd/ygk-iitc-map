@@ -2343,6 +2343,12 @@
       "lat": 44.279032,
       "lng": -76.547394,
       "name": "Cloverdale Park Playstructures"
+    },
+    "5aacd05a4f2645b6ad081b85795ba93f.16": {
+      "guid": "5aacd05a4f2645b6ad081b85795ba93f.16",
+      "lat": 44.22442,
+      "lng": -76.494687,
+      "name": "Spiderman Waiting at the Bus Stop"
     }
   },
   "pokestops": {
@@ -3448,7 +3454,7 @@
       "guid": "3b7f3800cecd4d0eb589093ee07472bb.16",
       "lat": 44.224399,
       "lng": -76.514174,
-      "name": "3D ZigZag Sculpture at Paul B. Park"
+      "name": "Module No.6 - Bent Yellow"
     },
     "feef5ea953154abf8efa0e58903663fa.16": {
       "guid": "feef5ea953154abf8efa0e58903663fa.16",
@@ -6822,12 +6828,6 @@
       "lng": -76.529901,
       "name": "Centre for Behavioral Studies"
     },
-    "5aacd05a4f2645b6ad081b85795ba93f.16": {
-      "guid": "5aacd05a4f2645b6ad081b85795ba93f.16",
-      "lat": 44.22442,
-      "lng": -76.494687,
-      "name": "Spiderman Waiting at the Bus Stop"
-    },
     "5a78304efdd04067a5fa65450b3bcfce.16": {
       "guid": "5a78304efdd04067a5fa65450b3bcfce.16",
       "lat": 44.216116,
@@ -9557,6 +9557,30 @@
       "lat": 44.230381,
       "lng": -76.480252,
       "name": "Paved Paradise"
+    },
+    "09bc880a0c38368095a4100da9c29d9f.16": {
+      "guid": "09bc880a0c38368095a4100da9c29d9f.16",
+      "lat": 44.247777,
+      "lng": -76.49572,
+      "name": "Metis Nation of Ontario"
+    },
+    "1ee4b302bb743004b9138530d2694121.16": {
+      "guid": "1ee4b302bb743004b9138530d2694121.16",
+      "lat": 44.23999,
+      "lng": -76.518254,
+      "name": "Glengarry Swing Set"
+    },
+    "a00feb9e4aa1333d93c08af861379c7a.16": {
+      "guid": "a00feb9e4aa1333d93c08af861379c7a.16",
+      "lat": 44.240074,
+      "lng": -76.517982,
+      "name": "Glengarry Tennis Court"
+    },
+    "5095654179973436a09bdda6dadaa40e.16": {
+      "guid": "5095654179973436a09bdda6dadaa40e.16",
+      "lat": 44.22756,
+      "lng": -76.470308,
+      "name": "Point Frederick Path"
     }
   },
   "notpogo": {
