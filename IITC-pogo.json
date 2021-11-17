@@ -357,7 +357,7 @@
       "guid": "eb9e1c3b90d5409b8fce70fb69bb009e.16",
       "lat": 44.266097,
       "lng": -76.496857,
-      "name": "Shoppers Drug Mart"
+      "name": "Canada Post Office at Shoppers Drug Mart"
     },
     "0db15f42b2c243eb852d9bc4c168fc0b.16": {
       "guid": "0db15f42b2c243eb852d9bc4c168fc0b.16",
@@ -381,7 +381,7 @@
       "guid": "d823d8e2c3be4c1e9560cfb7530d1ace.16",
       "lat": 44.280811,
       "lng": -76.543567,
-      "name": "Christian Standard Church "
+      "name": "Christian Standard Church"
     },
     "639f46ebbe7e4cdea492bf70eecd17b6.16": {
       "guid": "639f46ebbe7e4cdea492bf70eecd17b6.16",
@@ -393,7 +393,7 @@
       "guid": "0cf45a78073c48289c52aa7cd5af458e.16",
       "lat": 44.263994,
       "lng": -76.543699,
-      "name": "Christ Church Anglican "
+      "name": "Christ Church Anglican"
     },
     "93972b4ba3394294b3bbce0606a6a7e1.16": {
       "guid": "93972b4ba3394294b3bbce0606a6a7e1.16",
@@ -405,13 +405,13 @@
       "guid": "3eb3ad7678c54c0ba9faffbcf761b703.16",
       "lat": 44.262085,
       "lng": -76.541825,
-      "name": "Sir John A. Macdonald Grave Site "
+      "name": "Sir John A. Macdonald Grave Site"
     },
     "624ad16377ec4bad9091091d519a745f.16": {
       "guid": "624ad16377ec4bad9091091d519a745f.16",
       "lat": 44.261533,
       "lng": -76.548962,
-      "name": "Graham Pye Plaque "
+      "name": "Graham Pye Plaque"
     },
     "211f989366a54412b2177380baef76d9.16": {
       "guid": "211f989366a54412b2177380baef76d9.16",
@@ -590,13 +590,13 @@
       "guid": "d641da71495141eaa235b9a64d07f06d.16",
       "lat": 44.252325,
       "lng": -76.565938,
-      "name": "Prost Bowling Centre "
+      "name": "Prost Bowling Centre"
     },
     "5bcdc13a704244779ccdc87972078f35.16": {
       "guid": "5bcdc13a704244779ccdc87972078f35.16",
       "lat": 44.252663,
       "lng": -76.569163,
-      "name": "Bayridge Alliance Church "
+      "name": "Bayridge Alliance Church"
     },
     "fd800c42a2ec44cbac0a303bbcb6fa48.16": {
       "guid": "fd800c42a2ec44cbac0a303bbcb6fa48.16",
@@ -627,7 +627,7 @@
       "guid": "857485dad96145f49bd41275164255c7.16",
       "lat": 44.258938,
       "lng": -76.579987,
-      "name": "Frederick Denyes  monument"
+      "name": "Frederick Denyes monument"
     },
     "cc2e0e0f921f46ef90dab0a0c3524f48.16": {
       "guid": "cc2e0e0f921f46ef90dab0a0c3524f48.16",
@@ -830,7 +830,7 @@
       "guid": "561e6c9090754a2497856c04808f4d2d.16",
       "lat": 44.248636,
       "lng": -76.643411,
-      "name": "L&A Ridge Runners Trail Marker "
+      "name": "L&A Ridge Runners Trail Marker"
     },
     "88177f9ade4f40b9a635ff73e845e44d.16": {
       "guid": "88177f9ade4f40b9a635ff73e845e44d.16",
@@ -1263,7 +1263,7 @@
       "guid": "adc40eff659a4a9caf132890df931ccb.12",
       "lat": 44.259431,
       "lng": -76.461324,
-      "name": "Kingston Frontenac Public Libr"
+      "name": "Kingston Frontenac Public Library-Pittsburgh Place"
     },
     "b72bf0ae36684f5a9d50dc26530acdff.16": {
       "guid": "b72bf0ae36684f5a9d50dc26530acdff.16",
@@ -2073,7 +2073,7 @@
       "guid": "b06a8f7d37be477bad93a56922d4ad3e.16",
       "lat": 44.273564,
       "lng": -76.544282,
-      "name": "Sydemham Road Crossing"
+      "name": "Sydenham Road Crossing"
     },
     "30a7bcf5af23465bb44142ccb5ea728d.16": {
       "guid": "30a7bcf5af23465bb44142ccb5ea728d.16",
@@ -2349,6 +2349,24 @@
       "lat": 44.22442,
       "lng": -76.494687,
       "name": "Spiderman Waiting at the Bus Stop"
+    },
+    "c7a7aebd1f803dd39d845e0b0b032fce.16": {
+      "guid": "c7a7aebd1f803dd39d845e0b0b032fce.16",
+      "lat": 44.272844,
+      "lng": -76.44485,
+      "name": "In Memory Of Those Who Have Gone Before Us"
+    },
+    "0ccc21ca499b441a8be2ad8cc695e9c6.16": {
+      "guid": "0ccc21ca499b441a8be2ad8cc695e9c6.16",
+      "lat": 44.237619,
+      "lng": -76.436319,
+      "name": "RCCS Memorial Statue"
+    },
+    "68c6ef7b2b864e0c80dfa7d7509fdc05.16": {
+      "guid": "68c6ef7b2b864e0c80dfa7d7509fdc05.16",
+      "lat": 44.240593,
+      "lng": -76.580322,
+      "name": "Kingdom Hall of Jehovah’s Witnesses"
     }
   },
   "pokestops": {
@@ -3664,7 +3682,7 @@
       "guid": "8757c27d82604b88ad40a8db6b93985a.16",
       "lat": 44.261445,
       "lng": -76.544202,
-      "name": "Cataraqui United Church "
+      "name": "Cataraqui United Church"
     },
     "605896aab0594849a25352dae05a6240.16": {
       "guid": "605896aab0594849a25352dae05a6240.16",
@@ -4120,13 +4138,13 @@
       "guid": "a8c240681cdf4cebbac9e76a9c9e4d1b.16",
       "lat": 44.271453,
       "lng": -76.578197,
-      "name": "Birchwood Park "
+      "name": "Birchwood Park"
     },
     "6735b3c1ac544d90922914f172729b26.16": {
       "guid": "6735b3c1ac544d90922914f172729b26.16",
       "lat": 44.26509,
       "lng": -76.580959,
-      "name": "Cataraqui Woods Baseball Diamond "
+      "name": "Cataraqui Woods Baseball Diamond"
     },
     "b918ed6884ca4e4189fe3cb334eb1891.16": {
       "guid": "b918ed6884ca4e4189fe3cb334eb1891.16",
@@ -4193,12 +4211,6 @@
       "lat": 44.244414,
       "lng": -76.584525,
       "name": "Hudson Park"
-    },
-    "68c6ef7b2b864e0c80dfa7d7509fdc05.16": {
-      "guid": "68c6ef7b2b864e0c80dfa7d7509fdc05.16",
-      "lat": 44.240593,
-      "lng": -76.580322,
-      "name": "Kingdom Hall of Jehovah’s Witnesses"
     },
     "3354cdaebb8a448d913f58387d61f7cd.16": {
       "guid": "3354cdaebb8a448d913f58387d61f7cd.16",
@@ -4372,7 +4384,7 @@
       "guid": "9d93ebbb615f425fa42ce8ce895d5a7e.16",
       "lat": 44.250591,
       "lng": -76.61385,
-      "name": "Ridgewood Park Playground "
+      "name": "Ridgewood Park Playground"
     },
     "af924d2ac5bb49aaac2407538c9f61ca.16": {
       "guid": "af924d2ac5bb49aaac2407538c9f61ca.16",
@@ -4570,7 +4582,7 @@
       "guid": "ca891a40a2e94e059500e4a09cab3064.16",
       "lat": 44.248256,
       "lng": -76.644151,
-      "name": "Loyalist Township Plaque "
+      "name": "Loyalist Township Plaque"
     },
     "7114dae07e524fea82e993d69593f92d.16": {
       "guid": "7114dae07e524fea82e993d69593f92d.16",
@@ -4768,7 +4780,7 @@
       "guid": "0deb59ad92f84c5894eece025317e9d2.16",
       "lat": 44.232403,
       "lng": -76.61135,
-      "name": "Lemoine Point Trail Junction  (5 & 1)"
+      "name": "Lemoine Point Trail Junction (5 & 1)"
     },
     "097cdca9ec144ab3b1175a581ea0a823.16": {
       "guid": "097cdca9ec144ab3b1175a581ea0a823.16",
@@ -4810,7 +4822,7 @@
       "guid": "e183c7ee97954d158eba9b21203b3eae.16",
       "lat": 44.234837,
       "lng": -76.611286,
-      "name": "Wetland Functions "
+      "name": "Wetland Functions"
     },
     "0699496d3d14478e8d092e7ae837d7c0.16": {
       "guid": "0699496d3d14478e8d092e7ae837d7c0.16",
@@ -5176,19 +5188,13 @@
       "guid": "e924b361fc784c5282b638b746148513.16",
       "lat": 44.243701,
       "lng": -76.44326,
-      "name": "CFB Kingston Hospital "
+      "name": "CFB Kingston Hospital"
     },
     "6d82aac1ab7c41b688503cb38fdbe139.16": {
       "guid": "6d82aac1ab7c41b688503cb38fdbe139.16",
       "lat": 44.243179,
       "lng": -76.441521,
       "name": "CFB Water Tower"
-    },
-    "0ccc21ca499b441a8be2ad8cc695e9c6.16": {
-      "guid": "0ccc21ca499b441a8be2ad8cc695e9c6.16",
-      "lat": 44.237619,
-      "lng": -76.436319,
-      "name": "RCCS Memorial Statue"
     },
     "6fce18f8e55e4316b1e751659fad4266.16": {
       "guid": "6fce18f8e55e4316b1e751659fad4266.16",
@@ -6046,7 +6052,7 @@
       "guid": "6d5526d98fbd4b10a81f0a4fe6c8b429.16",
       "lat": 44.228885,
       "lng": -76.578426,
-      "name": "Kingston Township Tennis Court"
+      "name": "Henderson Park Tennis Court"
     },
     "b4d2f69e7e7347a58f9b4fc95377ebc6.16": {
       "guid": "b4d2f69e7e7347a58f9b4fc95377ebc6.16",
@@ -7300,7 +7306,7 @@
       "guid": "3cda8df5f19c42d8af4666de935b6c1d.16",
       "lat": 44.276539,
       "lng": -76.548229,
-      "name": "KP Trail 10km Marker"
+      "name": "K&P Trail - 10km Marker"
     },
     "d00106258a5c4a41b87627ad14a1d061.16": {
       "guid": "d00106258a5c4a41b87627ad14a1d061.16",
@@ -7750,7 +7756,7 @@
       "guid": "655b580e7f55416580b7dc369199c5bc.16",
       "lat": 44.21711,
       "lng": -76.595309,
-      "name": "Kingston Shoreline Route"
+      "name": "Kingston Shoreline Route-Old Front Road"
     },
     "83eb930c113342bd83b1b35a8fc5a4bc.16": {
       "guid": "83eb930c113342bd83b1b35a8fc5a4bc.16",
@@ -8956,7 +8962,7 @@
       "guid": "c6cda060450e4f50be0c7308dd750487.16",
       "lat": 44.244991,
       "lng": -76.617369,
-      "name": "ball dimond in park"
+      "name": "Lawrence Park Baseball Diamond"
     },
     "f63f20b3bcc5437dbebf4c286b599afe.16": {
       "guid": "f63f20b3bcc5437dbebf4c286b599afe.16",
@@ -9263,12 +9269,6 @@
       "lat": 44.228824,
       "lng": -76.487387,
       "name": "History of Annandale"
-    },
-    "c7a7aebd1f803dd39d845e0b0b032fce.16": {
-      "guid": "c7a7aebd1f803dd39d845e0b0b032fce.16",
-      "lat": 44.272844,
-      "lng": -76.44485,
-      "name": "In Memory Of Those Who Have Gone Before Us"
     },
     "8fc6b59fe3e23014b4de0c54d00839a7.16": {
       "guid": "8fc6b59fe3e23014b4de0c54d00839a7.16",
@@ -9581,6 +9581,60 @@
       "lat": 44.22756,
       "lng": -76.470308,
       "name": "Point Frederick Path"
+    },
+    "49b8fcc8fdd436acb2b57b89bb6cfb3d.16": {
+      "guid": "49b8fcc8fdd436acb2b57b89bb6cfb3d.16",
+      "lat": 44.227773,
+      "lng": -76.479443,
+      "name": "Waterfront Mural"
+    },
+    "700236b303db3d349a0baa2815637081.16": {
+      "guid": "700236b303db3d349a0baa2815637081.16",
+      "lat": 44.262721,
+      "lng": -76.491496,
+      "name": "Kingston Community Health Centres"
+    },
+    "eadaa455cffa3a83818033aaa37397f5.16": {
+      "guid": "eadaa455cffa3a83818033aaa37397f5.16",
+      "lat": 44.271974,
+      "lng": -76.443326,
+      "name": "East End Community Church"
+    },
+    "3aad076e1c843cfab4e27e524a76cf56.16": {
+      "guid": "3aad076e1c843cfab4e27e524a76cf56.16",
+      "lat": 44.240823,
+      "lng": -76.438713,
+      "name": "Mercury Statue"
+    },
+    "9396525e1686370aac7c99fe942070df.16": {
+      "guid": "9396525e1686370aac7c99fe942070df.16",
+      "lat": 44.238764,
+      "lng": -76.562674,
+      "name": "Play!"
+    },
+    "d261f2745aee3fc9a02b941483e2fc48.16": {
+      "guid": "d261f2745aee3fc9a02b941483e2fc48.16",
+      "lat": 44.241485,
+      "lng": -76.581175,
+      "name": "Stanford st Tiny Library"
+    },
+    "68bbe3194d763fb18fc2c8fb575a636d.16": {
+      "guid": "68bbe3194d763fb18fc2c8fb575a636d.16",
+      "lat": 44.252156,
+      "lng": -76.582116,
+      "name": "Old Colony Park East"
+    },
+    "4eae19a1f82f3532930334789b28fbf3.16": {
+      "guid": "4eae19a1f82f3532930334789b28fbf3.16",
+      "lat": 44.248884,
+      "lng": -76.588178,
+      "name": "Twin Oak Meadows Basketball Court"
+    },
+    "2eb85004f842345f80002d6a82ed47b0.16": {
+      "guid": "2eb85004f842345f80002d6a82ed47b0.16",
+      "lat": 44.237667,
+      "lng": -76.607406,
+      "name": "Limestone Boat and Board Clib Community Dock"
     }
   },
   "notpogo": {
@@ -9594,7 +9648,7 @@
       "guid": "43c753179b824792849ee8a78554ef22.16",
       "lat": 44.26452,
       "lng": -76.544896,
-      "name": "Third Day Worship "
+      "name": "Third Day Worship"
     },
     "5f0ef308dea94e0c88b87b66390d5eb2.16": {
       "guid": "5f0ef308dea94e0c88b87b66390d5eb2.16",
