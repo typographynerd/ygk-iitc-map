@@ -2344,12 +2344,6 @@
       "lng": -76.547394,
       "name": "Cloverdale Park Playstructures"
     },
-    "5aacd05a4f2645b6ad081b85795ba93f.16": {
-      "guid": "5aacd05a4f2645b6ad081b85795ba93f.16",
-      "lat": 44.22442,
-      "lng": -76.494687,
-      "name": "Spiderman Waiting at the Bus Stop"
-    },
     "c7a7aebd1f803dd39d845e0b0b032fce.16": {
       "guid": "c7a7aebd1f803dd39d845e0b0b032fce.16",
       "lat": 44.272844,
@@ -2367,6 +2361,24 @@
       "lat": 44.240593,
       "lng": -76.580322,
       "name": "Kingdom Hall of Jehovah’s Witnesses"
+    },
+    "ygksponsored.5": {
+      "guid": "ygksponsored.5",
+      "lat": 44.22914,
+      "lng": -76.481118,
+      "name": "Circle K (Ontario/Clarence) [SPONSORED GYM]"
+    },
+    "ygksponsored.6": {
+      "guid": "ygksponsored.6",
+      "lat": 44.234387,
+      "lng": -76.496041,
+      "name": "Circle K (Princess/University) [SPONSORED GYM]"
+    },
+    "0481595c452446db90e1ddcb0467a0e7.16": {
+      "guid": "0481595c452446db90e1ddcb0467a0e7.16",
+      "lat": 44.239327,
+      "lng": -76.543587,
+      "name": "Kingsway Christian Church"
     }
   },
   "pokestops": {
@@ -3466,7 +3478,7 @@
       "guid": "1ef36cb79b0e4c829644bc9087c07889.16",
       "lat": 44.223959,
       "lng": -76.513804,
-      "name": "The Hive"
+      "name": "Iron Man"
     },
     "3b7f3800cecd4d0eb589093ee07472bb.16": {
       "guid": "3b7f3800cecd4d0eb589093ee07472bb.16",
@@ -3755,12 +3767,6 @@
       "lat": 44.252006,
       "lng": -76.538258,
       "name": "Conserving Wetlands"
-    },
-    "ab3cefe043f14d2aac4e67da66d14820.16": {
-      "guid": "ab3cefe043f14d2aac4e67da66d14820.16",
-      "lat": 44.250309,
-      "lng": -76.53198,
-      "name": "Kingsway Christian Church"
     },
     "e9eca944a9ce4712b122f03c5a38fe43.16": {
       "guid": "e9eca944a9ce4712b122f03c5a38fe43.16",
@@ -6256,7 +6262,7 @@
       "guid": "91a4dd4bee5947679f6d9d54a8d46557.16",
       "lat": 44.229758,
       "lng": -76.517667,
-      "name": "Younge St Community Swingset"
+      "name": "Yonge St Community Swingset"
     },
     "7116f520227d4cc0b39fdbc09b3e7695.16": {
       "guid": "7116f520227d4cc0b39fdbc09b3e7695.16",
@@ -6803,12 +6809,6 @@
       "lat": 44.258159,
       "lng": -76.577644,
       "name": "Winchester Gazebo"
-    },
-    "0481595c452446db90e1ddcb0467a0e7.16": {
-      "guid": "0481595c452446db90e1ddcb0467a0e7.16",
-      "lat": 44.239327,
-      "lng": -76.543587,
-      "name": "Kingsway Christian Church"
     },
     "a844556aa55c439c860b0b217bcb711c.16": {
       "guid": "a844556aa55c439c860b0b217bcb711c.16",
@@ -9635,6 +9635,66 @@
       "lat": 44.237667,
       "lng": -76.607406,
       "name": "Limestone Boat and Board Clib Community Dock"
+    },
+    "5331286b8ba94876bbe12e8782b7ad53.16": {
+      "guid": "5331286b8ba94876bbe12e8782b7ad53.16",
+      "lat": 44.228063,
+      "lng": -76.494788,
+      "name": "Orphans Home"
+    },
+    "00e429e6c8194ce7aeab1914fcfa539b.16": {
+      "guid": "00e429e6c8194ce7aeab1914fcfa539b.16",
+      "lat": 44.228106,
+      "lng": -76.494645,
+      "name": "Sesquicentenial Court"
+    },
+    "5aacd05a4f2645b6ad081b85795ba93f.16": {
+      "guid": "5aacd05a4f2645b6ad081b85795ba93f.16",
+      "lat": 44.22442,
+      "lng": -76.494687,
+      "name": "Spiderman Waiting at the Bus Stop"
+    },
+    "26f84363083a424d8a558d61cb5b421e.16": {
+      "guid": "26f84363083a424d8a558d61cb5b421e.16",
+      "lat": 44.224707,
+      "lng": -76.489554,
+      "name": "City Park Soccer Field"
+    },
+    "99f1ce3da21e337cb2617651fda99411.16": {
+      "guid": "99f1ce3da21e337cb2617651fda99411.16",
+      "lat": 44.260135,
+      "lng": -76.503504,
+      "name": "Greenhawk mural"
+    },
+    "ygksponsoredstop.1": {
+      "guid": "ygksponsoredstop.1",
+      "lat": 44.23819,
+      "lng": -76.538362,
+      "name": "Circle K (Bath Road) [SPONSORED STOP]"
+    },
+    "ygksponsoredstop.2": {
+      "guid": "ygksponsoredstop.2",
+      "lat": 44.258278,
+      "lng": -76.519086,
+      "name": "Circle K (Sir John A/John Counter) [SPONSORED STOP]"
+    },
+    "ygksponsoredstop.3": {
+      "guid": "ygksponsoredstop.3",
+      "lat": 44.265834,
+      "lng": -76.49798,
+      "name": "Circle K (Division Street) [SPONSORED STOP]"
+    },
+    "ygksponsoredstop.4": {
+      "guid": "ygksponsoredstop.4",
+      "lat": 44.237087,
+      "lng": -76.571523,
+      "name": "Circle K (Bath/Days) [SPONSORED STOP]"
+    },
+    "ygksponsoredstop.5": {
+      "guid": "ygksponsoredstop.5",
+      "lat": 44.2484,
+      "lng": -76.58073,
+      "name": "Circle K (Taylor Kidd/Milford) [SPONSORED STOP]"
     }
   },
   "notpogo": {
@@ -9681,9 +9741,6 @@
       "name": "Deacon Walk"
     }
   },
-  "ignoredCellsExtraGyms": {
-    "F2ij[5640,16375]@14": true,
-    "F2ij[5639,16376]@14": true
-  },
+  "ignoredCellsExtraGyms": {},
   "ignoredCellsMissingGyms": {}
 }
