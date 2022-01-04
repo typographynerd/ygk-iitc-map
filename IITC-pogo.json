@@ -614,7 +614,7 @@
       "guid": "ceec82f298ba4fb39b3b7cd1b3d73fb7.11",
       "lat": 44.255473,
       "lng": -76.571915,
-      "name": "Cataraqui Centre - Back Entrance"
+      "name": "Cataraqui Centre"
     },
     "f0ced2d08428489b94e1ce864abe60c1.16": {
       "guid": "f0ced2d08428489b94e1ce864abe60c1.16",
@@ -2379,6 +2379,12 @@
       "lat": 44.239327,
       "lng": -76.543587,
       "name": "Kingsway Christian Church"
+    },
+    "fdda21f7c8dd4f55914a818236ae0a38.16": {
+      "guid": "fdda21f7c8dd4f55914a818236ae0a38.16",
+      "lat": 44.265149,
+      "lng": -76.495988,
+      "name": "Conacher Apartment Building Play Structure #1"
     }
   },
   "pokestops": {
@@ -4222,7 +4228,7 @@
       "guid": "3354cdaebb8a448d913f58387d61f7cd.16",
       "lat": 44.248701,
       "lng": -76.591055,
-      "name": "Kingston Township Tennis Court"
+      "name": "Bayridge Park Tennis Court"
     },
     "e96e660ff4a2408391704257714e5a0d.16": {
       "guid": "e96e660ff4a2408391704257714e5a0d.16",
@@ -4492,7 +4498,7 @@
       "guid": "69230cf6b84946cd8ea42f6cfa717368.16",
       "lat": 44.216581,
       "lng": -76.658752,
-      "name": "Sunnyside Park Play Structure "
+      "name": "Sunnyside Park Play Structure"
     },
     "53a62e703ac046b0843c8db06410ad45.16": {
       "guid": "53a62e703ac046b0843c8db06410ad45.16",
@@ -4516,13 +4522,13 @@
       "guid": "9351ebabf0454447977bc17dde1fe1f9.16",
       "lat": 44.230605,
       "lng": -76.675511,
-      "name": "Loyalist Township Watertower "
+      "name": "Loyalist Township Watertower"
     },
     "bcc0b2a1415f41429ea1073fbba023c3.16": {
       "guid": "bcc0b2a1415f41429ea1073fbba023c3.16",
       "lat": 44.213012,
       "lng": -76.67788,
-      "name": "Harewood Little Free Library "
+      "name": "Harewood Little Free Library"
     },
     "78dc76c716de479eab817df8b629159a.16": {
       "guid": "78dc76c716de479eab817df8b629159a.16",
@@ -7505,12 +7511,6 @@
       "lat": 44.225689,
       "lng": -76.49756,
       "name": "John Watson Hall"
-    },
-    "fdda21f7c8dd4f55914a818236ae0a38.16": {
-      "guid": "fdda21f7c8dd4f55914a818236ae0a38.16",
-      "lat": 44.265149,
-      "lng": -76.495988,
-      "name": "Conacher Apartment Building Play Structure #1"
     },
     "3cfa4931ba6b460fa2f79ec09447345e.16": {
       "guid": "3cfa4931ba6b460fa2f79ec09447345e.16",
