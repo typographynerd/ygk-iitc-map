@@ -9701,6 +9701,30 @@
       "lat": 44.225558,
       "lng": -76.48207,
       "name": "Kingston Shoreline Route - Battery Park"
+    },
+    "38f7678889b33a20ae9d32ab7e055947.16": {
+      "guid": "38f7678889b33a20ae9d32ab7e055947.16",
+      "lat": 44.238016,
+      "lng": -76.437513,
+      "name": "Carruthers Hall"
+    },
+    "b857a9408e88366cb5c78064fb557ff3.16": {
+      "guid": "b857a9408e88366cb5c78064fb557ff3.16",
+      "lat": 44.245518,
+      "lng": -76.452462,
+      "name": "CFB Kingston Golf Course Driving Range"
+    },
+    "9009da267b4635ccab970cd70d2cf2a3.16": {
+      "guid": "9009da267b4635ccab970cd70d2cf2a3.16",
+      "lat": 44.26033,
+      "lng": -76.546912,
+      "name": "Walnut Grove Recreation Centre"
+    },
+    "d4c099299bd8306e9d731c7e42cde500.16": {
+      "guid": "d4c099299bd8306e9d731c7e42cde500.16",
+      "lat": 44.238144,
+      "lng": -76.572632,
+      "name": "Special Grace House of Prayer"
     }
   },
   "notpogo": {
