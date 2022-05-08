@@ -2385,6 +2385,13 @@
       "lng": -76.48175,
       "name": "The Fight of the Royal George",
       "isEx": true
+    },
+    "914086565e2544198ea9d01bf5e3fd39.16": {
+      "guid": "914086565e2544198ea9d01bf5e3fd39.16",
+      "lat": 44.237903,
+      "lng": -76.480319,
+      "name": "One Thousand Labourers",
+      "isEx": true
     }
   },
   "pokestops": {
@@ -2524,7 +2531,7 @@
       "guid": "72ccb781eb244280adcb5ac0d6bdb65e.16",
       "lat": 44.225981,
       "lng": -76.497008,
-      "name": "Explore!"
+      "name": "Explore! Hand Tree art"
     },
     "a47f1bf1642449768838f22d6ef298d8.16": {
       "guid": "a47f1bf1642449768838f22d6ef298d8.16",
@@ -8226,12 +8233,6 @@
       "lng": -76.459316,
       "name": "Vickers Gun"
     },
-    "914086565e2544198ea9d01bf5e3fd39.16": {
-      "guid": "914086565e2544198ea9d01bf5e3fd39.16",
-      "lat": 44.237903,
-      "lng": -76.480319,
-      "name": "One Thousand Labourers"
-    },
     "3c73a96286f64c0abd98d6b9eda4e07f.16": {
       "guid": "3c73a96286f64c0abd98d6b9eda4e07f.16",
       "lat": 44.233143,
@@ -8819,12 +8820,6 @@
       "lat": 44.240261,
       "lng": -76.440251,
       "name": "Canada Post office building CFB Kingston"
-    },
-    "f0c7ad8cdefd4e32b8ccad40a558b362.16": {
-      "guid": "f0c7ad8cdefd4e32b8ccad40a558b362.16",
-      "lat": 44.237619,
-      "lng": -76.48017,
-      "name": "Douglas Fluhrer Memorial-Dad"
     },
     "ea23a33551d34f8886afb06410de85ac.16": {
       "guid": "ea23a33551d34f8886afb06410de85ac.16",
@@ -9725,6 +9720,42 @@
       "lat": 44.238144,
       "lng": -76.572632,
       "name": "Special Grace House of Prayer"
+    },
+    "81e676577d4342f2b030ec4f37037a93.16": {
+      "guid": "81e676577d4342f2b030ec4f37037a93.16",
+      "lat": 44.223904,
+      "lng": -76.48541,
+      "name": "Waterfront Trail"
+    },
+    "d2da3c4917f240fc9643362ec2cf4a9e.16": {
+      "guid": "d2da3c4917f240fc9643362ec2cf4a9e.16",
+      "lat": 44.239103,
+      "lng": -76.481437,
+      "name": "MakerSpace Mural"
+    },
+    "d0d3e2adf8db3817968879baf785fe92.16": {
+      "guid": "d0d3e2adf8db3817968879baf785fe92.16",
+      "lat": 44.240243,
+      "lng": -76.543912,
+      "name": "Play Structure at Riverstone"
+    },
+    "348ba74db4f63d6d8404601f2a1829eb.16": {
+      "guid": "348ba74db4f63d6d8404601f2a1829eb.16",
+      "lat": 44.246122,
+      "lng": -76.544282,
+      "name": "Basketball court at Meadowbrook Park"
+    },
+    "fbdf84b88acd3fd4960cde7435ff25e2.16": {
+      "guid": "fbdf84b88acd3fd4960cde7435ff25e2.16",
+      "lat": 44.245849,
+      "lng": -76.544988,
+      "name": "Vicki Schmolka Plaque"
+    },
+    "f0c7ad8cdefd4e32b8ccad40a558b362.16": {
+      "guid": "f0c7ad8cdefd4e32b8ccad40a558b362.16",
+      "lat": 44.237619,
+      "lng": -76.48017,
+      "name": "Douglas Fluhrer Memorial-Dad"
     }
   },
   "notpogo": {
