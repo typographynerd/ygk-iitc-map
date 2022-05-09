@@ -2359,13 +2359,15 @@
       "guid": "ygksponsored.5",
       "lat": 44.22914,
       "lng": -76.481118,
-      "name": "Circle K (Ontario/Clarence) [SPONSORED GYM]"
+      "name": "Circle K (Ontario/Clarence) [SPONSORED GYM]",
+      "isEX": true
     },
     "ygksponsored.6": {
       "guid": "ygksponsored.6",
       "lat": 44.234387,
       "lng": -76.496041,
-      "name": "Circle K (Princess/University) [SPONSORED GYM]"
+      "name": "Circle K (Princess/University) [SPONSORED GYM]",
+      "isEX": true
     },
     "0481595c452446db90e1ddcb0467a0e7.16": {
       "guid": "0481595c452446db90e1ddcb0467a0e7.16",
@@ -2392,6 +2394,13 @@
       "lng": -76.480319,
       "name": "One Thousand Labourers",
       "isEx": true
+    },
+    "ygksponsored.7": {
+      "guid": "ygksponsored.7",
+      "lat": 44.239806,
+      "lng": -76.528722,
+      "name": "Circle K (Bath/Portsmouth) [SPONSORED GYM]",
+      "isEX": true
     }
   },
   "pokestops": {
