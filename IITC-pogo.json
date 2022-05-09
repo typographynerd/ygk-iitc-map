@@ -374,7 +374,7 @@
       "guid": "d823d8e2c3be4c1e9560cfb7530d1ace.16",
       "lat": 44.280811,
       "lng": -76.543567,
-      "name": "Christian Standard Church"
+      "name": "Kingston Standard Church"
     },
     "639f46ebbe7e4cdea492bf70eecd17b6.16": {
       "guid": "639f46ebbe7e4cdea492bf70eecd17b6.16",
@@ -1859,7 +1859,7 @@
       "guid": "5cc8aa818916458f81fb2583a726c7e0.16",
       "lat": 44.262518,
       "lng": -76.498523,
-      "name": "K&P Trail"
+      "name": "K&P Trail Map (Division)"
     },
     "4c5cbc28ad594236950fb4db3413747c.16": {
       "guid": "4c5cbc28ad594236950fb4db3413747c.16",
@@ -2131,12 +2131,6 @@
       "lng": -76.56098,
       "name": "K&P Trail - McIvor Rd."
     },
-    "72b76b59e35a48d9b0578cf06413a0c4.16": {
-      "guid": "72b76b59e35a48d9b0578cf06413a0c4.16",
-      "lat": 44.264157,
-      "lng": -76.479976,
-      "name": "Montreal Street Playground"
-    },
     "187acc82f756490991ac4ce46bf4b531.16": {
       "guid": "187acc82f756490991ac4ce46bf4b531.16",
       "lat": 44.273042,
@@ -2231,12 +2225,6 @@
       "lng": -76.490874,
       "name": "Friendship Park Playground",
       "isEx": true
-    },
-    "a341d18f51094af1a6ed7f6d2eef1c2f.16": {
-      "guid": "a341d18f51094af1a6ed7f6d2eef1c2f.16",
-      "lat": 44.256139,
-      "lng": -76.48405,
-      "name": "Cassidy Basketball Court"
     },
     "f633a1779e7e4569960020077172a665.16": {
       "guid": "f633a1779e7e4569960020077172a665.16",
@@ -2359,15 +2347,13 @@
       "guid": "ygksponsored.5",
       "lat": 44.22914,
       "lng": -76.481118,
-      "name": "Circle K (Ontario/Clarence) [SPONSORED GYM]",
-      "isEX": true
+      "name": "Circle K (Ontario/Clarence) [SPONSORED GYM]"
     },
     "ygksponsored.6": {
       "guid": "ygksponsored.6",
       "lat": 44.234387,
       "lng": -76.496041,
-      "name": "Circle K (Princess/University) [SPONSORED GYM]",
-      "isEX": true
+      "name": "Circle K (Princess/University) [SPONSORED GYM]"
     },
     "0481595c452446db90e1ddcb0467a0e7.16": {
       "guid": "0481595c452446db90e1ddcb0467a0e7.16",
@@ -2399,8 +2385,25 @@
       "guid": "ygksponsored.7",
       "lat": 44.239806,
       "lng": -76.528722,
-      "name": "Circle K (Bath/Portsmouth) [SPONSORED GYM]",
-      "isEX": true
+      "name": "Circle K (Bath/Portsmouth) [SPONSORED GYM]"
+    },
+    "72b76b59e35a48d9b0578cf06413a0c4.16": {
+      "guid": "72b76b59e35a48d9b0578cf06413a0c4.16",
+      "lat": 44.264136,
+      "lng": -76.47998,
+      "name": "Montreal Street Playground"
+    },
+    "a341d18f51094af1a6ed7f6d2eef1c2f.16": {
+      "guid": "a341d18f51094af1a6ed7f6d2eef1c2f.16",
+      "lat": 44.256149,
+      "lng": -76.484079,
+      "name": "Cassidy Basketball Court"
+    },
+    "0dbe8bd21a214394bd09a620069532d6.16": {
+      "guid": "0dbe8bd21a214394bd09a620069532d6.16",
+      "lat": 44.251936,
+      "lng": -76.483497,
+      "name": "John Finlay Elder Memorial Tennis Complex"
     }
   },
   "pokestops": {
@@ -6910,12 +6913,6 @@
       "lng": -76.495051,
       "name": "Studiorum Foedere Iuncti"
     },
-    "0dbe8bd21a214394bd09a620069532d6.16": {
-      "guid": "0dbe8bd21a214394bd09a620069532d6.16",
-      "lat": 44.251936,
-      "lng": -76.483497,
-      "name": "John Finlay Elder Memorial Tennis Complex"
-    },
     "fa4e1544368d4f7bbaa7327d3509d286.16": {
       "guid": "fa4e1544368d4f7bbaa7327d3509d286.16",
       "lat": 44.252281,
@@ -7131,12 +7128,6 @@
       "lat": 44.229772,
       "lng": -76.479424,
       "name": "Atlantis"
-    },
-    "2162650ba1714849a0fe540ea1601399.16": {
-      "guid": "2162650ba1714849a0fe540ea1601399.16",
-      "lat": 44.223755,
-      "lng": -76.484727,
-      "name": "Ahoy Rentals"
     },
     "b1dec7c495184e9bb7727981c44bd9c3.16": {
       "guid": "b1dec7c495184e9bb7727981c44bd9c3.16",
@@ -9765,6 +9756,12 @@
       "lat": 44.237619,
       "lng": -76.48017,
       "name": "Douglas Fluhrer Memorial-Dad"
+    },
+    "2162650ba1714849a0fe540ea1601399.16": {
+      "guid": "2162650ba1714849a0fe540ea1601399.16",
+      "lat": 44.223743,
+      "lng": -76.484667,
+      "name": "Ahoy Rentals"
     }
   },
   "notpogo": {
