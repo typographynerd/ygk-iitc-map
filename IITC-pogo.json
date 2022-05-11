@@ -517,7 +517,7 @@
       "guid": "840bc8bff86741b4a346da1f35314389.16",
       "lat": 44.221298,
       "lng": -76.537438,
-      "name": "Rideau Valley Trail"
+      "name": "Rideau Trail Entrance"
     },
     "8718bdc44c614355b1d6f30a5feb3bcf.16": {
       "guid": "8718bdc44c614355b1d6f30a5feb3bcf.16",
@@ -9523,12 +9523,6 @@
       "lng": -76.500126,
       "name": "Ronald Lavallee Memorial Kiwanis Park Playground"
     },
-    "9ac5d316082d399d80393ed04ce78e2c.16": {
-      "guid": "9ac5d316082d399d80393ed04ce78e2c.16",
-      "lat": 44.233355,
-      "lng": -76.52421,
-      "name": "Calvin park baseball field"
-    },
     "3ef2fe7db5db3514966c26a987442ce7.16": {
       "guid": "3ef2fe7db5db3514966c26a987442ce7.16",
       "lat": 44.230381,
@@ -9762,6 +9756,18 @@
       "lat": 44.223743,
       "lng": -76.484667,
       "name": "Ahoy Rentals"
+    },
+    "a7ba135c7f093a72acfd3edb5e5d03f2.16": {
+      "guid": "a7ba135c7f093a72acfd3edb5e5d03f2.16",
+      "lat": 44.214818,
+      "lng": -76.522676,
+      "name": "eronone mural"
+    },
+    "e35237dd7573382d9fc47f593765c492.16": {
+      "guid": "e35237dd7573382d9fc47f593765c492.16",
+      "lat": 44.213302,
+      "lng": -76.556095,
+      "name": "Sand Bay Baseball Field"
     }
   },
   "notpogo": {
