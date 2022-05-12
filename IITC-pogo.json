@@ -1538,13 +1538,6 @@
       "name": "Lake Ontario Park",
       "isEx": true
     },
-    "dec60caaa19e4d1690151ff32df892bd.16": {
-      "guid": "dec60caaa19e4d1690151ff32df892bd.16",
-      "lat": 44.214918,
-      "lng": -76.529662,
-      "name": "Imagine",
-      "isEx": true
-    },
     "55e793b057694350899f1383c6282f2e.11": {
       "guid": "55e793b057694350899f1383c6282f2e.11",
       "lat": 44.232652,
@@ -2393,17 +2386,17 @@
       "lng": -76.47998,
       "name": "Montreal Street Playground"
     },
-    "a341d18f51094af1a6ed7f6d2eef1c2f.16": {
-      "guid": "a341d18f51094af1a6ed7f6d2eef1c2f.16",
-      "lat": 44.256149,
-      "lng": -76.484079,
-      "name": "Cassidy Basketball Court"
-    },
     "0dbe8bd21a214394bd09a620069532d6.16": {
       "guid": "0dbe8bd21a214394bd09a620069532d6.16",
       "lat": 44.251936,
       "lng": -76.483497,
       "name": "John Finlay Elder Memorial Tennis Complex"
+    },
+    "ecee6df270d84ff8a2fb6eacc0dc4f6a.16": {
+      "guid": "ecee6df270d84ff8a2fb6eacc0dc4f6a.16",
+      "lat": 44.214476,
+      "lng": -76.529222,
+      "name": "Kingston Shoreline Route-Lake Ontario Park East"
     }
   },
   "pokestops": {
@@ -6967,12 +6960,6 @@
       "lng": -76.515862,
       "name": "Jean Royce Hall Phase 2"
     },
-    "ecee6df270d84ff8a2fb6eacc0dc4f6a.16": {
-      "guid": "ecee6df270d84ff8a2fb6eacc0dc4f6a.16",
-      "lat": 44.214476,
-      "lng": -76.529222,
-      "name": "Kingston Shoreline Route-Lake Ontario Park East"
-    },
     "520fb98766b4484cb0dc82114ca80d46.16": {
       "guid": "520fb98766b4484cb0dc82114ca80d46.16",
       "lat": 44.235316,
@@ -9768,6 +9755,18 @@
       "lat": 44.213302,
       "lng": -76.556095,
       "name": "Sand Bay Baseball Field"
+    },
+    "a341d18f51094af1a6ed7f6d2eef1c2f.16": {
+      "guid": "a341d18f51094af1a6ed7f6d2eef1c2f.16",
+      "lat": 44.256149,
+      "lng": -76.484079,
+      "name": "Cassidy Basketball Court"
+    },
+    "a28c2a2f70d1443ea082269ca21496ce.16": {
+      "guid": "a28c2a2f70d1443ea082269ca21496ce.16",
+      "lat": 44.256076,
+      "lng": -76.484324,
+      "name": "Cassidy Street Playground"
     }
   },
   "notpogo": {
