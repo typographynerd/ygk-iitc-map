@@ -805,7 +805,7 @@
       "guid": "06283b424cc64047aa11d28f6d6d287f.16",
       "lat": 44.216178,
       "lng": -76.694146,
-      "name": "Why Wetlands Are Important "
+      "name": "Why Wetlands Are Important"
     },
     "b2487bd180e042e294eb0972f47205ed.16": {
       "guid": "b2487bd180e042e294eb0972f47205ed.16",
@@ -919,7 +919,7 @@
       "guid": "5c539bdf19fc4526b3d2bb3689d077b1.16",
       "lat": 44.239013,
       "lng": -76.60427,
-      "name": "Collins Bay Marina Gazebo"
+      "name": "Collins Bay Yacht Club"
     },
     "8abb8cce38f3497b9241fe085d843c96.16": {
       "guid": "8abb8cce38f3497b9241fe085d843c96.16",
@@ -2397,6 +2397,12 @@
       "lat": 44.214476,
       "lng": -76.529222,
       "name": "Kingston Shoreline Route-Lake Ontario Park East"
+    },
+    "fc37a6902ab03131bbdd9fc94fb45155.16": {
+      "guid": "fc37a6902ab03131bbdd9fc94fb45155.16",
+      "lat": 44.225526,
+      "lng": -76.687048,
+      "name": "Parrott's Bay Trail Marker (5 & 6)"
     }
   },
   "pokestops": {
@@ -4630,7 +4636,7 @@
       "guid": "4ec65356db2a42629b06d68a8e505008.16",
       "lat": 44.272255,
       "lng": -76.627389,
-      "name": "Westbrook Meadows Park Pergola "
+      "name": "Westbrook Meadows Park Pergola"
     },
     "80414548bbc24d2190c6c7f1a152ddc1.16": {
       "guid": "80414548bbc24d2190c6c7f1a152ddc1.16",
@@ -7912,7 +7918,7 @@
       "guid": "a0debcd9dd22424388576718be4f2c0f.16",
       "lat": 44.2742,
       "lng": -76.579573,
-      "name": "Midland Park Pearl Road"
+      "name": "Midland Park"
     },
     "cefd27699c324aa7ab486e1cc01a6c8d.16": {
       "guid": "cefd27699c324aa7ab486e1cc01a6c8d.16",
@@ -9592,7 +9598,7 @@
       "guid": "2eb85004f842345f80002d6a82ed47b0.16",
       "lat": 44.237667,
       "lng": -76.607406,
-      "name": "Limestone Boat and Board Clib Community Dock"
+      "name": "Limestone Boat and Board Club Community Dock"
     },
     "5331286b8ba94876bbe12e8782b7ad53.16": {
       "guid": "5331286b8ba94876bbe12e8782b7ad53.16",
@@ -9767,6 +9773,18 @@
       "lat": 44.256076,
       "lng": -76.484324,
       "name": "Cassidy Street Playground"
+    },
+    "d8e8d4a2b73132719f9b26ffb028ccef.16": {
+      "guid": "d8e8d4a2b73132719f9b26ffb028ccef.16",
+      "lat": 44.226342,
+      "lng": -76.690119,
+      "name": "The Great Gray Owl"
+    },
+    "8f437ebc68653a3896c8b2605fbc6f35.16": {
+      "guid": "8f437ebc68653a3896c8b2605fbc6f35.16",
+      "lat": 44.256262,
+      "lng": -76.572904,
+      "name": "Cataraqui Centre Coin Operating Toys"
     }
   },
   "notpogo": {
