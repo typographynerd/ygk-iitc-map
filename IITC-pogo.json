@@ -9660,6 +9660,18 @@
       "lng": -76.58073,
       "name": "Circle K (Taylor Kidd/Milford) [SPONSORED STOP]"
     },
+    "ygksponsoredstop.6": {
+      "guid": "ygksponsoredstop.6",
+      "lat": 44.25023582,
+      "lng": -76.5544349,
+      "name": "Circle K (Taylor Kidd/Centennial) [SPONSORED STOP]"
+    },
+    "ygksponsoredstop.7": {
+      "guid": "ygksponsoredstop.7",
+      "lat": 44.258545,
+      "lng": -76.521889,
+      "name": "Mac's [SPONSORED STOP]"
+    },
     "0c066a1a880c4931b11b2e28b3ff7de2.16": {
       "guid": "0c066a1a880c4931b11b2e28b3ff7de2.16",
       "lat": 44.225181,
