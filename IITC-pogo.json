@@ -732,12 +732,6 @@
       "lng": -76.6098,
       "name": "Collins Bay Antiques & Collectibles"
     },
-    "611a3b3603dc477eab3b6db3ae28c928.16": {
-      "guid": "611a3b3603dc477eab3b6db3ae28c928.16",
-      "lat": 44.241578,
-      "lng": -76.609062,
-      "name": "Canadian Legion 631"
-    },
     "8bf0bdbc8ece4befa1e09007d104e7a6.16": {
       "guid": "8bf0bdbc8ece4befa1e09007d104e7a6.16",
       "lat": 44.238707,
@@ -2403,6 +2397,12 @@
       "lat": 44.225526,
       "lng": -76.687048,
       "name": "Parrott's Bay Trail Marker (5 & 6)"
+    },
+    "611a3b3603dc477eab3b6db3ae28c928.16": {
+      "guid": "611a3b3603dc477eab3b6db3ae28c928.16",
+      "lat": 44.241703,
+      "lng": -76.608917,
+      "name": "Canadian Legion 631"
     }
   },
   "pokestops": {
@@ -9797,6 +9797,12 @@
       "lat": 44.256262,
       "lng": -76.572904,
       "name": "Cataraqui Centre Coin Operating Toys"
+    },
+    "1da45c11b6bc3de5a2d3cb2c65f686a8.16": {
+      "guid": "1da45c11b6bc3de5a2d3cb2c65f686a8.16",
+      "lat": 44.255227,
+      "lng": -76.56686,
+      "name": "Davis Drive Gazebo"
     }
   },
   "notpogo": {
