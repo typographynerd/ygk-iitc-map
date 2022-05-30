@@ -1,0 +1,2549 @@
+{
+  "pokestop": {},
+  "gym": {
+    "08ff11ce4e9747629f8d40e7742c60b8.16": {
+      "guid": "08ff11ce4e9747629f8d40e7742c60b8.16",
+      "lat": 44.241867,
+      "lng": -76.516806,
+      "name": "Kingston Center Bus Terminal",
+      "type": "gym"
+    },
+    "fb5f78f7b2b741f0b12b54bbc4c00348.16": {
+      "guid": "fb5f78f7b2b741f0b12b54bbc4c00348.16",
+      "lat": 44.24401,
+      "lng": -76.524082,
+      "name": "Providence Gazebo",
+      "type": "gym"
+    },
+    "94124087ef5544ce8056b1f01a65eab3.16": {
+      "guid": "94124087ef5544ce8056b1f01a65eab3.16",
+      "lat": 44.224543,
+      "lng": -76.492955,
+      "name": "Kingston General Hospital Plaque",
+      "type": "gym"
+    },
+    "6cd4371e1c2041cf8646c91c947bf981.16": {
+      "guid": "6cd4371e1c2041cf8646c91c947bf981.16",
+      "lat": 44.222493,
+      "lng": -76.49763,
+      "name": "Bradstreet Landing",
+      "isEx": true,
+      "type": "gym"
+    },
+    "48709899af0e48988fb7e25863c8d808.16": {
+      "guid": "48709899af0e48988fb7e25863c8d808.16",
+      "lat": 44.224598,
+      "lng": -76.497791,
+      "name": "Foucault Pendulum",
+      "type": "gym"
+    },
+    "3d453796c5de4f5fb4aa835ffa144eed.11": {
+      "guid": "3d453796c5de4f5fb4aa835ffa144eed.11",
+      "lat": 44.225536,
+      "lng": -76.49351,
+      "name": "Theological Hall",
+      "type": "gym"
+    },
+    "7714577225a845069d93c04efacf1e1e.16": {
+      "guid": "7714577225a845069d93c04efacf1e1e.16",
+      "lat": 44.225845,
+      "lng": -76.496478,
+      "name": "Pyramidal Structure - Sakkarah",
+      "type": "gym"
+    },
+    "fbeed194f6b544f6b8fcd56362562914.16": {
+      "guid": "fbeed194f6b544f6b8fcd56362562914.16",
+      "lat": 44.224726,
+      "lng": -76.486905,
+      "name": "Historic Early Land Survey 1793",
+      "isEx": true,
+      "type": "gym"
+    },
+    "97ca3a5192be40d98861a52fc343a5d2.16": {
+      "guid": "97ca3a5192be40d98861a52fc343a5d2.16",
+      "lat": 44.22833,
+      "lng": -76.49583,
+      "name": "Joseph S. Stauffer Library",
+      "type": "gym"
+    },
+    "5c0f9a320c81499d954cf320cd96fd29.16": {
+      "guid": "5c0f9a320c81499d954cf320cd96fd29.16",
+      "lat": 44.227512,
+      "lng": -76.491706,
+      "name": "St.James Church",
+      "type": "gym"
+    },
+    "a9b7af60e04a41aca730d364149b922f.16": {
+      "guid": "a9b7af60e04a41aca730d364149b922f.16",
+      "lat": 44.225829,
+      "lng": -76.485532,
+      "name": "Last Gas Lamp",
+      "type": "gym"
+    },
+    "9fcd1c036797471b969d4e12df64f680.16": {
+      "guid": "9fcd1c036797471b969d4e12df64f680.16",
+      "lat": 44.229255,
+      "lng": -76.479937,
+      "name": "The Wrestlers Sculpture",
+      "isEx": true,
+      "type": "gym"
+    },
+    "1a65f5f2d85d4517bf54f7152cd99e6f.16": {
+      "guid": "1a65f5f2d85d4517bf54f7152cd99e6f.16",
+      "lat": 44.229197,
+      "lng": -76.482655,
+      "name": "St Georges Cathedral",
+      "type": "gym"
+    },
+    "f817bdd199a541bba8911be1f35068fa.16": {
+      "guid": "f817bdd199a541bba8911be1f35068fa.16",
+      "lat": 44.229698,
+      "lng": -76.483865,
+      "name": "Former Church",
+      "type": "gym"
+    },
+    "2c571eaac7b74724a78efbcb8732b9d0.16": {
+      "guid": "2c571eaac7b74724a78efbcb8732b9d0.16",
+      "lat": 44.232088,
+      "lng": -76.482225,
+      "name": "The Iron Duke",
+      "type": "gym"
+    },
+    "2867c086a5c24a7a90afa54a6cd1cc10.16": {
+      "guid": "2867c086a5c24a7a90afa54a6cd1cc10.16",
+      "lat": 44.23038,
+      "lng": -76.487289,
+      "name": "Sir John A. MacDonald Mother's Residence",
+      "type": "gym"
+    },
+    "ab32087670304fde8a35475b4b6cde80.16": {
+      "guid": "ab32087670304fde8a35475b4b6cde80.16",
+      "lat": 44.233677,
+      "lng": -76.479201,
+      "name": "Fort Frontenac 1673",
+      "type": "gym"
+    },
+    "0b8c2402b4bc4b7f96460ed1ea122bf5.16": {
+      "guid": "0b8c2402b4bc4b7f96460ed1ea122bf5.16",
+      "lat": 44.233679,
+      "lng": -76.478568,
+      "name": "Fort Frontenac",
+      "type": "gym"
+    },
+    "34acb4e5ea294f21841458adb6a2cd77.16": {
+      "guid": "34acb4e5ea294f21841458adb6a2cd77.16",
+      "lat": 44.23297,
+      "lng": -76.484707,
+      "name": "Molly Brant",
+      "type": "gym"
+    },
+    "af2dd4adaee0466892e6ab1472d6f120.16": {
+      "guid": "af2dd4adaee0466892e6ab1472d6f120.16",
+      "lat": 44.234526,
+      "lng": -76.485042,
+      "name": "Artillery Park Aquatic Centre",
+      "type": "gym"
+    },
+    "039e0c6192fd413faf87b9677caa59ff.16": {
+      "guid": "039e0c6192fd413faf87b9677caa59ff.16",
+      "lat": 44.23491,
+      "lng": -76.485959,
+      "name": "Providence Manor Cathedral",
+      "type": "gym"
+    },
+    "1d7ea936a362427d80aa7444710ef0eb.16": {
+      "guid": "1d7ea936a362427d80aa7444710ef0eb.16",
+      "lat": 44.238204,
+      "lng": -76.481001,
+      "name": "Wall Art",
+      "isEx": true,
+      "type": "gym"
+    },
+    "5c477d31dd5d40c19c145cd15c0d2614.16": {
+      "guid": "5c477d31dd5d40c19c145cd15c0d2614.16",
+      "lat": 44.241895,
+      "lng": -76.480404,
+      "name": "Kingston Cotton Mural",
+      "type": "gym"
+    },
+    "26ccbd8e9f0f418baea4d240963f61c3.16": {
+      "guid": "26ccbd8e9f0f418baea4d240963f61c3.16",
+      "lat": 44.242959,
+      "lng": -76.486497,
+      "name": "McGaffin Ball Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "042bcc0a6e494b1998f65b1e9ddba91e.16": {
+      "guid": "042bcc0a6e494b1998f65b1e9ddba91e.16",
+      "lat": 44.240423,
+      "lng": -76.485485,
+      "name": "Calvary United Church",
+      "type": "gym"
+    },
+    "cb26b60a25d64aa5b3cf70c7970ee42f.16": {
+      "guid": "cb26b60a25d64aa5b3cf70c7970ee42f.16",
+      "lat": 44.232767,
+      "lng": -76.489325,
+      "name": "St. Andrew's Presbyterian Church",
+      "type": "gym"
+    },
+    "7e0b1559d4864457bf1d8fecdf532826.16": {
+      "guid": "7e0b1559d4864457bf1d8fecdf532826.16",
+      "lat": 44.232771,
+      "lng": -76.49277,
+      "name": "Mr. Donair Mural",
+      "type": "gym"
+    },
+    "1e52c1a1907c45a29a446471c76c3300.16": {
+      "guid": "1e52c1a1907c45a29a446471c76c3300.16",
+      "lat": 44.233489,
+      "lng": -76.500183,
+      "name": "In Memory of Geneva",
+      "isEx": true,
+      "type": "gym"
+    },
+    "923d9506171743f0a0da7e9580e4685a.16": {
+      "guid": "923d9506171743f0a0da7e9580e4685a.16",
+      "lat": 44.232904,
+      "lng": -76.501402,
+      "name": "Top Convenience",
+      "type": "gym"
+    },
+    "1bab18ce6d004eceaa9a0b4d25a9b71b.16": {
+      "guid": "1bab18ce6d004eceaa9a0b4d25a9b71b.16",
+      "lat": 44.237778,
+      "lng": -76.502168,
+      "name": "St. Luke's Church",
+      "type": "gym"
+    },
+    "27cbf65d8a57497d9cb550249e99c1ef.16": {
+      "guid": "27cbf65d8a57497d9cb550249e99c1ef.16",
+      "lat": 44.239923,
+      "lng": -76.502034,
+      "name": "Proud Northenders",
+      "isEx": true,
+      "type": "gym"
+    },
+    "9d9fb8d8bfe54624a1fc4fcc760209ed.16": {
+      "guid": "9d9fb8d8bfe54624a1fc4fcc760209ed.16",
+      "lat": 44.239022,
+      "lng": -76.500357,
+      "name": "Kingston Church Athletic League Mural",
+      "isEx": true,
+      "type": "gym"
+    },
+    "a51fd29840d84f6a97f61a2650c8825d.12": {
+      "guid": "a51fd29840d84f6a97f61a2650c8825d.12",
+      "lat": 44.239365,
+      "lng": -76.499852,
+      "name": "City of Kingston Memorial Centre",
+      "isEx": true,
+      "type": "gym"
+    },
+    "378a9185b1c14534bdea5fc7fc8b66f2.16": {
+      "guid": "378a9185b1c14534bdea5fc7fc8b66f2.16",
+      "lat": 44.239393,
+      "lng": -76.499436,
+      "name": "Memorial Centre Mural",
+      "isEx": true,
+      "type": "gym"
+    },
+    "337aa3412bfd437d86f74061a180ae0c.16": {
+      "guid": "337aa3412bfd437d86f74061a180ae0c.16",
+      "lat": 44.242747,
+      "lng": -76.502459,
+      "name": "Calvary Bible Church",
+      "type": "gym"
+    },
+    "5b77c0bbd02a4deb8dbd4ef519bcccd7.16": {
+      "guid": "5b77c0bbd02a4deb8dbd4ef519bcccd7.16",
+      "lat": 44.240283,
+      "lng": -76.506801,
+      "name": "City of Kingston Water Tower",
+      "type": "gym"
+    },
+    "9e63599f2af149868d76beecc12ce707.16": {
+      "guid": "9e63599f2af149868d76beecc12ce707.16",
+      "lat": 44.233211,
+      "lng": -76.508008,
+      "name": "The Sundial",
+      "isEx": true,
+      "type": "gym"
+    },
+    "9b488488452d411781c3aef7e3d1ef05.16": {
+      "guid": "9b488488452d411781c3aef7e3d1ef05.16",
+      "lat": 44.226318,
+      "lng": -76.506053,
+      "name": "Hillcroft",
+      "type": "gym"
+    },
+    "0b83ebbf94c043838802f25bf97ba35c.16": {
+      "guid": "0b83ebbf94c043838802f25bf97ba35c.16",
+      "lat": 44.220356,
+      "lng": -76.505561,
+      "name": "Waterfront Trail - Tett Centre",
+      "type": "gym"
+    },
+    "1ac582b7c8054d27a5a75248411bab7e.16": {
+      "guid": "1ac582b7c8054d27a5a75248411bab7e.16",
+      "lat": 44.220682,
+      "lng": -76.510559,
+      "name": "Government House Plaque 1832",
+      "type": "gym"
+    },
+    "bdb8847d2a84436bb10a34164576e67c.16": {
+      "guid": "bdb8847d2a84436bb10a34164576e67c.16",
+      "lat": 44.234726,
+      "lng": -76.511334,
+      "name": "Compton Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "96a8f482a331456391fb4bc2d198d3de.16": {
+      "guid": "96a8f482a331456391fb4bc2d198d3de.16",
+      "lat": 44.236301,
+      "lng": -76.515045,
+      "name": "St Joseph's Catholic Church",
+      "type": "gym"
+    },
+    "836c645e768e450e8bb1dab7cbbc3844.16": {
+      "guid": "836c645e768e450e8bb1dab7cbbc3844.16",
+      "lat": 44.240441,
+      "lng": -76.512143,
+      "name": "Cloverleaf",
+      "type": "gym"
+    },
+    "92f922d6e0914413b03df2d2c147f17c.16": {
+      "guid": "92f922d6e0914413b03df2d2c147f17c.16",
+      "lat": 44.240033,
+      "lng": -76.514925,
+      "name": "Kingston Alliance Church",
+      "type": "gym"
+    },
+    "e336a35e528f477bbc2152206227ad77.16": {
+      "guid": "e336a35e528f477bbc2152206227ad77.16",
+      "lat": 44.23446,
+      "lng": -76.516385,
+      "name": "An Clachan Map",
+      "type": "gym"
+    },
+    "f5f378ccbfe44171a524bdf0c2b04c6d.16": {
+      "guid": "f5f378ccbfe44171a524bdf0c2b04c6d.16",
+      "lat": 44.230623,
+      "lng": -76.516624,
+      "name": "Richardson Stadium North Entrance",
+      "type": "gym"
+    },
+    "c73f9384cdea4d03b5db44319eff9407.11": {
+      "guid": "c73f9384cdea4d03b5db44319eff9407.11",
+      "lat": 44.22369,
+      "lng": -76.513262,
+      "name": "Duncan McArthur Hall",
+      "type": "gym"
+    },
+    "1166970f798345aa852cc98bd1a20fcc.16": {
+      "guid": "1166970f798345aa852cc98bd1a20fcc.16",
+      "lat": 44.22146,
+      "lng": -76.513155,
+      "name": "Kingston Penitentiary Monument",
+      "type": "gym"
+    },
+    "ee5b3d6f959c41a5ae997c1fd090a31b.16": {
+      "guid": "ee5b3d6f959c41a5ae997c1fd090a31b.16",
+      "lat": 44.239144,
+      "lng": -76.489207,
+      "name": "St John The Apostle Catholic Church",
+      "type": "gym"
+    },
+    "6d488e6b96b348f6a98f41239533a9e6.16": {
+      "guid": "6d488e6b96b348f6a98f41239533a9e6.16",
+      "lat": 44.246189,
+      "lng": -76.496441,
+      "name": "Our Lady of Fatima Parish",
+      "type": "gym"
+    },
+    "36ef319e967245c595565eb352edc4df.16": {
+      "guid": "36ef319e967245c595565eb352edc4df.16",
+      "lat": 44.248459,
+      "lng": -76.495789,
+      "name": "Tugwood Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "593c4db8e9664fbaa127ce21ed7d12ca.16": {
+      "guid": "593c4db8e9664fbaa127ce21ed7d12ca.16",
+      "lat": 44.252106,
+      "lng": -76.502766,
+      "name": "First Christian Reformed Church",
+      "type": "gym"
+    },
+    "3050ea5331774e4bbfc8b93c68978d32.16": {
+      "guid": "3050ea5331774e4bbfc8b93c68978d32.16",
+      "lat": 44.253876,
+      "lng": -76.498643,
+      "name": "James Nelson Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "0bf640af671648a2a12381f506575638.16": {
+      "guid": "0bf640af671648a2a12381f506575638.16",
+      "lat": 44.256432,
+      "lng": -76.499689,
+      "name": "Ken Matthews Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "d3fa3edb677442fa82b81f431b1f3ad5.16": {
+      "guid": "d3fa3edb677442fa82b81f431b1f3ad5.16",
+      "lat": 44.251321,
+      "lng": -76.484534,
+      "name": "Belle Park Totem Pole",
+      "isEx": true,
+      "type": "gym"
+    },
+    "3ed509cd28f246db894e5f7fc3e465e6.16": {
+      "guid": "3ed509cd28f246db894e5f7fc3e465e6.16",
+      "lat": 44.26511,
+      "lng": -76.486893,
+      "name": "Evangel Pentecostal Church",
+      "type": "gym"
+    },
+    "eb9e1c3b90d5409b8fce70fb69bb009e.16": {
+      "guid": "eb9e1c3b90d5409b8fce70fb69bb009e.16",
+      "lat": 44.266097,
+      "lng": -76.496857,
+      "name": "Canada Post Office at Shoppers Drug Mart",
+      "type": "gym"
+    },
+    "0db15f42b2c243eb852d9bc4c168fc0b.16": {
+      "guid": "0db15f42b2c243eb852d9bc4c168fc0b.16",
+      "lat": 44.283306,
+      "lng": -76.508006,
+      "name": "Little Cataraqui Creek Outdoor Centre",
+      "type": "gym"
+    },
+    "ec3b853c8cf24c50a87b4351e8d96404.16": {
+      "guid": "ec3b853c8cf24c50a87b4351e8d96404.16",
+      "lat": 44.289834,
+      "lng": -76.504543,
+      "name": "Little Cataraqui Creek Trail 2 & 1 Junction",
+      "type": "gym"
+    },
+    "ca455f0a304b4f619794a57520110f40.16": {
+      "guid": "ca455f0a304b4f619794a57520110f40.16",
+      "lat": 44.296541,
+      "lng": -76.510294,
+      "name": "Little Cataraqui Creek Trail 3 Marker (2)",
+      "type": "gym"
+    },
+    "d823d8e2c3be4c1e9560cfb7530d1ace.16": {
+      "guid": "d823d8e2c3be4c1e9560cfb7530d1ace.16",
+      "lat": 44.280811,
+      "lng": -76.543567,
+      "name": "Kingston Standard Church",
+      "type": "gym"
+    },
+    "639f46ebbe7e4cdea492bf70eecd17b6.16": {
+      "guid": "639f46ebbe7e4cdea492bf70eecd17b6.16",
+      "lat": 44.279463,
+      "lng": -76.550842,
+      "name": "Kinsmen Kinette Mural",
+      "type": "gym"
+    },
+    "0cf45a78073c48289c52aa7cd5af458e.16": {
+      "guid": "0cf45a78073c48289c52aa7cd5af458e.16",
+      "lat": 44.263994,
+      "lng": -76.543699,
+      "name": "Christ Church Anglican",
+      "type": "gym"
+    },
+    "93972b4ba3394294b3bbce0606a6a7e1.16": {
+      "guid": "93972b4ba3394294b3bbce0606a6a7e1.16",
+      "lat": 44.262111,
+      "lng": -76.543959,
+      "name": "Christ Church",
+      "type": "gym"
+    },
+    "3eb3ad7678c54c0ba9faffbcf761b703.16": {
+      "guid": "3eb3ad7678c54c0ba9faffbcf761b703.16",
+      "lat": 44.262085,
+      "lng": -76.541825,
+      "name": "Sir John A. Macdonald Grave Site",
+      "type": "gym"
+    },
+    "624ad16377ec4bad9091091d519a745f.16": {
+      "guid": "624ad16377ec4bad9091091d519a745f.16",
+      "lat": 44.261533,
+      "lng": -76.548962,
+      "name": "Graham Pye Plaque",
+      "type": "gym"
+    },
+    "211f989366a54412b2177380baef76d9.16": {
+      "guid": "211f989366a54412b2177380baef76d9.16",
+      "lat": 44.256496,
+      "lng": -76.524406,
+      "name": "The Shade Shelter",
+      "isEx": true,
+      "type": "gym"
+    },
+    "f0296dd6bc144aba981d8cebbe0538e5.16": {
+      "guid": "f0296dd6bc144aba981d8cebbe0538e5.16",
+      "lat": 44.252677,
+      "lng": -76.538295,
+      "name": "The Importance of Wetlands",
+      "type": "gym"
+    },
+    "fbef88ef930a415982964fac95feeadd.16": {
+      "guid": "fbef88ef930a415982964fac95feeadd.16",
+      "lat": 44.250626,
+      "lng": -76.535313,
+      "name": "Parkway Playground",
+      "type": "gym"
+    },
+    "18188210333a4b7d9795393ba41fe99d.16": {
+      "guid": "18188210333a4b7d9795393ba41fe99d.16",
+      "lat": 44.251224,
+      "lng": -76.527254,
+      "name": "Strathcona Park Playground",
+      "isEx": true,
+      "type": "gym"
+    },
+    "c0e7fcfa742f49289a410df641e72ded.16": {
+      "guid": "c0e7fcfa742f49289a410df641e72ded.16",
+      "lat": 44.249732,
+      "lng": -76.522372,
+      "name": "Strathcona Park Presbyterian Church",
+      "type": "gym"
+    },
+    "0b9175353b794c97bca3fe6d7640519a.16": {
+      "guid": "0b9175353b794c97bca3fe6d7640519a.16",
+      "lat": 44.243491,
+      "lng": -76.51963,
+      "name": "Crossroads United Church",
+      "type": "gym"
+    },
+    "8503965d4830499986b6b5c3c2716719.16": {
+      "guid": "8503965d4830499986b6b5c3c2716719.16",
+      "lat": 44.24104,
+      "lng": -76.531359,
+      "name": "Grenville Crescent Playground",
+      "isEx": true,
+      "type": "gym"
+    },
+    "a8805f69a17d45aca7e1d4c5bef69e9a.16": {
+      "guid": "a8805f69a17d45aca7e1d4c5bef69e9a.16",
+      "lat": 44.239369,
+      "lng": -76.523786,
+      "name": "Lafleur Park Playground",
+      "isEx": true,
+      "type": "gym"
+    },
+    "fe11b6b9544843fdae4602301136dd1c.16": {
+      "guid": "fe11b6b9544843fdae4602301136dd1c.16",
+      "lat": 44.224356,
+      "lng": -76.520319,
+      "name": "Mowat Avenue Plaque",
+      "type": "gym"
+    },
+    "9a1e7113770d4739a3137b7ab9d9f535.16": {
+      "guid": "9a1e7113770d4739a3137b7ab9d9f535.16",
+      "lat": 44.220785,
+      "lng": -76.517071,
+      "name": "Portsmouth Olympic Harbour",
+      "type": "gym"
+    },
+    "19037adfa30d4f1f9b7e2c90b30b6601.16": {
+      "guid": "19037adfa30d4f1f9b7e2c90b30b6601.16",
+      "lat": 44.219452,
+      "lng": -76.517082,
+      "name": "Lenore Majoros Memorial Bench",
+      "type": "gym"
+    },
+    "94556bb67cc2461aa3d3ecf00110edeb.16": {
+      "guid": "94556bb67cc2461aa3d3ecf00110edeb.16",
+      "lat": 44.217636,
+      "lng": -76.516134,
+      "name": "Sails",
+      "type": "gym"
+    },
+    "2e3d098b756c40b692c9b01350207eed.16": {
+      "guid": "2e3d098b756c40b692c9b01350207eed.16",
+      "lat": 44.217517,
+      "lng": -76.518731,
+      "name": "Full Circle Memorial Bench",
+      "type": "gym"
+    },
+    "abaddbe0aa264a8d93ffb380d287b3d4.16": {
+      "guid": "abaddbe0aa264a8d93ffb380d287b3d4.16",
+      "lat": 44.217223,
+      "lng": -76.523686,
+      "name": "Rockwood 1842",
+      "type": "gym"
+    },
+    "6570fafd521b4e2ebb80c4b3b8291dcc.16": {
+      "guid": "6570fafd521b4e2ebb80c4b3b8291dcc.16",
+      "lat": 44.216857,
+      "lng": -76.530996,
+      "name": "25th Annual Tree Climbing Competition",
+      "isEx": true,
+      "type": "gym"
+    },
+    "ba00114ad85548a0a2ccfde70c07001c.16": {
+      "guid": "ba00114ad85548a0a2ccfde70c07001c.16",
+      "lat": 44.222282,
+      "lng": -76.529144,
+      "name": "Red Statue",
+      "type": "gym"
+    },
+    "e2080f9c8cfc40be8329f1b53cea3547.16": {
+      "guid": "e2080f9c8cfc40be8329f1b53cea3547.16",
+      "lat": 44.223761,
+      "lng": -76.52624,
+      "name": "St. Lawrence College",
+      "type": "gym"
+    },
+    "840bc8bff86741b4a346da1f35314389.16": {
+      "guid": "840bc8bff86741b4a346da1f35314389.16",
+      "lat": 44.221298,
+      "lng": -76.537438,
+      "name": "Rideau Trail Entrance",
+      "type": "gym"
+    },
+    "8718bdc44c614355b1d6f30a5feb3bcf.16": {
+      "guid": "8718bdc44c614355b1d6f30a5feb3bcf.16",
+      "lat": 44.217487,
+      "lng": -76.569673,
+      "name": "St. Andrew's by the Lake Church",
+      "type": "gym"
+    },
+    "4adea4ef2546487c824c4bae20f22770.16": {
+      "guid": "4adea4ef2546487c824c4bae20f22770.16",
+      "lat": 44.213163,
+      "lng": -76.567642,
+      "name": "Crerar Park Play Structures",
+      "isEx": true,
+      "type": "gym"
+    },
+    "834778b290e54e4095fc398e18480087.16": {
+      "guid": "834778b290e54e4095fc398e18480087.16",
+      "lat": 44.213809,
+      "lng": -76.574263,
+      "name": "Jorene Park North Entrance",
+      "isEx": true,
+      "type": "gym"
+    },
+    "51266548477440d7b2fdf4a66ae12f1f.16": {
+      "guid": "51266548477440d7b2fdf4a66ae12f1f.16",
+      "lat": 44.228116,
+      "lng": -76.582555,
+      "name": "Jim Beattie Sports Field",
+      "isEx": true,
+      "type": "gym"
+    },
+    "8dac3d061cc34dc898bdfa5528d1ac4f.16": {
+      "guid": "8dac3d061cc34dc898bdfa5528d1ac4f.16",
+      "lat": 44.231486,
+      "lng": -76.573115,
+      "name": "LaSalle Park Baseball Diamond (1 of 3)",
+      "isEx": true,
+      "type": "gym"
+    },
+    "ea6bfa0631f5427bbbe00899625cdc49.16": {
+      "guid": "ea6bfa0631f5427bbbe00899625cdc49.16",
+      "lat": 44.241153,
+      "lng": -76.568715,
+      "name": "Raxx Bar & Grill",
+      "type": "gym"
+    },
+    "73633840a39c48c59744f58042241c44.16": {
+      "guid": "73633840a39c48c59744f58042241c44.16",
+      "lat": 44.238073,
+      "lng": -76.550707,
+      "name": "Loyalist Gymnastics Club",
+      "type": "gym"
+    },
+    "1998d6050ab14c648b4977d09df83144.16": {
+      "guid": "1998d6050ab14c648b4977d09df83144.16",
+      "lat": 44.246776,
+      "lng": -76.544153,
+      "name": "Meadowbrook Off-Leash Dog Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "5910a19d3ebc4e6cb4dcba20f4e09b77.16": {
+      "guid": "5910a19d3ebc4e6cb4dcba20f4e09b77.16",
+      "lat": 44.253702,
+      "lng": -76.55153,
+      "name": "Trillium Ridge Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "d641da71495141eaa235b9a64d07f06d.16": {
+      "guid": "d641da71495141eaa235b9a64d07f06d.16",
+      "lat": 44.252325,
+      "lng": -76.565938,
+      "name": "Prost Bowling Centre",
+      "type": "gym"
+    },
+    "5bcdc13a704244779ccdc87972078f35.16": {
+      "guid": "5bcdc13a704244779ccdc87972078f35.16",
+      "lat": 44.252663,
+      "lng": -76.569163,
+      "name": "Bayridge Alliance Church",
+      "type": "gym"
+    },
+    "fd800c42a2ec44cbac0a303bbcb6fa48.16": {
+      "guid": "fd800c42a2ec44cbac0a303bbcb6fa48.16",
+      "lat": 44.244374,
+      "lng": -76.567325,
+      "name": "Montana’s Mural",
+      "type": "gym"
+    },
+    "3ed2f62c1c26473b9ad77ce7ccdec9d6.16": {
+      "guid": "3ed2f62c1c26473b9ad77ce7ccdec9d6.16",
+      "lat": 44.248847,
+      "lng": -76.570494,
+      "name": "King's Town Beer Company",
+      "type": "gym"
+    },
+    "ceec82f298ba4fb39b3b7cd1b3d73fb7.11": {
+      "guid": "ceec82f298ba4fb39b3b7cd1b3d73fb7.11",
+      "lat": 44.255473,
+      "lng": -76.571915,
+      "name": "Cataraqui Centre",
+      "type": "gym"
+    },
+    "f0ced2d08428489b94e1ce864abe60c1.16": {
+      "guid": "f0ced2d08428489b94e1ce864abe60c1.16",
+      "lat": 44.257431,
+      "lng": -76.576853,
+      "name": "Norwest Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "857485dad96145f49bd41275164255c7.16": {
+      "guid": "857485dad96145f49bd41275164255c7.16",
+      "lat": 44.258938,
+      "lng": -76.579987,
+      "name": "Frederick Denyes monument",
+      "type": "gym"
+    },
+    "cc2e0e0f921f46ef90dab0a0c3524f48.16": {
+      "guid": "cc2e0e0f921f46ef90dab0a0c3524f48.16",
+      "lat": 44.261815,
+      "lng": -76.558547,
+      "name": "Emerald community center",
+      "type": "gym"
+    },
+    "eb89995e33904e35a0a7f6e817c09168.16": {
+      "guid": "eb89995e33904e35a0a7f6e817c09168.16",
+      "lat": 44.275875,
+      "lng": -76.568913,
+      "name": "Invista Centre",
+      "type": "gym"
+    },
+    "452cf89a6134497d9823585aae47d927.16": {
+      "guid": "452cf89a6134497d9823585aae47d927.16",
+      "lat": 44.266458,
+      "lng": -76.580009,
+      "name": "Cataraqui Woods Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "ca689150b9cf4b1fbbb1edfaa7ebdd63.16": {
+      "guid": "ca689150b9cf4b1fbbb1edfaa7ebdd63.16",
+      "lat": 44.261854,
+      "lng": -76.589539,
+      "name": "Pilgrim Holiness Church",
+      "type": "gym"
+    },
+    "912e7f58c5ee4bdab9de8b2d46de8ed7.16": {
+      "guid": "912e7f58c5ee4bdab9de8b2d46de8ed7.16",
+      "lat": 44.251986,
+      "lng": -76.584423,
+      "name": "Old Colony Park South",
+      "isEx": true,
+      "type": "gym"
+    },
+    "62a60295b9604c2282e9ace522f2d800.16": {
+      "guid": "62a60295b9604c2282e9ace522f2d800.16",
+      "lat": 44.246274,
+      "lng": -76.578172,
+      "name": "Volleyball Sand Pit At Bay Park Baptist Church",
+      "isEx": true,
+      "type": "gym"
+    },
+    "e2e43f7b25ad47f5b4aab456274094e5.16": {
+      "guid": "e2e43f7b25ad47f5b4aab456274094e5.16",
+      "lat": 44.246653,
+      "lng": -76.58165,
+      "name": "Ashton Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "2bd3338913694c5cac5c5a4e05490b51.16": {
+      "guid": "2bd3338913694c5cac5c5a4e05490b51.16",
+      "lat": 44.243637,
+      "lng": -76.585136,
+      "name": "Masonic Lodge Kingston",
+      "type": "gym"
+    },
+    "0eacd226e2c34a02a9a916baadf47069.16": {
+      "guid": "0eacd226e2c34a02a9a916baadf47069.16",
+      "lat": 44.249671,
+      "lng": -76.591018,
+      "name": "Sexton Place Playground",
+      "type": "gym"
+    },
+    "2de74287146b43b6a4363125b86d05ab.16": {
+      "guid": "2de74287146b43b6a4363125b86d05ab.16",
+      "lat": 44.248152,
+      "lng": -76.591148,
+      "name": "Bayridge Park Baseball Field",
+      "isEx": true,
+      "type": "gym"
+    },
+    "a8db5c9d396046d3af59730d299b02fa.16": {
+      "guid": "a8db5c9d396046d3af59730d299b02fa.16",
+      "lat": 44.253518,
+      "lng": -76.590953,
+      "name": "Bridlepath Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "632c2745ac8748c895dc5a798753347a.16": {
+      "guid": "632c2745ac8748c895dc5a798753347a.16",
+      "lat": 44.254135,
+      "lng": -76.60079,
+      "name": "Garden Walk Park Playstucture & Swings",
+      "isEx": true,
+      "type": "gym"
+    },
+    "764a1a4ac7df4ec09982bef602e35e5e.16": {
+      "guid": "764a1a4ac7df4ec09982bef602e35e5e.16",
+      "lat": 44.256214,
+      "lng": -76.603644,
+      "name": "Dunham Park",
+      "type": "gym"
+    },
+    "d2b83cf5600f43e29c3f19cbc4fcdd98.16": {
+      "guid": "d2b83cf5600f43e29c3f19cbc4fcdd98.16",
+      "lat": 44.258012,
+      "lng": -76.603866,
+      "name": "Woodbine Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "6cc1ea6353e24c23894d7b29be44ab43.16": {
+      "guid": "6cc1ea6353e24c23894d7b29be44ab43.16",
+      "lat": 44.249673,
+      "lng": -76.607325,
+      "name": "Highgate Park",
+      "type": "gym"
+    },
+    "afd3d2d42e344e448477d6e310a5e8b1.16": {
+      "guid": "afd3d2d42e344e448477d6e310a5e8b1.16",
+      "lat": 44.244304,
+      "lng": -76.603514,
+      "name": "Korean War Memorial",
+      "type": "gym"
+    },
+    "cc61ed42e67c4638ab7e8fe3a1cfdc51.16": {
+      "guid": "cc61ed42e67c4638ab7e8fe3a1cfdc51.16",
+      "lat": 44.242909,
+      "lng": -76.6098,
+      "name": "Collins Bay Antiques & Collectibles",
+      "type": "gym"
+    },
+    "8bf0bdbc8ece4befa1e09007d104e7a6.16": {
+      "guid": "8bf0bdbc8ece4befa1e09007d104e7a6.16",
+      "lat": 44.238707,
+      "lng": -76.622014,
+      "name": "Bayshore Park",
+      "type": "gym"
+    },
+    "053fee0619b641bba10dc340e8bdd94e.16": {
+      "guid": "053fee0619b641bba10dc340e8bdd94e.16",
+      "lat": 44.226902,
+      "lng": -76.641611,
+      "name": "Amherstview Water Tower",
+      "type": "gym"
+    },
+    "6c7c83a4871e4b908c7d7199f3d1ca93.16": {
+      "guid": "6c7c83a4871e4b908c7d7199f3d1ca93.16",
+      "lat": 44.22616,
+      "lng": -76.641432,
+      "name": "Amherstview Community Center",
+      "type": "gym"
+    },
+    "2d077a999939495886b5b1e8312159a7.16": {
+      "guid": "2d077a999939495886b5b1e8312159a7.16",
+      "lat": 44.223265,
+      "lng": -76.642212,
+      "name": "Blessed Sacrament Roman Catholic Church",
+      "type": "gym"
+    },
+    "46ce4fb11d0e434c998758975a70645e.16": {
+      "guid": "46ce4fb11d0e434c998758975a70645e.16",
+      "lat": 44.220749,
+      "lng": -76.636378,
+      "name": "Island View Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "b2b88057a9994f17866c234868988e03.16": {
+      "guid": "b2b88057a9994f17866c234868988e03.16",
+      "lat": 44.219738,
+      "lng": -76.645138,
+      "name": "Trinity Presbyterian Church",
+      "type": "gym"
+    },
+    "3e1611875ef9452583880672fa62a4c3.16": {
+      "guid": "3e1611875ef9452583880672fa62a4c3.16",
+      "lat": 44.216274,
+      "lng": -76.654989,
+      "name": "Fairfield House Plaque",
+      "isEx": true,
+      "type": "gym"
+    },
+    "c860fa8b48db486aacc06d86f63aee7b.16": {
+      "guid": "c860fa8b48db486aacc06d86f63aee7b.16",
+      "lat": 44.217026,
+      "lng": -76.661763,
+      "name": "Amherstview Bayview Pioneer Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "561e6c9090754a2497856c04808f4d2d.16": {
+      "guid": "561e6c9090754a2497856c04808f4d2d.16",
+      "lat": 44.248636,
+      "lng": -76.643411,
+      "name": "L&A Ridge Runners Trail Marker",
+      "type": "gym"
+    },
+    "88177f9ade4f40b9a635ff73e845e44d.16": {
+      "guid": "88177f9ade4f40b9a635ff73e845e44d.16",
+      "lat": 44.270526,
+      "lng": -76.61871,
+      "name": "Westbrook Park Play Structure",
+      "type": "gym"
+    },
+    "cdfbb23bdb7b41d5a9b5665c73642262.16": {
+      "guid": "cdfbb23bdb7b41d5a9b5665c73642262.16",
+      "lat": 44.271989,
+      "lng": -76.627292,
+      "name": "Westbrook Meadows Park Playstructures",
+      "type": "gym"
+    },
+    "54381fe6f8b14fc8b26c01d674320939.16": {
+      "guid": "54381fe6f8b14fc8b26c01d674320939.16",
+      "lat": 44.219242,
+      "lng": -76.593299,
+      "name": "Harvard Memorial",
+      "type": "gym"
+    },
+    "7d35146028984ef497c05c9374ecd278.16": {
+      "guid": "7d35146028984ef497c05c9374ecd278.16",
+      "lat": 44.21611,
+      "lng": -76.606216,
+      "name": "Lemoine Point Conservation Area Entrance",
+      "type": "gym"
+    },
+    "1dfccd69283f421bab2e0bdeec7c6db9.11": {
+      "guid": "1dfccd69283f421bab2e0bdeec7c6db9.11",
+      "lat": 44.220473,
+      "lng": -76.606829,
+      "name": "Lemoine Point Conservation Area Information Board",
+      "type": "gym"
+    },
+    "1c1fc946a7ca4046982f4c4048a57a6b.16": {
+      "guid": "1c1fc946a7ca4046982f4c4048a57a6b.16",
+      "lat": 44.220696,
+      "lng": -76.615766,
+      "name": "Bench In Loving Memory Of Ronald Clarence Cooley",
+      "type": "gym"
+    },
+    "79a3c4769b354638914d1ea7f89b5a08.16": {
+      "guid": "79a3c4769b354638914d1ea7f89b5a08.16",
+      "lat": 44.218624,
+      "lng": -76.616689,
+      "name": "John Needham Bench",
+      "type": "gym"
+    },
+    "4d16069d75c64eb5bd8a3914c189cd42.16": {
+      "guid": "4d16069d75c64eb5bd8a3914c189cd42.16",
+      "lat": 44.220014,
+      "lng": -76.618269,
+      "name": "Bench In Loving Memory Of Helen Bedford",
+      "type": "gym"
+    },
+    "04bab30848c244f6a9a7046ff81cdcba.16": {
+      "guid": "04bab30848c244f6a9a7046ff81cdcba.16",
+      "lat": 44.223251,
+      "lng": -76.610602,
+      "name": "Barn Swallow Habitat Project",
+      "type": "gym"
+    },
+    "6ad9ec0222f742659284a637ec113ab4.16": {
+      "guid": "6ad9ec0222f742659284a637ec113ab4.16",
+      "lat": 44.224802,
+      "lng": -76.614696,
+      "name": "Lemoine Point Trail Map (2 & 1)",
+      "type": "gym"
+    },
+    "a1fb7350976644bebb3f8bdfc3299ffd.16": {
+      "guid": "a1fb7350976644bebb3f8bdfc3299ffd.16",
+      "lat": 44.225649,
+      "lng": -76.616013,
+      "name": "Lemoine Point Trail Map ( 1 & 2 )",
+      "type": "gym"
+    },
+    "a7fb0a227b984049a8616dbb15354476.16": {
+      "guid": "a7fb0a227b984049a8616dbb15354476.16",
+      "lat": 44.225479,
+      "lng": -76.61683,
+      "name": "Lemoine Point Trail 1 Viewing Deck # 2",
+      "type": "gym"
+    },
+    "65d5fb90c5b64128a3d3763f9ca5acff.16": {
+      "guid": "65d5fb90c5b64128a3d3763f9ca5acff.16",
+      "lat": 44.230132,
+      "lng": -76.61399,
+      "name": "Lemoine Point Water Trail Map (1 & 5)",
+      "type": "gym"
+    },
+    "0ac49307506145f19d217cafdab04e84.16": {
+      "guid": "0ac49307506145f19d217cafdab04e84.16",
+      "lat": 44.2314,
+      "lng": -76.61415,
+      "name": "Lemoine Point Field Trail Map (1 & 5)",
+      "type": "gym"
+    },
+    "eba020a258064927b6d4f71b361c94ad.16": {
+      "guid": "eba020a258064927b6d4f71b361c94ad.16",
+      "lat": 44.237431,
+      "lng": -76.607478,
+      "name": "Lemoine Totem",
+      "type": "gym"
+    },
+    "5c539bdf19fc4526b3d2bb3689d077b1.16": {
+      "guid": "5c539bdf19fc4526b3d2bb3689d077b1.16",
+      "lat": 44.239013,
+      "lng": -76.60427,
+      "name": "Collins Bay Yacht Club",
+      "type": "gym"
+    },
+    "52d510e14d19493f99e8910b5e2b7018.16": {
+      "guid": "52d510e14d19493f99e8910b5e2b7018.16",
+      "lat": 44.259971,
+      "lng": -76.506271,
+      "name": "Kingston Bus Terminal",
+      "type": "gym"
+    },
+    "bdf923d8aead42ad9f2ba7e5c132113a.16": {
+      "guid": "bdf923d8aead42ad9f2ba7e5c132113a.16",
+      "lat": 44.317935,
+      "lng": -76.501266,
+      "name": "Shannons Corners Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "d468b5283cf44d828630a2c83f4b2011.16": {
+      "guid": "d468b5283cf44d828630a2c83f4b2011.16",
+      "lat": 44.228187,
+      "lng": -76.469372,
+      "name": "Commodore's Residence",
+      "type": "gym"
+    },
+    "7083cd1d8316422682bee1a4be54d220.16": {
+      "guid": "7083cd1d8316422682bee1a4be54d220.16",
+      "lat": 44.228926,
+      "lng": -76.469364,
+      "name": "Yeo Hall",
+      "type": "gym"
+    },
+    "1ac2af8c0f534bc7a9a1072b8fab0e19.16": {
+      "guid": "1ac2af8c0f534bc7a9a1072b8fab0e19.16",
+      "lat": 44.23751,
+      "lng": -76.466821,
+      "name": "Avro CF-100 Canuck Mark 5",
+      "type": "gym"
+    },
+    "e3f48f89f109478fa7a65bd64e7e9d9c.16": {
+      "guid": "e3f48f89f109478fa7a65bd64e7e9d9c.16",
+      "lat": 44.229955,
+      "lng": -76.460843,
+      "name": "Fort Henry Cannon",
+      "isEx": true,
+      "type": "gym"
+    },
+    "51e20a8f4dfd4d32a4a98e328a8376e2.16": {
+      "guid": "51e20a8f4dfd4d32a4a98e328a8376e2.16",
+      "lat": 44.238969,
+      "lng": -76.461554,
+      "name": "1st Canadian Division Centennial Monument",
+      "isEx": true,
+      "type": "gym"
+    },
+    "16fc33100fa14d81ae734d52a646cef0.16": {
+      "guid": "16fc33100fa14d81ae734d52a646cef0.16",
+      "lat": 44.240273,
+      "lng": -76.455142,
+      "name": "RCEME Memorial Gates",
+      "type": "gym"
+    },
+    "5bff36cb6ec24b448410ef39410940f3.16": {
+      "guid": "5bff36cb6ec24b448410ef39410940f3.16",
+      "lat": 44.238063,
+      "lng": -76.44921,
+      "name": "Holy Family Catholic Chapel",
+      "type": "gym"
+    },
+    "342e2f97a9824201bd212921042ce33a.16": {
+      "guid": "342e2f97a9824201bd212921042ce33a.16",
+      "lat": 44.243651,
+      "lng": -76.450791,
+      "name": "The Air Force And Joint Operations",
+      "type": "gym"
+    },
+    "18ff167ae17f46f8badfba2659ff4dd3.16": {
+      "guid": "18ff167ae17f46f8badfba2659ff4dd3.16",
+      "lat": 44.243131,
+      "lng": -76.446314,
+      "name": "CFB Kingston soccer field",
+      "type": "gym"
+    },
+    "8738f2a8a4d44d7396cc2a036fc010e6.12": {
+      "guid": "8738f2a8a4d44d7396cc2a036fc010e6.12",
+      "lat": 44.242332,
+      "lng": -76.439347,
+      "name": "Military Communications And Electronics Museum",
+      "type": "gym"
+    },
+    "235c029713574b7b88e957bfc7e84a09.16": {
+      "guid": "235c029713574b7b88e957bfc7e84a09.16",
+      "lat": 44.230829,
+      "lng": -76.459915,
+      "name": "Internment of Ukranian Canadians",
+      "type": "gym"
+    },
+    "0514b3b6618845a0b8561e2649ec67b9.16": {
+      "guid": "0514b3b6618845a0b8561e2649ec67b9.16",
+      "lat": 44.241684,
+      "lng": -76.548569,
+      "name": "Mark Bunting",
+      "type": "gym"
+    },
+    "e5580b84d9544a95b2cd63da59611668.16": {
+      "guid": "e5580b84d9544a95b2cd63da59611668.16",
+      "lat": 44.223275,
+      "lng": -76.646896,
+      "name": "Amherstview Dinosaur Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "0d7809e1cab24b2da2a2f34065c61867.16": {
+      "guid": "0d7809e1cab24b2da2a2f34065c61867.16",
+      "lat": 44.238111,
+      "lng": -76.573028,
+      "name": "The Loyal Oarsman",
+      "type": "gym"
+    },
+    "cf774d7413724212b4311329e0f70077.16": {
+      "guid": "cf774d7413724212b4311329e0f70077.16",
+      "lat": 44.242771,
+      "lng": -76.481332,
+      "name": "Emma Martin Park",
+      "type": "gym"
+    },
+    "f73aa2f6e67947c69c976fab0db276c0.16": {
+      "guid": "f73aa2f6e67947c69c976fab0db276c0.16",
+      "lat": 44.234927,
+      "lng": -76.470335,
+      "name": "RMC Memorial Arch",
+      "type": "gym"
+    },
+    "d23e9dc021784850a74f87a8f2b80161.16": {
+      "guid": "d23e9dc021784850a74f87a8f2b80161.16",
+      "lat": 44.237631,
+      "lng": -76.605438,
+      "name": "Rotary Park Basketball Court",
+      "isEx": true,
+      "type": "gym"
+    },
+    "433314ea234e4c3dbbdebcaec72991d2.16": {
+      "guid": "433314ea234e4c3dbbdebcaec72991d2.16",
+      "lat": 44.259868,
+      "lng": -76.603247,
+      "name": "Woodbine Park Sports Complex",
+      "isEx": true,
+      "type": "gym"
+    },
+    "b36bef9d793f457f93ae423f646cb3e8.16": {
+      "guid": "b36bef9d793f457f93ae423f646cb3e8.16",
+      "lat": 44.251478,
+      "lng": -76.597213,
+      "name": "St. Paul the Apostle Church",
+      "type": "gym"
+    },
+    "c8f6c2c9b3cb408c9b44fa259ffbb02f.16": {
+      "guid": "c8f6c2c9b3cb408c9b44fa259ffbb02f.16",
+      "lat": 44.261638,
+      "lng": -76.604599,
+      "name": "Woodbine Park Soccer Field 1 of 6",
+      "isEx": true,
+      "type": "gym"
+    },
+    "10ab7e16bff74a3c8dfcaa5001a41700.16": {
+      "guid": "10ab7e16bff74a3c8dfcaa5001a41700.16",
+      "lat": 44.257489,
+      "lng": -76.558047,
+      "name": "Centennial Post Office",
+      "type": "gym"
+    },
+    "0808723f743246c29911e09c5b307f0a.16": {
+      "guid": "0808723f743246c29911e09c5b307f0a.16",
+      "lat": 44.228517,
+      "lng": -76.582906,
+      "name": "Jim Beattie Park Playground",
+      "isEx": true,
+      "type": "gym"
+    },
+    "2b982885a2ca4602b01e619b260cee74.16": {
+      "guid": "2b982885a2ca4602b01e619b260cee74.16",
+      "lat": 44.24426,
+      "lng": -76.479981,
+      "name": "K&P Trail Map-Emma Martin Park",
+      "type": "gym"
+    },
+    "f51461e03f80439c955e3540fa6b01e8.16": {
+      "guid": "f51461e03f80439c955e3540fa6b01e8.16",
+      "lat": 44.218902,
+      "lng": -76.56727,
+      "name": "Neighbourhood Sharing Centre",
+      "type": "gym"
+    },
+    "22f9fe32d5684299a8826576d91dc191.16": {
+      "guid": "22f9fe32d5684299a8826576d91dc191.16",
+      "lat": 44.234858,
+      "lng": -76.589273,
+      "name": "Fossil Park",
+      "type": "gym"
+    },
+    "002cab1ecfb04ebb9882536684c6e294.16": {
+      "guid": "002cab1ecfb04ebb9882536684c6e294.16",
+      "lat": 44.233733,
+      "lng": -76.507973,
+      "name": "Churchill Park Pergola",
+      "isEx": true,
+      "type": "gym"
+    },
+    "5807cffa555546c1a1004aacdbdcccb7.16": {
+      "guid": "5807cffa555546c1a1004aacdbdcccb7.16",
+      "lat": 44.236244,
+      "lng": -76.596584,
+      "name": "West Park Playground",
+      "isEx": true,
+      "type": "gym"
+    },
+    "81dfc4f7fba74059a795fb136a236a79.16": {
+      "guid": "81dfc4f7fba74059a795fb136a236a79.16",
+      "lat": 44.224781,
+      "lng": -76.637912,
+      "name": "Amherstview Centennial Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "7ba55b182e0147009bbf093585a4c06f.16": {
+      "guid": "7ba55b182e0147009bbf093585a4c06f.16",
+      "lat": 44.238034,
+      "lng": -76.494373,
+      "name": "Mural at York and Division",
+      "type": "gym"
+    },
+    "b3c3283dc58c45bd982fa5adb4bcb60c.16": {
+      "guid": "b3c3283dc58c45bd982fa5adb4bcb60c.16",
+      "lat": 44.270665,
+      "lng": -76.43893,
+      "name": "Bluffwood Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "64ba76cc37bc402eab5461448f94fb56.16": {
+      "guid": "64ba76cc37bc402eab5461448f94fb56.16",
+      "lat": 44.255357,
+      "lng": -76.457624,
+      "name": "Grenadier Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "d228100634ed4e1681a36f279bfe5e40.16": {
+      "guid": "d228100634ed4e1681a36f279bfe5e40.16",
+      "lat": 44.26071,
+      "lng": -76.483872,
+      "name": "Starr Reid Park Soccer Field",
+      "isEx": true,
+      "type": "gym"
+    },
+    "a9d34e9d59624e26907c50a9c2831d5a.16": {
+      "guid": "a9d34e9d59624e26907c50a9c2831d5a.16",
+      "lat": 44.229666,
+      "lng": -76.494974,
+      "name": "ARC Pool",
+      "type": "gym"
+    },
+    "34b9f61b7d5540a0a94edef2a1c423ee.16": {
+      "guid": "34b9f61b7d5540a0a94edef2a1c423ee.16",
+      "lat": 44.220661,
+      "lng": -76.501759,
+      "name": "Gord Edgar Downie Pier",
+      "type": "gym"
+    },
+    "1081992dfc04446d8353f1f7258f25f9.16": {
+      "guid": "1081992dfc04446d8353f1f7258f25f9.16",
+      "lat": 44.222693,
+      "lng": -76.504426,
+      "name": "The Orchard",
+      "type": "gym"
+    },
+    "8eada2abce2742ae9727f5c80e1f55ec.16": {
+      "guid": "8eada2abce2742ae9727f5c80e1f55ec.16",
+      "lat": 44.220517,
+      "lng": -76.538299,
+      "name": "Marshlands Conservation Area Welcome Sign",
+      "type": "gym"
+    },
+    "35402c526b30496ea74de4d73dfd8d2f.16": {
+      "guid": "35402c526b30496ea74de4d73dfd8d2f.16",
+      "lat": 44.215857,
+      "lng": -76.530509,
+      "name": "Lake Ontario Park Pavillion",
+      "isEx": true,
+      "type": "gym"
+    },
+    "af6d6b6f439646ffbebc2384d3efe450.16": {
+      "guid": "af6d6b6f439646ffbebc2384d3efe450.16",
+      "lat": 44.215549,
+      "lng": -76.530887,
+      "name": "Rideau/Waterfront Trail Marker - Lake Ontario Park Steps",
+      "isEx": true,
+      "type": "gym"
+    },
+    "adc40eff659a4a9caf132890df931ccb.12": {
+      "guid": "adc40eff659a4a9caf132890df931ccb.12",
+      "lat": 44.259431,
+      "lng": -76.461324,
+      "name": "Kingston Frontenac Public Library-Pittsburgh Place",
+      "type": "gym"
+    },
+    "b72bf0ae36684f5a9d50dc26530acdff.16": {
+      "guid": "b72bf0ae36684f5a9d50dc26530acdff.16",
+      "lat": 44.238126,
+      "lng": -76.595327,
+      "name": "Waterfront Trail",
+      "type": "gym"
+    },
+    "9ce8059b94ce444bb078e8fa8242f8ee.12": {
+      "guid": "9ce8059b94ce444bb078e8fa8242f8ee.12",
+      "lat": 44.225563,
+      "lng": -76.658091,
+      "name": "Lennox & Addington County Library",
+      "type": "gym"
+    },
+    "1ffd515868ab469dbf66b46f63a92806.16": {
+      "guid": "1ffd515868ab469dbf66b46f63a92806.16",
+      "lat": 44.229904,
+      "lng": -76.468906,
+      "name": "Fort LaSalle",
+      "type": "gym"
+    },
+    "bacb7ee63a8c4449be8523889656506b.16": {
+      "guid": "bacb7ee63a8c4449be8523889656506b.16",
+      "lat": 44.264117,
+      "lng": -76.605985,
+      "name": "Kingston District Shrine Club",
+      "type": "gym"
+    },
+    "7f3e17a83c6b41d18ffc4730e9ef70b7.16": {
+      "guid": "7f3e17a83c6b41d18ffc4730e9ef70b7.16",
+      "lat": 44.234947,
+      "lng": -76.510475,
+      "name": "Compton Park Tennis Courts",
+      "isEx": true,
+      "type": "gym"
+    },
+    "e615ef065f794c8eb3a19d4c65ac24f7.16": {
+      "guid": "e615ef065f794c8eb3a19d4c65ac24f7.16",
+      "lat": 44.225928,
+      "lng": -76.657675,
+      "name": "WJ Henderson Recreation Centre",
+      "type": "gym"
+    },
+    "45a6073e89344c0e84fc9080be0610cb.16": {
+      "guid": "45a6073e89344c0e84fc9080be0610cb.16",
+      "lat": 44.222941,
+      "lng": -76.665234,
+      "name": "Amherstview Loyalist Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "5b21b30e3cd042fb9860862023bb0963.12": {
+      "guid": "5b21b30e3cd042fb9860862023bb0963.12",
+      "lat": 44.219101,
+      "lng": -76.64615,
+      "name": "Lennox and Addington County",
+      "type": "gym"
+    },
+    "a96ee24998a64c89a4bf72a96d2f7a1e.16": {
+      "guid": "a96ee24998a64c89a4bf72a96d2f7a1e.16",
+      "lat": 44.219502,
+      "lng": -76.651682,
+      "name": "Lakeview Park Playground",
+      "isEx": true,
+      "type": "gym"
+    },
+    "4e857e261ef74fda91816168cec51bea.16": {
+      "guid": "4e857e261ef74fda91816168cec51bea.16",
+      "lat": 44.237778,
+      "lng": -76.503013,
+      "name": "Window Art Gallery",
+      "type": "gym"
+    },
+    "e67e674bad534fb9a40878554a24f53d.16": {
+      "guid": "e67e674bad534fb9a40878554a24f53d.16",
+      "lat": 44.24412,
+      "lng": -76.61732,
+      "name": "Lawrence Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "b0833764897d4eab8164221acdbfc8d2.16": {
+      "guid": "b0833764897d4eab8164221acdbfc8d2.16",
+      "lat": 44.245892,
+      "lng": -76.598731,
+      "name": "Hillview Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "b4f512a181144bafb8a3b3d15929e9ae.16": {
+      "guid": "b4f512a181144bafb8a3b3d15929e9ae.16",
+      "lat": 44.235454,
+      "lng": -76.566633,
+      "name": "Wonderland Escape Rooms & Board Game Lounge",
+      "type": "gym"
+    },
+    "4b9cbd94b26a4dcb84343a13ce5d0026.16": {
+      "guid": "4b9cbd94b26a4dcb84343a13ce5d0026.16",
+      "lat": 44.23367,
+      "lng": -76.626673,
+      "name": "McCullough Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "15e8ffedbf4541da953a70d20848e874.16": {
+      "guid": "15e8ffedbf4541da953a70d20848e874.16",
+      "lat": 44.263873,
+      "lng": -76.485646,
+      "name": "Shannon Park Soccer Field (1 of 2)",
+      "isEx": true,
+      "type": "gym"
+    },
+    "69d8707d41bb457fad1b25424f9685f4.16": {
+      "guid": "69d8707d41bb457fad1b25424f9685f4.16",
+      "lat": 44.226615,
+      "lng": -76.48052,
+      "name": "Battery Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "82c630dc80634d89be51cb1fa57fc256.16": {
+      "guid": "82c630dc80634d89be51cb1fa57fc256.16",
+      "lat": 44.218985,
+      "lng": -76.585646,
+      "name": "Dagnone Memorial Bench",
+      "type": "gym"
+    },
+    "c121d5843412459eaddb9f4b1ab41885.16": {
+      "guid": "c121d5843412459eaddb9f4b1ab41885.16",
+      "lat": 44.253097,
+      "lng": -76.589192,
+      "name": "New Apostolic Church",
+      "type": "gym"
+    },
+    "34b826b83fcf4402981d13389f99aeb4.16": {
+      "guid": "34b826b83fcf4402981d13389f99aeb4.16",
+      "lat": 44.226159,
+      "lng": -76.632558,
+      "name": "Eastside Park Playground",
+      "isEx": true,
+      "type": "gym"
+    },
+    "09ec81f13e804a8f9cde07942a7d918e.16": {
+      "guid": "09ec81f13e804a8f9cde07942a7d918e.16",
+      "lat": 44.22871,
+      "lng": -76.577843,
+      "name": "Lakeshore Swimming Pool Association",
+      "isEx": true,
+      "type": "gym"
+    },
+    "22dd44658dc248ce9c70d1063679c8fe.16": {
+      "guid": "22dd44658dc248ce9c70d1063679c8fe.16",
+      "lat": 44.224572,
+      "lng": -76.510017,
+      "name": "Donald Gordon Center",
+      "type": "gym"
+    },
+    "3dd6e64dd8b249ce809afacb37201734.16": {
+      "guid": "3dd6e64dd8b249ce809afacb37201734.16",
+      "lat": 44.220156,
+      "lng": -76.56868,
+      "name": "Royal Kingston Curling Club",
+      "type": "gym"
+    },
+    "5198e5c9e28a489bb4e4ae0a8bd271f0.16": {
+      "guid": "5198e5c9e28a489bb4e4ae0a8bd271f0.16",
+      "lat": 44.234587,
+      "lng": -76.586285,
+      "name": "Auden Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "741e4c5af4d64c30ae41d0041b1bb142.11": {
+      "guid": "741e4c5af4d64c30ae41d0041b1bb142.11",
+      "lat": 44.235096,
+      "lng": -76.608606,
+      "name": "Lemoine Point Conservation Area—North Entrance",
+      "type": "gym"
+    },
+    "baa92bee5461428a8ac772280a052fcc.16": {
+      "guid": "baa92bee5461428a8ac772280a052fcc.16",
+      "lat": 44.257045,
+      "lng": -76.519656,
+      "name": "Abberfoyle Park",
+      "type": "gym"
+    },
+    "26cc125b28064979bd3df2d651c03b7d.16": {
+      "guid": "26cc125b28064979bd3df2d651c03b7d.16",
+      "lat": 44.225265,
+      "lng": -76.636021,
+      "name": "Joe Demers Memorial Plaque",
+      "isEx": true,
+      "type": "gym"
+    },
+    "d1cbbebd10ce4fbb9f10c03a74400fc9.16": {
+      "guid": "d1cbbebd10ce4fbb9f10c03a74400fc9.16",
+      "lat": 44.220669,
+      "lng": -76.50749,
+      "name": "Red Cross Lodge",
+      "type": "gym"
+    },
+    "c79f398e6f5d4a89abc270ba8ffb7a02.16": {
+      "guid": "c79f398e6f5d4a89abc270ba8ffb7a02.16",
+      "lat": 44.271957,
+      "lng": -76.530082,
+      "name": "K&P Trail 8km Marker",
+      "type": "gym"
+    },
+    "8184d7cfc6bc4ce0ba58e7b5bf16607a.16": {
+      "guid": "8184d7cfc6bc4ce0ba58e7b5bf16607a.16",
+      "lat": 44.2268,
+      "lng": -76.528872,
+      "name": "Nickle Avenue Park Playground",
+      "type": "gym"
+    },
+    "ec1379933dec4c94bddf06b4316b1e96.16": {
+      "guid": "ec1379933dec4c94bddf06b4316b1e96.16",
+      "lat": 44.234838,
+      "lng": -76.535721,
+      "name": "Green Park Playground",
+      "type": "gym"
+    },
+    "77ff3998e08247ef97891d97ab2b42b0.16": {
+      "guid": "77ff3998e08247ef97891d97ab2b42b0.16",
+      "lat": 44.244814,
+      "lng": -76.540872,
+      "name": "Rivermeade Park",
+      "type": "gym"
+    },
+    "715015bbebb94f41ac447ebdeaf9a533.16": {
+      "guid": "715015bbebb94f41ac447ebdeaf9a533.16",
+      "lat": 44.237623,
+      "lng": -76.467922,
+      "name": "Constantine Arena",
+      "type": "gym"
+    },
+    "651a0380bdf8434191deb6a1c7f432aa.16": {
+      "guid": "651a0380bdf8434191deb6a1c7f432aa.16",
+      "lat": 44.295063,
+      "lng": -76.510094,
+      "name": "Little Cataraqui Creek - Sugar Shack",
+      "type": "gym"
+    },
+    "df15781f9fb44229b89d3b1219e26ce7.11": {
+      "guid": "df15781f9fb44229b89d3b1219e26ce7.11",
+      "lat": 44.23171,
+      "lng": -76.571766,
+      "name": "LaSalle Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "ff5d3b2f5e994983839845dc08e78cb8.16": {
+      "guid": "ff5d3b2f5e994983839845dc08e78cb8.16",
+      "lat": 44.222429,
+      "lng": -76.499535,
+      "name": "Breakwater Park",
+      "type": "gym"
+    },
+    "b1c5bbb3d2d94f7ca28ebbb4e2985f46.16": {
+      "guid": "b1c5bbb3d2d94f7ca28ebbb4e2985f46.16",
+      "lat": 44.236768,
+      "lng": -76.528933,
+      "name": "Mc Cullough Park Skatepark",
+      "isEx": true,
+      "type": "gym"
+    },
+    "60bdca6d89c24f3fb91258130262bfeb.16": {
+      "guid": "60bdca6d89c24f3fb91258130262bfeb.16",
+      "lat": 44.319972,
+      "lng": -76.502416,
+      "name": "Antique Fire Hose Cart",
+      "type": "gym"
+    },
+    "9c4601f1d7d5490f89c4d98e8cbcfc95.16": {
+      "guid": "9c4601f1d7d5490f89c4d98e8cbcfc95.16",
+      "lat": 44.29831,
+      "lng": -76.5757,
+      "name": "K&P Trail - Cordukes And Burbrook Rd.",
+      "type": "gym"
+    },
+    "08f3098f4847418db7335f24b42beb2b.16": {
+      "guid": "08f3098f4847418db7335f24b42beb2b.16",
+      "lat": 44.30137,
+      "lng": -76.575476,
+      "name": "KOA Kingston Camping",
+      "type": "gym"
+    },
+    "bb4875e9335d41b59ecd0bb6f4b3b009.16": {
+      "guid": "bb4875e9335d41b59ecd0bb6f4b3b009.16",
+      "lat": 44.26601,
+      "lng": -76.490246,
+      "name": "Marker's Acres Soccer Field",
+      "isEx": true,
+      "type": "gym"
+    },
+    "98337866f8e647648b6245f2e2b404ed.16": {
+      "guid": "98337866f8e647648b6245f2e2b404ed.16",
+      "lat": 44.26646,
+      "lng": -76.44745,
+      "name": "Deer Family Mural",
+      "type": "gym"
+    },
+    "3a9bfb5dc1164d7d90bcefac25e95d65.16": {
+      "guid": "3a9bfb5dc1164d7d90bcefac25e95d65.16",
+      "lat": 44.22769,
+      "lng": -76.495035,
+      "name": "Giant Glass TARDIS",
+      "type": "gym"
+    },
+    "f99fe3982fef415d813a5f0a99a79145.16": {
+      "guid": "f99fe3982fef415d813a5f0a99a79145.16",
+      "lat": 44.220521,
+      "lng": -76.608505,
+      "name": "Assisted Migration Info Plaque",
+      "type": "gym"
+    },
+    "7deb619683e14639b68de9ca7adabcad.16": {
+      "guid": "7deb619683e14639b68de9ca7adabcad.16",
+      "lat": 44.219987,
+      "lng": -76.530331,
+      "name": "Lake Ontario Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "55e793b057694350899f1383c6282f2e.11": {
+      "guid": "55e793b057694350899f1383c6282f2e.11",
+      "lat": 44.232652,
+      "lng": -76.478629,
+      "name": "Wolfe Island Ferry Terminal",
+      "type": "gym"
+    },
+    "6f63aafcef2b475290d611704f6b0327.16": {
+      "guid": "6f63aafcef2b475290d611704f6b0327.16",
+      "lat": 44.253671,
+      "lng": -76.561318,
+      "name": "Bexleygate Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "de59328764a14b2a8424b76afee7b46e.16": {
+      "guid": "de59328764a14b2a8424b76afee7b46e.16",
+      "lat": 44.222567,
+      "lng": -76.640725,
+      "name": "McPherson Park",
+      "type": "gym"
+    },
+    "bb79ca9a3a3848fa8d2db73d7a4f8cf3.16": {
+      "guid": "bb79ca9a3a3848fa8d2db73d7a4f8cf3.16",
+      "lat": 44.252758,
+      "lng": -76.487098,
+      "name": "Kingston Sikh Cultural Association Gurudwara",
+      "type": "gym"
+    },
+    "2e4b0fe7fecb47cdab6775a1a5865d27.16": {
+      "guid": "2e4b0fe7fecb47cdab6775a1a5865d27.16",
+      "lat": 44.218745,
+      "lng": -76.538986,
+      "name": "Kingston Shoreline Route - Commodore’s Cove",
+      "type": "gym"
+    },
+    "430e0fd01fc94818925902a8bf784a3f.16": {
+      "guid": "430e0fd01fc94818925902a8bf784a3f.16",
+      "lat": 44.22782,
+      "lng": -76.489679,
+      "name": "Frontenac County Court House",
+      "type": "gym"
+    },
+    "5b14e0dbecd644bbbca30940dbc66cb8.16": {
+      "guid": "5b14e0dbecd644bbbca30940dbc66cb8.16",
+      "lat": 44.215374,
+      "lng": -76.530324,
+      "name": "Friends of Lake Ontario Park Tree Plaque",
+      "isEx": true,
+      "type": "gym"
+    },
+    "63e563e230514f85b8b1b20204b8711f.16": {
+      "guid": "63e563e230514f85b8b1b20204b8711f.16",
+      "lat": 44.225928,
+      "lng": -76.513797,
+      "name": "The Garden Of Education",
+      "type": "gym"
+    },
+    "988285129f304a8090d858d29080f704.16": {
+      "guid": "988285129f304a8090d858d29080f704.16",
+      "lat": 44.225547,
+      "lng": -76.521974,
+      "name": "Portsmouth Soccer Field (1 of 2)",
+      "isEx": true,
+      "type": "gym"
+    },
+    "e078f49f90f4469691356ca36b867fc3.16": {
+      "guid": "e078f49f90f4469691356ca36b867fc3.16",
+      "lat": 44.236978,
+      "lng": -76.578885,
+      "name": "Canatara Pergola",
+      "type": "gym"
+    },
+    "07c5d20da77d4abc81f47b13d41065d9.16": {
+      "guid": "07c5d20da77d4abc81f47b13d41065d9.16",
+      "lat": 44.224253,
+      "lng": -76.52752,
+      "name": "SLC Steel Sculpture",
+      "type": "gym"
+    },
+    "63beb1f3f1e246f3b4e2a570273f503a.16": {
+      "guid": "63beb1f3f1e246f3b4e2a570273f503a.16",
+      "lat": 44.228956,
+      "lng": -76.479727,
+      "name": "Wooden Watchtower",
+      "isEx": true,
+      "type": "gym"
+    },
+    "13c911779344438eb99c255717bc118d.12": {
+      "guid": "13c911779344438eb99c255717bc118d.12",
+      "lat": 44.22424,
+      "lng": -76.484856,
+      "name": "Pump House Steam Museum",
+      "type": "gym"
+    },
+    "7aa517f73e074a5d9f0ba660956e9153.16": {
+      "guid": "7aa517f73e074a5d9f0ba660956e9153.16",
+      "lat": 44.245384,
+      "lng": -76.505604,
+      "name": "Third Avenue Baseball Diamond",
+      "isEx": true,
+      "type": "gym"
+    },
+    "13238dcfa0594811b92dc44b07cc9478.16": {
+      "guid": "13238dcfa0594811b92dc44b07cc9478.16",
+      "lat": 44.222284,
+      "lng": -76.489385,
+      "name": "Gaskin Lion",
+      "isEx": true,
+      "type": "gym"
+    },
+    "2735aa9dc82c4939bb0b43d8f4aa7eb1.16": {
+      "guid": "2735aa9dc82c4939bb0b43d8f4aa7eb1.16",
+      "lat": 44.228293,
+      "lng": -76.481451,
+      "name": "PJ Murphy’s Irish Gastro Pub",
+      "type": "gym"
+    },
+    "c170dd19a1c8478ca4bd0933197824b9.16": {
+      "guid": "c170dd19a1c8478ca4bd0933197824b9.16",
+      "lat": 44.231698,
+      "lng": -76.488834,
+      "name": "Elizabeth Cottage",
+      "type": "gym"
+    },
+    "7298a0cf46964d47a2dca739ef2bbc65.16": {
+      "guid": "7298a0cf46964d47a2dca739ef2bbc65.16",
+      "lat": 44.227791,
+      "lng": -76.515698,
+      "name": "Richardson Memorial Stadium",
+      "type": "gym"
+    },
+    "4b388b2ec6424650a0a9180d15bf54b3.16": {
+      "guid": "4b388b2ec6424650a0a9180d15bf54b3.16",
+      "lat": 44.257528,
+      "lng": -76.548409,
+      "name": "Kingston Gospel Temple",
+      "type": "gym"
+    },
+    "ed084da5c2ab4d59874f88e86d662b5d.16": {
+      "guid": "ed084da5c2ab4d59874f88e86d662b5d.16",
+      "lat": 44.233044,
+      "lng": -76.523006,
+      "name": "Cookes-Portsmouth United Church",
+      "type": "gym"
+    },
+    "52ef87f2273447f6ab35349cb577478d.16": {
+      "guid": "52ef87f2273447f6ab35349cb577478d.16",
+      "lat": 44.222947,
+      "lng": -76.489668,
+      "name": "1812",
+      "isEx": true,
+      "type": "gym"
+    },
+    "b9dd9c673a2b4549ac28bbd91480c363.16": {
+      "guid": "b9dd9c673a2b4549ac28bbd91480c363.16",
+      "lat": 44.258032,
+      "lng": -76.559526,
+      "name": "Guardsman Telephone Booth",
+      "type": "gym"
+    },
+    "efa4f666a15844d3af95467fee5ded8c.16": {
+      "guid": "efa4f666a15844d3af95467fee5ded8c.16",
+      "lat": 44.220285,
+      "lng": -76.592427,
+      "name": "The Landings",
+      "type": "gym"
+    },
+    "75a36b8d7d484d5ca8b1d347227f4cd4.16": {
+      "guid": "75a36b8d7d484d5ca8b1d347227f4cd4.16",
+      "lat": 44.278639,
+      "lng": -76.58375,
+      "name": "New Life Church",
+      "type": "gym"
+    },
+    "623fdf596afc46cb91b1b05ea5759af7.16": {
+      "guid": "623fdf596afc46cb91b1b05ea5759af7.16",
+      "lat": 44.235739,
+      "lng": -76.488208,
+      "name": "Skeleton Park Plaque",
+      "isEx": true,
+      "type": "gym"
+    },
+    "81ed3dab91b9475d81153ae25779a355.16": {
+      "guid": "81ed3dab91b9475d81153ae25779a355.16",
+      "lat": 44.272636,
+      "lng": -76.539237,
+      "name": "K&P Trail -Brass St. Entrance",
+      "type": "gym"
+    },
+    "bbc95b1033f54148ba49140252612ef2.16": {
+      "guid": "bbc95b1033f54148ba49140252612ef2.16",
+      "lat": 44.250375,
+      "lng": -76.501669,
+      "name": "Kingscourt Free Methodist Church",
+      "type": "gym"
+    },
+    "b7f51e2b133842e483417d8dcf221bba.16": {
+      "guid": "b7f51e2b133842e483417d8dcf221bba.16",
+      "lat": 44.249991,
+      "lng": -76.502758,
+      "name": "Max Jackson Memorial Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "c12263c134d2453fb4a27318882833d5.16": {
+      "guid": "c12263c134d2453fb4a27318882833d5.16",
+      "lat": 44.231571,
+      "lng": -76.534369,
+      "name": "Fairway Hill Park Playground",
+      "isEx": true,
+      "type": "gym"
+    },
+    "6be8169c0f2a4478998a6e3ab6fdcec0.16": {
+      "guid": "6be8169c0f2a4478998a6e3ab6fdcec0.16",
+      "lat": 44.222175,
+      "lng": -76.526397,
+      "name": "St. Lawrence College volleyball courts",
+      "isEx": true,
+      "type": "gym"
+    },
+    "78dad07196fd4db8a2f08d9178e71024.16": {
+      "guid": "78dad07196fd4db8a2f08d9178e71024.16",
+      "lat": 44.268825,
+      "lng": -76.512817,
+      "name": "K&P Trail Map-Dalton & Cattail",
+      "type": "gym"
+    },
+    "636746961f864a77a98efad1a4931837.16": {
+      "guid": "636746961f864a77a98efad1a4931837.16",
+      "lat": 44.268653,
+      "lng": -76.519439,
+      "name": "K&P Trail Map-Dalton Ave",
+      "type": "gym"
+    },
+    "ff5e56cd4bc94ec086250a63191259da.16": {
+      "guid": "ff5e56cd4bc94ec086250a63191259da.16",
+      "lat": 44.270131,
+      "lng": -76.528626,
+      "name": "K&P Trail Marker-Binnington Court",
+      "type": "gym"
+    },
+    "a6e1a079365e477788db8bb0b8a91c5e.16": {
+      "guid": "a6e1a079365e477788db8bb0b8a91c5e.16",
+      "lat": 44.223998,
+      "lng": -76.495494,
+      "name": "McLaughlin Hall",
+      "type": "gym"
+    },
+    "20bdc6ec7d5d4f209839036fce89ba61.16": {
+      "guid": "20bdc6ec7d5d4f209839036fce89ba61.16",
+      "lat": 44.232748,
+      "lng": -76.523026,
+      "name": "Original Cooke's Cornerstone",
+      "type": "gym"
+    },
+    "6e8852225f5c49478bfef4efe11d79fa.16": {
+      "guid": "6e8852225f5c49478bfef4efe11d79fa.16",
+      "lat": 44.226448,
+      "lng": -76.522197,
+      "name": "Woodlands Park Playground",
+      "isEx": true,
+      "type": "gym"
+    },
+    "cc9c8c25fd664ce5bfe1aa8330eca2f9.12": {
+      "guid": "cc9c8c25fd664ce5bfe1aa8330eca2f9.12",
+      "lat": 44.238772,
+      "lng": -76.517559,
+      "name": "Kingston Frontenac Public Library",
+      "type": "gym"
+    },
+    "191f2845ad1940b8b038300db2b7213d.16": {
+      "guid": "191f2845ad1940b8b038300db2b7213d.16",
+      "lat": 44.25393,
+      "lng": -76.583303,
+      "name": "Old Colony Park Playground",
+      "isEx": true,
+      "type": "gym"
+    },
+    "9ee8a1c671c24128adb5736ef9d4431e.16": {
+      "guid": "9ee8a1c671c24128adb5736ef9d4431e.16",
+      "lat": 44.268333,
+      "lng": -76.541756,
+      "name": "Queens Medical Donation Monument",
+      "type": "gym"
+    },
+    "d218b3ed3857447a91bcea79da3e6ab4.16": {
+      "guid": "d218b3ed3857447a91bcea79da3e6ab4.16",
+      "lat": 44.233932,
+      "lng": -76.461274,
+      "name": "Fort Henry Main Entrance",
+      "type": "gym"
+    },
+    "6f96bb6331204efe80e46154ab7dba9c.16": {
+      "guid": "6f96bb6331204efe80e46154ab7dba9c.16",
+      "lat": 44.236761,
+      "lng": -76.464776,
+      "name": "Pro Patria",
+      "type": "gym"
+    },
+    "fc783fbada684439b8b64a6e881140c1.16": {
+      "guid": "fc783fbada684439b8b64a6e881140c1.16",
+      "lat": 44.27426,
+      "lng": -76.58038,
+      "name": "Midland Park Playstructure",
+      "isEx": true,
+      "type": "gym"
+    },
+    "3923294229ff47438ce721043221fda0.16": {
+      "guid": "3923294229ff47438ce721043221fda0.16",
+      "lat": 44.236051,
+      "lng": -76.451364,
+      "name": "Queenston Heights Outdoor Rink",
+      "isEx": true,
+      "type": "gym"
+    },
+    "5cc8aa818916458f81fb2583a726c7e0.16": {
+      "guid": "5cc8aa818916458f81fb2583a726c7e0.16",
+      "lat": 44.262518,
+      "lng": -76.498523,
+      "name": "K&P Trail Map (Division)",
+      "type": "gym"
+    },
+    "4c5cbc28ad594236950fb4db3413747c.16": {
+      "guid": "4c5cbc28ad594236950fb4db3413747c.16",
+      "lat": 44.251642,
+      "lng": -76.48581,
+      "name": "L5 105mm Gun Memorial",
+      "type": "gym"
+    },
+    "375eafbc9cf947f99ebc79f534cebe4f.16": {
+      "guid": "375eafbc9cf947f99ebc79f534cebe4f.16",
+      "lat": 44.259162,
+      "lng": -76.497474,
+      "name": "Centro Cultural Português",
+      "type": "gym"
+    },
+    "8ea273b122fe406496518cb2af9918ee.16": {
+      "guid": "8ea273b122fe406496518cb2af9918ee.16",
+      "lat": 44.235475,
+      "lng": -76.451764,
+      "name": "Queenston Heights Backstop",
+      "isEx": true,
+      "type": "gym"
+    },
+    "b26b60d9019f486881a6729120540439.16": {
+      "guid": "b26b60d9019f486881a6729120540439.16",
+      "lat": 44.255459,
+      "lng": -76.455208,
+      "name": "Grenadier Park Playground",
+      "isEx": true,
+      "type": "gym"
+    },
+    "a11034fa544843b2a4d90a2b8ad14fc0.16": {
+      "guid": "a11034fa544843b2a4d90a2b8ad14fc0.16",
+      "lat": 44.241545,
+      "lng": -76.494696,
+      "name": "Kingston house of prayer",
+      "type": "gym"
+    },
+    "e657a97a928b4aa1ac8ac88da21c2702.16": {
+      "guid": "e657a97a928b4aa1ac8ac88da21c2702.16",
+      "lat": 44.236586,
+      "lng": -76.528091,
+      "name": "McCullough Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "a90d974cc9cf4139a21c834bc4ca42d6.16": {
+      "guid": "a90d974cc9cf4139a21c834bc4ca42d6.16",
+      "lat": 44.246896,
+      "lng": -76.528502,
+      "name": "Kingston Co-Op Playground",
+      "type": "gym"
+    },
+    "a31557d83f504fd891a736152ea9e2eb.16": {
+      "guid": "a31557d83f504fd891a736152ea9e2eb.16",
+      "lat": 44.237779,
+      "lng": -76.481032,
+      "name": "Douglas Fluhrer Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "dccb62466b3d424b85f052a36d9e5bb3.16": {
+      "guid": "dccb62466b3d424b85f052a36d9e5bb3.16",
+      "lat": 44.238123,
+      "lng": -76.455506,
+      "name": "Fort Henry Heights",
+      "type": "gym"
+    },
+    "45f97973f99649498b1d20120c695ad4.16": {
+      "guid": "45f97973f99649498b1d20120c695ad4.16",
+      "lat": 44.254574,
+      "lng": -76.455825,
+      "name": "Grenadier Park Soccer Field (2 of 3)",
+      "isEx": true,
+      "type": "gym"
+    },
+    "f51f4ca2e7e045718843db84ece712e6.16": {
+      "guid": "f51f4ca2e7e045718843db84ece712e6.16",
+      "lat": 44.251529,
+      "lng": -76.596543,
+      "name": "St. Paul Church Map",
+      "type": "gym"
+    },
+    "cb751b30b94840d4aee8b8db620c9966.16": {
+      "guid": "cb751b30b94840d4aee8b8db620c9966.16",
+      "lat": 44.24838,
+      "lng": -76.483581,
+      "name": "Trees Get to the Root of the Matter",
+      "type": "gym"
+    },
+    "7d5db5ee7b3e444ab4644dd9ee6d511b.16": {
+      "guid": "7d5db5ee7b3e444ab4644dd9ee6d511b.16",
+      "lat": 44.260437,
+      "lng": -76.455543,
+      "name": "MacLean Park Community Garden",
+      "isEx": true,
+      "type": "gym"
+    },
+    "17bc753d7c8049729516717359f734dc.16": {
+      "guid": "17bc753d7c8049729516717359f734dc.16",
+      "lat": 44.254658,
+      "lng": -76.46236,
+      "name": "Point St. Mark Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "a3ad31b099c74ac49fccbe92af426179.16": {
+      "guid": "a3ad31b099c74ac49fccbe92af426179.16",
+      "lat": 44.255165,
+      "lng": -76.462714,
+      "name": "Point St. Mark Playstructure",
+      "isEx": true,
+      "type": "gym"
+    },
+    "d804b4ceee524eecad90fbccc19f151a.16": {
+      "guid": "d804b4ceee524eecad90fbccc19f151a.16",
+      "lat": 44.277705,
+      "lng": -76.5241,
+      "name": "Little Cataraqui Creek Dam Bridge",
+      "type": "gym"
+    },
+    "a1ccaa5ce1474797b28b806897662e84.16": {
+      "guid": "a1ccaa5ce1474797b28b806897662e84.16",
+      "lat": 44.280473,
+      "lng": -76.511697,
+      "name": "Little Cataraqui Creek Reservoir Trail (4) Entrance",
+      "type": "gym"
+    },
+    "8ebdb28b0a2342f09f45e752700fcad8.16": {
+      "guid": "8ebdb28b0a2342f09f45e752700fcad8.16",
+      "lat": 44.29007,
+      "lng": -76.507544,
+      "name": "CRCA - Snapping Turtle Info Sign",
+      "type": "gym"
+    },
+    "ygksponsored.1": {
+      "guid": "ygksponsored.1",
+      "lat": 44.2402362,
+      "lng": -76.5987936,
+      "name": "Chinese Palace Restaurant [SPONSORED GYM]",
+      "isEx": true,
+      "type": "gym"
+    },
+    "ygksponsored.2": {
+      "guid": "ygksponsored.2",
+      "lat": 44.2322755,
+      "lng": -76.4840561,
+      "name": "Improbable Escapes HQ [SPONSORED GYM]",
+      "isEx": true,
+      "type": "gym"
+    },
+    "ygksponsored.3": {
+      "guid": "ygksponsored.3",
+      "lat": 44.235418,
+      "lng": -76.566762,
+      "name": "Improbable Escapes: Wonderland [SPONSORED GYM]",
+      "isEx": true,
+      "type": "gym"
+    },
+    "ygksponsored.4": {
+      "guid": "ygksponsored.4",
+      "lat": 44.2475104,
+      "lng": -76.5693969,
+      "name": "Achieve Nutrition [SPONSORED GYM]",
+      "isEx": true,
+      "type": "gym"
+    },
+    "c870fbcc3d4f4b75b5ffbf029c30eadf.16": {
+      "guid": "c870fbcc3d4f4b75b5ffbf029c30eadf.16",
+      "lat": 44.266661,
+      "lng": -76.489511,
+      "name": "Marker's Acres Play Structure",
+      "isEx": true,
+      "type": "gym"
+    },
+    "33cfc9cdb1a14f75905f48585647b730.16": {
+      "guid": "33cfc9cdb1a14f75905f48585647b730.16",
+      "lat": 44.310584,
+      "lng": -76.583308,
+      "name": "K&P Trail - 17km Marker",
+      "type": "gym"
+    },
+    "caa23b789f664cdda06b08e5104d65d8.16": {
+      "guid": "caa23b789f664cdda06b08e5104d65d8.16",
+      "lat": 44.318021,
+      "lng": -76.586245,
+      "name": "K&P Trail Unity Road Entrance",
+      "type": "gym"
+    },
+    "9392269be1f34e049c6f2b5a49eaad5d.16": {
+      "guid": "9392269be1f34e049c6f2b5a49eaad5d.16",
+      "lat": 44.299443,
+      "lng": -76.559624,
+      "name": "K&P Trail - 13.5km Marker",
+      "type": "gym"
+    },
+    "8c6437b768b94afa926ac00bbc7881ac.16": {
+      "guid": "8c6437b768b94afa926ac00bbc7881ac.16",
+      "lat": 44.245485,
+      "lng": -76.500425,
+      "name": "Ronald Lavallee Memorial Kiwanis Park",
+      "isEx": true,
+      "type": "gym"
+    },
+    "b06a8f7d37be477bad93a56922d4ad3e.16": {
+      "guid": "b06a8f7d37be477bad93a56922d4ad3e.16",
+      "lat": 44.273564,
+      "lng": -76.544282,
+      "name": "Sydenham Road Crossing",
+      "type": "gym"
+    },
+    "009323d069f84294adf01ac6cf16501b.12": {
+      "guid": "009323d069f84294adf01ac6cf16501b.12",
+      "lat": 44.223075,
+      "lng": -76.504146,
+      "name": "Bellevue House National Historic Site",
+      "type": "gym"
+    },
+    "065b688e41714f5188d78ec36d688696.16": {
+      "guid": "065b688e41714f5188d78ec36d688696.16",
+      "lat": 44.237142,
+      "lng": -76.570774,
+      "name": "Reid’s Dairy Sign",
+      "type": "gym"
+    },
+    "406a0d3329b84a459c55faa844a64525.16": {
+      "guid": "406a0d3329b84a459c55faa844a64525.16",
+      "lat": 44.257331,
+      "lng": -76.529617,
+      "name": "Bill Hackett Park Sign",
+      "isEx": true,
+      "type": "gym"
+    },
+    "5c2b1c03174f424ea78d68c720fd75e0.16": {
+      "guid": "5c2b1c03174f424ea78d68c720fd75e0.16",
+      "lat": 44.256487,
+      "lng": -76.62981,
+      "name": "Kingston West Free Methodist Church - Baseball Field",
+      "type": "gym"
+    },
+    "01528ad2faf64a2b99568f2a3d1d3f04.16": {
+      "guid": "01528ad2faf64a2b99568f2a3d1d3f04.16",
+      "lat": 44.26229,
+      "lng": -76.492314,
+      "name": "Inner Harbour Community Garden",
+      "type": "gym"
+    },
+    "e36780bcc4064ef28672b365d1d72584.16": {
+      "guid": "e36780bcc4064ef28672b365d1d72584.16",
+      "lat": 44.246413,
+      "lng": -76.490652,
+      "name": "Fraser Street Basketball Court",
+      "type": "gym"
+    },
+    "f56af6d192ec489cb538ef29de447562.16": {
+      "guid": "f56af6d192ec489cb538ef29de447562.16",
+      "lat": 44.286806,
+      "lng": -76.56098,
+      "name": "K&P Trail - McIvor Rd.",
+      "type": "gym"
+    },
+    "187acc82f756490991ac4ce46bf4b531.16": {
+      "guid": "187acc82f756490991ac4ce46bf4b531.16",
+      "lat": 44.273042,
+      "lng": -76.48096,
+      "name": "Snider Park Sign",
+      "isEx": true,
+      "type": "gym"
+    },
+    "dec219cc37d84ed9b471bfad1cff6894.11": {
+      "guid": "dec219cc37d84ed9b471bfad1cff6894.11",
+      "lat": 44.222075,
+      "lng": -76.492577,
+      "name": "Pollution",
+      "isEx": true,
+      "type": "gym"
+    },
+    "7e94ff67e83342f79ee9143e20a8604b.16": {
+      "guid": "7e94ff67e83342f79ee9143e20a8604b.16",
+      "lat": 44.22199,
+      "lng": -76.489411,
+      "name": "Frances E. Willard",
+      "isEx": true,
+      "type": "gym"
+    },
+    "710999a7fd48497c93ec25e5fe38dc03.16": {
+      "guid": "710999a7fd48497c93ec25e5fe38dc03.16",
+      "lat": 44.230586,
+      "lng": -76.460602,
+      "name": "Fort Henry Plaque",
+      "isEx": true,
+      "type": "gym"
+    },
+    "7b7ed6a83daa4d6890e30a3b8ed6a0cd.16": {
+      "guid": "7b7ed6a83daa4d6890e30a3b8ed6a0cd.16",
+      "lat": 44.258269,
+      "lng": -76.488814,
+      "name": "Neil McArthur Park South Entrance",
+      "isEx": true,
+      "type": "gym"
+    },
+    "b29976d971c6414a8dbf96dbd2b7e225.16": {
+      "guid": "b29976d971c6414a8dbf96dbd2b7e225.16",
+      "lat": 44.263706,
+      "lng": -76.453251,
+      "name": "Greenwood park play structures",
+      "isEx": true,
+      "type": "gym"
+    },
+    "4ed850e071b741f2a92514bcdc29035d.16": {
+      "guid": "4ed850e071b741f2a92514bcdc29035d.16",
+      "lat": 44.259368,
+      "lng": -76.449962,
+      "name": "Buckingham Park Play Structure",
+      "isEx": true,
+      "type": "gym"
+    },
+    "51e608c7eae547b3bc186b06396a6b65.16": {
+      "guid": "51e608c7eae547b3bc186b06396a6b65.16",
+      "lat": 44.243297,
+      "lng": -76.461452,
+      "name": "St Marks Anglican Church",
+      "type": "gym"
+    },
+    "6cb39652cafb4c2fa32c296a88540f45.16": {
+      "guid": "6cb39652cafb4c2fa32c296a88540f45.16",
+      "lat": 44.246132,
+      "lng": -76.461861,
+      "name": "Matheson gate",
+      "type": "gym"
+    },
+    "8eb3e20ebb0e400f9a4b81e15d46ca0f.16": {
+      "guid": "8eb3e20ebb0e400f9a4b81e15d46ca0f.16",
+      "lat": 44.239411,
+      "lng": -76.460238,
+      "name": "Barriefield Rock Garden",
+      "isEx": true,
+      "type": "gym"
+    },
+    "36d0187d295b4dcfa2e9e3927394fcea.16": {
+      "guid": "36d0187d295b4dcfa2e9e3927394fcea.16",
+      "lat": 44.26664,
+      "lng": -76.557338,
+      "name": "Halifax Park Playground",
+      "isEx": true,
+      "type": "gym"
+    },
+    "0ef851db7100473e9670e0b4283fd333.16": {
+      "guid": "0ef851db7100473e9670e0b4283fd333.16",
+      "lat": 44.253017,
+      "lng": -76.461093,
+      "name": "Canada Post Office Hwy 15",
+      "type": "gym"
+    },
+    "13c8fa9008e444dda421c17ea107e5dc.16": {
+      "guid": "13c8fa9008e444dda421c17ea107e5dc.16",
+      "lat": 44.237376,
+      "lng": -76.490874,
+      "name": "Friendship Park Playground",
+      "isEx": true,
+      "type": "gym"
+    },
+    "f633a1779e7e4569960020077172a665.16": {
+      "guid": "f633a1779e7e4569960020077172a665.16",
+      "lat": 44.235434,
+      "lng": -76.470319,
+      "name": "Waterfront Trail-Navy Way",
+      "type": "gym"
+    },
+    "ce315160886a37388c3aab8e9a12ae42.16": {
+      "guid": "ce315160886a37388c3aab8e9a12ae42.16",
+      "lat": 44.238908,
+      "lng": -76.558553,
+      "name": "Revera Arbour Heights Gazebo #1",
+      "type": "gym"
+    },
+    "6336046d327d485a984e8c102cc597c6.16": {
+      "guid": "6336046d327d485a984e8c102cc597c6.16",
+      "lat": 44.229086,
+      "lng": -76.506303,
+      "name": "Kingston Tennis Club",
+      "isEx": true,
+      "type": "gym"
+    },
+    "977b04f7873537d79dbeda2db29c44d0.16": {
+      "guid": "977b04f7873537d79dbeda2db29c44d0.16",
+      "lat": 44.272079,
+      "lng": -76.570511,
+      "name": "Half basketball court",
+      "type": "gym"
+    },
+    "ce14955e36e444da9cf5a3a4b0eaaf42.16": {
+      "guid": "ce14955e36e444da9cf5a3a4b0eaaf42.16",
+      "lat": 44.235073,
+      "lng": -76.622237,
+      "name": "Waterfront Trail Marker - Bath Rd at Sycamore St",
+      "type": "gym"
+    },
+    "5047382980144e1fbdc9cf58f27a1559.16": {
+      "guid": "5047382980144e1fbdc9cf58f27a1559.16",
+      "lat": 44.296844,
+      "lng": -76.559501,
+      "name": "Bur Creek Millrace at Jackson Mill",
+      "type": "gym"
+    },
+    "add22317715d4911b6c483280b05a053.16": {
+      "guid": "add22317715d4911b6c483280b05a053.16",
+      "lat": 44.241511,
+      "lng": -76.609302,
+      "name": "Lest We Forget Mural",
+      "type": "gym"
+    },
+    "dbdf9663250f4c03a3571f0599516b74.16": {
+      "guid": "dbdf9663250f4c03a3571f0599516b74.16",
+      "lat": 44.248354,
+      "lng": -76.606522,
+      "name": "Highgate Park East Entrance",
+      "isEx": true,
+      "type": "gym"
+    },
+    "1ffbd877f6bd40e58bc3d2b5160c0bf3.16": {
+      "guid": "1ffbd877f6bd40e58bc3d2b5160c0bf3.16",
+      "lat": 44.275226,
+      "lng": -76.477646,
+      "name": "Kingdom Hall Of Jehovah's Witnesses",
+      "type": "gym"
+    },
+    "b9d7be7c38ac3f18ac7f22bab7986bf0.16": {
+      "guid": "b9d7be7c38ac3f18ac7f22bab7986bf0.16",
+      "lat": 44.268806,
+      "lng": -76.451272,
+      "name": "Kingston Shoreline Route-Rose Abbey North",
+      "type": "gym"
+    },
+    "74a6fedc28e842fb81e16c8afc872034.16": {
+      "guid": "74a6fedc28e842fb81e16c8afc872034.16",
+      "lat": 44.257327,
+      "lng": -76.536929,
+      "name": "VIA Rail - Kingston Train Station",
+      "type": "gym"
+    },
+    "083dfac6f064339e8668e12ae7a0358d.16": {
+      "guid": "083dfac6f064339e8668e12ae7a0358d.16",
+      "lat": 44.274685,
+      "lng": -76.451081,
+      "name": "Kingston Shoreline Route Sign",
+      "type": "gym"
+    },
+    "20a2f75a82184dbf914496e0004bacbd.16": {
+      "guid": "20a2f75a82184dbf914496e0004bacbd.16",
+      "lat": 44.256623,
+      "lng": -76.492143,
+      "name": "K&P Trail Map - Elliot Ave.",
+      "type": "gym"
+    },
+    "d9f2731f74544eb9ab54f2909961f99b.16": {
+      "guid": "d9f2731f74544eb9ab54f2909961f99b.16",
+      "lat": 44.279032,
+      "lng": -76.547394,
+      "name": "Cloverdale Park Playstructures",
+      "type": "gym"
+    },
+    "c7a7aebd1f803dd39d845e0b0b032fce.16": {
+      "guid": "c7a7aebd1f803dd39d845e0b0b032fce.16",
+      "lat": 44.272844,
+      "lng": -76.44485,
+      "name": "In Memory Of Those Who Have Gone Before Us",
+      "type": "gym"
+    },
+    "0ccc21ca499b441a8be2ad8cc695e9c6.16": {
+      "guid": "0ccc21ca499b441a8be2ad8cc695e9c6.16",
+      "lat": 44.237619,
+      "lng": -76.436319,
+      "name": "RCCS Memorial Statue",
+      "type": "gym"
+    },
+    "68c6ef7b2b864e0c80dfa7d7509fdc05.16": {
+      "guid": "68c6ef7b2b864e0c80dfa7d7509fdc05.16",
+      "lat": 44.240593,
+      "lng": -76.580322,
+      "name": "Kingdom Hall of Jehovah’s Witnesses",
+      "type": "gym"
+    },
+    "ygksponsored.5": {
+      "guid": "ygksponsored.5",
+      "lat": 44.22914,
+      "lng": -76.481118,
+      "name": "Circle K (Ontario/Clarence) [SPONSORED GYM]",
+      "type": "gym"
+    },
+    "ygksponsored.6": {
+      "guid": "ygksponsored.6",
+      "lat": 44.234387,
+      "lng": -76.496041,
+      "name": "Circle K (Princess/University) [SPONSORED GYM]",
+      "type": "gym"
+    },
+    "0481595c452446db90e1ddcb0467a0e7.16": {
+      "guid": "0481595c452446db90e1ddcb0467a0e7.16",
+      "lat": 44.239327,
+      "lng": -76.543587,
+      "name": "Kingsway Christian Church",
+      "type": "gym"
+    },
+    "fdda21f7c8dd4f55914a818236ae0a38.16": {
+      "guid": "fdda21f7c8dd4f55914a818236ae0a38.16",
+      "lat": 44.265149,
+      "lng": -76.495988,
+      "name": "Conacher Apartment Building Play Structure #1",
+      "type": "gym"
+    },
+    "13e88d521af648abb118209981235fcd.16": {
+      "guid": "13e88d521af648abb118209981235fcd.16",
+      "lat": 44.225588,
+      "lng": -76.48175,
+      "name": "The Fight of the Royal George",
+      "isEx": true,
+      "type": "gym"
+    },
+    "914086565e2544198ea9d01bf5e3fd39.16": {
+      "guid": "914086565e2544198ea9d01bf5e3fd39.16",
+      "lat": 44.237903,
+      "lng": -76.480319,
+      "name": "One Thousand Labourers",
+      "isEx": true,
+      "type": "gym"
+    },
+    "ygksponsored.7": {
+      "guid": "ygksponsored.7",
+      "lat": 44.239806,
+      "lng": -76.528722,
+      "name": "Circle K (Bath/Portsmouth) [SPONSORED GYM]",
+      "type": "gym"
+    },
+    "72b76b59e35a48d9b0578cf06413a0c4.16": {
+      "guid": "72b76b59e35a48d9b0578cf06413a0c4.16",
+      "lat": 44.264136,
+      "lng": -76.47998,
+      "name": "Montreal Street Playground",
+      "type": "gym"
+    },
+    "0dbe8bd21a214394bd09a620069532d6.16": {
+      "guid": "0dbe8bd21a214394bd09a620069532d6.16",
+      "lat": 44.251936,
+      "lng": -76.483497,
+      "name": "John Finlay Elder Memorial Tennis Complex",
+      "type": "gym"
+    },
+    "ecee6df270d84ff8a2fb6eacc0dc4f6a.16": {
+      "guid": "ecee6df270d84ff8a2fb6eacc0dc4f6a.16",
+      "lat": 44.214476,
+      "lng": -76.529222,
+      "name": "Kingston Shoreline Route-Lake Ontario Park East",
+      "type": "gym"
+    },
+    "611a3b3603dc477eab3b6db3ae28c928.16": {
+      "guid": "611a3b3603dc477eab3b6db3ae28c928.16",
+      "lat": 44.241703,
+      "lng": -76.608917,
+      "name": "Canadian Legion 631",
+      "type": "gym"
+    }
+  }
+}
