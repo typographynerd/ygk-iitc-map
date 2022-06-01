@@ -1911,13 +1911,6 @@
       "name": "Meadowbrook Park",
       "type": "pokestop"
     },
-    "c75f03c5ab1747edbf7d3854be0ce987.16": {
-      "guid": "c75f03c5ab1747edbf7d3854be0ce987.16",
-      "lat": 44.248965,
-      "lng": -76.553621,
-      "name": "The Salvation Army Church",
-      "type": "pokestop"
-    },
     "a396992deeee4024a5ee16fbacd74ddc.16": {
       "guid": "a396992deeee4024a5ee16fbacd74ddc.16",
       "lat": 44.251875,
@@ -10482,6 +10475,13 @@
       "lat": 44.241703,
       "lng": -76.608917,
       "name": "Canadian Legion 631",
+      "type": "gym"
+    },
+    "c75f03c5ab1747edbf7d3854be0ce987.16": {
+      "guid": "c75f03c5ab1747edbf7d3854be0ce987.16",
+      "lat": 44.248965,
+      "lng": -76.553621,
+      "name": "The Salvation Army Church",
       "type": "gym"
     }
   }
