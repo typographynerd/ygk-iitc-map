@@ -7930,6 +7930,55 @@
       "lng": -76.56686,
       "name": "Davis Drive Gazebo",
       "type": "pokestop"
+    },
+    "f5d7d484a34730808b341df37693691e.16": {
+      "guid": "f5d7d484a34730808b341df37693691e.16",
+      "lat": 44.225134,
+      "lng": -76.496431,
+      "name": "Rosie The Robot and Dino Mural",
+      "type": "pokestop"
+    },
+    "ad67041804a7371fbfb688849e7ae63a.16": {
+      "guid": "ad67041804a7371fbfb688849e7ae63a.16",
+      "lat": 44.225321,
+      "lng": -76.498567,
+      "name": "Victoria Hall",
+      "type": "pokestop"
+    },
+    "d1aba481acf233b7ae718b40d329ea42.16": {
+      "guid": "d1aba481acf233b7ae718b40d329ea42.16",
+      "lat": 44.227878,
+      "lng": -76.480209,
+      "name": "This is our life",
+      "type": "pokestop"
+    },
+    "45d7d8a70d783efab0bf0b8f7abccb4e.16": {
+      "guid": "45d7d8a70d783efab0bf0b8f7abccb4e.16",
+      "lat": 44.2418,
+      "lng": -76.502063,
+      "name": "5678 Dance Studio",
+      "type": "pokestop"
+    },
+    "b32c16a8e185396dbcae86d47f6e3ab2.16": {
+      "guid": "b32c16a8e185396dbcae86d47f6e3ab2.16",
+      "lat": 44.252957,
+      "lng": -76.509836,
+      "name": "Novelis Sign",
+      "type": "pokestop"
+    },
+    "ed23bae8afc037bda7b74bd3a8b61a4c.16": {
+      "guid": "ed23bae8afc037bda7b74bd3a8b61a4c.16",
+      "lat": 44.262137,
+      "lng": -76.514594,
+      "name": "Alkali-Silica Reaction Outdoor Exposure Site",
+      "type": "pokestop"
+    },
+    "b4c42338989736f9868ee752ab5e86f8.16": {
+      "guid": "b4c42338989736f9868ee752ab5e86f8.16",
+      "lat": 44.260401,
+      "lng": -76.51519,
+      "name": "MTO 100 Years",
+      "type": "pokestop"
     }
   },
   "gym": {
