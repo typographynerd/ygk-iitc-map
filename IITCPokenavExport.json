@@ -7978,6 +7978,13 @@
       "lng": -76.51519,
       "name": "MTO 100 Years",
       "type": "pokestop"
+    },
+    "56611db9ffda4d589641e8b546537fe6.16": {
+      "guid": "56611db9ffda4d589641e8b546537fe6.16",
+      "lat": 44.319145,
+      "lng": -76.541345,
+      "name": "Crossroads",
+      "type": "pokestop"
     }
   },
   "gym": {
