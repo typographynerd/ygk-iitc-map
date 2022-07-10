@@ -7985,6 +7985,13 @@
       "lng": -76.541345,
       "name": "Crossroads",
       "type": "pokestop"
+    },
+    "c7384bb9a8413ee1a957221bb7782e74.16": {
+      "guid": "c7384bb9a8413ee1a957221bb7782e74.16",
+      "lat": 44.240122,
+      "lng": -76.534227,
+      "name": "Grenville Park Tennis Court.",
+      "type": "pokestop"
     }
   },
   "gym": {
@@ -10538,6 +10545,12 @@
       "lng": -76.553621,
       "name": "The Salvation Army Church",
       "type": "gym"
+    },
+    "b9ebe3a0931b4ea59ca97cb492d7e553.16": {
+      "guid": "b9ebe3a0931b4ea59ca97cb492d7e553.16",
+      "lat": 44.216214,
+      "lng": -76.686278,
+      "name": "Madeleine De Roybon D'Allonne Plaque 1646-1718"
     }
   }
 }
