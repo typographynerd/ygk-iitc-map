@@ -2397,6 +2397,18 @@
 			"lat": 44.241703,
 			"lng": -76.608917,
 			"name": "Canadian Legion 631"
+		},
+		"c75f03c5ab1747edbf7d3854be0ce987.16": {
+			"guid": "c75f03c5ab1747edbf7d3854be0ce987.16",
+			"lat": 44.248965,
+			"lng": -76.553621,
+			"name": "The Salvation Army Church"
+		},
+		"50f65426a059417bb70bc678e107c60b.16": {
+			"guid": "50f65426a059417bb70bc678e107c60b.16",
+			"lat": 44.233089,
+			"lng": -76.491952,
+			"name": "Big Grizz"
 		}
 	},
 	"pokestops": {
@@ -3185,12 +3197,6 @@
 			"lat": 44.2313,
 			"lng": -76.492621,
 			"name": "Louise House"
-		},
-		"50f65426a059417bb70bc678e107c60b.16": {
-			"guid": "50f65426a059417bb70bc678e107c60b.16",
-			"lat": 44.233089,
-			"lng": -76.491952,
-			"name": "Big Grizz"
 		},
 		"f5d2d786241849b08bc5cc56eb3bebeb.16": {
 			"guid": "f5d2d786241849b08bc5cc56eb3bebeb.16",
@@ -4037,12 +4043,6 @@
 			"lat": 44.24577,
 			"lng": -76.544432,
 			"name": "Meadowbrook Park"
-		},
-		"c75f03c5ab1747edbf7d3854be0ce987.16": {
-			"guid": "c75f03c5ab1747edbf7d3854be0ce987.16",
-			"lat": 44.248965,
-			"lng": -76.553621,
-			"name": "The Salvation Army Church"
 		},
 		"a396992deeee4024a5ee16fbacd74ddc.16": {
 			"guid": "a396992deeee4024a5ee16fbacd74ddc.16",
@@ -9839,6 +9839,24 @@
 			"lat": 44.225321,
 			"lng": -76.498567,
 			"name": "Victoria Hall"
+		},
+		"45d7d8a70d783efab0bf0b8f7abccb4e.16": {
+			"guid": "45d7d8a70d783efab0bf0b8f7abccb4e.16",
+			"lat": 44.2418,
+			"lng": -76.502063,
+			"name": "5678 Dance Studio"
+		},
+		"c7384bb9a8413ee1a957221bb7782e74.16": {
+			"guid": "c7384bb9a8413ee1a957221bb7782e74.16",
+			"lat": 44.240122,
+			"lng": -76.534227,
+			"name": "Grenville Park Tennis Court."
+		},
+		"8883807d32cd31bd89da69496822f6b8.16": {
+			"guid": "8883807d32cd31bd89da69496822f6b8.16",
+			"lat": 44.237575,
+			"lng": -76.535909,
+			"name": "Rideau Trail 01C Waypoint Marker"
 		}
 	},
 	"notpogo": {
@@ -9885,6 +9903,8 @@
 			"name": "Deacon Walk"
 		}
 	},
-	"ignoredCellsExtraGyms": {},
-	"ignoredCellsMissingGyms": {}
+	"ignoredCellsExtraGyms": {
+	},
+	"ignoredCellsMissingGyms": {
+	}
 }
