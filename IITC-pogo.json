@@ -2433,6 +2433,12 @@
 			"lat": 44.213077,
 			"lng": -76.553086,
 			"name": "Sand Bay Beach"
+		},
+		"46c4ba9e1feb31fc9705153bbbd16097.16": {
+			"guid": "46c4ba9e1feb31fc9705153bbbd16097.16",
+			"lat": 44.275439,
+			"lng": -76.568802,
+			"name": "Mini Hockey Rink"
 		}
 	},
 	"pokestops": {
@@ -9917,6 +9923,24 @@
 			"lat": 44.212234,
 			"lng": -76.54686,
 			"name": "Carruthers Point BBall Diamond"
+		},
+		"6e04edc971dc384ea7325d29d0c277d7.16": {
+			"guid": "6e04edc971dc384ea7325d29d0c277d7.16",
+			"lat": 44.27517,
+			"lng": -76.565856,
+			"name": "CaraCo Home Field Score Board"
+		},
+		"8381cbc04e7a387ab029e04d8ed18a2b.16": {
+			"guid": "8381cbc04e7a387ab029e04d8ed18a2b.16",
+			"lat": 44.2751,
+			"lng": -76.566998,
+			"name": "Wess Garrod Memorial Plaque"
+		},
+		"13287223b9d13483a40e62e03446a187.16": {
+			"guid": "13287223b9d13483a40e62e03446a187.16",
+			"lat": 44.275024,
+			"lng": -76.568801,
+			"name": "Womens Hockey Team Mural"
 		}
 	},
 	"notpogo": {
