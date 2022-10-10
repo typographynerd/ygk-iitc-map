@@ -2409,6 +2409,30 @@
 			"lat": 44.233089,
 			"lng": -76.491952,
 			"name": "Big Grizz"
+		},
+		"3c73a96286f64c0abd98d6b9eda4e07f.16": {
+			"guid": "3c73a96286f64c0abd98d6b9eda4e07f.16",
+			"lat": 44.233143,
+			"lng": -76.539079,
+			"name": "Importance of wetlands"
+		},
+		"a7e18d79759a4c9395e5238fc4a5d9ec.16": {
+			"guid": "a7e18d79759a4c9395e5238fc4a5d9ec.16",
+			"lat": 44.238907,
+			"lng": -76.536499,
+			"name": "Beardall Tortoise"
+		},
+		"739ec7f289843a9188dbe3da0831aa88.16": {
+			"guid": "739ec7f289843a9188dbe3da0831aa88.16",
+			"lat": 44.211576,
+			"lng": -76.549083,
+			"name": "Caruthers Tennis Court"
+		},
+		"80fbbd6bcc8d3b93b22a7b240040ea57.16": {
+			"guid": "80fbbd6bcc8d3b93b22a7b240040ea57.16",
+			"lat": 44.213077,
+			"lng": -76.553086,
+			"name": "Sand Bay Beach"
 		}
 	},
 	"pokestops": {
@@ -6300,12 +6324,6 @@
 			"lng": -76.535695,
 			"name": "Green Park Basketball Court"
 		},
-		"a7e18d79759a4c9395e5238fc4a5d9ec.16": {
-			"guid": "a7e18d79759a4c9395e5238fc4a5d9ec.16",
-			"lat": 44.238907,
-			"lng": -76.536499,
-			"name": "Beardall Tortoise"
-		},
 		"57a5147839dd4a4fba18ea8859cf3c10.16": {
 			"guid": "57a5147839dd4a4fba18ea8859cf3c10.16",
 			"lat": 44.237708,
@@ -8220,12 +8238,6 @@
 			"lng": -76.459316,
 			"name": "Vickers Gun"
 		},
-		"3c73a96286f64c0abd98d6b9eda4e07f.16": {
-			"guid": "3c73a96286f64c0abd98d6b9eda4e07f.16",
-			"lat": 44.233143,
-			"lng": -76.539079,
-			"name": "Importance of wetlands"
-		},
 		"666130c3bedc474a9d9cf3305c0084b7.16": {
 			"guid": "666130c3bedc474a9d9cf3305c0084b7.16",
 			"lat": 44.260054,
@@ -9760,7 +9772,7 @@
 			"guid": "a7ba135c7f093a72acfd3edb5e5d03f2.16",
 			"lat": 44.214818,
 			"lng": -76.522676,
-			"name": "eronone mural"
+			"name": "Waterfront Mural"
 		},
 		"e35237dd7573382d9fc47f593765c492.16": {
 			"guid": "e35237dd7573382d9fc47f593765c492.16",
@@ -9857,6 +9869,54 @@
 			"lat": 44.237575,
 			"lng": -76.535909,
 			"name": "Rideau Trail 01C Waypoint Marker"
+		},
+		"47fb69ffd19f3b4a8375a832dfc8cedc.16": {
+			"guid": "47fb69ffd19f3b4a8375a832dfc8cedc.16",
+			"lat": 44.246984,
+			"lng": -76.528747,
+			"name": "Kingston Co-Op Community Gazebo"
+		},
+		"b32c16a8e185396dbcae86d47f6e3ab2.16": {
+			"guid": "b32c16a8e185396dbcae86d47f6e3ab2.16",
+			"lat": 44.252957,
+			"lng": -76.509836,
+			"name": "Novelis Sign"
+		},
+		"b4c42338989736f9868ee752ab5e86f8.16": {
+			"guid": "b4c42338989736f9868ee752ab5e86f8.16",
+			"lat": 44.260401,
+			"lng": -76.51519,
+			"name": "MTO 100 Years"
+		},
+		"ed23bae8afc037bda7b74bd3a8b61a4c.16": {
+			"guid": "ed23bae8afc037bda7b74bd3a8b61a4c.16",
+			"lat": 44.262137,
+			"lng": -76.514594,
+			"name": "Alkali-Silica Reaction Outdoor Exposure Site"
+		},
+		"9707c76ffbca31d9a7bd3a68e2e67fef.16": {
+			"guid": "9707c76ffbca31d9a7bd3a68e2e67fef.16",
+			"lat": 44.230693,
+			"lng": -76.537966,
+			"name": "South Rideau Trail Footbridge"
+		},
+		"2d3aa99420233773af87c13a1770fca6.16": {
+			"guid": "2d3aa99420233773af87c13a1770fca6.16",
+			"lat": 44.233648,
+			"lng": -76.539185,
+			"name": "North Rideau Trail Footbridge"
+		},
+		"28919ede00163afab8f6e32126d2e455.16": {
+			"guid": "28919ede00163afab8f6e32126d2e455.16",
+			"lat": 44.21987,
+			"lng": -76.533136,
+			"name": "King Street West Tennis Court"
+		},
+		"326fd0eee6be3091bbe5c9421a124d4d.16": {
+			"guid": "326fd0eee6be3091bbe5c9421a124d4d.16",
+			"lat": 44.212234,
+			"lng": -76.54686,
+			"name": "Carruthers Point BBall Diamond"
 		}
 	},
 	"notpogo": {
