@@ -9941,6 +9941,18 @@
 			"lat": 44.275024,
 			"lng": -76.568801,
 			"name": "Womens Hockey Team Mural"
+		},
+		"8274a339720130d5a8c1e28353f16cc7.16": {
+			"guid": "8274a339720130d5a8c1e28353f16cc7.16",
+			"lat": 44.239024,
+			"lng": -76.438957,
+			"name": "Garrison Bowling Lanes"
+		},
+		"f11ef1ebb3ac3a7285348171896db0b2.16": {
+			"guid": "f11ef1ebb3ac3a7285348171896db0b2.16",
+			"lat": 44.245467,
+			"lng": -76.448657,
+			"name": "Garrison Golf Course Building"
 		}
 	},
 	"notpogo": {
