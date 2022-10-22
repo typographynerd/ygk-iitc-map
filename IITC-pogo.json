@@ -9953,6 +9953,18 @@
 			"lat": 44.245467,
 			"lng": -76.448657,
 			"name": "Garrison Golf Course Building"
+		},
+		"b0da25c262a43ef0a11889456f64327f.16": {
+			"guid": "b0da25c262a43ef0a11889456f64327f.16",
+			"lat": 44.21342,
+			"lng": -76.553538,
+			"name": "Sand Bay Beach Sheltered Picnic Area"
+		},
+		"5d8bb6a0150a3ca8bc1d6eccd6ba952b.16": {
+			"guid": "5d8bb6a0150a3ca8bc1d6eccd6ba952b.16",
+			"lat": 44.230009,
+			"lng": -76.61314,
+			"name": "Loretta Parsons Memorial Bench"
 		}
 	},
 	"notpogo": {
