@@ -9965,6 +9965,24 @@
 			"lat": 44.230009,
 			"lng": -76.61314,
 			"name": "Loretta Parsons Memorial Bench"
+		},
+		"b30f9687cbfc35b5800cbadd512031f0.16": {
+			"guid": "b30f9687cbfc35b5800cbadd512031f0.16",
+			"lat": 44.246728,
+			"lng": -76.527537,
+			"name": "Kingston Co-Op Community Garden"
+		},
+		"97028ccc9d56473eb42bfc0ded6f0d6e.16": {
+			"guid": "97028ccc9d56473eb42bfc0ded6f0d6e.16",
+			"lat": 44.233382,
+			"lng": -76.480842,
+			"name": "Strange House Plaque"
+		},
+		"72c051cce29c4cedb9184548ad747621.16": {
+			"guid": "72c051cce29c4cedb9184548ad747621.16",
+			"lat": 44.230291,
+			"lng": -76.478454,
+			"name": "Crawford Wharf"
 		}
 	},
 	"notpogo": {
