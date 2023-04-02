@@ -1913,6 +1913,13 @@
             "lng": -76.48481,
             "name": "Frontenac County Schools Museum"
         },
+        "c59ab213edcb48a9974aa81be7468329.16": {
+            "guid": "c59ab213edcb48a9974aa81be7468329.16",
+            "isEx": true,
+            "lat": 44.253389,
+            "lng": -76.561771,
+            "name": "Bexleygate Park Baseball Diamond"
+        },
         "c73f9384cdea4d03b5db44319eff9407.11": {
             "guid": "c73f9384cdea4d03b5db44319eff9407.11",
             "lat": 44.22369,
@@ -2668,6 +2675,12 @@
             "lng": -76.662501,
             "name": "Ridge Park Swingset"
         },
+        "05f005ba7b0e367aabe1ee0b3fa41daf.16": {
+            "guid": "05f005ba7b0e367aabe1ee0b3fa41daf.16",
+            "lat": 44.256832,
+            "lng": -76.571317,
+            "name": "goeasy Cat Mall"
+        },
         "05fdfeb66c48460ab76cfc1fce28889d.16": {
             "guid": "05fdfeb66c48460ab76cfc1fce28889d.16",
             "lat": 44.244219,
@@ -2775,6 +2788,12 @@
             "lat": 44.243211,
             "lng": -76.445359,
             "name": "Lieutenant general L.W.F Cuppens plaque"
+        },
+        "08e38e8c648e3a5e89c79fa361be57e3.16": {
+            "guid": "08e38e8c648e3a5e89c79fa361be57e3.16",
+            "lat": 44.256484,
+            "lng": -76.558009,
+            "name": "Kingsbridge Pergola"
         },
         "0950a40bf85c46889a3eb91bba1b2544.16": {
             "guid": "0950a40bf85c46889a3eb91bba1b2544.16",
@@ -3852,8 +3871,8 @@
         },
         "2f17d84bb95c4d8585a88d7f9bf1f8e3.16": {
             "guid": "2f17d84bb95c4d8585a88d7f9bf1f8e3.16",
-            "lat": 44.253112,
-            "lng": -76.537086,
+            "lat": 44.253113,
+            "lng": -76.53702,
             "name": "Kingston Clubs Welcome Sign"
         },
         "2f68c96d2bdd4eb9b41cf641e183d2af.16": {
@@ -6828,8 +6847,8 @@
         },
         "8ef46d89c21036e0b06c0b89678fe88d.16": {
             "guid": "8ef46d89c21036e0b06c0b89678fe88d.16",
-            "lat": 44.259028,
-            "lng": -76.562,
+            "lat": 44.259069,
+            "lng": -76.562042,
             "name": "Green Acres Swing Set"
         },
         "8f0ffdcd3bd6467b8a702c1a98b1ba78.16": {
@@ -8421,12 +8440,6 @@
             "lat": 44.238167,
             "lng": -76.619148,
             "name": "Little Free Library - Bayshore"
-        },
-        "c59ab213edcb48a9974aa81be7468329.16": {
-            "guid": "c59ab213edcb48a9974aa81be7468329.16",
-            "lat": 44.253389,
-            "lng": -76.561771,
-            "name": "Bexleygate Park Baseball Diamond"
         },
         "c5a05648d97133ceb274be5b7e391289.16": {
             "guid": "c5a05648d97133ceb274be5b7e391289.16",
@@ -10134,8 +10147,8 @@
         },
         "ff4771eb02ed4ccc9aaeab8d6caff277.11": {
             "guid": "ff4771eb02ed4ccc9aaeab8d6caff277.11",
-            "lat": 44.254704,
-            "lng": -76.572055,
+            "lat": 44.254713,
+            "lng": -76.571847,
             "name": "Kingston Frontenac Library"
         },
         "ff48ebe4569949ecb508b1868e61878b.16": {
